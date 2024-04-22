@@ -1389,6 +1389,34 @@ que los clientes potenciales compren.
 
 #### Qué es un punto de contacto?
 
+Ya sabes que, antes de que ocurra una compra, cada interacción con la marca durante el recorrido del cliente se llama punto
+de contacto.
+
+![alt text](image-2.png)
+
+Mapa del recorrido del cliente, con puntos de contacto que incluyen la búsqueda, la lectura de reseñas, el chat en vivo, una suscripción de prueba, un recordatorio por correo electrónico y la compra.
+
+Es importante analizar los puntos de contacto, porque cada uno de ellos revela los tipos de decisiones que las y los clientes están tomando durante su recorrido hasta comprar tu producto o servicio. Los puntos de contacto ocurren cuando un cliente interactúa con tu sitio web o app móvil. Pero también incluyen todas las interacciones que tiene el/la cliente con todos tus canales y medios antes de llegar a tu sitio web.
+
+En este artículo, te explicaremos cómo clasificar los puntos de contacto y cómo aprovecharlos para obtener más información sobre las y los clientes.
+
+**Los puntos de contacto se relacionan con un contexto o necesidad específica**
+Identificar puntos de contacto no es simplemente hacer un listado de tus redes sociales o tus anuncios gráficos. Estos canales pueden ser los medios en los que se producen los puntos de contacto, pero los puntos de contacto reales proporcionan mucha más información. Al identificar un punto de contacto, piensa en cómo la interacción allí podría satisfacer la necesidad de tu posible cliente.
+
+Por ejemplo, en lugar de considerar las redes sociales como un punto de contacto, considera la respuesta de un/a cliente a un anuncio de oferta por tiempo limitado en Twitter. Cuando hace clic en un enlace, esa persona quiere saber qué puede comprar a un precio con descuento.
+
+Siguiendo este ejemplo, piensa en cuánta información contextual puedes perder si simplemente agrupas cada interacción en las redes sociales bajo un solo punto de contacto llamado “redes sociales”.
+
+Los puntos de contacto tienen contexto y reflejan las necesidades de tus clientes. En el ejemplo, el contexto era la curiosidad, y la necesidad era ahorrar dinero.
+
+**Los puntos de contacto se centran en el cliente**
+Los puntos de contacto también deben estar centrados en el cliente. Volviendo al ejemplo anterior, imagina si analizaras los puntos de contacto desde la perspectiva de la empresa en lugar de hacerlo desde la experiencia del/la cliente. Si miras todo solamente desde el objetivo de negocio de aumentar las ventas, quizás te quedes simplemente con el número frío que muestra  la relación entre puntos de contacto y conversiones.
+
+Si bien la relación entre puntos de contacto y conversiones es útil, un análisis centrado en el cliente, en lugar de uno centrado en el negocio, puede darte más información sobre las motivaciones de quien compra.
+
+**Conclusiones clave**
+Aprovecha los puntos de contacto y defínelos cuidadosamente para todos los canales. Si relacionas los puntos de contacto con las necesidades de tus clientes, obtendrás información más valiosa sobre sus motivaciones, preferencias y comportamientos.
+
 #### El embudo de marketing
 
 #### Del embudo de marketing tradicional al embudo de marketing digital
