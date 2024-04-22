@@ -901,6 +901,16 @@ empresas. Es decir, cuando las empresas compran entre sí.
 
 ## Recorrido del cliente y el embudo de Marketing
 
+### Cómo el marketing digital y el comercio electrónico benefician a las organizaciones
+
+### Introducción al embudo de marketing
+
+### Atraer clientes potenciales e interactuar con ellos
+
+### Aumentar las ventas y generar fidelidad a la marca
+
+### Repaso: El recorrido del cliente y el embudo de marketing
+
 ## estrategias de marketing y comercio electrónica
 
 ## Medir el exito
