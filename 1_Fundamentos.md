@@ -903,6 +903,8 @@ empresas. Es decir, cuando las empresas compran entre sí.
 
 ### Cómo el marketing digital y el comercio electrónico benefician a las organizaciones
 
+#### Te damos la bienvenida a la semana 2
+
 Hola de nuevo.
 
 Anteriormente, aprendiste cómo el marketing digital y el e-commerce siguen cambiando el panorama empresarial. Ya sabes algo
@@ -922,9 +924,72 @@ pero los conceptos básicos te permiten adaptar y crecer con la industria.
 
 ¿Todo listo? Empecemos.
 
-#### Te damos la bienvenida a la semana 2
-
 #### Cómo el marketing digital y el comercio electrónico generan valor
+
+¿Sabías que más del 60 % de la población mundial está en línea y más gente se une a ellos todos los días?
+
+Por eso cada empresa, grande o pequeña, necesita una presencia en línea para ser competitivos, pero una página web no es
+suficiente.
+
+Puede haber mucha gente en línea, pero también hay muchas empresas que buscan su atención y su negocio.
+
+Tu público objetivo debe saber que existes, cómo puedes ayudarlos y lo que te diferencia de la competencia.
+
+Para atravesar este campo lleno de gente y llegar a clientes potenciales, usamos el marketing digital.
+
+Ahora, tal vez notaste que aún no he mencionado la venta de productos. Es porque el marketing digital es más grande que
+las ventas.
+
+Vender productos y servicios es importante, pero no es lo único que el marketing digital hace por las empresas.
+
+Medir las ventas individuales es fácil, pero no es importante si el público objetivo no confía en tu marca o tus clientes
+no regresan por una segunda, tercera o cuarta compra.
+
+El marketing digital es exitoso si guía la interacción entre la empresa y el cliente.
+
+Les permite a las empresas pensar estrategias para captar clientes a través de canales digitales antes, durante y después
+de una compra.
+
+Puede ser difícil medir el valor de estas actividades, pero una estrategia bien coordinada les permite tener éxito y crecer
+en línea.
+
+Pensemos en un ejemplo: una empresa que hace calzado para correr invierte en marketing digital. Crean anuncios de video y
+los suben a una página de noticias popular.
+
+Crean cuentas en varias redes sociales y empiezan a publicar contenido.
+
+Pero el contenido no logra mucha interacción y los anuncios no atraen nuevos clientes.
+
+Peor aún, ni siquiera saben por qué no obtienen resultados. Han perdido tiempo, dinero y recursos en una campaña digital
+que no funciona.
+
+Ahora, pensemos en lo que habría sucedido si la misma empresa hubiera estudiado su audiencia. En vez de anunciar en páginas
+de noticias, lo hicieron en páginas de deportes.
+
+Ellos investigaron y sabían dónde encontrar a sus nuevos clientes en línea. Saber esto les permite crear contenido a medida
+para sus redes sociales y el público adecuado.
+
+Y, porque estudiaron a su audiencia, lograron establecer metas significativas para su estrategia. Con objetivos claros,
+sabían exactamente cómo medir su éxito.
+
+Con las mediciones lograron ajustar la comunicación con sus clientes, y mejorar sus campañas de video, redes y correo
+electrónico.
+
+Pudieron reconocer oportunidades para llegar a clientes potenciales y relacionarse con ellos eficazmente. Sí, las ventas
+subieron.
+
+Pero su estrategia digital bien planeada, también creó conciencia, confianza y lealtad.
+
+Aprenderás más sobre cómo los marketers crean y ejecutan estrategias como esta durante este programa.
+
+En resumen: el marketing digital es más que anuncios para impulsar las ventas. Son prácticas que afectan la interacción
+con los clientes de una empresa en cada nivel y etapa del proceso de compra.
+
+Conociendo sus clientes, los equipos de marketing digital llegan a su audiencia en un mercado en línea saturado y nutren
+la relación con los clientes en el tiempo.
+
+A continuación, aprenderás sobre el valor del marketing digital para las empresas y algunos desafíos de los equipos al
+crear y ejecutar estrategias en línea.
 
 #### Ventajas y desafíos del marketing digital
 
