@@ -903,6 +903,20 @@ empresas. Es decir, cuando las empresas compran entre sí.
 
 ### Cómo el marketing digital y el comercio electrónico benefician a las organizaciones
 
+#### Te damos la bienvenida a la semana 2
+
+#### Cómo el marketing digital y el comercio electrónico generan valor
+
+#### Ventajas y desafíos del marketing digital
+
+#### Jen: Diversidad en el marketing digital
+
+#### Marketing inclusivo
+
+#### Janice: Marketing inclusivo
+
+#### Xiomara: Marketing inclusivo
+
 ### Introducción al embudo de marketing
 
 ### Atraer clientes potenciales e interactuar con ellos
