@@ -1394,32 +1394,249 @@ de contacto.
 
 ![alt text](image-2.png)
 
-Mapa del recorrido del cliente, con puntos de contacto que incluyen la búsqueda, la lectura de reseñas, el chat en vivo, una suscripción de prueba, un recordatorio por correo electrónico y la compra.
+Mapa del recorrido del cliente, con puntos de contacto que incluyen la búsqueda, la lectura de reseñas, el chat en vivo, una
+suscripción de prueba, un recordatorio por correo electrónico y la compra.
 
-Es importante analizar los puntos de contacto, porque cada uno de ellos revela los tipos de decisiones que las y los clientes están tomando durante su recorrido hasta comprar tu producto o servicio. Los puntos de contacto ocurren cuando un cliente interactúa con tu sitio web o app móvil. Pero también incluyen todas las interacciones que tiene el/la cliente con todos tus canales y medios antes de llegar a tu sitio web.
+Es importante analizar los puntos de contacto, porque cada uno de ellos revela los tipos de decisiones que las y los
+clientes están tomando durante su recorrido hasta comprar tu producto o servicio. Los puntos de contacto ocurren cuando un
+cliente interactúa con tu sitio web o app móvil. Pero también incluyen todas las interacciones que tiene el/la cliente con
+todos tus canales y medios antes de llegar a tu sitio web.
 
-En este artículo, te explicaremos cómo clasificar los puntos de contacto y cómo aprovecharlos para obtener más información sobre las y los clientes.
+En este artículo, te explicaremos cómo clasificar los puntos de contacto y cómo aprovecharlos para obtener más información
+sobre las y los clientes.
 
-**Los puntos de contacto se relacionan con un contexto o necesidad específica**
-Identificar puntos de contacto no es simplemente hacer un listado de tus redes sociales o tus anuncios gráficos. Estos canales pueden ser los medios en los que se producen los puntos de contacto, pero los puntos de contacto reales proporcionan mucha más información. Al identificar un punto de contacto, piensa en cómo la interacción allí podría satisfacer la necesidad de tu posible cliente.
+**Los puntos de contacto se relacionan con un contexto o necesidad específica** Identificar puntos de contacto no es
+simplemente hacer un listado de tus redes sociales o tus anuncios gráficos. Estos canales pueden ser los medios en los que
+se producen los puntos de contacto, pero los puntos de contacto reales proporcionan mucha más información. Al identificar un
+punto de contacto, piensa en cómo la interacción allí podría satisfacer la necesidad de tu posible cliente.
 
-Por ejemplo, en lugar de considerar las redes sociales como un punto de contacto, considera la respuesta de un/a cliente a un anuncio de oferta por tiempo limitado en Twitter. Cuando hace clic en un enlace, esa persona quiere saber qué puede comprar a un precio con descuento.
+Por ejemplo, en lugar de considerar las redes sociales como un punto de contacto, considera la respuesta de un/a cliente a
+un anuncio de oferta por tiempo limitado en Twitter. Cuando hace clic en un enlace, esa persona quiere saber qué puede
+comprar a un precio con descuento.
 
-Siguiendo este ejemplo, piensa en cuánta información contextual puedes perder si simplemente agrupas cada interacción en las redes sociales bajo un solo punto de contacto llamado “redes sociales”.
+Siguiendo este ejemplo, piensa en cuánta información contextual puedes perder si simplemente agrupas cada interacción en las
+redes sociales bajo un solo punto de contacto llamado “redes sociales”.
 
-Los puntos de contacto tienen contexto y reflejan las necesidades de tus clientes. En el ejemplo, el contexto era la curiosidad, y la necesidad era ahorrar dinero.
+Los puntos de contacto tienen contexto y reflejan las necesidades de tus clientes. En el ejemplo, el contexto era la
+curiosidad, y la necesidad era ahorrar dinero.
 
-**Los puntos de contacto se centran en el cliente**
-Los puntos de contacto también deben estar centrados en el cliente. Volviendo al ejemplo anterior, imagina si analizaras los puntos de contacto desde la perspectiva de la empresa en lugar de hacerlo desde la experiencia del/la cliente. Si miras todo solamente desde el objetivo de negocio de aumentar las ventas, quizás te quedes simplemente con el número frío que muestra  la relación entre puntos de contacto y conversiones.
+**Los puntos de contacto se centran en el cliente** Los puntos de contacto también deben estar centrados en el cliente.
+Volviendo al ejemplo anterior, imagina si analizaras los puntos de contacto desde la perspectiva de la empresa en lugar de
+hacerlo desde la experiencia del/la cliente. Si miras todo solamente desde el objetivo de negocio de aumentar las ventas,
+quizás te quedes simplemente con el número frío que muestra  la relación entre puntos de contacto y conversiones.
 
-Si bien la relación entre puntos de contacto y conversiones es útil, un análisis centrado en el cliente, en lugar de uno centrado en el negocio, puede darte más información sobre las motivaciones de quien compra.
+Si bien la relación entre puntos de contacto y conversiones es útil, un análisis centrado en el cliente, en lugar de uno
+centrado en el negocio, puede darte más información sobre las motivaciones de quien compra.
 
-**Conclusiones clave**
-Aprovecha los puntos de contacto y defínelos cuidadosamente para todos los canales. Si relacionas los puntos de contacto con las necesidades de tus clientes, obtendrás información más valiosa sobre sus motivaciones, preferencias y comportamientos.
+**Conclusiones clave** Aprovecha los puntos de contacto y defínelos cuidadosamente para todos los canales. Si relacionas los
+puntos de contacto con las necesidades de tus clientes, obtendrás información más valiosa sobre sus motivaciones,
+preferencias y comportamientos.
 
 #### El embudo de marketing
 
+Ahora que sabes de mapas del recorrido del cliente, Presentamos un concepto relacionado: el embudo de marketing.
+
+El embudo de marketing, también llamado embudo de ventas o embudo de conversión, es una idea más antigua que el Internet. De
+hecho, los marketers la usan desde hace más de 100 años. Si ha existido tanto tiempo, debe ser una herramienta poderosa.
+
+¿Qué es un embudo de marketing y cómo funciona? El embudo de marketing es una representación visual del proceso desde que
+alguien conoce una marca hasta que es un cliente fiel. El embudo es ancho arriba y se estrecha hacia el fondo. porque muchos
+clientes potenciales entran en la parte superior, pero solo algunos de ellos llegan al fondo y son clientes fieles.
+
+Por supuesto, la gente se irá en las etapas intermedias, entonces asegúrate de que haces todo lo posible para que avancen.
+Hay diferentes versiones del embudo de marketing y aprenderás algunas luego.
+
+En este momento, te presentaré una versión simple del embudo que tiene cuatro etapas. Conciencia, consideración, conversión
+y fidelidad. En la parte superior está la etapa de conciencia. Es cuando un cliente potencial ve una marca por primera vez,
+tal vez de un anuncio o una recomendación. En esta etapa, el cliente probablemente no sabe lo suficiente de la empresa para
+opinar. Solo saben que existe.
+
+Conciencia es la parte más amplia y aunque muchas personas conozcan la empresa solo algunos de ellos pensarán en hacer
+negocios con ella. Por eso es importante que haya la mayor conciencia posible en el público objetivo. Público objetivo es el
+grupo de personas más proclives a comprar los productos. Tus esfuerzos de marketing deben capturar la atención de ellos.
+
+Las cosas se empiezan a reducir en la próxima etapa: consideración. Esto es cuando algunos clientes de la la etapa anterior
+consideran negociar. En este punto, podrían estar navegando activamente la página web o comparando marcas. Dejar una buena
+impresión es clave.
+
+Los que van más allá de la etapa de consideración, pasan a la conversión. La conversión es cuando alguien decide comprar y
+convertirse en cliente. Para aumentar las conversiones, el cliente debe demostrar su valor y proveer una experiencia fácil
+de usar.
+
+La última etapa es la fidelidad. Se necesita mucho esfuerzo para llevar un cliente potencial de la conciencia a la
+conversión. Entonces cuando el cliente compre, debes darle razones para que vuelva. Hacer felices a los clientes actuales
+sube la confianza y hace que vuelvan por años.
+
+Si piensas que todo esto se parece al mapa del recorrido del cliente, tienes razón. Embudos de marketing y mapas son
+conceptos relacionados que se usan mejor juntos. Así se complementan entre sí: primero, sabes que el mapa es el camino del
+cliente hasta la compra a través de los puntos de contacto. Pero el embudo hace parte de un plan de negocios para que los
+clientes avancen.
+
+Un mapa del recorrido tiene la perspectiva del cliente, pero un embudo considera el mismo proceso desde la posición del
+negocio. En segundo lugar, la estructura del embudo es más simple que la del mapa. Un mapa del cliente es complejo porque
+indica cómo interactúa con la marca. Sus caminos hacia la compra son únicos y pueden repetirse o volver sobre sí mismos.
+
+Por el contrario, el embudo es un modelo lineal que divide este viaje en etapas amplias. No se trata de cómo los clientes
+llegan a la consideración o conversión sino lo que una empresa hace para mover muchos clientes de una etapa a otra.
+¿Recuerdas el ejemplo de la app del clima? Pensemos en unos puntos de contacto que nuestro cliente hipotético tuvo y cómo
+podrían encajar en un embudo de marketing.
+
+El cliente recordó la app por los anuncios cuando buscó resultados, siendo estas actividades de conciencia. El periodo de
+prueba podría ser un ejercicio de consideración porque el cliente aprendió del producto. Pero al final, el correo
+electrónico logró que comprara. y esa una táctica de conversión.
+
+Estos embudos ayudan a las empresas a enfocarse en sus metas y marketing y logran un camino simple de arriba a abajo.
+Impulsan la interacción y a los clientes a hacer negocios con una empresa. Cuando se usan juntos, los mapas y los embudos
+guían a los expertos a entender y servir a los clientes mejor que por separado. Revisemos: junto con el mapa del recorrido,
+el embudo es una herramienta poderosa para enfocar y coordinar las acciones de marketing.
+
+Para aprovechar al máximo un embudo, se debe optimizar el trabajo en cada etapa. De conciencia a consideración, conversión y
+fidelidad, un embudo bien planeado facilita el éxito en línea de las empresas. A continuación, veremos algunas versiones del
+embudo y cómo evolucionan en el e-commerce. Nos vemos allí.
+
 #### Del embudo de marketing tradicional al embudo de marketing digital
+
+El embudo de marketing es un método eficaz que tienen las empresas para centrar y coordinar sus esfuerzos de marketing. Para
+aprovecharlo al máximo y alcanzar los resultados deseados, es importante optimizar el trabajo en cada una de sus etapas.
+
+En el video del embudo de marketing de este curso, viste un modelo simple de embudo,  compuesto por cuatro etapas:
+
+Conciencia
+
+Consideración
+
+Conversión
+
+Fidelidad
+
+Como sabes, existen diferentes versiones de embudos de marketing, ya que estos se fueron modificando con el tiempo para
+reflejar los cambios en los negocios, las tecnologías e incluso los comportamientos de las y los clientes. En este artículo,
+te contamos una breve historia de esa evolución.
+
+**Evolución del embudo de marketing** ¿Cómo se relaciona el tofu con el embudo de marketing? En realidad, ToFU, que nada
+tiene que ver con el alimento, es el acrónimo de “Top of Funnel”, y se refiere a la parte superior del embudo. También
+tenemos MoFU y BoFU que corresponden a la parte media e inferior del embudo, respectivamente. Cuando se utiliza cualquier
+embudo, el objetivo es obtener los mejores resultados para ToFU, MoFU y BoFU. A medida que leas sobre los diferentes tipos
+de embudos, también puedes pensar en cómo se diferencian (o no) los resultados esperados para ToFU, MoFU y BoFU.
+
+**Embudo de ventas tradicional** En un principio, los embudos solo se enfocaban en las ventas. Un embudo de ventas simple
+está integrado por las etapas de Conciencia, Interés, Decisión y Acción, tal como se muestra en el siguiente gráfico.
+
+![alt text](image-3.png)
+
+Los resultados esperados para cada etapa de un embudo de ventas como el que se muestra en el gráfico, podrían ser:
+
+Conciencia (ToFU): el/la cliente tiene un conocimiento general de tu marca, producto o servicio.
+
+Interés (MoFU): tu marca, producto o servicio aparece como la mejor opción cuando el/la cliente investiga, compara o piensa
+en opciones.
+
+Decisión (MoFU): el/la cliente elige tu marca, producto o servicio por sobre aquellos que ofrece la competencia.
+
+Acción (BoFU): el/la cliente compra tu marca, producto o servicio.
+
+**Embudo combinado de marketing y ventas** Lo más probable es que los embudos combinados de marketing y ventas hayan sido
+una evolución de los embudos de ventas originales. A continuación, te mostramos un ejemplo.
+
+![alt text](image-4.png)
+
+Embudo con entradas de marketing tradicional y digital, en la parte superior, y etapas de Conciencia, Interés, Deseo, Acción
+y Conversión a medida que se avanza hacia la parte inferior.
+
+Los resultados esperados para cada etapa de un embudo combinado de ventas y marketing como el que se muestra en el gráfico,
+podrían ser:
+
+Conciencia (ToFU): el/la cliente tiene un conocimiento general de tu marca, producto o servicio.
+
+Interés (MoFU): tu marca, producto o servicio aparece como la mejor opción cuando el/la cliente investiga, compara o piensa
+en opciones.
+
+Deseo (MoFU): el/la cliente tiene motivación o un incentivo para comprar tu marca, producto o servicio.
+
+Acción (BoFU): el/la cliente compra tu marca, producto o servicio por primera vez.
+
+Conversión (BoFU): el/la cliente realiza compras regularmente y se establece una relación.
+
+**Embudo de marketing digital** A medida que los negocios y la tecnología evolucionaron, se desarrollaron embudos más
+especializados, como es el caso del embudo completamente enfocado en el marketing digital. A continuación, puedes ver un
+ejemplo de un embudo específico de marketing digital . Ten en cuenta que la etapa de remarketing del embudo es solo para
+clientes que interactuaron con tu marca, producto o servicio al menos una vez antes y no convirtieron previamente. Las y los
+nuevos clientes pueden pasar directamente de la etapa de Consideración a la etapa de Conversión.
+
+![alt text](image-5.png)
+
+Embudo con etapas que avanzan hacia la parte inferior, desde Conciencia e Interacción, hasta Consideración, Remarketing,
+Conversión y Retención.
+
+Los resultados esperados para un embudo de marketing digital como el que se muestra en el gráfico, podrían ser:
+
+Conciencia e interacción (ToFU): el/la cliente tiene un conocimiento general de tu marca, producto o servicio, e interactúa
+con tu empresa en línea para obtener más información.
+
+Consideración (MoFU): tu marca, producto o servicio aparece como la mejor opción después de las interacciones del/la
+cliente.
+
+Remarketing (MoFU): el/la cliente que no convirtió vuelve a interactuar y a considerar tu marca, producto o servicio.
+
+Conversión (BoFU): el/la cliente compra tu marca, producto o servicio por primera vez.
+
+Retención (BoFU): el/la cliente realiza compras regularmente y se establece una relación.
+
+**Otras variaciones del embudo de marketing** Actualmente, existen diferentes embudos para diversas áreas del marketing. Por
+ejemplo, existe un embudo de marketing de comercio electrónico, uno de redes sociales e incluso uno de contenido.
+
+*Embudo de marketing de comercio electrónico* Un embudo de marketing de comercio electrónico puede incluir las siguientes
+etapas, orientadas a atraer y retener clientes:
+
+Conciencia: generar reconocimiento de tu empresa de comercio electrónico.
+
+Consideración: construir la marca.
+
+Diferenciación: destacarse en la categoría del negocio.
+
+Compra: llegar a las personas con más probabilidades de comprar.
+
+Preparación de la marca: aumentar las posibilidades de que las y los clientes vuelvan a realizar compras.
+
+*Embudo de marketing de redes sociales* Un embudo de marketing de redes sociales puede incluir las siguientes etapas,
+orientadas a convertir en promotores/as a clientes que ya conocen la marca:
+
+Conciencia: atraer clientes potenciales que desconocen tu marca, producto o servicio.
+
+Consideración: destacarse entre la competencia para que las y los clientes potenciales tengan una buena impresión de tu
+marca, producto o servicio.
+
+Acción: convencer a las y los clientes potenciales para que actúen y realicen una compra.
+
+Interacción: mantener a las y los clientes interesados/as después de realizar una compra para que tu marca, producto o
+servicio siga destacándose y siendo relevante.
+
+Promoción: generar la confianza necesaria con las y los clientes como para que recomienden tu marca, producto o servicio a
+otros.
+
+*Embudo de marketing de contenidos* Un embudo de marketing de contenido puede incluir las siguientes etapas, con el fin de
+ayudar a quienes se especializan en marketing a organizar y enfocar el contenido:
+
+Conciencia: crear páginas web, blogs, publicaciones en redes sociales, infografías y podcasts.
+
+Evaluación: con foco en encuestas, correos electrónicos, seminarios web y eventos educativos.
+
+Conversión: compartir historias de éxito de clientes, seminarios web, especificaciones y demostraciones.
+
+**Conclusiones clave** A modo de resumen sobre los embudos, recuerda que:
+
+No hay un solo embudo que se adapte a todas las necesidades.
+
+Los embudos se crean para satisfacer las necesidades generales de ventas y marketing.
+
+Los embudos también se crean para áreas específicas del marketing.
+
+Las iniciativas de marketing eficaces incorporan embudos para optimizar los resultados.
+
+Finalmente, recuerda también que, aunque en esta lectura se presentaron diferentes embudos, el embudo de marketing al que
+haremos referencia más a menudo en este programa es el que se muestra a continuación.
+
+![alt text](image-6.png)
 
 ### Atraer clientes potenciales e interactuar con ellos
 
