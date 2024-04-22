@@ -116,6 +116,22 @@ trayectoria. ¡Empecemos!
 
 ## ¿Qué son el marketing digital y el comercio electrónico?
 
+### ¿Qué son el marketing digital, el comercio electrónico?
+
+### ¿Qué hacen quienes se especializan en marketing digital y comercio electrónico?
+
+### Joi: Trayectoria profesional en marketing digital
+
+### Habilidades para el marketing digital y el comercio electrónico
+
+### Prisha: El camino que recorrí para trabajar en marketing digital
+
+### turaHabilidades básicas de especialistas en marketing digital y comercio electrónico
+
+### Melba: El camino que recorrí para trabajar en comercio electrónico
+
+### Andrew: el camino que recorrí para trabajar en marketing digital y comercio electrónico
+
 ## Carreras profesionales en marketing digital y comercio electrónico
 
 ## Revisión: Introducción a los fundamentos del marketing digital y el comercio electrónico
