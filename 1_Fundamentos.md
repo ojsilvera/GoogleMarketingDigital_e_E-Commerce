@@ -478,4 +478,96 @@ compartir parte de ese conocimiento contigo, como alguien que acaba de unirse al
 
 ## Carreras profesionales en marketing digital y comercio electrónico
 
+### Cómo iniciar tu carrera en marketing digital o comercio electrónico
+
+Hola, me llamo Erika. Soy consultora de Personas en Google, o bien socia comercial de RR. HH. Ayudo a empleados, líderes y
+gerentes a resolver problemas y enfocarse en sus metas. También los guío, y te guiaré a ti en este programa.
+
+No me fue simple llegar a trabajar en RR. HH. Antes trabajé en otros sectores, como mesera y cajera. Incluso gestioné
+reclamos de seguros de autos. Mi pasado laboral es diferente, pero me enseñó sobre mí y qué quería hacer. Al darme cuenta de
+mi pasión por ayudar a otros a aprender y desarrollarse, vi mi camino con claridad.
+
+Ahora te comparto con gusto lo que sé para tu futuro profesional. Me verás en ocasiones y te daré recursos de carrera.
+También te aconsejaré sobre buscar trabajo y entrevistarte. En este video, hablaremos del panorama laboral y qué puedes
+hacer ahora para hacer avanzar tu carrera.
+
+El e-commerce y marketing digital son sectores de rápido crecimiento hoy. Ahora hay miles de vacantes y millones con cargos
+similares. Muchos de estos trabajos no existían hace 5 o 10 años. Y, con las nuevas tecnologías, habrá más. Si buscas en una
+bolsa, verás vacantes de marketing digital e e-commerce en empresas de todo tipo, no solo en minoristas y bienes de consumo.
+
+Hay oportunidades en muchos campos que permiten crear impacto en diversas áreas, como educación, salud y finanzas. Puedes
+buscar trabajo en sectores que te gustan. ¿Te gusta la moda, la tecnología o el entretenimiento? Todos necesitan expertos en
+e-commerce y marketing digital.
+
+A la vez, busca trabajo con la mente abierta. Quizá tu próximo trabajo no sea el definitivo. Aunque no empieces en el sector
+ideal, te puede ayudar a alcanzar lo que quieres. Además de buscar por determinados sectores, quizá prefieres ciertos
+aspectos del marketing digital o e-commerce. Eso está bien.
+
+Los mejores candidatos conocen bien los fundamentos y son expertos en una o dos áreas específicas. Durante el programa,
+presta atención a los temas y cursos que más te atraen. Piensa en tus fortalezas y qué quieres hacer con ellas. Quizá no lo
+tienes claro, pero estas preguntas te ayudarán a buscar cargos de tu interés.
+
+Aunque aún no quieras buscar trabajo, ya puedes tomar acciones para mejorar tus posibilidades futuras. Por ejemplo, nunca es
+demasiado pronto para explorar descripciones de vacantes. Piensa en tus habilidades y lo que más te gusta del programa, y, a
+la vez, busca cargos en esas áreas. Anota los términos y habilidades que suelen aparecer.
+
+Por ejemplo, a menudo pueden mencionarse análisis e informes de datos. Con esto aprenderás la terminología del sector y
+descubrirás dónde desarrollar tus habilidades. Tras hallar los puestos que te interesan, identifica ejemplos de experiencia
+laboral que sean relevantes.
+
+¿Has escrito un ensayo o una historia?, ¿diseñado un sitio web?, ¿gestionado un presupuesto u organizado una hoja de
+cálculo? Crearás un portafolio más adelante en el programa. Identifica los elementos que quieres incluir allí. Si no tienes
+ejemplos aún, no hay problema. Crearás algunos al completar las actividades de los cursos próximos.
+
+Al final del programa, tendrás ejemplos concretos para demostrar tu experiencia ante empleadores. Para aprovechar lo
+aprendido, también puedes preparar tu imagen como especialista en marketing digital o e-commerce. Es decir, crear tu marca
+personal. Muestra tus conocimientos y habilidades en redes sociales o tu sitio web personal.
+
+Así incluso puedes conseguir ejemplos laborales para tu cartera. Por último, sigue el programa poco a poco hasta el final.
+Al completar esta serie de cursos, inviertes en ti, tus habilidades y tu futuro. Ya lo estás haciendo, ¡sigue así! ¡Buena
+suerte! Te veo de nuevo al final del curso.
+
+### Roles en agencias en comparación con puestos internos
+
+Ahora conoces ciertas habilidades y responsabilidades de los cargos de e-commerce y marketing digital. También viste un poco
+sobre el panorama laboral.
+
+Profundicemos y veamos dos trayectorias que puedes tomar: cargos internos y cargos en agencias.
+
+En los cargos internos, trabajas en una sola empresa con sus productos. Por ejemplo, yo trabajo como gerente de Producto
+interna en Google. Creo videos y contenido de redes sociales para la marca Think with Google. Si quieres variar tus
+responsabilidades en proyectos de diversos sectores, puedes trabajar en una agencia.
+
+Las agencias se asocian con empresas sin equipos de marketing internos para encargarse de su marketing digital y publicidad.
+Ambos tipos de cargos presentan ventajas y desventajas. El ideal para ti depende de lo que quieres para tu carrera. No hace
+falta elegir uno para siempre. Aquí te ayudaremos a prepararte para ambos.
+
+Hay diferencias que tener en mente al pensar en opciones. En un cargo interno, conocerás muy bien una sola empresa y sus
+productos. Asimismo, dominarás un sector en específico. Si trabajas en una empresa de cosméticos, tu experiencia puede ir
+directamente a otra empresa similar.
+
+En cambio, si te gusta trabajar en muchos proyectos diferentes, trabajar en una sola empresa y producto puede no ser ideal.
+Si quieres cambiar de tipo de negocio, cambiar de sector es más difícil con experiencia especializada. Si trabajas en una
+agencia, es poco probable que te aburras, pues el trabajo es por proyectos. Colaboras en varias iniciativas y sectores. Así,
+desarrollas experiencia amplia y flexible que te ayudará para varias empresas.
+
+Pero también puedes especializarte. Las agencias se enfocan en ciertas áreas del marketing, como redes sociales o marca. Así
+puedes conocer muy bien ciertas habilidades.
+
+Pero también hay desventajas. La variabilidad que hace el trabajo interesante también crea impredecibilidad. Los clientes
+pueden hacer solicitudes inesperadas o pedirte hacer algo de una forma desconocida. Se trabaja más tiempo, en especial hacia
+el final de un proyecto.
+
+Cada empresa es diferente y sus ventajas y desventajas variarán. Sin importar si eliges la especialización y estabilidad de
+un cargo interno o el amplio saber y la flexibilidad en agencia, ganarás experiencia que puede llevarte a la próxima gran
+oportunidad.
+
+### Puestos y responsabilidades en marketing digital y comercio electrónico
+
+### Zuri: un día en la vida de un especialista en marketing digital de nivel inicial
+
+### Jebb: un día en la vida de un Gerente de Cuentas de comercio electrónico de nivel inicial
+
+### ¿Comercio electrónico, E-commerce, ecommerce o eCommerce?
+
 ## Revisión: Introducción a los fundamentos del marketing digital y el comercio electrónico
