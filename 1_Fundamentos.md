@@ -1,8 +1,10 @@
 # Fundamentos del marketing digital y comercio electrónico
 
-## Comenzando con el programa de certificación
+## Introduccion al marketing digital y comercio electrónico
 
-### Te damos la bienvenida al Certificado de Carrera de Google en Marketing Digital y Comercio Electrónico
+### Comenzando con el programa de certificación
+
+#### Te damos la bienvenida al Certificado de Carrera de Google en Marketing Digital y Comercio Electrónico
 
 Hola, te doy la bienvenida al certificado de Marketing Digital y Comercio Electrónico de Google. ¡Qué emoción tenerte! Soy
 Joi, gerente de Marketing de Producto en Google. Seré tu instructora en el primer curso de este programa de certificación.
@@ -91,7 +93,7 @@ cómo crear lealtad de cliente y más sobre e-commerce.
 Y yo soy Erica, consultora de Personas en Google. Ayudo a gerentes, líderes y empleados de Google a potenciar sus puestos
 para que la empresa alcance sus metas. Te ayudaré a prepararte para buscar
 
-### Introducción al curso 1
+#### Introducción al curso 1
 
 Curso 1: Fundamentos de E-commerce y Marketing Digital
 
@@ -114,9 +116,9 @@ parar mejorar su estrategia global. Y recibirás consejos laborales a tener en m
 Eso es lo que te espera. Ahora repasemos recursos con los que aprovecharás el programa al máximo. Me emociona que inicies tu
 trayectoria. ¡Empecemos!
 
-## ¿Qué son el marketing digital y el comercio electrónico?
+### ¿Qué son el marketing digital y el comercio electrónico?
 
-### ¿Qué son el marketing digital, el comercio electrónico?
+#### ¿Qué son el marketing digital, el comercio electrónico?
 
 ¿Sabías que la primera venta completamente en línea ocurrió en 1994? Un hombre llamado Dan Kohn vendió un CD por $12.48
 por un sitio web encriptado que él mismo creó.
@@ -175,7 +177,7 @@ aprendimos. En las últimas décadas, estos sectores han cambiado la esencia de 
 La meta del e-commerce es generar ventas; el marketing digital ayuda a las empresas a alcanzarlas al conectar con clientes y
 crear relaciones. A continuación, veremos los principales roles y responsabilidades del e-commerce y marketing digital.
 
-### ¿Qué hacen quienes se especializan en marketing digital y comercio electrónico?
+#### ¿Qué hacen quienes se especializan en marketing digital y comercio electrónico?
 
 Ahora sabes qué es el marketing digital y el e-commerce, y cómo se relacionan. Veamos qué hacen los profesionales de este
 campo en el día a día.
@@ -216,7 +218,7 @@ marca, impulsar ventas y gestionar inventarios. Este programa te ayudará a apre
 
 A continuación, veremos habilidades esenciales para el sector, y cómo puede que ya las hayas practicado.
 
-### Joi: Trayectoria profesional en marketing digital
+#### Joi: Trayectoria profesional en marketing digital
 
 Hola, me llamo Wade y soy directora asociada de Marketing de Producto aquí en Google, y eso significa que trabajo en
 campañas de marketing digital.
@@ -241,7 +243,7 @@ Si estás empezando a sentirte abrumado por el curso, quiero que sepas que puede
 superar este curso, pero nada se consigue sin trabajo duro. Creo que realmente verás una recompensa al final, y te lo
 agradecerás cuando finalmente tengas tu carrera en marketing digital.
 
-### Habilidades para el marketing digital y el comercio electrónico
+#### Habilidades para el marketing digital y el comercio electrónico
 
 Algo que me encanta de trabajar en este sector es que hay muchas trayectorias que elegir según tus intereses y experiencia.
 Al hacer este y los otros cursos del programa, aprenderás sobre muchas habilidades que tienen una alta demanda. Incluso si
@@ -294,7 +296,7 @@ El sector cambiará y crecerá con las nuevas tecnologías. Quizá debas aprende
 transferibles como la curiosidad, mente analítica y narración de datos te permitirán crecer con el sector. A continuación,
 te diré más sobre habilidades especializadas que puedes necesitar y que desarrollarás con este programa.
 
-### Prisha: El camino que recorrí para trabajar en marketing digital
+#### Prisha: El camino que recorrí para trabajar en marketing digital
 
 Hola, soy Prisha, y soy estratega de Cuentas. Como estratega de Cuentas, ayudo a las empresas a crecer enseñándoles Google
 Ads. Uno de mis aspectos favoritos del marketing digital es lo colaborativo que es, y realmente disfruto trabajando con un
@@ -344,7 +346,7 @@ igual que yo, y no puedo esperar a que completes esto y a que tengas todas las h
 profesional del marketing digital. Mucha suerte. Habilidades especializadas que puedes necesitar y que desarrollarás con
 este programa.
 
-### turaHabilidades básicas de especialistas en marketing digital y comercio electrónico
+#### turaHabilidades básicas de especialistas en marketing digital y comercio electrónico
 
 Las habilidades que obtendrás al completar el Certificado de Carrera de Google en Marketing Digital y Comercio Electrónico
 son utilizadas en muchos puestos de marketing digital y comercio electrónico de nivel inicial. Esta lectura te brinda una
@@ -365,7 +367,7 @@ A menudo, se recomienda que adaptes tu currículum cada vez que solicites un emp
 se alineen lo más posible con los requisitos del puesto en cuestión. Al final de este programa, podrás adaptar tu
 currículum, en función de las habilidades que hayas aprendido, para los puestos de marketing digital o comercio electrónico.
 
-### Melba: El camino que recorrí para trabajar en comercio electrónico
+#### Melba: El camino que recorrí para trabajar en comercio electrónico
 
 Hola, me llamo Melba y soy directora de Marketing de Producto en Google. Ayudo a comunicar el qué, el por qué y el cuándo de
 los productos que estamos desarrollando, tanto internamente a equipos multifuncionales como externamente a nuestros públicos
@@ -407,7 +409,7 @@ Puedes cambiar el rumbo de tu vida, pero todo empieza con una decisión. Tienes 
 necesariamente en el larguísimo viaje que te espera. Simplemente da un paso, un día cada vez, y con el tiempo, mirarás atrás
 y te darás cuenta de lo lejos que has llegado.
 
-### Andrew: el camino que recorrí para trabajar en marketing digital y comercio electrónico
+#### Andrew: el camino que recorrí para trabajar en marketing digital y comercio electrónico
 
 Me llamo Andrew y soy director del Programa de Operaciones de Socios para los equipos de soporte publicitario en Google.
 
@@ -476,9 +478,9 @@ esté claro o o genere confusión, o cómo podrías describir mejor alguna parte
 No tengas miedo de pedir ayuda a las personas que ya están en el puesto, que hayan tenido esa experiencia y que puedan
 compartir parte de ese conocimiento contigo, como alguien que acaba de unirse al equipo.
 
-## Carreras profesionales en marketing digital y comercio electrónico
+### Carreras profesionales en marketing digital y comercio electrónico
 
-### Cómo iniciar tu carrera en marketing digital o comercio electrónico
+#### Cómo iniciar tu carrera en marketing digital o comercio electrónico
 
 Hola, me llamo Erika. Soy consultora de Personas en Google, o bien socia comercial de RR. HH. Ayudo a empleados, líderes y
 gerentes a resolver problemas y enfocarse en sus metas. También los guío, y te guiaré a ti en este programa.
@@ -527,7 +529,7 @@ Así incluso puedes conseguir ejemplos laborales para tu cartera. Por último, s
 Al completar esta serie de cursos, inviertes en ti, tus habilidades y tu futuro. Ya lo estás haciendo, ¡sigue así! ¡Buena
 suerte! Te veo de nuevo al final del curso.
 
-### Roles en agencias en comparación con puestos internos
+#### Roles en agencias en comparación con puestos internos
 
 Ahora conoces ciertas habilidades y responsabilidades de los cargos de e-commerce y marketing digital. También viste un poco
 sobre el panorama laboral.
@@ -562,7 +564,7 @@ Cada empresa es diferente y sus ventajas y desventajas variarán. Sin importar s
 un cargo interno o el amplio saber y la flexibilidad en agencia, ganarás experiencia que puede llevarte a la próxima gran
 oportunidad.
 
-### Puestos y responsabilidades en marketing digital y comercio electrónico
+#### Puestos y responsabilidades en marketing digital y comercio electrónico
 
 En otra lectura, te presentamos ejemplos de diferentes responsabilidades que tienen quienes ocupan puestos de coordinador/a
 de marketing digital y de analista de comercio electrónico. Esta lectura resume otras funciones y responsabilidades que
@@ -649,7 +651,9 @@ nivel superior. Solicitaste que te asignen más funciones, mientras realizabas t
 Ten en cuenta que tu carrera debe avanzar a una velocidad que sea la adecuada para ti. ¡Mantente alerta y presta atención a
 nuevas oportunidades mostrando una actitud positiva y mentalidad de crecimiento en cualquier puesto en el que estés!
 
-### Zuri: un día en la vida de un especialista en marketing digital de nivel inicial
+![alt text](image-1.png)
+
+#### Zuri: un día en la vida de un especialista en marketing digital de nivel inicial
 
 Me llamo Zuri y soy directora asociada de Marketing de Producto en Google.
 
@@ -704,7 +708,7 @@ cliente, comprender la personalidad y ser capaz de jugar con eso.
 Si trabajas e interactúas con la gente, si promueves y das a conocer una marca o un producto, tienes un lugar en el
 marketing digital.
 
-### Jebb: un día en la vida de un Gerente de Cuentas de comercio electrónico de nivel inicial
+#### Jebb: un día en la vida de un Gerente de Cuentas de comercio electrónico de nivel inicial
 
 Soy Jebb Rickets y soy director de Cuentas para Grandes Minoristas en Google.
 
@@ -759,7 +763,7 @@ que aprender sobre un cliente específico. Escucha las necesidades de ese client
 en los que estás trabajando o que estás vendiendo. Hay mucho que aprender y tienes que estar abierto a ello, tienes que ser
 ávido y lo suficientemente paciente para conocerlo porque requiere algo de tiempo.
 
-### ¿Comercio electrónico, E-commerce, ecommerce o eCommerce?
+#### ¿Comercio electrónico, E-commerce, ecommerce o eCommerce?
 
 ¿Cuál es el término correcto: comercio electrónico, E-commerce, ecommerce, eCommerce o simplemente ecomm para abreviar? El
 nombre y la ortografía del término comercio electrónico han evolucionado en los últimos 30 años, tanto como las tecnologías
@@ -852,12 +856,13 @@ Conclusiones principales Esta exploración de los diferentes modelos de comercio
 evolucionado -y lo seguirá haciendo- a gran velocidad. Saber cómo aplicar y obtener nuevas habilidades de marketing digital
 es vital para avanzar en tu carrera dentro de esta industria.
 
-## Revisión: Introducción a los fundamentos del marketing digital y el comercio electrónico
+### Revisión: Introducción a los fundamentos del marketing digital y el comercio electrónico
 
-### Glosario: terminos utilizados en marketing Digital
+#### Glosario: terminos utilizados en marketing Digital
 
-Términos y definiciones del curso 1, semana 1 Agencia: socio externo que satisface las necesidades de marketing y publicidad
-digital de una empresa.
+Términos y definiciones del curso 1, semana 1
+
+Agencia: socio externo que satisface las necesidades de marketing y publicidad digital de una empresa.
 
 Canal digital: cualquier método de comunicación o plataforma en línea que una empresa puede usar para llegar a su público
 objetivo.
@@ -893,3 +898,9 @@ consumidores. Es decir, cuando los consumidores compran a las empresas.
 
 Negocio a negocio (Business-to-Business, B2B): se refiere a cuando las empresas venden productos o servicios a otras
 empresas. Es decir, cuando las empresas compran entre sí.
+
+## Recorrido del cliente y el embudo de Marketing
+
+## estrategias de marketing y comercio electrónica
+
+## Medir el exito
