@@ -1224,7 +1224,111 @@ una conexión más profunda con tus clientes.
 
 #### Janice: Marketing inclusivo
 
+Mi nombre es Janice y trabajo en Google como director de Marketing de Producto en el equipo Grow with Google.
+
+El objetivo de Grow with Google es crear oportunidades económicas para todos, y a través del marketing inclusivo, podemos
+asegurarnos de representar a todos con precisión y autenticidad.
+
+La parte favorita de mi trabajo es que puedo trabajar con las personas que servimos e impactamos. En Grow with Google puedo
+ser la persona que se asocia con las OSAL y que puede acercarse directamente a la gente y decirle: “Oye, tengo una
+oportunidad para ti que te abrirá las puertas para un nuevo trabajo y una carrera que probablemente pensaste que no era
+posible antes”.
+
+La representación es muy importante, no solo porque es lo correcto. Es importante que la gente pueda verse a sí misma en su
+trabajo, para que sientan que son importantes, para que se sientan visibles, pero también es la decisión comercial correcta.
+
+Hicimos un estudio sobre marketing inclusivo que demostró que las personas que se veían representadas en el trabajo eran más
+leales a esa marca y, de hecho, tenían más probabilidades de comprar o utilizar sus productos y servicios.
+
+Si eres nuevo en el marketing inclusivo, hay algunas cosas en las que debes pensar cuando practiques este tipo de marketing.
+Creo que lo primero es decir: “¿Estoy representando a un grupo de una manera que puede ser perjudicial para ellos?”. Eso es
+lo primero. Asegúrate de no ofender a un grupo determinado.
+
+Lo segundo es pensar, ¿A quién estoy tratando de llegar, y están representados en este proyecto?”. Y luego también diría que
+te preguntes, “¿Quién falta? ¿Quién no está en la sala? ¿Con quién estamos tratando de hablar que no hemos hablado antes y
+que no estamos representando en nuestro trabajo?”.
+
+Entender a tu audiencia es absolutamente fundamental para informar tu estrategia de marketing inclusivo. No podrás
+representar con precisión a un grupo de personas, a menos que comprendas realmente algo más que su aspecto. Hay que entender
+su entorno, sus acciones, su comportamiento, lo que les influye.
+
+Yo comenzaría con la investigación y, a partir de ahí, construiría la idea, la solución y el plan, porque solo entonces será
+auténtico y se dirigirá a los usuarios. Por eso es tan importante trabajar desde el principio para entender no solo a un
+tipo de persona de este grupo, sino muchos tipos diferentes de experiencias de ese grupo cuando se trata de marketing
+inclusivo.
+
 #### Xiomara: Marketing inclusivo
+
+Me llamo Xiomara. Soy directora de Marketing de Producto.
+
+Un director de Marketing de Producto se dedica a explicar por qué un producto, una función o una herramienta que estamos
+creando pueden ser útiles para alguien. Es como ver un comercial o ver un anuncio en Internet y explicar por qué es especial
+para ti.
+
+Un consultor de marketing inclusivo es alguien que revisa los materiales creativos o las campañas de la empresa para
+asegurarse de que sean más inclusivas. Un ejemplo de ello es pensar en qué usuarios estamos mostrando y cómo los estamos
+mostrando y si el material creativo es accesible por lo que estamos creando un sitio web o tenemos un evento y nos
+aseguramos de que cualquiera pueda asistir a ese evento, o pueda ver o escuchar el sitio web.
+
+Ser una consultora de marketing inclusivo encaja en mi papel porque tengo que usar ese lente todos los días cuando reviso
+mis materiales creativos o reviso mis campañas. Pero, además, puedo trabajar con otros equipos y aportarles mis
+conocimientos sobre marketing inclusivo, para que ellos también puedan aplicar esos principios.
+
+Mis experiencias personales, crecer con bajos ingresos, ser una estudiante universitaria de primera generación, formar parte
+de una familia que tenía pequeños negocios, una familia de inmigrantes, todo eso se tiene en cuenta cuando pienso qué
+historias quiero contar, qué usuarios quiero mostrar en nuestras campañas de marketing.
+
+Y creo que en términos de experiencias laborales, el hecho de poder dirigir el marketing inclusivo de la empresa también me
+ha permitido conocer otras perspectivas de las que no soy consciente personalmente y asegurarme de que esas historias
+también se cuentan en el marketing que lanzamos al mundo.
+
+Tenemos la influencia y el poder de contar historias que mucha gente, millones de personas, pueden ver. La ventaja de un
+marketing inclusivo es que creas y cuentas historias auténticas en el mundo. Eso no es solo bueno para tu marca, sino
+también para las personas que la ven.
+
+Contamos historias que importan a la gente. Hacemos que se sientan vistas y representadas en nuestro trabajo.
+
+Una forma de aplicar los principios del marketing inclusivo es saber a quién se muestra. ¿Muestras a personas de distintas
+edades, con discapacidades, de diferentes orígenes raciales o étnicos? ¿Consideraste la geografía? ¿Muestras a personas de
+comunidades urbanas o rurales?
+
+Otra forma de ver esto es si tienes un anuncio digital en marcha y es un video, ¿tienes subtítulos? Porque no todos los
+usuarios tienen la capacidad de escuchar, así que necesitan leer lo que estás diciendo en tu campaña. La inclusión puede ser
+desde el principio hasta el final de tu material creativo.
+
+Los mercadólogos pueden pensar en la inclusión desde el principio y con frecuencia, empezando por las instrucciones del
+proyecto, esbozando quién es su público, cuál es la historia que quieren contar y qué perspectiva puede faltar.
+
+El siguiente paso puede ser asociarse con una agencia, una organización, o investigar con un grupo de usuarios para
+asegurarse de que la historia se cuenta con autenticidad.
+
+Después, cuando ya están trabajando en la parte creativa, hay que recabar opiniones desde el principio, recabar opiniones a
+menudo y, de nuevo, recuperar muchos de los puntos de vista de los usuarios que pueden faltar en el equipo y asegurarse de
+que se reflejan en el proceso de recabar opiniones.
+
+Obtener diferentes perspectivas de un gran grupo de personas puede parecer desalentador al principio, pero se convierte en
+un ejercicio que es realmente muy importante, independientemente de lo que estés trabajando, si tu intención es ser
+inclusivo o no, es parte del proceso.
+
+Como mercadólogo, siempre manejas muchas perspectivas u opiniones de las partes interesadas o de tu equipo. Piénsalo de la
+misma manera. Ahora en realidad tienes otro conjunto de usuarios que también están proporcionando una perspectiva, y solo
+tienes que sacar los temas y volver a analizar los datos. Es lo mismo. Cuál es el tema que escucho aquí y cómo me aseguro de
+que se refleje?
+
+Al final, vale la pena pasar por todo esto porque tendrás historias realmente hermosas y exitosas que contarás y darás a
+conocer al mundo. Siempre se puede aprender.
+
+Si te interesa aprender sobre marketing inclusivo, un gran recurso son las pautas de marketing inclusivo All In de Google.
+Si es la primera vez que aprendes sobre un público concreto, si deseas obtener información sobre investigaciones u otras
+perspectivas, o quieres aprender a evitar estereotipos o incluso ver ejemplos de campañas de marketing realmente geniales,
+este es un buen recurso al que puedes acudir si estás empezando por primera vez.
+
+Desafíate a ti mismo a obtener otras perspectivas para seguir ampliando tus conocimientos. Todos tenemos prejuicios, y la
+gente de la que nos rodeamos también nos ayuda a construir ciertos prejuicios.
+
+Exponiéndonos, mirando cosas con las que no estamos familiarizados, podemos desafiarnos a tener otras perspectivas para
+empezar a eliminar los sesgos que tenemos. Así construimos un marketing inclusivo que lanzamos al mundo, para contar siempre
+historias auténticas.
 
 ### Introducción al embudo de marketing
 
