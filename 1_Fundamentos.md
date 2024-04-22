@@ -564,10 +564,332 @@ oportunidad.
 
 ### Puestos y responsabilidades en marketing digital y comercio electrónico
 
+En otra lectura, te presentamos ejemplos de diferentes responsabilidades que tienen quienes ocupan puestos de coordinador/a
+de marketing digital y de analista de comercio electrónico. Esta lectura resume otras funciones y responsabilidades que
+tienen quienes se desempeñan como asistentes o principiantes en marketing digital y comercio electrónico. Al final de la
+lectura, encontrarás consejos para pasar de un puesto inicial a puestos con más posibilidades de crecimiento.
+
+Puestos de asistente de marketing digital A continuación, te mostramos algunos ejemplos de responsabilidades para puestos de
+nivel de asistente en marketing digital. Estas listas no son exhaustivas, pero te muestran una variedad de responsabilidades
+típicas de cada función.
+
+Coordinador/a de marketing digital* Coordinar actividades e iniciativas de marketing Investigar para identificar las
+audiencias objetivo Ejecutar campañas Monitorear métricas para evaluar tendencias
+
+Asistente de marketing
+
+Preparar informes sobre métricas de marketing y ventas Recopilar y analizar las métricas de comportamiento de clientes, como
+el tráfico a la web y los rankings de búsqueda Coordinar con los equipos de marketing para generar materiales de publicidad
+digital Ayudar con las campañas de marketing en curso
+
+Especialista en optimización de motores de búsqueda (SEO) Desarrollar estrategias de optimización para mejorar la aparición
+en búsquedas Implementar palabras clave para SEO Monitorear métricas para comprender el rendimiento de SEO Actualizar
+enlaces para optimizar las apariciones en búsquedas
+
+Especialista en marketing de motores de búsqueda (SEM) Identificar tipos de clientes para poder comunicarse con diferentes
+audiencias Investigar palabras clave para SEO y anuncios de pago por clic (PPC) Monitorear métricas para optimizar el
+rendimiento de los anuncios de búsqueda de pago Identificar y supervisar los indicadores clave de rendimiento (KPI) para el
+SEM
+
+Especialista en redes sociales Desarrollar, implementar y administrar estrategias de marketing en redes sociales Colaborar
+con los equipos de ventas y marketing a través de campañas en redes sociales Crear contenido para conectar con clientes y
+aumentar el reconocimiento de la marca Monitorear las métricas de las campañas de redes sociales para entender cómo es la
+interacción con el cliente y optimizar el contenido
+
+Especialista en e-mail marketing Crear campañas de marketing por correo electrónico para promocionar productos o servicios
+Crear una base de correos electrónicos para la generación de leads Depurar direcciones de correo electrónico que no
+funcionan o no se han suscrito Monitorear mediante métricas el rendimiento de las campañas de correo electrónico
+
+Funciones de asistente en comercio electrónico A continuación, se presentan algunos ejemplos de responsabilidades para los
+puestos de nivel de asistente en comercio electrónico. Estas listas no son exhaustivas, pero te muestran una variedad de
+responsabilidades típicas de cada función.
+
+Analista de comercio electrónico*
+
+Implementar estrategias de comercio electrónico para ayudar a alcanzar los objetivos comerciales Establecer objetivos de
+comercio electrónico e indicadores clave de rendimiento (Key Performance Indicators, KPI) para atributos clave como
+audiencia, adquisición, comportamiento y conversiones Monitorear y analizar las métricas de comercio electrónico Aprovechar
+los datos del comercio electrónico para mejorar la operación
+
+Especialista en comercio electrónico Desarrollar y ejecutar campañas para aumentar las ventas digitales, como parte de una
+estrategia general de marketing digital. Optimizar las campañas de publicidad pagada, utilizando SEO y otras herramientas
+Administrar la presencia de marketing en línea, incluidas las plataformas de redes sociales Monitorear métricas para
+detectar picos en el tráfico o las ventas del sitio web
+
+Avanzando hacia roles de mayor crecimiento Comenzar en un puesto de nivel inicial en marketing o comercio electrónico es
+emocionante, pero después de adquirir experiencia y práctica, es posible que quieras seguir progresando en tu carrera.
+
+Si quieres avanzar hacia un nuevo puesto, aquí te presentamos algunas posibilidades y una muestra de sus responsabilidades.
+
+Gerente de marketing digital Planificar y ejecutar campañas de marketing digital, incluyendo SEO/SEM, correo electrónico,
+redes sociales y publicidad gráfica Medir e informar el rendimiento y el retorno de las inversiones (ROI) en marketing
+digital Planificar, ejecutar y analizar pruebas y experimentos A/B Evaluar y mejorar la experiencia integral del cliente, a
+través de múltiples canales y puntos de contacto
+
+Estratega de redes sociales Administrar y supervisar el contenido de las redes sociales Medir el éxito de las campañas en
+redes sociales Monitorear y analizar métricas para recomendar soluciones efectivas de optimización de contenido Trabajar en
+red con otros/as profesionales de la industria y personas influyentes de las redes sociales
+
+Ejecutivo/a de cuentas Construir y mantener relaciones con los clientes Garantizar la entrega oportuna y exitosa de
+soluciones publicitarias basadas en las necesidades y objetivos del cliente Comunicar claramente el avance de las
+iniciativas a las partes interesadas, tanto internas como externas Pronosticar y supervisar las principales métricas de cada
+cuenta
+
+Gerente de productos de comercio electrónico Realizar investigación de mercado Desarrollar estrategias de producto para
+comercio electrónico basadas en analítica Definir la funcionalidad del sitio web y la aplicación móvil, y ofrecer una
+experiencia de usuario óptima para ambos Comprender los objetivos comerciales y coordinar esfuerzos para aumentar las ventas
+
+Conclusiones clave La evolución profesional depende de cada persona. A veces, puede tomar unos pocos meses avanzar al
+siguiente nivel; pero a menudo puedes demorar también varios años. Estas son tres señales que podrían indicar que tienes la
+preparación necesaria para avanzar al siguiente nivel.
+
+Cumples o superas constantemente los objetivos relacionados con el trabajo. Se te asignan tareas asociadas con un puesto de
+nivel superior. Solicitaste que te asignen más funciones, mientras realizabas tu trabajo habitual.
+
+Ten en cuenta que tu carrera debe avanzar a una velocidad que sea la adecuada para ti. ¡Mantente alerta y presta atención a
+nuevas oportunidades mostrando una actitud positiva y mentalidad de crecimiento en cualquier puesto en el que estés!
+
 ### Zuri: un día en la vida de un especialista en marketing digital de nivel inicial
+
+Me llamo Zuri y soy directora asociada de Marketing de Producto en Google.
+
+Entré en el marketing digital de una forma poco convencional.
+
+Una parte de mi historia es que crecí sin saber necesariamente nada sobre marketing digital o marketing en general.
+
+La forma en que entré en este campo fue específicamente a través de una pasantía increíble con Google: la pasantía BOLD.
+
+Antes de entrar en el marketing digital, algunos de los trabajos que tuve no tenían nada que ver con este tipo de marketing.
+
+Mi primer trabajo fue en Chick-fil-A.
+
+En mi ciudad natal, trabajaba como camarera y tomaba pedidos, atendía a los clientes y preparaba sus comidas y bebidas.
+
+Y ese trabajo en sí mismo tenía un montón de habilidades transferibles a lo que veo ahora como una mercadóloga digital.
+
+Ya sea dándole prioridad al cliente o consumidor, o al gestionar su tiempo con diligencia y eficacia.
+
+En mi opinión, lo esencial es que te enseña a interactuar con las personas.
+
+Estoy seguro de que, si se busca bien, se pueden encontrar habilidades y características clave transferibles a un puesto
+básico de marketing digital.
+
+El equipo específico en el que trabajo dentro de Google Ads es el equipo de arquitectura de marca.
+
+Pensamos estratégicamente sobre lo que es importante destacar en el texto de los anuncios de Google.
+
+Tenemos que tener en cuenta el anunciante que va a interactuar y que verá la copia y el texto que se muestra dentro de la
+cartera del anuncio.
+
+Como mercadóloga de nivel básico, trabajo con muchos equipos equipos para asegurarme de que se escucha la voz del cliente.
+
+La mayor parte del día, me dedico a buscar en diferentes documentos, presentaciones y plataformas para recopilar la
+información que necesito para hacer mi trabajo, y esa es la primera parte.
+
+La segunda mitad consiste en extraer la información que he recopilado y hablar con determinados Googlers para asegurarme de
+que, por un lado, entiendo lo que leo y, por otro, al entender lo que leo, lo aplico apropiadamente a la tarea que tengo
+entre manos.
+
+Además de eso, a lo largo del día y en el desempeño de mis funciones, recibo formación que me ayuda a ser mejor Googler y a
+desempeñar mi trabajo con mayor eficacia.
+
+Lo que más me gusta de trabajar en marketing digital es la creatividad.
+
+Soy capaz de actuar como creativa, como pensadora estratégica y también como solucionadora de problemas con el objetivo y la
+mente puestos en ayudar y promocionar nuestra marca entre los clientes que adoran y usan nuestros productos y servicios.
+
+Y esa es una característica clave que hay que tener como mercadóloga digital: conocer y comprender el comportamiento del
+cliente, comprender la personalidad y ser capaz de jugar con eso.
+
+Si trabajas e interactúas con la gente, si promueves y das a conocer una marca o un producto, tienes un lugar en el
+marketing digital.
 
 ### Jebb: un día en la vida de un Gerente de Cuentas de comercio electrónico de nivel inicial
 
+Soy Jebb Rickets y soy director de Cuentas para Grandes Minoristas en Google.
+
+Un director de Cuentas básicamente trabaja con empresas que ya invirtieron en Google para gastar más dinero con Google.
+Piensa en las grandes empresas minoristas, ya sean de ropa, electrónica, comestibles o en un supercentro.
+
+Cuando empecé en Google, trabajé con pequeñas y medianas empresas, tanto de comercio electrónico como de generación de
+leads. Pero en el lado del comercio electrónico, trabajábamos con cualquier cosa. Podría ser ropa, chucherías: uno de mis
+clientes favoritos vendía tarjetas personalizadas. Teníamos de todo, desde artículos baratos hasta artículos que podían
+costar $1000, $2000 o $3000.
+
+Muchas empresas continúan en línea, incluso si tienen una sede física. Creo que para el comercio electrónico, lo importante
+es si eres omnicanal o no. ¿Tienes una tienda física? ¿Y cómo puedes ampliar tu tienda vendiendo también en línea? Y luego,
+si no tienes un local físico, cómo aumentas el conocimiento de tu marca para que la gente vaya a tu sitio web y no al sitio
+web de un competidor o a un negocio físico?
+
+Lo que me encanta del e-commerce es que podemos ver el impacto de lo que estamos vendiendo y en lo que estamos trabajando.
+Entonces, a través del análisis de datos y todas estas piezas, podemos determinar: hicimos una campaña por $10 millones y
+nos dio $30 millones en ganancias. Y esa es una sensación increíble que muchas veces no obtienes con otros canales
+mediáticos, piensa en la televisión, es muy difícil probar si esta genera dinero para la empresa o no. Así que me encanta
+ver el éxito entre ingresos y resultados que somos capaces de lograr a través del marketing digital.
+
+Por lo general, tenemos proyectos semanales: trabajamos en una plataforma de presentación para un nuevo producto que creemos
+que los clientes deben usar. O hacemos cálculos de datos en una campaña que se acaba de ejecutar y tratamos de determinar el
+retorno final de la inversión publicitaria.
+
+La tarea común para las personas que se inician en el comercio electrónico depende del cliente con el que están trabajando.
+En una empresa pequeña, podrías estar en Excel o Google Sheets y calcular cuál fue tu gasto durante las últimas semanas. Y
+luego tratar de calcular de nuevo esa parte del retorno de la inversión y pensar en qué nuevas estrategias podemos emplear
+para mejorar eso. Tal vez sea organizar reuniones con las partes interesadas internas que digan: “Deberíamos hacer XYZ si
+queremos aumentar el rendimiento en el tiempo”.
+
+Para una empresa más grande, puede ser un poco más difícil conocer el día a día, porque muchas veces es reactiva. Recibes un
+correo electrónico del cliente interno que dice, “Necesitamos que investigues esto y que investigues aquello”. Así que a
+menudo tienes que realizar muchas tareas pequeñas mientras abordas un proyecto más grande, como, “Queremos ejecutar una
+campaña de $100 millones en el transcurso de un año”. Y eso requiere varias semanas o meses para presentar una idea como
+esa.
+
+Para ser un director de Cuentas exitoso, necesitas habilidades técnicas e interpersonales. Las primeras se refieren a
+analizar datos: ¿puedes mirar los datos y determinar qué se debe hacer para mejorar el proyecto o qué podemos aprovechar de
+él después de que se puso en marcha? Las habilidades interpersonales pueden ser tan simples como ser agradable en una
+conversación, donde hablas cosas triviales y comunes, y luego pasas a situaciones más profundas y complejas con ese cliente.
+Realmente se trata de generar confianza y ganar esa relación desde el principio.
+
+Les hago saber a mis clientes que estoy abierto a ellos. Si tienen algún problema o dificultad, deben enviarme un correo
+electrónico, llamarme y podré responder sus dudas. Y luego, cuando se trata de mi tiempo para un gran proyecto, ya me
+conocen, confían en mí, me han visto responder a todas estas preguntas difíciles. Y ahora tengo esta nueva idea de producto
+que les encanta, solo porque hemos trabajado juntos durante las últimas semanas o meses.
+
+Mi consejo número uno es simple: sé paciente pero ten hambre. Hay mucho que aprender sobre el marketing digital. Hay mucho
+que aprender sobre un cliente específico. Escucha las necesidades de ese cliente y aparta tiempo para conocer los productos
+en los que estás trabajando o que estás vendiendo. Hay mucho que aprender y tienes que estar abierto a ello, tienes que ser
+ávido y lo suficientemente paciente para conocerlo porque requiere algo de tiempo.
+
 ### ¿Comercio electrónico, E-commerce, ecommerce o eCommerce?
 
+¿Cuál es el término correcto: comercio electrónico, E-commerce, ecommerce, eCommerce o simplemente ecomm para abreviar? El
+nombre y la ortografía del término comercio electrónico han evolucionado en los últimos 30 años, tanto como las tecnologías
+y las habilidades necesarias para trabajar en este campo. En esta lectura, conocerás un resumen de la evolución del comercio
+electrónico, la historia del término y cuatro modelos distintos  que han surgido, dentro del comercio electrónico, a lo
+largo de los años.
+
+Aunque es algo relativamente reciente, como casi todo en internet, el comercio electrónico ha evolucionado y cambiado mucho.
+Lo que comenzó como comercio electrónico, rápidamente se convirtió en e-commerce, ecommerce o eCommerce. Pero, ¿cómo puedes
+saber cuál es el término que debes usar? En este curso, usaremos principalmente comercio electrónico, pero también el
+término en inglés, e-commerce. Esto se debe, en parte, a que Google Trends (un sitio web que analiza la popularidad de las
+principales búsquedas que se realizan en el buscador de Google) muestra que la mayoría de las personas prefieren usar
+e-commerce en lugar de ecommerce o eCommerce. Dado que el término en inglés es una combinación de dos palabras, el uso del
+guión lo hace más claro. Ahora, hablemos de los cuatro modelos que existen dentro del comercio electrónico:
+
+Negocio a consumidor (Business-to-Consumer, B2C)
+
+Consumidor a consumidor (Consumer-to-Consumer, C2C)
+
+Negocio a negocio (Business-to-Business, B2B)
+
+Consumidor a negocio (Consumer-to-Business, C2B)
+
+Nota: Cuando se trata de una entidad gubernamental, la sustitución de negocios por administración da origen a nuevos modelos
+de comercio electrónico, como de empresa a administración (B2A) y de consumidor a administración (C2A).
+
+Comercio electrónico de negocio a consumidor (B2C) El negocio al consumidor (business to consumer: B2C) es la forma más
+común de comercio electrónico. Este es el caso de las empresas que venden productos o servicios directamente a las y los
+consumidores. Algunos le dan crédito a la compañía estadounidense Pizza Hut por haber realizado la primera transacción de
+comercio electrónico (vender una pizza en línea). Sin embargo, los historiadores también reconocen que, antes de esa venta
+de pizza, Dan Kohn vendió un álbum de CD a un amigo en Filadelfia, el 11 de agosto de 1994. Ese amigo envió la información
+de su tarjeta de crédito para pagar el álbum y los costos de envío utilizando tecnología de cifrado. ¡Nadie podía robar la
+información de su tarjeta de crédito, porque estaba encriptada!
+
+Hoy en día, el comercio electrónico B2C genera miles de millones de dólares en ingresos anuales y las transacciones cifradas
+son algo cotidiano. Con el marketing B2C, tienes la oportunidad de aplicar tus habilidades de marketing digital de maneras
+muy específicas. Por ejemplo, puedes convertirte en especialista en marketing de experiencias o marketing en redes sociales,
+o incluso en un área específica del marketing en redes sociales llamada marketing de influencers.
+
+El marketing de experiencias, también conocido como marketing de interacciones, alienta a los consumidores no solo a comprar
+una marca o producto, sino a experimentarlo. Las campañas de marketing experiencial buscan generar respuestas emocionales en
+las audiencias.
+
+El marketing en redes sociales crea contenido en diferentes plataformas de redes sociales para impulsar la interacción y
+promover un negocio o producto.
+
+El marketing de influencers es el proceso de reclutar influencers para que respalden o mencionen una marca o producto entre
+sus seguidores de las redes sociales.
+
+Comercio electrónico de consumidor a consumidor (C2C) En el comercio electrónico de consumidor a consumidor (C2C), las
+personas venden productos o servicios a otras personas. En otras palabras, los consumidores compran y venden artículos entre
+sí. Boston Computer Exchange creó la primera plataforma para el comercio electrónico C2C en 1982. Una comunidad en línea de
+personas utilizó esta plataforma para vender sus computadoras usadas a otras y otros usuarios. Sin embargo, la plataforma de
+comercio electrónico C2C más conocida hoy es eBay, fundada en 1995.
+
+Actualmente, el comercio electrónico C2C ocurre en plataformas como eBay y Etsy, aunque plataformas de empresa a consumidor,
+como Amazon, también ofrecen ventas C2C. Las plataformas de redes sociales como Facebook también ingresaron al comercio
+electrónico C2C con Facebook Marketplace. El marketing digital de una empresa C2C prioriza las habilidades en optimización
+de motores de búsqueda (SEO), creación de contenido y redes sociales, ya que la mayoría de los consumidores C2C se
+encuentran a través de blogs y publicaciones en redes. Sus intereses compartidos conducen a transacciones C2C en las que se
+compran y venden artículos.
+
+Comercio electrónico de negocio a negocio (B2B) El comercio electrónico de negocio a negocio (B2B) existe cuando las
+empresas venden productos y servicios a otras empresas. El aumento de los servicios, en particular los servicios de
+software, aceleró el comercio electrónico B2B. Este tipo de servicio se conoce como software como servicio
+(Software-as-a-Service, SaaS). Un ejemplo de una empresa SaaS es Salesforce, fundada en 1999. Las compañías SaaS, como
+Salesforce, brindan a otras compañías acceso por suscripción, a través de Internet, a servicios cruciales para el negocio.
+Por ejemplo, Salesforce proporciona un software de gestión de relaciones con los clientes (Customer Relationship Management,
+CRM) que unifica las ventas, el marketing y los servicios, de modo de poder ofrecer, a cada cliente, un recorrido
+personalizado.
+
+Hoy en día, quienes se especializan en marketing digital para empresas B2B utilizan muchas de las habilidades que utilizan
+las y los especialistas en marketing digital para empresas B2C. Sin embargo, las campañas de marketing B2B requieren una
+identificación más precisa de sus audiencias objetivo. Vender a las empresas exige centrarse en comunicar un valor inmediato
+a las y los clientes potenciales. Por lo tanto, el marketing digital para empresas B2B tiende a ser más estratégico, y
+ofrece menos oportunidades para especializarse en un tipo específico de marketing, como el marketing en redes sociales,
+mientras que da un mayor énfasis a la analítica y el análisis de los datos.
+
+Comercio electrónico de consumidor a negocio (C2B) El gran crecimiento que han tenido las pequeñas empresas ayudó a
+establecer otro modelo, que se enfoca en el comercio electrónico entre consumidores y empresas. Con el comercio electrónico
+C2B, las y los consumidores venden sus productos o servicios a las empresas y existen plataformas especializadas que
+permiten realizar estas transacciones en línea. Por ejemplo, Upwork, fundada en 2015, conecta a freelancers con empresas que
+pueden necesitar sus habilidades y servicios.
+
+Los consumidores que son influencers también pueden ubicarse en esta categoría de comercio electrónico, porque pueden vender
+sus servicios para promocionar los productos de una empresa. Dado que las redes sociales influyen cada vez más en las
+decisiones de las y los consumidores, es probable que el modelo de comercio electrónico C2B también crezca.
+
+Conclusiones principales Esta exploración de los diferentes modelos de comercio electrónico muestra que el e-commerce ha
+evolucionado -y lo seguirá haciendo- a gran velocidad. Saber cómo aplicar y obtener nuevas habilidades de marketing digital
+es vital para avanzar en tu carrera dentro de esta industria.
+
 ## Revisión: Introducción a los fundamentos del marketing digital y el comercio electrónico
+
+### Glosario: terminos utilizados en marketing Digital
+
+Términos y definiciones del curso 1, semana 1 Agencia: socio externo que satisface las necesidades de marketing y publicidad
+digital de una empresa.
+
+Canal digital: cualquier método de comunicación o plataforma en línea que una empresa puede usar para llegar a su público
+objetivo.
+
+Comercio electrónico (e-commerce): compra y venta de bienes o servicios a través de Internet.
+
+Consumidor a consumidor (Consumer-to-Consumer, C2C): se refiere a cuando los individuos (las y los consumidores) venden
+productos o servicios a otros/as consumidores. Es decir, cuando las personas compran y venden entre sí.
+
+Consumidor a negocio (Consumer-to-Business, C2B): se refiere a cuando los individuos (las y los consumidores) venden
+productos o servicios a las empresas. Es decir, cuando las empresas compran a los consumidores.
+
+Habilidades transferibles: habilidades de otras áreas que pueden ayudar a una persona a progresar en una carrera en
+marketing.
+
+Interno: dentro de una empresa.
+
+Marketing de influencers: es el proceso de reclutar influencers para que respalden o mencionen una marca o producto a sus
+seguidores en las redes sociales.
+
+Marketing de interacciones: (consultar marketing experiencial).
+
+Marketing digital: práctica de llegar a las y los consumidores en línea a través de canales digitales, con el objetivo de
+convertirlos en clientes.
+
+Marketing en redes sociales: proceso de creación de contenido en diferentes plataformas de redes sociales para impulsar la
+interacción y promover un negocio o producto.
+
+Marketing experiencial: proceso de alentar a los consumidores no solo a comprar una marca o producto, sino a experimentarlo.
+
+Negocio a consumidor (Business-to-Consumer, B2C): se refiere a cuando las empresas venden productos o servicios a los
+consumidores. Es decir, cuando los consumidores compran a las empresas.
+
+Negocio a negocio (Business-to-Business, B2B): se refiere a cuando las empresas venden productos o servicios a otras
+empresas. Es decir, cuando las empresas compran entre sí.
