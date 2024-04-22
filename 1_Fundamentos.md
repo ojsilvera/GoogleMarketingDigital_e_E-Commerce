@@ -993,6 +993,101 @@ crear y ejecutar estrategias en línea.
 
 #### Ventajas y desafíos del marketing digital
 
+El marketing tradicional es aquel que no se realiza en línea. Quienes se especializan en ese tipo de marketing llegan a los
+clientes potenciales a través de medios impresos, televisión, radio, correo directo, llamadas telefónicas o vallas
+publicitarias. El marketing digital, en cambio, es aquel que se realiza exclusivamente en línea. Quienes se dedican al
+marketing digital se enfocan en los potenciales clientes que interactúan con contenido en línea, lo que incluye los
+resultados de los motores de búsqueda, el correo electrónico, el contenido en video, los blogs o las redes sociales.
+
+En esta lectura, te contaremos cuáles son las ventajas que tiene el marketing digital en comparación con el marketing
+tradicional e identificaremos algunos de sus desafíos más importantes.
+
+- Ventajas del marketing digital
+
+El marketing digital tiene ciertas ventajas en comparación con el marketing tradicional, por las siguientes razones:
+
+Evita gastos innecesarios.
+
+Se adapta a las nuevas tecnologías.
+
+Llega al público objetivo con mayor precisión.
+
+**Gastos:**
+
+El marketing digital utiliza contenido en una variedad de formatos, que pueden convertirse fácilmente de unos a otros, lo
+que permite optimizar la inversión. Además, el marketing digital permite reducir gastos. Por ejemplo, piensa en los anuncios
+de televisión o las vallas publicitarias. Los ven tanto las personas que tienen interés en tu empresa o producto como
+aquellas que no. El marketing tradicional siempre desperdicia algo de presupuesto en personas que nunca comprarán un
+producto o servicio. Por el contrario, los anuncios digitales se pueden mostrar solo a las personas que más probablemente
+estén interesadas en ese producto o servicio. Al centrarse más estratégicamente en las personas adecuadas, el marketing
+digital ofrece un mejor retorno de la inversión.
+
+**Tecnología:**
+
+Al usar diferentes tecnologías, las organizaciones pueden involucrarse e interactuar con sus  clientes de manera más eficaz.
+Este es un aspecto clave del marketing digital. Desarrollar una buena relación en línea con las y los clientes hace que sea
+más probable que encuentren tu empresa, se conviertan en clientes fieles e incluso compartan su experiencia con otras
+personas.
+
+Las herramientas de marketing digital también permiten a las empresas recopilar datos y medir los resultados de sus
+iniciativas de manera más eficaz. Al obtener datos más rápido, quienes se dedican al marketing digital pueden cambiar de
+dirección más fácilmente si una iniciativa no logra los resultados esperados. Medir el éxito de las campañas de marketing
+digital es clave para garantizar que se obtengan los resultados esperados.
+
+Además, el marketing digital se adapta a las nuevas tecnologías. Siempre hay nuevas oportunidades para llegar a las y los
+clientes de diferentes maneras, especialmente en comparación con el marketing tradicional.
+
+**Público objetivo:**
+
+Las herramientas y los datos de marketing digital te permiten llegar a más clientes que con el marketing tradicional. Tanto
+la visibilidad de los anuncios como la cobertura de la audiencia se pueden adaptar para satisfacer tus necesidades y
+objetivos de negocio. Cuando llegas al público correcto, es más probable que aumenten las ventas. Además, podrás desarrollar
+programas sostenibles de fidelidad para tus clientes.
+
+Desafíos del marketing digital El marketing digital también tiene ciertos desafíos, relacionados con el gasto, la tecnología
+y el público objetivo. Para cada ventaja que identificamos previamente, también hay retos a encarar.
+
+**Gastos:**
+
+Ventaja: El contenido digital es más fácil de crear.
+
+Desafío: Las organizaciones aprovechan el marketing omnicanal, es decir, la integración o sincronización de contenido a
+través de varios canales, para que las y los clientes puedan tener una experiencia coherente con la marca. Esto aumenta la
+cantidad de contenido que se debe crear. Así, aunque sea más fácil crear contenido digital, en general, es necesario crear
+mucho más. Además, no se trata solo de la cantidad de contenido, sino de su calidad. Lo cierto es que hay cada vez más
+anuncios y el contenido debe destacarse para poder tener un impacto positivo en los comportamientos de las y los clientes.
+
+Ventaja: El marketing digital es más rentable que el marketing tradicional.
+
+Desafío: Cuando una organización trabaja para lograr una presencia omnicanal, el costo de publicar anuncios en todos los
+canales es mayor, y obtener el apoyo o la aprobación necesarios para contar con el presupuesto que esto demanda puede ser
+difícil.
+
+**Tecnología:**
+
+Ventaja: El marketing digital se adapta a las nuevas tecnologías.
+
+Desafío: Cuando te dedicas al marketing, mantenerte actualizado/a y aprender a usar las nuevas tecnologías y herramientas es
+un trabajo continuo. Además, debes seguir y estar al día con todas las regulaciones de privacidad y uso de datos de las y
+los usuarios en todo el mundo. El marketing omnicanal también hace que sea más difícil identificar de dónde provienen las
+ventas. Por eso, quienes se especializan en marketing dependen mucho de las herramientas de análisis para este seguimiento.
+
+**Público objetivo:**
+
+Ventaja: Las herramientas de marketing digital amplían el alcance usando audiencias específicas.
+
+Desafío: En el entorno digital, hay muchas empresas y cada día se suman más. Por eso, es cada vez más difícil, para quienes
+se especializan en marketing, que sus anuncios se destaquen, incluso cuando se dirigen a las audiencias correctas.
+
+**Conclusiones clave:**
+
+Gracias a las diferentes tecnologías disponibles, el marketing digital es más rentable y fácil de adaptar que el marketing
+tradicional. Además, las herramientas de marketing digital permiten realizar una selección de audiencias más avanzada y
+específica para las campañas. Sin embargo, estos beneficios presentan también algunos desafíos. En un entorno digital
+repleto de participantes, es más difícil que la marca y la publicidad de una empresa se destaquen. Quienes se dedican al
+marketing digital deben mantenerse al día con los avances tecnológicos y los comportamientos de los clientes, que cambian
+rápidamente.
+
 #### Jen: Diversidad en el marketing digital
 
 #### Marketing inclusivo
