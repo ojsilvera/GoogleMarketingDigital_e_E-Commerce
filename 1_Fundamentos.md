@@ -346,9 +346,135 @@ este programa.
 
 ### turaHabilidades básicas de especialistas en marketing digital y comercio electrónico
 
+Las habilidades que obtendrás al completar el Certificado de Carrera de Google en Marketing Digital y Comercio Electrónico
+son utilizadas en muchos puestos de marketing digital y comercio electrónico de nivel inicial. Esta lectura te brinda una
+visión general de los temas que integran el programa de la certificación y los relaciona con ejemplos de requisitos
+laborales.
+
+Comparación de habilidades básicas en diferentes puestos
+
+Tanto los puestos en marketing digital como en comercio electrónico demandan habilidades similares. Sin embargo, a menudo,
+estas habilidades se aplican de maneras diferentes. La siguiente tabla te da una idea de cómo las responsabilidades
+laborales pueden diferir ligeramente entre unos casos y otros.
+
+![alt text](image.png)
+
+Conclusiones principales
+
+A menudo, se recomienda que adaptes tu currículum cada vez que solicites un empleo, para que tu experiencia y tus destrezas
+se alineen lo más posible con los requisitos del puesto en cuestión. Al final de este programa, podrás adaptar tu
+currículum, en función de las habilidades que hayas aprendido, para los puestos de marketing digital o comercio electrónico.
+
 ### Melba: El camino que recorrí para trabajar en comercio electrónico
 
+Hola, me llamo Melba y soy directora de Marketing de Producto en Google. Ayudo a comunicar el qué, el por qué y el cuándo de
+los productos que estamos desarrollando, tanto internamente a equipos multifuncionales como externamente a nuestros públicos
+objetivo definidos.
+
+Diría que mi trayectoria ha sido muy poco convencional. A los 16 años tuve que dejar el instituto para buscar trabajo y
+ayudar económicamente a mi madre. Crecí en un hogar monoparental y, si soy sincera, cuando tenía 16 años nunca pensé que
+fuera a ir a la universidad, y mucho menos que fuera a conseguir un trabajo en un lugar como Google.
+
+Es interesante la forma en que las cosas terminaron funcionando porque después de conseguir un trabajo, me encontré tratando
+con una líder latina muy increíble y poderosa. La primera vez que vi a una líder latina, me quedé asombrada porque no era
+algo que soliera ver a menudo. Y cuando lo hice, me di cuenta de que si ella podía hacerlo, yo también.
+
+Fui a casa ese mismo día, y empecé a investigar una carrera en marketing. Tuve que comenzar desde cero. Empecé a tomar
+clases para obtener mi GED. Una vez que obtuve el GED, me licencié y seguí trabajando a jornada completa. Como parte de mi
+educación y aprendizaje continuo, tomé varias clases en línea y también hice muchos cursos que estaban disponibles de forma
+gratuita en línea.
+
+Una de las más grandes razones por las que lo hice es porque me di cuenta de que, a menudo, necesitaba sentarme con los
+materiales y poder hacerlo a mi propio ritmo. Para mí, eso fue fundamental porque como abandoné la escuela, cuando estaba en
+la universidad, me di cuenta de que todo el mundo iba a un ritmo más avanzado que yo. Yo no tenía muchos de los
+conocimientos básicos que ellos tenían, y, por eso, a menudo tenía que volver, tomar clases en línea, hacer cursos
+adicionales, y adquirir esos conocimientos básicos para poder prepararme para el éxito en el futuro.
+
+Supe que había tomado la decisión correcta de dedicarme al marketing cuando lancé mi primera campaña. En realidad, mi
+primera campaña iba dirigida a poblaciones desatendidas. Como latina, es muy importante que en el trabajo que hago pueda
+retribuir a mi comunidad y asegurarme de que se reconoce su voz.
+
+Además del trabajo que hago en Google, también fundé una empresa llamada Mujeres on the Rise, una comunidad que ayuda a las
+latinas a ascender a través de recursos, comunidad y asesoramiento. Al pertenecer a una comunidad marginada, me di cuenta de
+que hay muchas barreras que nos impiden conseguir lo que queremos. Y muchas veces esas barreras son nuestras propias voces
+internas que nos dicen que no somos capaces de hacer lo que queremos hacer.
+
+Como parte del trabajo que hago, empecé esta comunidad para compartir lo que he aprendido en el camino y ayudar a otros a
+hacer lo mismo. Solía creer que mi situación en la vida determinaría para siempre mi futuro. Tras haber progresado tanto
+desde mi punto de partida, sé que eso no es necesariamente cierto.
+
+Puedes cambiar el rumbo de tu vida, pero todo empieza con una decisión. Tienes que dar ese primer paso sin pensar
+necesariamente en el larguísimo viaje que te espera. Simplemente da un paso, un día cada vez, y con el tiempo, mirarás atrás
+y te darás cuenta de lo lejos que has llegado.
+
 ### Andrew: el camino que recorrí para trabajar en marketing digital y comercio electrónico
+
+Me llamo Andrew y soy director del Programa de Operaciones de Socios para los equipos de soporte publicitario en Google.
+
+Como responsable de este programa, trabajo con los equipos de soporte de anuncios que brindan apoyo directo a nuestros
+clientes publicitarios.
+
+Cuando me gradué de la escuela secundaria, realmente no sabía qué quería hacer con mi vida, o qué quería ser de grande, por
+así decirlo.
+
+Tuve la suerte de asistir a la Academia Naval de los Estados Unidos durante cuatro años, donde obtuve un título
+universitario, además de la experiencia en liderazgo para ingresar a la marina como oficiales y liderar a los marineros.
+
+El equipo al que me uní fue la comunidad submarina, y dejé Annapolis para ir a Charleston, Carolina del Sur, donde ingresé a
+nuestro programa de capacitación en energía nuclear.
+
+Son unos seis meses bastante agotadores en la teoría de la ingeniería nuclear y luego seis meses de capacitación práctica en
+reactores.
+
+Desafortunadamente, al ser un programa muy difícil, no funcionó lo bastante bien para mí, y la ingeniería nuclear sigue
+siendo un tema que me parece complejo hasta el día de hoy.
+
+Terminé saliendo de la marina un poco antes de lo que esperaba, de modo que tuve que reevaluar dónde estaba y qué estaba
+haciendo, y averiguar definitivamente que quería hacer después de la marina, mucho antes de lo que había previsto
+originalmente.
+
+Cuando dejé la marina, tuve la suerte de tener un amigo que trabajaba en Google en ese momento y que conoció un poco más
+sobre mi experiencia, y me ayudó a comprender realmente dónde podría aprovechar mis habilidades tras salir de la marina y al
+entrar al mundo civil.
+
+Así que preparé mi primer currículum y comencé a buscar empleo, pero realmente me tomó un par de meses descubrir cómo
+presentar una buena candidatura para los puestos.
+
+No tenía una dirección clara hacia dónde ir ni en qué industria me gustaría estar, y pasé aproximadamente cinco o seis meses
+aplicando a trabajos que me interesaban o en los que parecía que podía encajar.
+
+Fue un poco agotador. Ya sabes, te postulas a un trabajo y esperas y sigues esperando, y finalmente recibes esa carta de
+rechazo y solo esperas que algún día alguien se arriesgue a contratarte.
+
+Entonces, cuando comencé a conectarme con algunos de mis compañeros para comprender en qué estaban teniendo éxito, se me
+aclararon las ideas.
+
+Tenía que hacer un mejor esfuerzo al decirles a las empresas por qué deberían contratarme y por qué encajaría bien en ellas.
+
+Creo que aprendí que lo más importante para mí iba a ser no solo contarle a la gente sobre mi experiencia militar, sino
+decirle cómo esa experiencia encajaría muy bien para el puesto que buscaban.
+
+La idea era tratar de traducir algunas de las habilidades que tenía, incluso si no estaban directamente relacionadas con la
+experiencia, traducir cómo esas habilidades me convertirían en el candidato ideal o en un miembro exitoso para sus equipos.
+
+Una vez que empecé a esforzarme más para contar mi propia historia y adueñarme de mis experiencias, empecé a ver un mayor
+éxito cuando en realidad yo era la persona que entrevistaba.
+
+Creo que es muy importante buscar siempre nuevas oportunidades para aprender.
+
+No tenía una formación formal en marketing digital y, sin embargo, pude ingresar a esta industria y tener éxito al estar
+dispuesto a aprender, mantener la mente abierta al abordar nuevas oportunidades, y hacer muchas preguntas.
+
+Para cualquiera que esté saliendo del servicio militar, mi recomendación número uno sería hablar con personas que ya estén
+en el mundo civil.
+
+No importa que sean otros militares que hayan hecho la transición anteriormente, o simplemente amigos, familiares, conocidos
+que ya están en la industria o en el área en la que quieres estar, reúnete con ellos para pedirles información y conocer más
+sobre un puesto o sobre una industria, o pídele a alguien que revise tu currículum y que te dé su opinión sobre lo que no
+esté claro o o genere confusión, o cómo podrías describir mejor alguna parte de tu experiencia.
+
+No tengas miedo de pedir ayuda a las personas que ya están en el puesto, que hayan tenido esa experiencia y que puedan
+compartir parte de ese conocimiento contigo, como alguien que acaba de unirse al equipo.
 
 ## Carreras profesionales en marketing digital y comercio electrónico
 
