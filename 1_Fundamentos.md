@@ -1332,6 +1332,67 @@ historias auténticas.
 
 ### Introducción al embudo de marketing
 
+#### El recorrido del cliente y los mapas del recorrido
+
+Hola de nuevo.
+
+Hasta ahora, aprendiste varias cosas que el marketing digital y el e-commerce pueden hacer para las empresas en línea.
+Conoces las ventajas del marketing digital y los desafíos al captar clientes en un mercado en línea saturado. También sabes
+que el primer y más esencial paso en una estrategia de marketing es estudiar los clientes.
+
+Profundicemos en este último punto. Es fácil pensar que el marketing en una empresa es solo sobre ellos. Sobre cómo atraer
+clientes, aumentar las ganancias o crecer su presencia en línea. Una estrategia de marketing eficaz inicia con lo que
+necesitan los clientes y los puntos debiles. Estos son problemas que los clientes y los clientes potenciales quieren
+resolver.
+
+En lugar de preguntar “¿Cómo vendemos más productos?", las empresas exitosas quieren saber "¿Cómo ayudamos a que los
+clientes superen sus problemas y alcancen sus metas?" Una trata los objetivos de la empresa y la otra del recorrido del
+cliente.
+
+¿Qué es el recorrido del cliente? Piensa en la última vez que recomendaste algo a un amigo. Podría ser un producto, una
+aplicación o una herramienta, o un servicio, como un restaurante o contratista. Ahora piensa en tu recorrido con ese
+producto o servicio. ¿Cómo lo encontraste por primera vez? Si tenías preguntas, ¿cómo obtuviste respuestas? ¿Qué te
+convenció para probarlo? ¿Cómo te ayudó a resolver un problema o lograr un objetivo? Por último, ¿por qué lo recomendaste a
+alguien más?
+
+El camino que tomas desde estudiar el producto, resolver tus dudas y hacer la compra, es tu recorrido como cliente. Desde tu
+perspectiva, la meta no era necesariamente comprar ese producto, sin embargo, lo que compraste cubrió tus necesidades.
+
+Mira un ejemplo: imaginemos que vas a descargar una nueva app para ver el clima. La que tienes ahora no es fiable y te
+alcanza la lluvia por no tener paraguas. Así que buscas en línea las mejores apps del clima y encuentras algunas opciones.
+Una te llama la atención por su nombre familiar. Tal vez un amigo la nombró recientemente o tal vez fue un anuncio en línea.
+Limitas tus opciones a unas cuantas y empiezas a leer reseñas. Dos tienen todas las funciones que deseas, pero eliges la del
+nombre familiar. Encabeza varias de las mejores listas y tiene una suscripción de prueba.
+
+Descargas la aplicación, pero no está funcionando bien. Vuelves a las reseñas y te das cuenta de que es un problema común.
+Contactas el soporte a través del chat en vivo. Ellos resuelven tu problema rápidamente, lo que te hace sentir bien con la
+empresa. Empiezas el periodo de prueba y en un mes, siempre tuviste el paraguas cuando llovió. Recibes un correo
+electrónico, tu periodo de prueba se va a acabar. y estás tan feliz con la app que compras una suscripción. Ahora eres un
+cliente fiel.
+
+Cada interacción con la marca durante el la compra se llama punto de contacto. Desde la búsqueda hasta las reseñas, el
+anuncio en línea, el periodo de prueba, el chat en vivo y el correo electrónico, cada punto de contacto tuvo el potencial
+de ayudar o no, tu percepción de la marca y sus productos. Una mala experiencia en algún punto puede costar el abandono al
+recorrido, entonces la empresa debe asegurar que tengas la información y las respuestas que necesitas.
+
+Al investigar los clientes, los marketers vuelven estas interacciones en un mapa de recorrido. Un mapa del recorrido del
+cliente muestra los puntos de contacto que un cliente típico se encuentra en el proceso de compra. Puedes tener varios mapas
+basados en patrones y comportamientos de los clientes Por supuesto, es imposible saber qué ruta tomará cada persona, Pero
+estos mapas no tratan de predecir el futuro. Te ayudan a entender cómo y por qué los clientes interactúan con tu negocio.
+
+Cuando sabes cómo los clientes te encuentran, cómo se enteran de ti y qué problemas quieren resolver, puedes mejorar sus
+experiencias. En últimas, una buena experiencia del cliente indica más éxito para tu negocio.
+
+Ya lo sabes. Entendiendo el recorrido del cliente, puedes crear experiencias mejores y más fáciles de usar. A continuación,
+aprenderás cómo los mapas se usan con otra herramienta, el embudo de marketing, para determinar las acciones de marketing y
+que los clientes potenciales compren.
+
+#### Qué es un punto de contacto?
+
+#### El embudo de marketing
+
+#### Del embudo de marketing tradicional al embudo de marketing digital
+
 ### Atraer clientes potenciales e interactuar con ellos
 
 ### Aumentar las ventas y generar fidelidad a la marca
