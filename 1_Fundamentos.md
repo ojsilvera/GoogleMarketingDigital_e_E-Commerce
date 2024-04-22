@@ -296,6 +296,54 @@ te diré más sobre habilidades especializadas que puedes necesitar y que desarr
 
 ### Prisha: El camino que recorrí para trabajar en marketing digital
 
+Hola, soy Prisha, y soy estratega de Cuentas. Como estratega de Cuentas, ayudo a las empresas a crecer enseñándoles Google
+Ads. Uno de mis aspectos favoritos del marketing digital es lo colaborativo que es, y realmente disfruto trabajando con un
+montón de gente diferente. Me encanta poder marcar la diferencia y crear el mejor contenido posible para mis clientes,
+usuarios o cualquier otra persona.
+
+Cuando entras en el mundo del marketing, está muy bien no tener tanta experiencia como crees que necesitas. Entré en el
+marketing con cero experiencia, y mi mayor consejo es que tengas la mente muy abierta y no temas el porque te postularás
+para muchas cosas diferentes, y no pasa nada si no consigues el puesto al principio, porque trabajarás para conseguirlo en
+el futuro.
+
+Mi canal de YouTube fue algo que decidí hacer cuando tenía 16 años. Lo comencé porque quería concienciar sobre mi enfermedad
+crónica para ayudar a marcar la diferencia en la comunidad y mostrar a los demás que cualquiera con una condición crónica o
+una diferencia visible puede alcanzar sus sueños o metas. Empecé a hablar también de maquillaje pero también de blogs de
+viajes y blogs educativos, y luego me incliné por contenidos más relacionados con la pasantía y la carrera profesional para
+concienciar también sobre ello.
+
+Pude aprender qué es lo más les gusta a mis seguidores o a la comunidad de mi canal y mantenerlo para poder crecer aún más.
+De mi canal de YouTube y de la gestión de mis redes sociales aprendí muchas cosas que pude aplicar a mi trabajo diario
+durante mi pasantía; por ejemplo, la importancia de ser coherente con tu campaña, de modo que cuando gestionas varias
+empresas diferentes, es muy importante tener mensajes coherentes, y lo hice a través de mi canal de YouTube, Instagram, y
+Tik Tok para asegurarme de que la gente entendía mi marca y mi historia en diferentes aspectos.
+
+Cuando tenía 18 años, decidí hacer una pasantía en lugar de la universidad. En la escuela sabía que mi pasión era el
+marketing digital e iba a estudiar economía, pero me di cuenta de que, siendo mi pasión este tipo de marketing, por qué no
+comenzar mi carrera temprano. Supe que me gustaba mucho por mi experiencia laboral en mi canal de YouTube.
+
+Cuando me presenté a las entrevistas para los diferentes puestos (el de la pasantía y el que tengo a tiempo completo en
+Google), quería mostrar la importancia de la pasión y cómo el entusiasmo llega muy lejos, y si algo te apasiona, eso te hará
+avanzar en cualquier puesto o entrevista. Así que algo que intenté durante la pasantía, cuando no tenía experiencia, fue que
+me apasiona el marketing digital, y he hecho XYZ para mostrarlo a través de mi canal de YouTube y a través de diferentes
+cosas, así que creo que si puedes mostrar tu pasión y entusiasmo por algo, llegarás muy lejos.
+
+Cuando empiezas en el marketing digital o en cualquier otra carrera, puede ser muy estresante, y puedes tener el síndrome
+del impostor y puedes sentir realmente que no perteneces aquí para estar aquí, y eso es algo a lo que me enfrenté en en la
+pasantía, pero también en la transición a un puesto a tiempo completo. Mi consejo en este sentido es que hables con mucha
+gente, y verás cuántas personas sienten realmente que tienen el síndrome del impostor, y creo que hablando de ello con el
+tiempo, te darás cuenta de que mereces estar aquí, y que te has ganado un puesto.
+
+Encontrar un mentor puede ser muy útil. Con tu mentor puedes trabajar en objetivos a corto y largo plazo, y puede ayudarte
+con los distintos miedos que puedas tener. Por ejemplo, yo tenía miedo a hablar en público, y mi mentor y yo pudimos
+trabajar en ello y establecer objetivos a corto plazo para ayudarme a conseguirlo, de modo que ahora soy capaz de presentar
+y llevar a cabo diferentes iniciativas basadas en ello.
+
+Estoy súper emocionada de que completes este curso y de que te apasiones más de lo que ya estás por el marketing digital,
+igual que yo, y no puedo esperar a que completes esto y a que tengas todas las habilidades relevantes para convertirte en un
+profesional del marketing digital. Mucha suerte. Habilidades especializadas que puedes necesitar y que desarrollarás con
+este programa.
+
 ### turaHabilidades básicas de especialistas en marketing digital y comercio electrónico
 
 ### Melba: El camino que recorrí para trabajar en comercio electrónico
