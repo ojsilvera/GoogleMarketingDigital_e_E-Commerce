@@ -903,6 +903,25 @@ empresas. Es decir, cuando las empresas compran entre sí.
 
 ### Cómo el marketing digital y el comercio electrónico benefician a las organizaciones
 
+Hola de nuevo.
+
+Anteriormente, aprendiste cómo el marketing digital y el e-commerce siguen cambiando el panorama empresarial. Ya sabes algo
+sobre las carreras en estas industrias, las habilidades básicas, funciones diarias, cargos y planes profesionales.
+
+Por último, conoces las habilidades que ya tienes para impulsar tu carrera. Ahora, vamos a explorar cómo el marketing
+digital y el e-commerce generan valor para empresas y clientes.
+
+En esta parte del curso, aprenderás cómo usar canales digitales para captar clientes y explorarás conceptos clave para que
+los compradores potenciales se vuelvan clientes fieles.
+
+Por último, sabrás por qué medir el desempeño de marketing es crucial para el éxito. El marketing digital crece y cambia
+constantemente. Por eso, es un campo emocionante para trabajar.
+
+Pero hay algunos puntos importantes, como crear conciencia, fomentar la confianza y la fidelidad. Los métodos pueden variar,
+pero los conceptos básicos te permiten adaptar y crecer con la industria.
+
+¿Todo listo? Empecemos.
+
 #### Te damos la bienvenida a la semana 2
 
 #### Cómo el marketing digital y el comercio electrónico generan valor
