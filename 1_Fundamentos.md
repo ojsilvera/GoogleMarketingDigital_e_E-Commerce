@@ -1090,7 +1090,137 @@ rápidamente.
 
 #### Jen: Diversidad en el marketing digital
 
+Hola, soy Jen y trabajo como especialista en Compras aquí en Google. Trabajo con grandes minoristas para ayudarles a mejorar
+su rendimiento de marketing con los productos de Google.
+
+Una de las cosas que me encantan de mi trabajo es que es realmente cuantificable y medible. En cuanto a los productos que
+incorporo al mercado, puedo ver cómo transforman los negocios de los minoristas y cómo les ayuda a generar más ingresos para
+su empresa y a cumplir con sus resultados.
+
+Fui reclutada de la Universidad Howard, que es una universidad históricamente negra, lo cual es realmente genial porque, en
+ese momento, diría que no había tanta diversidad, dentro de la industria de la tecnología y el comercio electrónico
+específicamente.
+
+Cuando pienso en DEI en el espacio del comercio electrónico, realmente pienso en cómo estamos conectándonos con nuestros
+clientes. Tenemos que recordar que estamos representando y tratando de llegar a un grupo diverso de clientes, de modo que
+nuestros equipos también tienen que ser diversos.
+
+Creo que queremos dar forma a nuestros equipos, nuestra comunidad, nuestra cultura para que sean lo más abiertos posible,
+para reflejar a la sociedad.
+
+Vine sin ninguna experiencia en el comercio electrónico ni en el marketing digital. Creo firmemente que el comercio
+electrónico es un lugar donde puedes venir y crecer en el puesto, y que la mayoría de las personas que provienen de entornos
+no tradicionales y que no tienen una preparación clásica en este campo o en el marketing digital, pueden aumentar y agregar
+valor a sus clientes de una manera realmente efectiva en un corto período de tiempo.
+
+Cuando pienso en diversidad, equidad, e inclusión, realmente me gusta ponerlo en el contexto de las personas.
+Específicamente en la diversidad, pienso tanto en la amplitud, como en la profundidad de las personas. En establecer la
+misma oportunidad. Y con la diversidad nos aseguramos de que todos tengan acceso a eso.
+
+Cuando pienso en la equidad en términos de personas, pienso en la compensación. Todos queremos asegurarnos de que nos paguen
+a una tasa similar por el conjunto de habilidades que incorporamos a una empresa.
+
+Cuando pienso en la inclusión, realmente pienso en la pertenencia, y para mí, eso trata sobre saber que mi opinión es
+valorada y saber que mi aporte es aceptado por el equipo y genera un diálogo y una conversación de la misma manera que la
+opinión y el aporte de otra persona.
+
+Si pensamos en la sociedad y en cómo a veces las personas simplemente tratan de marcar una casilla, pues sí, podemos tener
+un entorno diverso a nuestro alrededor, pero si no se compensa a todos de manera justa, o si la gente realmente no siente
+que pertenece y proviene de diferentes orígenes, en realidad no hará mella y no contribuirá realmente al objetivo general,
+que es, una vez más, ser una parte representativa de la sociedad.
+
+Es importante que cumplamos estos tres aspectos porque podemos tener una sala diversa, pero eso no significa que todos
+tengan la misma voz.
+
+La forma en que me aseguro de que las personas que no se parecen a mí o que no actúen o hablen como yo sean escuchadas, es
+dar un paso hacia atrás y escuchar. A menudo podemos llenar una sala con nuestras ideas y se puede perder la aportación de
+algunos de los compañeros de equipo más reservados o callados.
+
+Así que a veces me gusta dar un paso atrás, hacer un inventario de la sala y organizar un par de reuniones para simplemente
+escuchar, y eso permite que otras personas tengan más espacio para expresar su opinión y presentar sus aportes.
+
+Y a veces incluso me gusta preguntar directamente a aquellos que conozco que no se sienten cómodos en expresar su opinión
+directamente, diciéndoles: “Oye, X, ¿qué piensas acerca de este tema específico?” Esa es una forma que puedes hacer para que
+una persona se abra y contribuya sin que se sienta incómoda, deteniendo a otras personas que pueden ser un poco más
+bulliciosas.
+
+Creo que el objetivo es que las empresas de comercio electrónico y marketing se parezcan a la sociedad. Ese es el objetivo
+final, pero la forma en que podemos hacerlo es a través de la acción.
+
+Así que en lugar de usar palabras y decir lo que creemos que defendemos, la forma en que puedes demostrar que crees en ello
+es a través de acciones y creando ese cambio que deseas ver.
+
 #### Marketing inclusivo
+
+Como especialistas en marketing digital, ser inclusivos/as es esencial para crear conexiones más profundas con las y los
+clientes. El marketing inclusivo consiste en ampliar la representación y mejorar el sentido de pertenencia en los materiales
+de marketing y publicidad que crea una organización.
+
+En esta lectura, descubrirás por qué el marketing inclusivo es importante y cómo una empresa puede incorporar la inclusión
+en sus estrategias de marketing y publicidad.
+
+Por qué es importante el marketing inclusivo En el marketing digital, las decisiones creativas que toma una empresa pueden
+afectar la forma en que las personas se ven tanto a sí mismas como a otras. A veces, las campañas de marketing tradicional
+refuerzan los estereotipos y dejan de lado las perspectivas de los grupos menos representados. El marketing inclusivo, en
+cambio, busca representar una amplia variedad de perspectivas, incluyendo particularmente a aquellas que han sido marginadas
+en el pasado.
+
+Cuando una empresa toma decisiones creativas que se centran exclusivamente en un grupo específico de edad, género, etnia u
+otros rasgos de identidad, pierde la oportunidad de representar a un público más diverso. Al abordar las acciones de
+marketing con un enfoque inclusivo, la empresa puede reflejar de manera más positiva y auténtica la diversidad que existe en
+el mundo.
+
+Tomando decisiones inclusivas y evitando los estereotipos Para hacer marketing digital, debes conocer a la audiencia de una
+manera profunda. Con el marketing inclusivo, puedes llevar esto un paso más allá e intentar comprender si tu audiencia ha
+sido excluida, estereotipada o tergiversada en el pasado.
+
+A veces, puedes pasar por alto involuntariamente ciertos aspectos de la diversidad, incluso si tienes en cuenta otros. Estos
+son algunos rasgos de identidad del público al que intentas llegar que puedes tener presentes al crear materiales de
+marketing o publicidad:
+
+Etnia
+
+Estado socioeconómico
+
+Edad
+
+Capacidades
+
+Género
+
+Orientación sexual
+
+Religión
+
+Ubicación geográfica
+
+Cultura
+
+Orientación política
+
+Condición militar
+
+Idiomas
+
+Recopilar datos demográficos de la audiencia te permite ampliar tu perspectiva. También es importante tener en cuenta los
+datos demográficos de aquellas personas que actualmente no son tus clientes. Es posible que estas personas no usen o ni
+siquiera sepan sobre los productos o servicios que ofrece tu empresa, simplemente porque las iniciativas de marketing de tu
+marca no llegaron a ellas. Al comprender sus necesidades y deseos, puedes encontrar maneras de llegar a estos grupos en
+formas que les resulten relevantes.
+
+Piensa que, al menos, mil millones de personas en el mundo viven con una discapacidad. Si tu producto o servicio no es
+accesible para ellas, es probable que no lo usen ni sepan que existe. Si las iniciativas de marketing de tu empresa no
+incluyen a personas con discapacidad ni abordan sus necesidades, es posible que tus productos o servicios no sean relevantes
+para ellas.
+
+Por eso, es importante pensar exhaustivamente en la audiencia y sus necesidades y asegurarse de que sus perspectivas e
+historias formen parte de los materiales de marketing y publicidad de tu marca.
+
+**Conclusiones clave:**
+
+Ya sea que estés desarrollando objetivos de marketing, investigando a tu público, planeando una campaña o analizando datos,
+recuerda los principios del marketing inclusivo. Mantener una perspectiva más amplia de tu audiencia te ayudará a establecer
+una conexión más profunda con tus clientes.
 
 #### Janice: Marketing inclusivo
 
