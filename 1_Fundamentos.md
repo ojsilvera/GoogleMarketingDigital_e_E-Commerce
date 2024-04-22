@@ -93,6 +93,27 @@ para que la empresa alcance sus metas. Te ayudaré a prepararte para buscar
 
 ### Introducción al curso 1
 
+Curso 1: Fundamentos de E-commerce y Marketing Digital
+
+Ahora que tienes una idea de qué esperar en este programa en total, quiero contarte un poco sobre qué esperar de este curso.
+
+Empezamos con lo básico: qué son el e-commerce y el marketing digital y la actividad diaria de los profesionales del sector.
+Verás habilidades fundamentales para el éxito en e-commerce y marketing digital, como algunas que ya tienes, y cómo las
+impulsarás con el programa.
+
+Veremos el panorama actual de oportunidades laborales. Descubrirás oportunidades disponibles para candidatos de nivel básico
+y las responsabilidades que conllevan. Con esto deberías pensar en tus intereses y cómo hallar con ellos una trayectoria
+ideal.
+
+Luego descubrirás herramientas para atraer clientes potenciales e impulsar ventas en línea. Verás lo necesario para crear
+estrategias de marketing digital y tácticas para llegar a clientes: anuncios digitales, correos y redes sociales.
+
+Al final verás la importancia de medir e interpretar los resultados de dichas tácticas y cómo las empresas usan los datos
+parar mejorar su estrategia global. Y recibirás consejos laborales a tener en mente para el siguiente curso.
+
+Eso es lo que te espera. Ahora repasemos recursos con los que aprovecharás el programa al máximo. Me emociona que inicies tu
+trayectoria. ¡Empecemos!
+
 ## ¿Qué son el marketing digital y el comercio electrónico?
 
 ## Carreras profesionales en marketing digital y comercio electrónico
