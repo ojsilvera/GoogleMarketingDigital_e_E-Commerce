@@ -1804,9 +1804,9 @@ medición cuantificable usada para realizar seguimiento y evaluar el progreso ha
 calibran el rendimiento y eficacia de una campaña, lo que permite a las empresas hacer mejoras para el futuro. Por ejemplo,
 para medir la conciencia de sus anuncios, los marketers usan técnicas para rastrear impresiones, alcance y frecuencia.
 
-Reproduce el video desde :1:19 y sigue la transcripción1:19 Las impresiones son el total de veces que un anuncio aparece en
-la pantalla. Este número incluye a los usuarios que vieron el anuncio más de una vez. Si un anuncio es visto 200 veces por
-100 personas, el número de impresiones es 200, ya que se mostró 200 veces. Al contrario, alcance es el total de individuos
+Las impresiones son el total de veces que un anuncio aparece en la pantalla. Este número incluye a los usuarios que vieron
+el anuncio más de una vez. Si un anuncio es visto 200 veces por 100 personas, el número de impresiones es 200, ya que se
+mostró 200 veces. Al contrario, alcance es el total de individuos
 únicos que se encuentran un anuncio en todos sus diferentes dispositivos. No importa cuántas veces una persona reciba el
 anuncio, solo se cuenta una vez. El alcance de un anuncio que fue visto 200 veces por 100 personas, sería 100. Frecuencia se
 refiere a las veces que cada usuario se encuentra el anuncio en un tiempo determinado. Así, si las 100 personas encuentran
