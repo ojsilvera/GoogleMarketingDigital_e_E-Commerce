@@ -1640,6 +1640,12 @@ haremos referencia más a menudo en este programa es el que se muestra a continu
 
 ### Atraer clientes potenciales e interactuar con ellos
 
+#### Parte superior del embudo: Conciencia y Consideración
+
+#### Caso práctico: Cómo estructura MERSEA su embudo de marketing
+
+#### Midiendo el éxito en la parte superior del embudo
+
 ### Aumentar las ventas y generar fidelidad a la marca
 
 ### Repaso: El recorrido del cliente y el embudo de marketing
