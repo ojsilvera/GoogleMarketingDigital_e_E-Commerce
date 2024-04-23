@@ -2032,4 +2032,14 @@ el enlace de un correo electrónico o comprar un producto.
 
 ## estrategias de marketing y comercio electrónica
 
+### Cómo utilizan las empresas el marketing digital para construir sus marcas
+
+### Crea una estrategia de marketing digital y comercio electrónico
+
+### Llega a las y los clientes en línea
+
+### Promueve la interacción a través de redes sociales y marketing por correo electrónico
+
+### Revisión: Estrategia de marketing digital y comercio electrónico
+
 ## Medir el exito
