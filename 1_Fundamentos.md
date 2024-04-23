@@ -1642,6 +1642,66 @@ haremos referencia más a menudo en este programa es el que se muestra a continu
 
 #### Parte superior del embudo: Conciencia y Consideración
 
+Hola de nuevo. Anteriormente en el curso, vimos los conceptos del recorrido del cliente y el embudo de marketing. Ahora,
+exploremos el embudo con un poco más de detalle, iniciando con las etapas de conciencia y consideración.
+
+Veremos lo que los equipos pueden hacer para atraer clientes potenciales y dirigir las interacciones. Primero, la
+conciencia. Ya sabes que es cuando un cliente potencial se encuentra tu marca por primera vez. La idea es simple, pero ¿cómo
+aseguras que la empresa tenga la audiencia correcta?
+
+El primer paso es la investigación. Entender quiénes son tus clientes y dónde están en línea te ayuda a realizar buenas
+acciones de marketing. Conocer tu audiencia particular te permite elegir los mejores canales para llegar a ellos.
+
+Hay diferentes tácticas que una empresa puede usar para llegar a clientes. Una forma es mejorar el ranking y resultados del
+motor de búsqueda. Esto se logra optimizando el contenido del sitio web alrededor de ciertos términos de búsqueda o pagar
+por anuncios digitales en páginas web, redes, correo o plataformas de video.
+
+Reproduce el video desde :1:11 y sigue la transcripción1:11
+
+Formar asociaciones promocionales con otras marcas o influencers también puede ayudar a crear conciencia. Aprenderás más
+sobre cada táctica más tarde en el programa. Por ahora, sólo recuerda que una estrategia fuerte al comienzo del embudo, usa
+múltiples canales y crea una experiencia consistente en todos.
+
+Ten en cuenta que el descubrimiento no es cosa de una sola vez. Una vez que alguien sabe de tu negocio, puede tomar días,
+semanas, o incluso más tiempo para que lleguen a la consideración. Una vez que hayas alcanzado un cliente potencial, la meta
+es que te recuerden.
+
+Si tu empresa vende refrigeradores. Es una gran compra y no una que hagas todos los días. Incluso si un cliente potencial
+conoce tu negocio, podrían esperar hasta que su refrigerador se dañe para pensar en uno nuevo. Mantener una presencia en
+línea coherente, les recordará a ti cuando llegue la hora. Así, pensarán en tu negocio cuando necesiten tus servicios.
+
+Ahora continuemos con la consideración. La consideración es la etapa para que te conozcan. Es cuando empiezan a explorar tu
+negocio y lo que te diferencia de la competencia. En esta etapa, la meta es aumentar las posibilidades de que un cliente
+potencial eventualmente haga una compra.
+
+Podrían estar leyendo reseñas en línea o navegando activamente tu página, así que dales razones para quedarse o volver si ya
+se fueron. En esta etapa, algunos clientes potenciales se volverán leads. Un lead es un cliente potencial que interactuó con
+la marca y compartió información personal, como un correo electrónico.
+
+Volvamos al ejemplo del refrigerador. Imagina que el cliente va a la página web y mira varios modelos, pero no toman una
+decisión de inmediato. Tal vez necesitan más tiempo para pensar o comparar diferentes marcas, o tal vez se distrajeron.
+Involucra a esa persona otra vez al mostrarle anuncios basados en los productos y páginas que visitaron. Eso aumenta la
+probabilidad de que vuelvan para comprar.
+
+Una vez que un cliente potencial está en tu página, edúcalos sobre tus ofertas y explica cómo ciertos productos o servicios
+alivian sus puntos de dolor.
+
+Reproduce el video desde :3:32 y sigue la transcripción3:32
+
+Esto significa ofrecerles contenido útil como blogs, boletines o webinars. Muestras, herramientas o periodos de prueba
+permiten a los clientes potenciales probar los servicios antes de comprar. La meta es crear confianza en la calidad de tus
+productos y darles a los clientes lo necesario para que elijan bien.
+
+Para recapitular, El inicio del embudo aumenta la conciencia e interacción del cliente. En esta etapa, los marketers usan
+herramientas y canales para llegar a los clientes potenciales y sus mentes. Durante la etapa de consideración, deben aclarar
+lo que ofrecen y cómo cubren las necesidades de los clientes.
+
+Si se hacen bien, las tácticas de conciencia y consideración eventualmente traerán nuevos clientes. A continuación, sabrás
+más sobre embudos de marketing y verás cómo medir el éxito de la conciencia y la consideración.
+
+Hola de nuevo. Anteriormente en el curso, vimos los conceptos del recorrido del cliente y el embudo de marketing. Ahora,
+exploremos el embudo con un poco más de detalle, iniciando con las etapas de conciencia y consideración.
+
 #### Caso práctico: Cómo estructura MERSEA su embudo de marketing
 
 #### Midiendo el éxito en la parte superior del embudo
