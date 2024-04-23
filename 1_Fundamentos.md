@@ -1978,6 +1978,58 @@ seguirá creciendo y nuestra vida cotidiana y nuestros hábitos también cambiar
 
 ### Repaso: El recorrido del cliente y el embudo de marketing
 
+#### Términos y definiciones del curso 1, semana 2
+
+Alcance: número total de personas únicas que ven un anuncio en sus diferentes dispositivos.
+
+Búsqueda local: consulta que genera resultados de búsqueda locales.
+
+Conversión: realización de una actividad que contribuye al éxito de un negocio.
+
+Embudo de marketing: representación visual del proceso que atraviesan las personas, desde que descubren una marca hasta que
+se convierten en clientes fieles.
+
+Etapa de Conciencia: primera etapa del embudo de marketing, cuando un/a cliente potencial encuentra por primera vez tu
+producto o servicio.
+
+Etapa de Consideración: segunda etapa del embudo de marketing, cuando el interés de un/a cliente potencial sobre un producto
+o servicio aumenta.
+
+Etapa de Conversión: tercera etapa del embudo de marketing, cuando las y los especialistas en marketing capitalizan el
+interés que las personas ya mostraron en las etapas previas.
+
+Etapa de Fidelidad: cuarta etapa del embudo de marketing, cuando las y los clientes se convierten en clientes regulares y
+promotores/as de la marca.
+
+Frecuencia: se refiere a cuántas veces una persona ve un anuncio.
+
+Impresiones: número total de veces que un anuncio aparece en las pantallas de las personas.
+
+Lead: cliente potencial que ya interactuó con una marca y compartió información personal, como una dirección de correo
+electrónico.
+
+Mapa del recorrido del cliente: visualización de los puntos de contacto con la marca que un/a cliente tiene durante todo el
+proceso de compra.
+
+Marketing inclusivo: consiste en mejorar la representación y el sentido de pertenencia en los materiales de marketing y
+publicidad que crea una organización.
+
+Omnicanal: integración o sincronización de contenidos en múltiples canales.
+
+Público objetivo: grupo de personas con más probabilidades de comprar los productos de una empresa.
+
+Punto de contacto: cualquier interacción que un/a cliente tiene con una marca durante su recorrido de compra.
+
+Puntos de dolor (pain points): los problemas que las y los clientes quieren resolver.
+
+Recorrido del cliente: proceso que realiza un/a cliente desde que descubre un producto hasta que disipa todas sus dudas y
+realiza una compra.
+
+SEO local: optimización del contenido para que se muestre en los algoritmos de búsqueda locales de Google.
+
+Tasa de conversión: porcentaje de usuarios o visitantes del sitio web que completaron una acción deseada, como hacer clic en
+el enlace de un correo electrónico o comprar un producto.
+
 ## estrategias de marketing y comercio electrónica
 
 ## Medir el exito
