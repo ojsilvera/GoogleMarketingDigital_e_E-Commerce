@@ -1896,7 +1896,85 @@ ahí.
 
 #### Midiendo el éxito en la parte inferior del embudo
 
+Hasta ahora has aprendido mucho sobre el embudo de marketing y cómo se usa para crear conciencia, aumentar la consideración,
+fomentar la conversión y crear fidelidad.
+
+Sabes lo que se mide arriba en el embudo y entiendes por qué rastrear esta información es clave para el éxito. En este video
+veremos varias formas de medir el éxito en el fondo del embudo en las etapas de conversión y fidelidad. ¡Adelante!
+
+Lo más básico que puedes medir en la etapa de conversión es el número de conversiones. Una conversión ocurre cuando un
+cliente potencial realiza la acción deseada, en este caso, cuando realiza una compra. Parece simple, ¿verdad? El número de
+conversiones es una información crucial, pero no es lo único que puedes medir en esta etapa. El tiempo hasta la conversión,
+el costo por conversión, el promedio de puntos de contacto antes de convertirse, el tamaño promedio del pedido puede
+presentar datos valiosos sobre cómo los clientes interactúan con tu marca. Estos datos también te permiten abordar problemas
+como carritos abandonados. El abandono del carrito es cuando un cliente agrega un artículo a su carrito, pero no lo compra.
+Lo creas o no, se estima que casi el 70 % de los carritos en línea son abandonados. Entonces, averiguar cuándo los clientes
+se van en el proceso, puede mejorar tus procesos y aumentar tus conversiones.
+
+Bien, es hora de la última etapa del embudo, la fidelidad. La forma de medirla depende del público objetivo y las metas
+específicas. Algunas mediciones son la tasa de compras repetidas, el tiempo transcurrido entre compras, el número de pedidos
+por cliente y la tasa de activación de la cuenta después del registro. El nivel de interacción con los programas de
+recompensas también indica la fidelidad de los clientes a lo largo del tiempo. Las métricas de fidelidad permiten evaluar y
+refinar planes para retener clientes aumentar las ventas y ahorrar dinero. También muestran dónde gestionar las relaciones
+con clientes eficazmente. Al final, la fidelidad del cliente es la prueba más real para saber si el embudo sirvió y cubrió
+sus necesidades.
+
+Más adelante veremos cómo usar las medidas de conversión y fidelidad. Recuerda que más allá de las compras completadas, las
+medidas de conversión miden comportamientos como tiempo de conversión y tamaño del pedido. Estas métricas son útiles y
+permiten a los equipos frenar los abandonos y aumentar las ventas. Para medir la fidelidad se cuentan las activaciones de
+cuenta, tiempo entre compras, y pedidos por cliente. Al medir la fidelidad, se mejoran las tasas de retención y se genera
+ingresos en el tiempo.
+
+Y ahí lo tienes, medir los resultados del embudo es la mejor técnica que las marcas usan para optimizar su esfuerzo en cada
+etapa. Un embudo bien planeado permite nutrir los leads durante sus recorridos de compra. A continuación, verás algunas
+ideas del futuro de la industria de e-commerce.
+
 #### El futuro del comercio electrónico
+
+La web dio comienzo a una nueva era de comercio electrónico y las plataformas de compra y venta (marketplaces), los
+servicios de pago y el crecimiento masivo de las redes de envío y distribución hicieron que éste sea un verdadero éxito. En
+esta lectura, vamos a analizar cómo podría evolucionar el comercio electrónico en la próxima década.
+
+Tendencias futuras para el comercio electrónico Nadie puede identificar con certeza qué innovaciones de hoy serán utilizadas
+mañana. Sin embargo, hay algunas tendencias de comercio electrónico que sin dudas se destacan:
+
+La especialización de comercios minoristas más pequeños
+
+Las experiencias inmersivas para clientes
+
+Las innovaciones en distribución y entrega
+
+**Especialización de comercios minoristas más pequeños** Las grandes plataformas de compra y venta (marketplaces) y los
+comercios minoristas probablemente seguirán representando la mayoría de las compras en línea. Los comercios minoristas más
+pequeños seguramente van a especializarse cada vez más, ofreciendo productos altamente adaptables, categorías de productos
+de nicho que no ofrecen los minoristas más grandes y un servicio más personalizado.
+
+**Experiencias inmersivas para clientes** Actualmente, muchas personas todavía prefieren ir a una tienda física porque
+quieren tocar o probar un artículo antes de comprarlo. La realidad virtual y aumentada pueden proporcionar experiencias
+inmersivas en línea, para que las y los clientes sientan que han manipulado un objeto o probado una prenda, sin realmente
+haber ido a la tienda.
+
+La realidad virtual (VR) es completamente inmersiva. Con un equipo de VR, las y los usuarios pueden ver un mundo físico
+simulado, con retroalimentación audiovisual. Imagina que te pones el equipo y entras al vestidor virtual para probarte las
+prendas antes de comprarlas. Este es un ejemplo de una experiencia de VR.
+
+La realidad aumentada (AR) es semi inmersiva. En este caso, las y los usuarios no entran en un mundo físico simulado, sino
+que, a través de AR agregan retroalimentación audiovisual al mundo existente. Por ejemplo, ¿qué pasaría si pudieras ver
+automáticamente cómo te quedan las gafas de sol que agregaste en tu carrito de compras superponiéndolas en alguna foto tuya
+que tengas en tu teléfono? ¿Y si pudieras guardar artículos de cualquier tienda de comercio electrónico para “probártelos”
+de nuevo? Esto podría reemplazar la necesidad de ir a diferentes tiendas en persona.
+
+Los chatbots o bots de chat son programas informáticos diseñados para simular conversaciones con personas humanas. Suelen
+preguntarte si todo está bien y si necesitas ayuda. Esta sería la versión en línea de un/a vendedor/a que te hace las mismas
+preguntas en una tienda física. La inteligencia artificial (IA) y el aprendizaje automático, mediante chatbots que utilizan
+datos de conversaciones reales, pueden mejorar la experiencia general de quienes están comprando.
+
+**Innovaciones en distribución y entrega** Es posible que hayas escuchado o leído sobre la posibilidad de que drones o
+vehículos autónomos realicen la entrega final de un producto en una casa u oficina. Estos métodos de distribución y entrega
+pueden ser comunes en los próximos diez años.
+
+**Conclusión clave** Independientemente de las tecnologías que se adopten en la próxima década, el comercio electrónico
+seguirá creciendo y nuestra vida cotidiana y nuestros hábitos también cambiarán.
 
 ### Repaso: El recorrido del cliente y el embudo de marketing
 
