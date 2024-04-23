@@ -1845,6 +1845,55 @@ A continuación, aprenderás más sobre el embudo y las etapas de conversión y 
 
 #### La parte inferior del embudo: Conversión y Fidelidad
 
+Hola de nuevo.
+
+En la lección anterior, estudiamos las etapas de conciencia y consideración del embudo de marketing. Discutimos acciones
+que las empresas deben hacer para crear conciencia y mejorar el compromiso del cliente.
+
+Ahora veamos las etapas de conversión y fidelidad del embudo. Estudiaremos qué pueden hacer los equipos para mejorar las
+ventas y asegurarse de que vuelvan.
+
+Ya sabes que la etapa de conversión, conocida como la decisión o etapa de compra, es cuando alguien hace una compra y se
+convierte en un cliente. No todos los que compran se convertirán. Y los clientes potenciales compran cuando ven que la
+solución de una empresa es mejor que la de los demás.
+
+Resulta esencial que hagan todo a su alcance para demostrar y entregar valor en esta etapa. Quieres que tus clientes confíen
+y se sientan seguros de comprar tu producto. El objetivo de la etapa de conversión es simple: convertir clientes potenciales
+en compradores.
+
+Pero la forma como las empresas lo hagan dependerá de sus productos y público. Es esencial considerar que los clientes
+pueden pasar de la consideración a la conversión a través de puntos de contacto distintos. Es posible identificar patrones
+del comportamiento del cliente para ajustar el contenido y mejorar áreas relevantes. Más adelante te explicaremos un poco
+sobre estas tendencias.
+
+Para diferenciarse en la etapa de conversión, las empresas deben ofrecer contenidos y experiencias claras y útiles. Eso
+incluye desde descripciones precisas de los productos, hasta compras sencillas y una política de devoluciones clara.
+Anuncios bien situados y centrados en el producto, y una página organizada es persuasivo también.
+
+Así, facilitar las respuestas y la toma de acción de los leads aumenta las probabilidades de conversión. Algunos embudos
+de marketing terminan una vez el cliente compra. Pero crear y mantener la fidelidad del cliente puede ser tan importante
+como su conversión en primer lugar.
+
+Las empresas exitosas equilibran la adquisición y retención del cliente porque una vez construida la relación con el
+cliente, quieres mantenerla. La fidelidad del cliente depende de la calidad y el valor de tu producto. Incluso si un cliente
+ama su compra, no es garantía de que volverán por más.
+
+La fidelidad es crear una gran experiencia al cliente durante y después de la compra. Las empresas usan el correo
+electrónico, programas de recompensas, o interacciones en las redes sociales para nutrir la relación con el cliente
+continuamente. Estas interacciones siempre deben ser intencionales y reflexivas.
+
+Por ejemplo, los cupones por correo electrónico incentivan la recompra, pero enviar un cupón de algo que el cliente recién
+compró, no lo hará feliz. Cuando las empresas crean una experiencia positiva después de la compra, pueden impulsar ventas
+futuras y volver clientes fieles en fanáticos de la marca.
+
+Y eso es todo. Repasemos: en el fondo del embudo, las empresas se centran en la conversión de clientes potenciales y motivan
+esos clientes para que regresen en el futuro. Durante la etapa de conversión, muestran su valor con el contenido y
+experiencias de calidad. Después de una compra, crean fidelidad al interactuar con los clientes y construir relaciones.
+
+Al optimizar estos resultados en cada etapa, las empresas prosperan en un mercado en línea saturado. A continuación,
+revisarás lo aprendido de los embudos hasta ahora y verás cómo las empresas miden el éxito al fondo del embudo. Nos vemos
+ahí.
+
 #### Midiendo el éxito en la parte inferior del embudo
 
 #### El futuro del comercio electrónico
