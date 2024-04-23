@@ -2034,6 +2034,143 @@ el enlace de un correo electrónico o comprar un producto.
 
 ### Cómo utilizan las empresas el marketing digital para construir sus marcas
 
+#### Te damos la bienvenida a la semana 3
+
+¡Hola! Qué alegría verte aquí nuevamente.
+
+En el curso anterior, vimos lo que el marketing digital y el e-commerce aportan a las marcas, cómo los mapas del recorrido
+ayudan a entender a los clientes y nutrir las relaciones a la larga.
+
+También vimos cómo los embudos de marketing digital crean conciencia, aumentan la consideración y las conversiones, y
+fomentan fidelidad.
+
+Con estos conceptos claros empiezas a crear una base sólida para la siguiente fase de tu carrera.
+
+Aquí verás que el embudo es parte de la estrategia de marketing digital total. Verás la relación entre gestión de marca y
+marketing digital, así como formas específicas de desarrollar una marca.
+
+También verás cómo planear una estrategia de marketing digital y conocerás algunos de los canales y tácticas más comunes:
+optimización de motores de búsqueda, marketing en medios sociales y marketing por correo.
+
+Estos canales permiten atraer clientes, impulsar ventas y mantener relaciones con el tiempo.
+
+Crear una estrategia de marketing digital es lo más efectivo para captar clientes.
+
+Es esencial saber cómo funcionan, incluso si recién empiezas en el sector.
+
+De hecho, de lo primero que hice como gerente de Marketing de Producto fue colaborar en estrategias para medios sociales.
+
+Desarrollé formas de captar y atraer a nuestro público objetivo.
+
+Estas estrategias son importantes ya que aseguran que el marketing digital y las acciones de ventas de una marca trabajen
+juntas hacia un objetivo común.
+
+Tengo muchas ganas de empezar, y espero que tú también.
+
+#### El valor de las marcas para el marketing digital
+
+Hasta ahora, he hablado mucho sobre marcas. Cómo encuentran sus audiencias, cómo se vinculan con los clientes, y cómo crean
+fidelidad e impulsan ventas.
+
+Pero, ¿qué es una marca? ¿Y cómo se vincula con el e-commerce y marketing digital? En este video, veremos por qué es
+importante entender a las marcas para el marketing digital.
+
+Una marca es cómo el público percibe un negocio u organización. Hay muchos factores que inciden en una marca, como los
+valores, la cultura, el diseño y el tono de voz.
+
+Y es posible desarrollar una marca propia, pero no es un activo físico como un producto o servicio. Los productos y
+servicios son lo que vende un negocio como ropa, software o entretenimiento.
+
+Una marca es más como la personalidad o reputación. Es la suma de quién eres y lo que piensan sobre ti y tus productos.
+
+Entonces, ¿por qué es importante saber de marcas y su valor? Porque la marca orienta los esfuerzos de marketing y ventas.
+Antes de empezar a pensar en anuncios o promociones, las empresas deben entender cuál es su misión, valores y oferta única.
+
+Los esfuerzos de marketing cambian con el tiempo. Pero la identidad de marca es permanente. Imagínalo así: si la marca eres
+tú, el marketing es captar la atención de las personas.
+
+Un negocio puede usar muchos recursos en una estrategia de marketing, pero sin una fuerte identidad de marca, nadie
+recordará quiénes son.
+
+También puede tener valores y productos sorprendentes, pero igual necesita marketing para crear reconocimiento e impulsar
+ventas.
+
+Una marca es la base de una estrategia de marketing digital exitosa, pero este puede afectar la percepción pública de tu
+marca. No puedes tener uno sin el otro.
+
+Una marca fuerte puede ser muy valiosa y el marketing digital puede hacerla aún más fuerte. Ejemplo, las campañas de
+marketing digital ayudan a alzar el valor con equidad de marca.
+
+¿Qué es el valor de marca? Es el valor que los consumidores dan a las ofertas de una marca frente a productos similares de
+otra marca. Si una marca tiene valor positivo, los clientes están conformes y podrían pagar más que por un producto idéntico
+de otra marca.
+
+Supongamos que tenemos dos tipos de protector solar con iguales ingredientes. Uno es de una marca conocida y confiable, y el
+otro no. El valor de marca es cuánto más el cliente paga por la marca que conocen y confían, aunque las otras sean
+idénticas. La confianza que se tiene en la marca conocida suma al valor general.
+
+El marketing digital es una forma de generar esa confianza. Con campañas publicitarias, no solo captan la atención del
+consumidor, también ayudan a crear la opinión pública de la marca.
+
+El marketing digital comunica el valor, personalidad y perspectiva de una marca e influye en la opinión sobre esta.
+
+Muy bien. Repasemos. Una marca es más que un negocio. Es cómo los clientes se sienten ante la empresa y sus productos.
+También es la base para estrategias de marketing y ventas exitosas.
+
+El marketing digital también ayuda a crear valor de marca, reconocimiento y confianza Luego, veremos cómo las marcas crean
+estrategias de marketing digital que apoyan metas mayores.
+
+#### Seguridad de marca
+
+La seguridad de marca es una prioridad fundamental para los equipos de marketing digital. Garantizar que una marca esté bien
+posicionada entre sus consumidores es importante para el corazón y la misión de esa marca. En esta lectura, aprenderás lo
+que significa la seguridad de marca y cómo la llevan a cabo las empresas.
+
+**¿Qué es la seguridad de marca?** La seguridad de marca se refiere al ejercicio de mantener la reputación de una marca a
+salvo cuando se anuncia en línea. Esto puede abarcar desde asegurarte de que los anuncios de tu marca no aparezcan junto a
+un contenido inapropiado hasta garantizar que no se utilicen sin permiso materiales con derechos de autor.
+
+Si colocas anuncios dentro de la red de display, y esos anuncios aparecen en un sitio web que difunde información errónea,
+tu marca puede sufrir un daño por verse relacionada con información falsa. Otro ejemplo: si tu marca valora la inclusión, no
+querrás que tus anuncios aparezcan en un sitio con opiniones controversiales o discursos de odio.
+
+El Interactive Advertising Bureau (IAB) ha designado 13 temas con los que las marcas deben evitar relacionarse para mantener
+su seguridad. Estos son: conflictos militares, contenido obsceno, drogas, tabaco, contenido para adultos, armas, crimen,
+muerte/violencia, piratería en línea, discursos de odio, terrorismo, spam y noticias falsas. Además de los anteriores, es
+posible que tu marca también quiera mantenerse alejada de otros temas. Por ejemplo, si tu marca vende juguetes para bebés,
+es probable que no quiera aparecer en los sitios de apuestas.
+
+Entonces, como profesional del marketing digital, ¿cómo evitar relacionarte con temas con los que preferirías que tu marca
+no esté asociada?
+
+**Garantizar la seguridad de la marca** Hay pasos que puedes seguir para asegurarte de mantener la seguridad de tu marca.
+Primero, tendrás que definir lo que se considera “inseguro” para tu marca. Analiza qué temas pueden ser perjudiciales.
+Luego, asegúrate de que tú y tu equipo entiendan que el alcance no lo es todo. No vale la pena aparecer en todos los sitios
+web de Internet si para hacerlo pones en riesgo o dañas la seguridad de tu marca. Lo siguiente es usar tecnología confiable.
+Cuando envíes anuncios a redes de display o redes sociales, asegúrate de utilizar las herramientas correspondientes para
+mantener la seguridad de tu marca. Por ejemplo, con la Red de Display de Google, puedes optar por no aparecer en sitios
+específicos con los que prefieres no relacionarte.
+
+Algunas estrategias que utilizan quienes se especializan en marketing para mantener la seguridad de marca son:
+
+    Comprar espacios publicitarios directamente de editores reconocidos. Esto asegurará que tus anuncios no se coloquen
+    en cualquier parte.
+
+        Nota: Esta acción podría provocar la pérdida de algunas ventas potenciales, por limitarte a ciertos clientes específicos.
+
+    Usar el reconocimiento de imágenes. Esto identificará las imágenes que se consideran contenido no seguro para tu marca.
+
+    Seleccionar las palabras clave a evitar. Las y los editores te permiten elegir palabras clave de las que quieres mantenerte
+    lejos. Inclúyelas cuando envíes tu contenido.
+
+    Aplicar segmentación geográfica. Esto te permite saber en qué regiones se publican tus anuncios, para asegurarte de
+    que el contenido que le presentas a tus clientes es preciso y relevante.
+
+**Conclusiones principales** La seguridad de marca es un tema que requiere especial atención, porque está directamente
+vinculado con el éxito del negocio. Asegúrate de saber con qué tipos de temas y contenidos no deseas que se asocie tu marca,
+y luego toma medidas al respecto. Después de haber considerado cuidadosamente cómo preservar la seguridad de tu marca, los
+editores y las herramientas digitales te ayudarán a llevar las medidas de seguridad al siguiente nivel.
+
 ### Crea una estrategia de marketing digital y comercio electrónico
 
 ### Llega a las y los clientes en línea
