@@ -1656,8 +1656,6 @@ Hay diferentes tácticas que una empresa puede usar para llegar a clientes. Una 
 motor de búsqueda. Esto se logra optimizando el contenido del sitio web alrededor de ciertos términos de búsqueda o pagar
 por anuncios digitales en páginas web, redes, correo o plataformas de video.
 
-Reproduce el video desde :1:11 y sigue la transcripción1:11
-
 Formar asociaciones promocionales con otras marcas o influencers también puede ayudar a crear conciencia. Aprenderás más
 sobre cada táctica más tarde en el programa. Por ahora, sólo recuerda que una estrategia fuerte al comienzo del embudo, usa
 múltiples canales y crea una experiencia consistente en todos.
@@ -1686,8 +1684,6 @@ probabilidad de que vuelvan para comprar.
 Una vez que un cliente potencial está en tu página, edúcalos sobre tus ofertas y explica cómo ciertos productos o servicios
 alivian sus puntos de dolor.
 
-Reproduce el video desde :3:32 y sigue la transcripción3:32
-
 Esto significa ofrecerles contenido útil como blogs, boletines o webinars. Muestras, herramientas o periodos de prueba
 permiten a los clientes potenciales probar los servicios antes de comprar. La meta es crear confianza en la calidad de tus
 productos y darles a los clientes lo necesario para que elijan bien.
@@ -1704,9 +1700,154 @@ exploremos el embudo con un poco más de detalle, iniciando con las etapas de co
 
 #### Caso práctico: Cómo estructura MERSEA su embudo de marketing
 
+Ya sabes cuáles son las diferentes etapas del embudo de marketing. En este caso práctico, verás cuáles son las estrategias
+de marketing y el enfoque que MERSEA , una empresa de comercio electrónico con sede en Lenexa, Kansas, utiliza con respecto
+al embudo para atraer clientes potenciales, convertirlos en clientes de pago y, por último, lograr que vuelvan a comprar.
+
+No existe un enfoque universal para crear un embudo de marketing. Diferentes modelos de embudo de marketing, a menudo,
+comparten estrategias y estructuras similares, pero varían según las necesidades de cada empresa.
+
+En 2013, Lina Dickinson y Melanie Bolin fundaron MERSEA, una marca de lifestyle (estilo de vida) ubicada en Lenexa, Kansas,
+que ofrece ropa, accesorios y fragancias para el hogar. Los productos de MERSEA se inspiran en la alegría de viajar y en la
+tranquilidad de los entornos marinos. Inicialmente, Lina y Melanie se enfocaron en vender a través de socios minoristas.
+Así, posicionaron los productos de MERSEA en más de 1200 tiendas.
+
+**El desafío** Después de lograr una sólida presencia en tiendas minoristas, las fundadoras de MERSEA se propusieron
+aumentar todavía más sus ventas a través del comercio electrónico. Entonces, el desafío que enfrentó MERSEA, así como muchos
+otros negocios de comercio electrónico, fue adquirir nuevos clientes en línea y convertirlos en clientes regulares. Este es
+hoy el eje central del embudo de marketing de MERSEA.
+
+Ponte en el lugar del dueño o la dueña de un negocio e imagina que ya tienes una tienda en línea. ¿Cómo logras que las y los
+clientes potenciales visiten la tienda digital? Y, después de haber atraído clientes, ¿cómo haces que vuelvan a visitar la
+tienda y se conviertan en clientes regulares?
+
+**El enfoque** Para que la marca y los productos de MERSEA lleguen a sus clientes ideales, Lina y Melanie utilizaron una
+combinación de estrategias de marketing, como publicidad de pago en línea, marketing por correo electrónico, marketing en
+redes sociales y mensajes de texto.
+
+Es importante tener en cuenta que MERSEA no está implementando todas estas estrategias con sus propios empleados.
+Contrataron a una empresa de marketing externa para que las ayude con Google Ads. Trabajar con una empresa de marketing
+externa permite a las fundadoras y a sus empleados centrarse en lo que mejor hacen: crear productos excepcionales.
+
+Para quienes administran una empresa y tienen poco tiempo libre, puede ser beneficioso contratar agencias externas que
+realicen ciertas actividades, especialmente en el caso de estrategias de marketing, que requieren habilidades más técnicas.
+Por ejemplo, Google Ads requiere conocer la plataforma y saber cómo interpretar las métricas.
+
+A continuación, explora algunas estrategias de marketing que utiliza MERSEA, organizadas en función de las etapas del embudo
+de marketing:
+
+**Conciencia** Para la etapa de Conciencia, MERSEA utiliza anuncios en línea, que incluyen Google Ads y Anuncios de
+Facebook.
+
+MERSEA usa varios tipos de Google Ads. Por ejemplo, la empresa utiliza anuncios de búsqueda para aparecer en búsquedas de
+marcas y productos. También utiliza anuncios de compras para tipos específicos de productos, como “suéter kimono”. En lo que
+se refiere a Anuncios de Facebook, MERSEA posiciona anuncios con clientes potenciales a partir de una segmentación basada en
+el estilo de vida.
+
+Ambas estrategias de anuncios ayudan a que la marca MERSEA y sus productos lleguen a quienes buscan o se interesan por este
+tipo de propuestas.
+
+**Consideración** Durante la etapa de Consideración del embudo de marketing, MERSEA continúa aplicando la publicidad en
+línea, y también utiliza marketing en redes sociales y marketing por correo electrónico.
+
+Para la publicidad en línea, una de las estrategias que utiliza MERSEA es mostrar anuncios a las personas que visitaron
+previamente su sitio web. Esto se conoce como remarketing. Después de que el/la cliente visita el sitio web, recibe anuncios
+específicamente sobre los productos que vio. Este tipo de publicidad se encuentra en la etapa de Consideración, porque los
+anuncios de remarketing generan interés en las y los clientes potenciales.
+
+En sus campañas de marketing en redes sociales y marketing por correo electrónico, MERSEA comparte historias sobre productos
+y así presenta la marca a clientes potenciales.
+
+**Conversión** MERSEA trabaja continuamente para mejorar la etapa de Conversión de su embudo de marketing. Una estrategia
+que utiliza es el seguimiento de las y los clientes que han abandonado sus carritos. Un carrito abandonado ocurre cuando
+un/a cliente agrega un artículo a su carrito en una tienda en línea, pero no termina de realizar la compra. Si el o la
+cliente ingresa su correo electrónico durante el proceso de pago, pero no realiza la compra, MERSEA envía automáticamente
+correos electrónicos de seguimiento para recordarle que el producto está en su carrito. Este seguimiento conduce a un
+aumento en la tasa de conversión.
+
+**Fidelidad** Durante la etapa de Fidelidad, MERSEA convierte a sus clientes de pago en clientes regulares.
+
+Después de realizar una compra, cada cliente recibe correos electrónicos sobre otros productos recién lanzados que pueden
+interesarle. Estos correos electrónicos generalmente se envían dos veces por semana: uno en días laborables y otro durante
+el fin de semana.
+
+Además, una estrategia especial que MERSEA utiliza para generar fidelidad es a través de mensajes de texto. Suele tener
+éxito enviando mensajes de texto para confirmar entregas e informar actualizaciones. Cuando se hace bien, esta estrategia de
+mensajes de texto crea una relación más personal con las y los clientes.
+
+**Los resultados** Si bien el éxito de MERSEA se debe principalmente a la calidad y actualidad de sus productos, el hecho de
+contar con un embudo de marketing eficaz es de gran ayuda. Dos años después de haber decidido enfocarse en el comercio
+electrónico y haber creado un embudo de marketing en línea, MERSEA aumentó sus ventas electrónicas del 10 % al 45 %.
+
+Además, debido a que las y los clientes están satisfechos, y la etapa de Fidelidad está bien desarrollada en su embudo de
+marketing, alrededor del 50 % de las y los clientes de MERSEA son recurrentes.
+
+**Conclusión** No hay una manera única de estructurar un embudo de marketing. La clave para un embudo eficaz es probar
+nuevas ideas continuamente. MERSEA tuvo éxito con sus iniciativas de marketing en línea porque no solo creó una tienda de
+comercio electrónico, sino que diseñó un embudo de marketing para complementarla.
+
+Un producto de calidad es importante, pero un enfoque de marketing integral ayuda a venderlo. Una correcta combinación de
+estrategias de marketing impulsa a las y los clientes a avanzar a través del embudo y a pasar de desconocer la marca a
+interesarse, comprar por primera vez y convertirse luego en clientes regulares.
+
 #### Midiendo el éxito en la parte superior del embudo
 
+Ya aprendiste varias formas de aumentar la conciencia e interacción con clientes. Sabes que elegir bien los canales para
+llegar al público objetivo es una acción relevante para que los negocios ofrezcan sus productos en línea. Pero no llegamos a
+la parte más importante: ¿Cómo saber si las tácticas que elegiste funcionan? ¿Hay formas de mejorar las que ya tienes o
+debes empezar con un plan nuevo? La respuesta a todas estas preguntas es la medición. El hecho es que, no importa cuánto
+investigues o planees tus estrategias, nada de eso importa a menos que puedas medir tu éxito. Medir los resultados en cada
+etapa del embudo te permite entender lo que haces bien y mal y lo que puedes mejorar.
+
+En este video, veremos varias métricas que las empresas usan para medir el éxito arriba del embudo. Una métrica es una
+medición cuantificable usada para realizar seguimiento y evaluar el progreso hacia una meta. Las métricas de marketing
+calibran el rendimiento y eficacia de una campaña, lo que permite a las empresas hacer mejoras para el futuro. Por ejemplo,
+para medir la conciencia de sus anuncios, los marketers usan técnicas para rastrear impresiones, alcance y frecuencia.
+
+Reproduce el video desde :1:19 y sigue la transcripción1:19 Las impresiones son el total de veces que un anuncio aparece en
+la pantalla. Este número incluye a los usuarios que vieron el anuncio más de una vez. Si un anuncio es visto 200 veces por
+100 personas, el número de impresiones es 200, ya que se mostró 200 veces. Al contrario, alcance es el total de individuos
+únicos que se encuentran un anuncio en todos sus diferentes dispositivos. No importa cuántas veces una persona reciba el
+anuncio, solo se cuenta una vez. El alcance de un anuncio que fue visto 200 veces por 100 personas, sería 100. Frecuencia se
+refiere a las veces que cada usuario se encuentra el anuncio en un tiempo determinado. Así, si las 100 personas encuentran
+el anuncio 2 veces en una semana, su frecuencia sería de dos. Estas son algunas métricas usadas para calcular la conciencia.
+
+Más adelante, aprenderás sobre el seguimiento y análisis de métricas de conciencia. El objetivo de la etapa de conciencia es
+que los anuncios lleguen a personas y momentos adecuados. Analizando las impresiones, alcance y frecuencia, los marketers
+descubren el impacto que sus anuncios tienen. Si los números no alcanzan la meta de la empresa para la conciencia, deben
+evaluar su estrategia publicitaria. Pero es posible establecer metas más específicas para la conciencia, como lograr una
+cantidad de visitantes en una página web. Elegir lo que quieres medir exactamente, depende de tus objetivos. Por esto es
+clave establecer metas para cada etapa del embudo.
+
+En la etapa de consideración, hay varias maneras de medir el éxito, pero todas se reducen a una idea: interacción. Cuánto,
+con qué frecuencia y por cuánto tiempo los clientes potenciales se involucran con tu contenido. Las herramientas analíticas
+miden cosas como la frecuencia en que buscan tu negocio en línea, el número de visitantes por primera vez a un sitio, el
+número de páginas por visitante, y cuánto tiempo los visitantes están en una página. Los registros de correo o del boletín
+son una buena forma de medir interacción y obtener la información de contacto del cliente facilitará recordarles que existes
+y demostrar tu valor más adelante.
+
+Puede parecer que más interacción es mejor, pero ese no es siempre el caso. Si la meta es que un cliente encuentre lo que
+necesita rápidamente pero pasa mucho tiempo completando tareas, puede significar que necesitas rediseñar tu página web.
+Medir las interacciones del sitio web puede darte muchas ideas. Es crucial saber qué números son relevantes y lo que
+evidencian en tu meta. Incluso con objetivos claros e información precisa, medir la conciencia y la interacción a veces es
+más difícil que medir asuntos del fondo del embudo, como las ventas.
+
+Más adelante en el programa, aprenderás cómo interpretar esta información y cómo usarla para mejorar las tácticas para que
+los leads vayan de la consideración a la conversión. Repasemos: medir la conciencia y la interacción es lo más importante
+que las marcas pueden hacer para asegurar el éxito arriba del embudo. Los marketers usan técnicas analíticas para medir la
+conciencia a través del número de impresiones, alcance y frecuencia. La consideración se puede medir con el uso del sitio
+web, como las visitas a la página, vistas detalladas y correos registrados. Saber qué medir con el fin de alcanzar las
+metas, es parte del éxito del marketing.
+
+A continuación, aprenderás más sobre el embudo y las etapas de conversión y fidelidad.
+
 ### Aumentar las ventas y generar fidelidad a la marca
+
+#### La parte inferior del embudo: Conversión y Fidelidad
+
+#### Midiendo el éxito en la parte inferior del embudo
+
+#### El futuro del comercio electrónico
 
 ### Repaso: El recorrido del cliente y el embudo de marketing
 
