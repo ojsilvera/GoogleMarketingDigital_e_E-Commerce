@@ -2173,6 +2173,14 @@ editores y las herramientas digitales te ayudarán a llevar las medidas de segur
 
 ### Crea una estrategia de marketing digital y comercio electrónico
 
+#### Los elementos de una estrategia de marketing digital
+
+#### Identifica a tu público y conoce a tus clientes
+
+#### Define tus objetivos de marketing
+
+#### turaCómo establecer objetivos SMART
+
 ### Llega a las y los clientes en línea
 
 ### Promueve la interacción a través de redes sociales y marketing por correo electrónico
