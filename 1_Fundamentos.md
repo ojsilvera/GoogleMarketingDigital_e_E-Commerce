@@ -2341,7 +2341,58 @@ vemos ahí!
 
 #### turaCómo establecer objetivos SMART
 
+A lo largo de este programa, aprenderás sobre los objetivos SMART. En esta lectura, comprenderás, en términos generales,
+qué son los objetivos SMART, y más adelante  complementarás ese conocimiento con actividades, videos y lecturas más detalladas.
+
+**¿Qué son los objetivos SMART?** Antes de crear campañas de correo electrónico, debes evaluar cuáles son los objetivos de
+tu empresa. Es posible que desees aumentar tu base de suscriptores, mejorar el reconocimiento de tu marca o incrementar las
+conversiones, pero estos deseos no son necesariamente tus objetivos. Para que sean objetivos, necesitan algunos detalles y
+especificaciones adicionales.
+
+Cuando establezcas tus objetivos, puedes hacer referencia al acrónimo SMART. SMART son las siglas en inglés de específico,
+medible, alcanzable, relevante y temporal. Garantizar que tus objetivos cumplan con estos criterios te ayudará a mantener
+un orden y a seguir un rumbo claro con tu campaña y le dará un marco temporal a tu trabajo.
+
+**Consideraciones SMART** Para garantizar que tus objetivos sean SMART, considera los siguientes factores:
+
+    Específico: ¿Qué quieres lograr exactamente?
+
+    Medible: ¿Cuáles son las métricas que determinarán si se ha cumplido el objetivo?
+
+    Alcanzable: ¿Es un objetivo realista que crees que puedes cumplir?
+
+    Relevante: ¿Este objetivo de marketing está alineado con los objetivos generales de tu empresa?
+
+    Temporal: ¿Cuál es un marco de tiempo realista dentro del cual se podría cumplir este objetivo?
+
+**Caso práctico** Imagina que eres un/a especialista en marketing digital que trabaja para una empresa de fotografía y uso
+compartido de fotos. Las personas pueden cargar sus fotos en tu sitio web y, mediante tus plantillas de diseño, crear
+álbumes personalizados y otros productos para conmemorar eventos, viajes, seres queridos y más. Ahora, quieres establecer
+nuevos objetivos SMART de cara al próximo trimestre.
+
+Sabes que la empresa quiere enfocarse en aumentar las ventas de álbumes personalizados, por lo que comienzas a pensar en
+los objetivos para lograrlo. Decides establecer un objetivo SMART para poder seguir de cerca tu progreso y se te ocurre
+lo siguiente:
+
+Nuestro objetivo es aumentar las ventas de álbumes personalizados en un 15 % para finales del próximo trimestre, a través
+de una sólida campaña en redes sociales, centrada fundamentalmente en el marketing de influencers.
+
+Este objetivo se ajusta a todos los criterios SMART, lo que significa que podrás seguir fácilmente tu progreso y realizar
+ajustes a medida que avanza la campaña en redes sociales.
+
+**Conclusiones principales** Esto es solo el inicio de tu aprendizaje sobre objetivos SMART. A medida que avances en el
+curso, entenderás con mayor precisión cómo mejorarlos. Por ahora, recuerda que los objetivos SMART siempre deben ser:
+*específicos, medibles, alcanzables, relevantes y temporales.*
+
 ### Llega a las y los clientes en línea
+
+#### Medios de pago, propios y ganados
+
+#### Atrae clientes con la optimización de motores de búsqueda
+
+#### Llegar a las y los clientes con el marketing de motores de búsqueda (SEM)
+
+#### Publicidad de display
 
 ### Promueve la interacción a través de redes sociales y marketing por correo electrónico
 
