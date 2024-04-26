@@ -2886,6 +2886,16 @@ con productos similares de otra marca.
 
 ### Medir el éxito del Performance Marketing
 
+#### Te damos la bienvenida a la semana 4
+
+#### Medir los avances con Performance Marketing
+
+#### Métricas más comunes para medir el éxito
+
+#### Trabajando con datos
+
+#### Ética de datos
+
 ### Usa lo que te muestran los datos y mejora tu estrategia
 
 ### Ve en busca de tu nueva carrera
