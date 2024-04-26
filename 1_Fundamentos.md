@@ -2339,7 +2339,7 @@ metas de la empresa.
 A continuación, veremos tácticas y canales que las marcas pueden usar para impulsar metas de marketing y de negocio. ¡Nos
 vemos ahí!
 
-#### turaCómo establecer objetivos SMART
+#### Cómo establecer objetivos SMART
 
 A lo largo de este programa, aprenderás sobre los objetivos SMART. En esta lectura, comprenderás, en términos generales,
 qué son los objetivos SMART, y más adelante  complementarás ese conocimiento con actividades, videos y lecturas más detalladas.
