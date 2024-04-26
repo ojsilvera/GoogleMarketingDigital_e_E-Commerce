@@ -2888,11 +2888,174 @@ con productos similares de otra marca.
 
 #### Te damos la bienvenida a la semana 4
 
+Hola de nuevo.
+
+Anteriormente en el curso, aprendiste sobre la relación entre el marketing digital y el branding.
+
+Viste las partes de una estrategia de e-commerce y marketing digital, incluida la investigación, fijación de objetivos, y
+selección de los canales y tácticas.
+
+Por último, aprendiste sobre algunos de los canales y tácticas, como SEO, SEM, redes sociales, y marketing por correo
+electrónico.
+
+Esta parte del curso trata sobre los datos, cómo medirlos, cómo interpretarlos, y cómo pueden mejorar tu estrategia.
+
+Veremos el concepto de marketing de rendimiento y algunas formas de trabajar con datos en un puesto de marketing digital o
+e-commerce de nivel básico.
+
+Sabrás cómo los datos pueden ayudar a ver qué funciona bien y cómo adaptarse a los cambios.
+
+Repasaremos algunas formas de demostrar esos hallazgos a través de la narración de datos.
+
+Medir el éxito de tus actividades puede ser lo más importante que aprendas en tu carrera de marketing digital o e-commerce.
+
+Aunque tu estrategia esté bien planificada, esto siempre puede ayudarte a mejorarla, desde crear tu marca, hasta captar
+clientes y maximizar las ventas.
+
+La primera vez que trabajé con datos y marketing digital fue cuando pagué publicidad para mi tienda de e-commerce.
+
+Quería saber si el esfuerzo que hacía merecía la pena el costo adicional.
+
+Con esto vi que había todo un mundo de medición más allá de las campañas de pago que lanzaba.
+
+Podía medir la salud de mi tienda mediante diferentes paneles y recursos analíticos.
+
+Aquí es donde el e-commerce y marketing digital son divertidos porque demuestras que tus tácticas ayudan a alcanzar tus
+metas.
+
+Ya casi finalizas el curso y me ilusiona mucho que cruces la línea de meta.
+
+¡Falta poco!
+
 #### Medir los avances con Performance Marketing
+
+En este curso, hemos mencionado la importancia de medir los resultados de las tácticas, campañas y estrategias de marketing
+digital. Estas actividades son tan importantes que hay un término para describirlas: marketing de rendimiento. Ahora veremos
+qué implica el marketing de rendimiento y cómo permite establecer objetivos, seguir los resultados y mejorar el trabajo,
+Empecemos.
+
+Imagina que es 1985 y trabajas en una agencia de marketing que promociona un nuevo cereal. Creas grupos de discusión para
+conocer los gustos del público objetivo. Con esas entrevistas y tu experiencia en marketing, creas anuncios memorables para
+periódicos, vallas publicitarias y televisión. Luego esperas, suben las ventas, ¡la campaña funciona!
+
+Pero no sabes qué anuncios fueron los más eficaces ni cuántos clientes encontraron el producto mediante la campaña. No es
+que tu estrategia sea mera conjetura, sino que la información recopilada es limitada. Puedes seguir con la misma estrategia
+exitosa. Ahora imagina que lanzas la campaña en línea hoy.
+
+Con el marketing digital, hay muchas formas de medir el éxito de tus tácticas y campañas. Si anuncias cereal en línea,
+puedes ver aspectos que no verías con anuncios físicos, como cuántos encuentran e interactúan con tu anuncio cada semana.
+Recopilar y evaluar toda esa información puede ayudarte a replantear una estrategia débil o a reforzar una buena. Eso es
+marketing de rendimiento.
+
+Es usar información concreta sobre el comportamiento de los clientes para planear y refinar las estrategias de marketing y
+ventas. Se centra en resultados medibles, como clics y conversiones. Los profesionales fijan metas específicas y usan
+métricas para ver si las alcanzan. Ya conoces métricas de rendimiento, como el número de impresiones y el costo por clic en
+anuncios de pago. Otra métrica es el valor del tiempo de vida del cliente, que se refiere a los ingresos medios generados
+por cliente durante un período.
+
+También se mide el ROAS: retorno de la inversión publicitaria. El ROAS compara la cantidad de ingresos obtenidos con la
+cantidad gastada. Si se gastan $100 en un anuncio y se ganan $150 gracias a él, el ROAS es del 150 %.
+
+Para el ejemplo del cereal, si se quisiera aumentar los ingresos totales, se puede usar el ROAS para medir el éxito. Hay
+muchas formas de medir el rendimiento en cada etapa del embudo de marketing. Y medir es crucial porque el recorrido del
+cliente promedio requiere unos seis puntos de contacto. Esa cifra ha aumentado más del doble a lo largo de 15 años.
+
+El marketing de rendimiento mide cómo contribuye cada punto para las metas. Nos ayuda a captar clientes e interactuar con
+ellos mejor.
+
+**Repasemos.** Medir resultados con marketing de rendimiento es muy importante para garantizar el éxito. Al seguir métricas
+como el ROAS y el valor del tiempo de vida del cliente, se alcanzan las metas y se refinan las estrategias con el tiempo. A
+continuación, verás más sobre métricas de rendimiento y cómo usar los datos que producen.
 
 #### Métricas más comunes para medir el éxito
 
+Además de establecer tus objetivos, debes hacer un seguimiento de tus progresos para ver qué tan cerca estás de alcanzarlos.
+Si tu objetivo es terminar un libro por mes durante 12 meses, debes revisar tus avances cada tanto, para saber si podrás
+lograrlo. Puedes contar las páginas leídas de cada libro o crear una lista con los títulos de los libros que ya leíste y vas
+a leer. Las mismas prácticas se pueden aplicar para medir la efectividad de las campañas de marketing.
+
+En esta lectura, conocerás la importancia de medir el éxito. Comprenderás a qué debes dar seguimiento para medir tu éxito y
+te recordaremos qué es una métrica. Luego, verás dónde pueden encajar las diferentes métricas en tu embudo de marketing.
+
+**Introducción a las métricas** A medida que avances en este programa, aprenderás mucho sobre las métricas. Por ahora,
+recuerda que una métrica es una medición cuantificable que se usa para dar seguimiento y evaluar el cumplimiento de un
+objetivo de negocio. Las métricas ayudan a determinar el éxito de las iniciativas y las campañas de marketing.
+
+*¿Por qué hacer un seguimiento de las métricas?* Las métricas ayudan a quienes se especializan en marketing digital a medir
+qué tan cerca o lejos están de cumplir sus objetivos. Cada métrica mide algo específico y, por lo tanto, le dice a un/a
+especialista en marketing algo diferente sobre su campaña. Las métricas pueden revelar información importante sobre las
+campañas, como el retorno sobre la inversión (ROI), el retorno sobre la inversión publicitaria (ROAS), el costo por venta y
+los ingresos en línea y por ventas.
+
+![alt text](image-8.png)
+
+**Métricas en el embudo de marketing** Debes aplicar diferentes tácticas para hacer un seguimiento de las métricas, según la
+etapa del embudo de marketing en la que estés. Por ejemplo, en la etapa de Conciencia, reunirás datos sobre la audiencia y
+desarrollarás tipos ideales de cliente (personas). Esto te ayudará a saber quiénes son tus clientes. Durante la etapa de
+Consideración, debes mirar métricas como el costo de adquisición y tasas de clics. Durante la etapa de Conversión,
+analizarás las tasas de conversión en ventas, los valores promedio de los pedidos y las tasas de abandono del carrito.
+Finalmente, durante la fase de Fidelidad, debes considerar la tasa de retención de clientes y el valor del tiempo de vida
+del cliente.
+
+Hay otros factores a considerar dentro del embudo de marketing, y puede que estos términos aún no te sean familiares, pero
+por ahora, empecemos con estas definiciones.
+
+**Conclusiones principales** El seguimiento de las métricas es fundamental para el éxito de una campaña. Las métricas ayudan
+a quienes se desempeñan en marketing digital a medir la efectividad y la satisfacción de sus audiencia mientras se lleva a
+cabo una campaña. También, ayudan a obtener información y conocimientos que pueden usarse en campañas futuras.
+
 #### Trabajando con datos
+
+El marketing de rendimiento genera muchos datos, desde impresiones y clics en la parte superior del embudo hasta cifras de
+conversión y ventas en la parte inferior.
+
+Los datos son críticos a lo largo de todo el ciclo de marketing y ventas. Los datos son una colección de hechos o
+información. El número total de seguidores de tu empresa en las redes sociales, el número de horas que un equipo dedica a un
+proyecto, o los ingresos totales anuales, son cifras que constituyen datos.
+
+Los datos de marketing ayudan a responder preguntas de forma concreta basándose en conductas e interacciones reales de los
+clientes. Los datos son útiles para planificar campañas, predecir comportamientos futuros, y averiguar si tus actividades te
+están ayudando a alcanzar tus KPI.
+
+Recordarás que un KPI, o indicador clave de rendimiento, es una medida utilizada para evaluar el éxito de una empresa en su
+esfuerzo por alcanzar un objetivo de negocio o marketing. Tus KPI podrían ser ciertas métricas, como el ROAS. Pero si notas
+que no estás alcanzando tus metas, es posible que tengas que dar prioridad a otros KPI.
+
+Para saber si estás cumpliendo con ellos, tienes que usar e interpretar los datos pertinentes. El proceso de supervisar y
+evaluar datos para obtener información práctica se llama analítica de datos. Es una de las destrezas más importantes para
+una carrera en marketing digital o e-commerce.
+
+No tienes que ser un experto en estadística para trabajar con eso. Solo indica que la mayoría de los puestos de nivel básico
+implican trabajar con datos de alguna manera. Veamos las principales responsabilidades que puedes tener en analítica de
+datos.
+
+Extracción, creación de informes y analítica de datos. El primero es el proceso de recopilar datos desde herramientas de
+análisis y ponerlos en una hoja de cálculo o base de datos, para facilitar el acceso y el trabajo.
+
+Por ejemplo, es posible que tengas campañas con metas similares en diferentes plataformas como Facebook, Bing y Google. Para
+que sea más fácil comparar y analizar los datos, tendrás que reunirlos todos. Una forma es extraer los datos de cada fuente
+y organizarlos en una hoja de cálculo.
+
+Los informes de datos, también llamados informes de rendimiento, consisten en organizar y resumir los datos para seguir el
+rendimiento de los esfuerzos de marketing y ventas. Este proceso facilita identificar tendencias y detectar resultados
+inesperados con mayor rapidez.
+
+Por ejemplo, si extrajiste datos de varias fuentes, la elaboración de informes hace que sea más fácil saber si una tiene un
+ROAS más alto que otra. Los informes de calidad aclaran las cifras en bruto. Ayuda a dar forma a las preguntas que se
+responden con el análisis.
+
+Analítica de datos es el proceso de examinar los datos para sacar conclusiones, hacer predicciones y tomar decisiones
+informadas. Si los informes son el qué, el análisis es el por qué. Te ayuda a desarrollar ideas que explican los resultados
+comunicados y hacer sugerencias para los próximos pasos, como modificar tu presupuesto o priorizar diferentes KPI.
+
+Más adelante verás cómo trabajar con los datos. Espero entiendas mejor qué son los datos y por qué son tan importantes para
+el éxito del marketing y las ventas. Ahora, repasemos.
+
+Los datos del marketing de rendimiento son un recurso muy valioso para entender si tu estrategia cumple bien sus objetivos.
+En un puesto inicial, puede que te encuentres extrayendo, informando o analizando datos de rendimiento. A través de la
+analítica de datos, puedes averiguar si cumples tus metas, anticipar el comportamiento del cliente, y hacer planes.
+
+Próximamente, hablaremos sobre cómo interpretar los datos y presentarlos a otros.
 
 #### Ética de datos
 
