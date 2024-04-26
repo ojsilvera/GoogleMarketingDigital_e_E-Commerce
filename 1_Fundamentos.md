@@ -2490,7 +2490,85 @@ publicidad de pago.
 
 #### Llegar a las y los clientes con el marketing de motores de búsqueda (SEM)
 
+En esta lección has aprendido sobre tres tipos de medios digitales: medios de pago, propios y ganados. También viste cómo
+se usa el SEO para clasificar en los resultados y aumentar el tráfico hacia el sitio.
+
+Ahora profundizaremos en la publicidad de pago. Esta es toda forma de difusión digital que una marca paga por publicar en
+línea. Una gran parte de esta difusión es el marketing de motores de búsqueda (SEM). El SEM es el proceso de generar tráfico
+a un sitio por anuncios de pago que aparecen en las SERPs. Los anuncios SEM aparecen arriba o debajo de los resultados de
+búsqueda. Una nota de terminología: alguna empresas creen que el SEM incluye anuncios de pago en motores de búsqueda y SEO.
+Simplifiquemos: el SEO tiene que ver con la clasificación de las listas de búsqueda en SERPs; en cambio, el SEM se lleva a
+cabo a través de anuncios de pago.
+
+El SEM empieza como el SEO: investigar palabras clave. Si tu empresa vende vitaminas, puedes publicar un anuncio dirigido a
+clientes que buscan la frase “vitamina C”. Tras hallar palabras clave, entras a una subasta de anuncios y pujas por ellas.
+La subasta de anuncios se refiere a cómo decide el motor de búsqueda mostrar qué anuncios y su orden al hacer una búsqueda.
+Al pujar por una palabra clave decides cuánto pagar cuando alguien busca un término y selecciona tu anuncio. Esto se
+denomina pago por clic (PPC): pagas solo si alguien hace clic en tu anuncio.
+
+Lo que pagas si alguien hace clic en un anuncio de PPC se denomina costo por clic (CPC).
+
+Como en cualquier subasta, puedes perder la puja. Es decir, tu anuncio no aparecerá en todas las búsquedas. Los motores de
+búsqueda deciden qué anuncios mostrar según factores como la calidad y puja máxima. Verás más sobre eso más adelante. SEM es
+excelente para captar clientes específicos de forma rápida, pero también tiene otras ventajas.
+
+Cuando un cliente encuentra un sitio en los resultados, suele terminar en su página de inicio. Pero con los anuncios de
+pago, puedes elegir a dónde llega el cliente, como un formulario de registro o una página de producto específica. Una gran
+ventaja de los anuncios de pago es que permiten hacer remarketing. Con el remarketing, identificas clientes anteriores o
+visitantes del sitio y les muestras anuncios de pago en otros sitios y RR. SS. ¿Has buscado pantalones en un sitio web y
+luego te aparecen en otros sitios? Eso es remarketing. Ayuda a recaptar personas que ya están interesadas en tu marca.
+
+Es importante porque la mayoría de los visitantes abandona el sitio sin completar una acción, como comprar. Quizá quieren
+ver las opciones o buscar más antes de comprar. El remarketing anima a las personas a volver recordándoles por qué hicieron
+clic en tu anuncio. Lo visitantes del sitio y clientes anteriores son el segmento de tu audiencia con mayor posibilidad de
+conversión. Los recordatorios extra puede surtir un gran efecto. Explorarás estos conceptos más adelante.
+
+Ahora repasemos. Con el SEM, las marcas generan tráfico para su sitio web publicando anuncios de pago en las páginas de
+resultados. Se usa un modelo llamado publicidad de pago por clic, que te cobra cuando alguien hace clic en tu anuncio. Los
+anuncios de pago tienen ventajas, como captar clientes rápidamente, controlar dónde aterrizan los visitantes en el sitio y
+remarketing.
+
+A continuación, verás otros tipos de publicidad de pago para atraer y convertir clientes.
+
 #### Publicidad de display
+
+Esta lectura tiene como objetivo presentarte un tipo común de publicidad: la publicidad de display. Millones de empresas en
+todo el mundo usan la publicidad de display por su alta eficacia.
+
+¿Qué es la publicidad de display? Los anuncios de display son elementos publicitarios de formato visual, colocados en
+páginas web o aplicaciones. Pueden ser imágenes, textos, videos o GIF que se envían a las redes de display para que sean
+mostradas a una audiencia en particular y de ese modo promocionar una  marca, servicio o producto.
+
+Una red de display es un grupo de sitios web, videos y aplicaciones donde pueden aparecer anuncios. Algunas redes de display
+pueden incluir hasta dos millones de sitios web. Las redes de display permiten a las y los especialistas en marketing
+orientar sus anuncios hacia determinadas audiencias, contextos, ubicaciones y más. Algunos ejemplos de redes de display son
+la Red de Display de Google, Taboola y Criteo. Sin embargo, existen muchas opciones más; te invitamos a descubrir tantas
+como puedas, para determinar cuál es la mejor para ti.
+
+**Tipos de anuncios de display** Los anuncios de imagen son archivos JPG, PNG estáticos o GIF animados que aparecen en los
+sitios web. Llegar a las y los clientes a través de imágenes es muy útil,  porque pueden apreciar más la utilidad de tu
+producto.
+
+Los anuncios de texto son anuncios generales que aparecen en los sitios web solo en formato texto. Estos no son los anuncios
+más dinámicos, porque solo se trata de texto.
+
+Los anuncios adaptables (responsivos) ajustan automáticamente su tamaño y formato para adaptarse al espacio que cada sitio
+tiene a disposición. La flexibilidad y la capacidad de los anuncios adaptables los hace muy populares. También pueden
+aparecer como anuncios nativos, lo que significa que están diseñados y formateados para parecerse a una pieza original del
+sitio web en el que aparecen.
+
+Los anuncios de promoción de aplicaciones son anuncios que impulsan las descargas de aplicaciones y la interacción con las
+y los usuarios que las descargan. Los anuncios de promoción de aplicaciones son excelentes porque, al hacer clic,
+redireccionan a las personas directamente a las tiendas de sus dispositivos, de modo que puedan descargar fácilmente
+cualquier aplicación. Estos anuncios solo aparecerán en dispositivos compatibles con su contenido.
+
+**¿Cómo encajan los anuncios de display en el embudo de marketing?** Cuando crees campañas de marketing digital, con el
+objetivo de presentar tu empresa e interactuar con clientes potenciales, puedes optar por usar anuncios de display para
+garantizar una estrategia eficaz y exitosa. En Google, los anuncios de display se usan para las etapas de Conciencia y
+Consideración del embudo, dado el potencial que tienen de impulsar el reconocimiento de la marca y aumentar la base de
+clientes de la empresa. Sin embargo, también se utilizan anuncios de display en la parte inferior del embudo, para el
+remarketing. El remarketing muestra anuncios de pago a las y los clientes que ya han visitado tu sitio web o tu perfil de
+redes sociales. Esto ayuda a aumentar las conversiones y a mantener la fidelidad de las y los clientes.
 
 ### Promueve la interacción a través de redes sociales y marketing por correo electrónico
 
