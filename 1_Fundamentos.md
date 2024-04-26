@@ -2574,14 +2574,322 @@ redes sociales. Esto ayuda a aumentar las conversiones y a mantener la fidelidad
 
 #### Introducción a las redes sociales y al marketing por correo electrónico
 
+Ya aprendiste sobre SEO, SEM, y anuncios gráficos.
+
+Ahora vamos a presentar dos canales más que se pueden usar para alcanzar objetivos de marketing digital: marketing en medios
+sociales y por correo.
+
+Ambos tienen diferentes fortalezas, por lo que son más eficaces juntos.
+
+Antes de hablar de cada canal, repasemos lo que hacen bien y cómo colaboran para crear conciencia y mantener lazos con los
+clientes por mucho tiempo.
+
+Las marcas hacen mucho en los medios sociales.
+
+Gracias al volumen de gente, es uno de los canales más efectivos para encontrar nuevas audiencias.
+
+Con cuentas de medios sociales, las empresas interactúan con los clientes, publican anuncios e incluso generan ganancias con
+contenido viral.
+
+Pero las medios sociales también tienen un gran inconveniente: las empresas pueden controlar lo que publican en sus cuentas,
+pero no las plataformas en sí.
+
+Entonces, si una plataforma cierra o cambia su algoritmo, afecta la capacidad de la marca para llegar a sus seguidores de
+inmediato.
+
+Lo bueno es que los medios ayudan a las marcas a ampliar sus listas de correo, que son propias.
+
+El marketing por correo no tiene el alcance de los medios sociales, pero no lo necesita.
+
+Esto se debe a que el marketing por correo es para reforzar lazos con quienes ya se interesan en la marca.
+
+Y como las empresas controlan sus listas de correo, nutren estas relaciones con el tiempo.
+
+El marketing por correo también es muy rentable.
+
+En promedio, aporta más de $40 por cada dólar gastado.
+
+Y listo.
+
+Juntos, el marketing por correo y los medios sociales ayudan a las marcas con su alcance, la conciencia y conectar con los
+clientes en línea.
+
+Obtendrás más información sobre ambos canales y cómo colaboran, muy pronto.
+
+Nos vemos ahí.
+
 #### Conceptos básicos del marketing en redes sociales
+
+Durante este curso, hemos dicho lo importante que es encontrar y conectar con el público objetivo en Internet. Para lograr
+esto nada mejor que los medios sociales.
+
+Más de la mitad de las personas del mundo están en los medios sociales, y esa cifra no hace más que crecer. Puede que a un
+público le guste más Twitter que Tiktok o que otro prefiera Facebook a Instagram. Pero sin importar lo que se venda, seguro
+los medios serán una parte clave de su estrategia de marketing.
+
+El marketing en medios sociales es la práctica de crear y publicar contenidos para estas plataformas a fin de fomentar la
+interacción y promocionar una marca o un producto. Crear contenidos para medios sociales puede parecer sencillo, porque la
+gente publica contenido interesante, divertido o conmovedor en sus cuentas personales todos los días.
+
+Pero hay más en este tipo de marketing que escribir cosas ingeniosas o informativas. Este marketing implica las mismas
+cuestiones que la estrategia general de marketing digital de una empresa. Como aumentar la interacción, ampliar su alcance y
+crear su marca. Pero esas actividades se llevan a cabo en medios sociales.
+
+Veamos cómo las empresas usan estos medios para ampliar sus esfuerzos y alcanzar sus metas de marketing digital. Podemos
+dividir estas actividades en 5 categorías: los 5 pilares del marketing en medios sociales. Estos pilares son: estrategia,
+planificación y publicación, escucha y interacción, análisis e informes, y medios sociales de pago.
+
+Empecemos por la estrategia. Antes de planificar el contenido o la campaña, tienes que saber quién es tu público, y qué
+plataformas usa. Si a tu audiencia le interesa más el contenido sobre decoración del hogar, es posible que no uses una
+plataforma de negocios y creación de redes.
+
+Publicar el contenido correcto en los sitios correctos ahorra tiempo y dinero. Para saber qué tipo de contenido crear,
+necesitarás conocer tus objetivos. Por ejemplo, si quieres crear una comunidad en torno a tu marca, te centras en contenido
+interactivo como encuestas o sesiones de preguntas y respuestas. Pero si quieres promocionar un nuevo producto, hacer un
+sorteo podría ser mejor.
+
+Comprender a tu público y tener objetivos claros te ayudará a crear contenidos eficaces y relevantes. Una vez que tengas tu
+estrategia y contenido, considera la planificación y la publicación. Eso significa decidir cuándo publicar contenido y con
+qué frecuencia. La idea es atraer seguidores para que se acuerden de ti, pero no tan a menudo para no abrumarlos.
+
+Luego viene la escucha y la interacción social. Una vez que tu contenido sea público, sigue y analiza las conversaciones y
+menciones sociales sobre tu marca. Esto significa monitorear las respuestas directas al contenido de una marca, como
+publicaciones sobre sus productos, lo que sirve para saber cómo se sienten los clientes sobre tu negocio.
+
+La información que obtengas puede ayudarte a decidir cómo responder y relacionarte con los clientes en las redes. Esas
+respuestas son importantes porque pueden afectar la imagen de marca y las relaciones con los clientes. Piensa en la escucha
+social e interacción como una conversación. En primer lugar, una empresa publica contenidos. Luego escucha la respuesta de
+su público.
+
+Al prestar atención a lo que dice su audiencia, puede determinar la mejor manera de responder. Por ejemplo, si alguien
+publica sobre lo útil que es una herramienta concreta, como una app de seguimiento de hábitos, la marca podría responder con
+agradecimiento y ánimo. Pero si publica que la app no funciona bien, podría compartir tips para solucionar el problema.
+
+Luego usarás los análisis e informes para averiguar el rendimiento de tus contenidos o campañas y comunicar los resultados a
+otros. Las herramientas de análisis pueden rastrear y medir cosas como comentarios, acciones, seguidores o clics. Pueden
+indicarte cuántas personas usan un hashtag o el número de menciones positivas en el tiempo.
+
+Las empresas pueden usar estos datos para responder a las tendencias u orientar sus estrategias futuras. Por último, están
+las redes sociales de pago. Los anuncios de pago en redes sociales tienen muchas de las ventajas de los anuncios en otros
+canales. Pueden ampliar el alcance de una marca más allá de su base de clientes existente y permitirle recomercializar
+productos.
+
+Pero la publicidad en redes sociales también tiene otras ventajas. Por un lado, las plataformas proporcionan información más
+detallada sobre los usuarios que los motores de búsqueda. Eso significa que las marcas pueden enviar anuncios a grupos de
+clientes muy específicos. Por último, las redes sociales de pago son geniales para que las marcas aumenten sus listas de
+email.
+
+Al vincular los anuncios a formularios de registro, las empresas pueden contactar a sus seguidores y enviarles ofertas
+especiales. Como cualquier estrategia de marketing digital, el marketing en redes implica conocer a tu audiencia,
+encontrarla en línea, y establecer metas significativas. Solo entonces podrás planear, crear y publicar contenidos.
+
+La escucha social y la medición pueden decirte cómo interactuar con tu público eficazmente y refinar tu estrategia. Por
+último, con los anuncios sociales de pago, puedes ampliar tu alcance, dirigirte a clientes específicos, y aumentar tus
+listas de email. Próximamente, verás más sobre marketing en medios sociales y cómo usar el correo para mantener las
+relaciones con los clientes.
 
 #### Elige las plataformas adecuadas para el público al que apuntas
 
+Aunque tú hagas un determinado uso, a nivel personal, de las plataformas de redes sociales, debes entender que el uso que
+harás como especialista en marketing digital es muy diferente. En esta lectura aprenderás a establecer y alcanzar objetivos
+utilizando herramientas y plataformas de redes sociales específicas.
+
+**Objetivo 1: Conectarte con tu público** Uno de los objetivos fundamentales de una marca es relacionarse con su público. Si
+tu marca o empresa ha elegido priorizar este objetivo, tendrás que considerar qué plataformas de redes sociales son las
+mejores para ello. Por ejemplo, plataformas donde las personas interactúan con mensajes cortos, y donde se fomenta la
+comunicación abierta, como Twitter, son muy adecuadas para relacionarte con tu público, ya que fomentan y priorizan el arte
+de la conversación. Twitter es quizás una de las pocas plataformas donde una marca puede publicar docenas de veces al día,
+sin sobrecargar a sus seguidores/as.
+
+Para relacionarte con tu público en una plataforma como Twitter, debes mantenerte ágil. Si alguien interactúa con tu marca,
+siéntete libre de responder rápidamente y continuar la conversación. Si te mencionan debido a un problema con un pedido,
+brinda un servicio útil y empático. Lo más importante al interactuar con clientes en línea es siempre ser fiel a la voz de
+tu marca. Quienes te siguen esperan encontrar esa voz y te reconocerán por ello.
+
+Consejo profesional: Es importante mantener una actitud proactiva para relacionarte con tu público. En lugar de esperar a
+que las personas se comuniquen contigo, procura generar conexiones activamente dentro de tu comunidad de seguidores y
+seguidoras.
+
+**Objetivo 2: Dirigirte a nuevos/as clientes** Si lo que quieres es dirigirte a nuevos clientes, quizás te convenga utilizar
+una plataforma para compartir fotos y videos, como Instagram. Este es un buen lugar para mostrarle a la gente tu producto,
+en lugar de hablarle sobre él. Allí puedes contar las historias de tu marca y tus productos utilizando imágenes interesantes
+y dinámicas.
+
+Instagram es eficaz para contar la historia de tu marca porque sus usuarios/as pasan mucho tiempo en la plataforma
+aprendiendo, inspirándose, comprando, probando cosas nuevas y mucho más. Además, es un espacio donde las marcas pueden
+aprovechar a otras personas que tengan muchos seguidores para que también cuenten su historia.
+
+El marketing de influencers es una táctica eficaz para dirigirse a nuevos clientes. Implica la colaboración de una marca con
+un/a influencer en línea para comercializar sus productos o servicios. Que un/a influencer presente tu marca a sus
+seguidores (un grupo de personas que posiblemente no te conozcan), puede ser algo muy bueno . Otra estrategia eficaz para
+llegar a nuevos clientes y aumentar el alcance de tu marca son las campañas publicitarias en redes sociales.
+
+Consejo profesional: Si priorizas el marketing de influencers, asegúrate de que las personas con las que te asocies puedan
+potencialmente interesarse en tu producto.
+
+**Objetivo 3: Llevar tráfico a tu sitio web** Si deseas llevar más tráfico a tu sitio web, considera una plataforma de redes
+sociales que te permita compartir artículos, enlaces, productos, imágenes y reseñas, como Facebook. Si el contenido que
+compartes es llamativo, informa y se conecta fácilmente con tu sitio, es más probable que las y los usuarios hagan clic en
+él y terminen en tu página web. Si a las personas les gusta lo que ven en tu página, puede que ellas mismas compartan el
+contenido en sus perfiles, lo que posiblemente resulte también en un mayor tráfico a tu sitio web.
+
+Si usas una plataforma como esta, es fundamental que la voz y el estilo de tu marca se vean reflejados también en las
+imágenes. Tu contenido debe parecer útil y relevante, y atraer a las y los usuarios para incrementar el número de visitas de
+tu sitio web.
+
+Consejo profesional: No todas las plataformas de redes sociales te permiten compartir fácilmente enlaces que redireccionen a
+tu página web, pero hacerlo puede ser una excelente manera de atraer público a tu sitio.
+
+**Conclusiones principales** Es probable que debas priorizar unas plataformas sobre otras, dependiendo de cuáles sean las
+metas y objetivos de tu empresa. Sin embargo, siéntete libre de repetir las mismas iniciativas y campañas en diferentes
+redes sociales. Incluso si utilizas unas pocas plataformas para alcanzar tus objetivos, personaliza el contenido para que
+sea exactamente lo que tu público quiera ver en cada una de ellas.
+
 #### Construye relaciones con marketing por correo electrónico
+
+Ya sabes que el marketing en medios sociales permite a las marcas ampliar su alcance y crear una lista de suscriptores de
+correo. Aquí hablaremos de algunas de las cosas que las marcas pueden hacer con esas listas una vez que las tienen. Pero
+antes de llegar a eso, definamos qué es y qué no es el marketing por correo.
+
+En primer lugar, el correo marketing no es spam. El spam, conocido como correo basura, se refiere a cualquier correo no
+deseado que se envía en masa a muchos destinatarios. Este llega a tu bandeja de entrada, a pesar de que nunca solicitaste
+recibirlo. Los spammers pueden hacer afirmaciones que son muy buenas para ser ciertas o enviar el mismo contenido a todos
+los de su lista, independientemente de sus intereses. A menudo envían tantos correos que acaban molestando a los clientes
+potenciales.
+
+¿En qué se diferencia el marketing por correo spam? Marketing por correo es cuando una marca envía mensajes a una lista de
+suscriptores para compartir información, impulsar las ventas o crear una comunidad. Esto significa enviar contenido
+relevante y útil a personas que han aceptado recibirlo. Cuando se hace bien, el marketing por correo ayuda a las marcas a
+crear y mantener lazos con clientes potenciales y existentes.
+
+¿Cómo evitan las marcas parecer spammers? ¿Cómo se aseguran de enviar el contenido adecuado, a las personas adecuadas y en
+el momento oportuno? Usan la segmentación y la personalización. Analicemos estas ideas una por una.
+
+En primer lugar, la segmentación. Consiste en dividir una lista de suscriptores en grupos más pequeños, en función de
+intereses, ubicación o historial de compras. Permite a las marcas personalizar los correos para los distintos grupos y
+enviar a los suscriptores contenido relevante. Cuanto más conozcan las marcas a sus suscriptores, más podrán segmentar sus
+listas, facilitando así la creación de relaciones con los clientes.
+
+Así, si alguien compra comida para gatos en una tienda, puede que le guste recibir anuncios sobre otros productos
+relacionados, como golosinas o juguetes. Pero si recibe un cupón de alpiste, es posible que borre ese mensaje, e incluso que
+se dé de baja, que es lo contrario de lo que quiere la tienda. Pasemos a la personalización.
+
+Mientras la segmentación ayuda a los mercadólogos a decidir qué contenido enviar a qué personas, la personalización es un
+proceso de adaptación del contenido a los suscriptores individuales. Esto no significa enviar un correo diferente a cada
+suscriptor. Si los mercadólogos hicieran eso, no tendrían tiempo para nada más. Pero hay ciertas cosas que pueden hacer para
+ofrecer una experiencia específica a cada persona.
+
+Estos son algunos ejemplos: los mercadólogos pueden dirigirse a cada destinatario poniendo su nombre en la línea de saludo o
+asunto. Enviar promociones para eventos especiales como cumpleaños, días festivos, o aniversarios. Mensajes que coincidan
+con el punto del embudo de marketing en el que está el cliente. Un correo de un programa de fidelización no debería ir a
+suscriptores que aún están en la etapa de consideración. Puede dar seguimiento de interacciones previas, como pedir a un
+cliente que comparta su opinión sobre una compra reciente.
+
+Ya sabes la diferencia entre marketing por correo y spam, y cómo las marcas usan técnicas como la segmentación y la
+personalización para crear y mantener relaciones con los clientes. A continuación, conocerás algunos tipos diferentes de
+correos que pueden atraer, convertir y retener a los clientes.
 
 #### Tipos de campañas de correo electrónico
 
+Como especialista en marketing digital, conocerás muchos tipos de campañas de correo electrónico, que buscan alcanzar
+diferentes objetivos. La forma en la que se clasifica a los tipos de campaña puede cambiar de una organización a otra. Sin
+embargo, en esta lectura podrás ver los principales tipos de campañas de correo electrónico que existen y qué intenta
+conseguir cada uno de ellos. Más adelante, profundizarás en cada tipo de correo electrónico en particular.
+
+**Aplicaciones en la vida real** A medida que vayas conociendo los diversos tipos de campañas de correo electrónico que
+existen, piensa en aquellos correos que te suelen enviar. Reflexiona sobre cuál fue la intención del remitente al enviarte
+el correo electrónico. ¿Funcionó? Cuéntanos por qué sí o por qué no.
+
+Nota: Una gran parte del marketing por correo electrónico prueba constantemente diferentes tácticas para descubrir qué
+funciona y qué no. Puedes usar todos o solo algunos de los tipos de correo electrónico que te mencionaremos a continuación,
+según lo que consideres más eficaz para tu público y tus objetivos de marketing.
+
+**Tipos de campañas de correo electrónico** Los siguientes son los tipos más comunes de campañas de correo electrónico:
+
+*Correos electrónicos de captación:* se envían para captar nuevos/as clientes. Son parte de la etapa de Conciencia del
+embudo de marketing, porque involucran a clientes potenciales.
+
+*Correos electrónicos de bienvenida:* se envían a nuevos clientes o suscriptores. Estos correos suelen formar parte de la
+etapa de Consideración del embudo de marketing, porque fomentan una mayor interacción y acciones específicas.
+
+*Boletines informativos:* se envían a las y los suscriptores regularmente. Contienen noticias y contenidos informativos
+relevantes para la empresa y de interés para las y los suscriptores. Los boletines informativos son campañas versátiles
+porque pueden utilizarse en varias etapas del embudo. Encajan en la etapa de Consideración cuando las personas están
+conociendo tu marca. Son parte de la etapa de Conversión cuando las y los clientes han decidido que les gusta tu marca y
+quieren apoyarla. Y se ajustan a la etapa de Fidelidad cuando quienes ya compraron regresan por más productos y contenido.
+
+*Correos electrónicos promocionales:* se envían para informar a las y los suscriptores sobre productos o servicios nuevos, o
+incluso sobre algunos que ya existen. Estos correos generalmente caen en las etapas de Consideración y Fidelidad del embudo
+de marketing, porque buscan que las y los suscriptores realicen algún tipo de acción.
+
+Correos electrónicos de retención se envían a suscriptores/as actuales, con la intención de mantenerlos como clientes. Este
+tipo de campaña encaja en la sección de Fidelidad del embudo.
+
+**Conclusiones principales** Aunque estos tipos de correos electrónicos son los más usados, tendrás que probar diferentes
+tácticas para determinar cuáles se adaptan mejor a lo que necesita tu público. Ten en cuenta lo que has aprendido aquí, pero
+siéntete libre de cambiar o innovar si las cosas no salen como esperabas.
+
 ### Revisión: Estrategia de marketing digital y comercio electrónico
 
+#### Términos del glosario de la semana 3
+
+Anuncio gráfico: formato de anuncio visual colocado en sitios web o aplicaciones.
+
+Cliente ideal (customer persona): representación de un grupo de personas similares en una audiencia deseable.
+
+Costo por clic (CPC): lo que paga un anunciante cuando alguien hace clic en un anuncio de PPC.
+
+Extensión de anuncios: función de Google Ads que muestra información adicional sobre el negocio.
+
+Marca: la manera en la que el público percibe una empresa u organización.
+
+Marketing de contenido: técnica de marketing que se centra en crear y distribuir contenido relevante a una audiencia
+específica.
+
+Marketing de motores de búsqueda (SEM): consiste en generar tráfico a un sitio web a través de anuncios de pago que aparecen
+en los resultados de los motores de búsqueda.
+
+Marketing por correo electrónico: consiste en enviar mensajes a una lista de suscriptores para compartir información,
+impulsar las ventas o crear una comunidad.
+
+Medios de pago: cualquier forma de promoción digital que una marca paga por publicar en línea.
+
+Medios ganados: exposición digital positiva, generada a través de recomendaciones personales o públicas.
+
+Medios propios: todo el contenido digital sobre el cual una marca tiene control total.
+
+Mix de medios: combinación de canales digitales que se usan para alcanzar distintos objetivos y cómo se divide el
+presupuesto de la marca entre ellos.
+
+Objetivo de negocio: meta, logro o resultado deseado para un negocio.
+
+Optimización de motores de búsqueda (SEO): proceso de mejorar la visibilidad de las páginas web en los buscadores para
+atraer tráfico más relevante.
+
+Páginas de resultados de motores de búsqueda (SERP): páginas de resultados que produce un buscador cuando alguien hace una
+búsqueda en línea.
+
+Pago por clic (PPC):  tipo de publicidad que permite que el anunciante pague solo cuando alguien hace clic en el enlace de
+un anuncio.
+
+Palabra clave: término de búsqueda que las personas usan para encontrar información, productos y servicios en línea.
+
+Segmentación: consiste en dividir una lista de suscriptores de correo electrónico en grupos más pequeños según criterios
+como intereses, ubicación o historial de compras.
+
+Seguridad de marca: es mantener la buena reputación de una marca cuando se anuncia en línea.
+
+Valor de marca o "Brand Equity": valor que las y los consumidores atribuyen a las propuestas de una marca, en comparación
+con productos similares de otra marca.
+
 ## Medir el exito
+
+### Medir el éxito del Performance Marketing
+
+### Usa lo que te muestran los datos y mejora tu estrategia
+
+### Ve en busca de tu nueva carrera
+
+### Revisión: medir el éxito del Performance Marketing
+
+### Revisión del curso: Fundamentos del marketing digital y el comercio electrónico
