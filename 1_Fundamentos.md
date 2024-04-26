@@ -2101,7 +2101,7 @@ marca. No puedes tener uno sin el otro.
 Una marca fuerte puede ser muy valiosa y el marketing digital puede hacerla aún más fuerte. Ejemplo, las campañas de
 marketing digital ayudan a alzar el valor con equidad de marca.
 
-¿Qué es el valor de marca? Es el valor que los consumidores dan a las ofertas de una marca frente a productos similares de
+¿Qué es el valor de marca(brand equity)? Es el valor que los consumidores dan a las ofertas de una marca frente a productos similares de
 otra marca. Si una marca tiene valor positivo, los clientes están conformes y podrían pagar más que por un producto idéntico
 de otra marca.
 
