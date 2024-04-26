@@ -2440,6 +2440,54 @@ captar clientes.
 
 #### Atrae clientes con la optimización de motores de búsqueda
 
+¿Sabes cómo decide un motor de búsqueda qué resultados se muestran arriba y abajo de la página? ¿Qué pasa con los resultados
+de las páginas 2, 20 o 200?
+
+Los motores de búsqueda exploran e indexan el contenido de miles de millones de páginas web. Al buscar un término el motor
+de búsqueda usa un algoritmo para clasificar resultados por relevancia y calidad. La clasificación importa porque la mayoría
+de las personas usa motores de búsqueda para ver productos y servicios. Y el Internet está saturado.
+
+Hagamos un experimento. Digamos que quiero una planta para mi oficina, como un cactus. Si busco en Internet la frase “venta
+de cactus en macetas”, obtengo más de 26 millones de resultados. Es decir, más de dos millones de páginas. ¿En cuántos de
+esos resultados crees que haré clic para encontrar el cactus ideal? Seguro que menos de 26 millones. Clasificar en los
+resultados es esencial para atraer clientes.
+
+¿Cómo se produce contenido que un motor de búsqueda reconocerá como relevante y de calidad? Pues con un proceso llamado
+optimización de motores de búsqueda (SEO). El SEO se refiere a prácticas diseñadas para aumentar la cantidad y calidad del
+tráfico de un sitio web. Su práctica más básica es optimizar el contenido según términos de búsqueda comunes denominados
+palabras clave para mejorar la posición de un sitio en las páginas de resultados.
+
+Las páginas de resultados de motores de búsqueda (SERP) se generan al hacer una búsqueda. Cuanto más alta sea la posición de
+un sitio web en estas, más probable es que el cliente lo elija. Cuantas más visitas haya, hay más oportunidades para
+impulsar ventas, obtener autoridad y construir tu marca.
+
+El SEO y los anuncios de pago tienen ventajas y desventajas. Los anuncios generan resultados rápidos, pero estos desaparecen
+al dejar de pagarlos. Con el SEO, es al revés. La exposición de un buen SEO puede durar más que los anuncios de pago. Pero
+tener buena posición puede tomar tiempo y esfuerzo. Por eso, el SEO y los anuncios de pago suelen usarse en conjunto.
+
+El SEO existe desde los inicios de Internet y ha evolucionado mucho. Ahora conlleva muchas actividades distintas. Veamos
+algunos conceptos básicos de SEO. Investigación de palabras clave, contenido de calidad y estructura del sitio web.
+
+La investigación de palabras clave es identificar términos y frases comunes que los consumidores usan para ver productos o
+servicios en línea. Por ejemplo, las palabras clave de una empresa de instrumentos musicales pueden ser “venta de
+guitarras”, “baterías” o “pianos de cola”. El SEO implica encontrar las palabras clave más relevantes para el público y los
+productos, y hacerlas parte de tu contenido.
+
+No se puede llenar el sitio web de palabras clave y esperar resultados. Se necesita contenido de calidad que sea útil y
+práctico para los clientes. Para ello, hay que crear contenido de calidad y actualizarlo. El contenido debe reflejar la
+oferta actual de la empresa e incluir las palabras clave comunes.
+
+El contenido de calidad es todo ventaja: ayuda a clientes y a clasificar mejor en las SERP. El contenido debe ser fácil de
+encontrar, por eso el sitio debe organizarse de una forma fácil. Con una buena estructura de sitio, los motores de búsqueda
+y clientes pueden explorar el contenido fácilmente.
+
+Recapitulemos. El SEO permite aumentar la calidad y cantidad del tráfico del sitio generadas mediante motores de búsqueda.
+Las empresas mejoran la clasificación en páginas de resultados (SERP) de varias formas, como investigar palabras clave,
+crear contenido útil y práctico, y tener una estructura web clara.
+
+Para un buen SEO, falta mucho más que lo que vimos ahora. A continuación, descubrirás más sobre el SEO y estrategias de
+publicidad de pago.
+
 #### Llegar a las y los clientes con el marketing de motores de búsqueda (SEM)
 
 #### Publicidad de display
