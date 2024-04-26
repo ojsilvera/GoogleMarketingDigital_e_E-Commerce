@@ -2495,10 +2495,10 @@ se usa el SEO para clasificar en los resultados y aumentar el tráfico hacia el 
 
 Ahora profundizaremos en la publicidad de pago. Esta es toda forma de difusión digital que una marca paga por publicar en
 línea. Una gran parte de esta difusión es el marketing de motores de búsqueda (SEM). El SEM es el proceso de generar tráfico
-a un sitio por anuncios de pago que aparecen en las SERPs. Los anuncios SEM aparecen arriba o debajo de los resultados de
-búsqueda. Una nota de terminología: alguna empresas creen que el SEM incluye anuncios de pago en motores de búsqueda y SEO.
-Simplifiquemos: el SEO tiene que ver con la clasificación de las listas de búsqueda en SERPs; en cambio, el SEM se lleva a
-cabo a través de anuncios de pago.
+a un sitio por anuncios de pago que aparecen en las páginas de resultados de los motores de búsqueda(SERPs). Los anuncios
+SEM aparecen arriba o debajo de los resultados de búsqueda. Una nota de terminología: alguna empresas creen que el SEM
+incluye anuncios de pago en motores de búsqueda y SEO. Simplifiquemos: el SEO tiene que ver con la clasificación de las
+listas de búsqueda en SERPs; en cambio, el SEM se lleva a cabo a través de anuncios de pago.
 
 El SEM empieza como el SEO: investigar palabras clave. Si tu empresa vende vitaminas, puedes publicar un anuncio dirigido a
 clientes que buscan la frase “vitamina C”. Tras hallar palabras clave, entras a una subasta de anuncios y pujas por ellas.
@@ -2571,6 +2571,16 @@ remarketing. El remarketing muestra anuncios de pago a las y los clientes que ya
 redes sociales. Esto ayuda a aumentar las conversiones y a mantener la fidelidad de las y los clientes.
 
 ### Promueve la interacción a través de redes sociales y marketing por correo electrónico
+
+#### Introducción a las redes sociales y al marketing por correo electrónico
+
+#### Conceptos básicos del marketing en redes sociales
+
+#### Elige las plataformas adecuadas para el público al que apuntas
+
+#### Construye relaciones con marketing por correo electrónico
+
+#### Tipos de campañas de correo electrónico
 
 ### Revisión: Estrategia de marketing digital y comercio electrónico
 
