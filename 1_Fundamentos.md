@@ -2388,6 +2388,56 @@ curso, entenderás con mayor precisión cómo mejorarlos. Por ahora, recuerda qu
 
 #### Medios de pago, propios y ganados
 
+En la lección anterior, aprendiste cómo crear una estrategia de marketing digital. Viste la investigación de clientes y
+competencia, creación de metas de marketing según el negocio y qué considerar al elegir canales digitales. Profundicemos.
+
+Al planear estrategias y campañas hay varios canales digitales que elegir, como correo electrónico, redes sociales, videos y
+mucho más. Todos ellos entran en tres categorías de medios digitales: medios de pago, medios propios y medios ganados. Las
+estrategias digitales sólidas los aprovechan todos. Verás más sobre cada uno más adelante.
+
+Empecemos con un resumen breve. Los medios de pago los definen su nombre: son toda difusión digital que paga una marca por
+publicar en línea. Pueden ser banners publicitarios, videos de anuncios, anuncios en redes sociales, anuncios de Shopping y
+ventanas emergentes. Verás más sobre ciertos anuncios más adelante en el curso.
+
+La gran ventaja de los anuncios de pago es que producen resultados rápidamente. La desventaja es que esos resultados
+desaparecen en cuanto dejas de pagar. Y pagar por publicidad puede ser costoso con el tiempo. Por eso, los medios de pago
+son solo parte de toda la estrategia digital. Los anuncios de pago pueden generar compras, pero también ayudan a atraer
+tráfico a los canales de medios propios y ganados.
+
+Pasemos ahora al segundo tipo: medios propios. Estos son el contenido digital que una marca controla en su totalidad. El
+contenido de estos puede ser persuasivos, pero a diferencia de los medios de pago, no anuncia ni vende directamente. En
+cambio, su valor es ofrecer a los clientes lo que necesitan para tomar decisiones informadas.
+
+Piénsalo así: los anuncios de pago atraen consumidores al sitio web, el contenido propio los convence de quedarse. Los
+medios propios pueden ser contenido web, blogs, libros electrónicos y contenido de RR. SS. Los documentos como informes
+técnicos y casos prácticos generan confianza al explicar por qué las marcas toman ciertas decisiones y comunicar los
+resultados con ejemplos reales.
+
+Los medios propios no logran mucho por sí solos. Aunque estos contenidos de una empresa sean de calidad, no enseñan nada a
+los clientes si no saben que existen. Se pueden atraer clientes al contenido propio con anuncios de pago y una buena
+posición en los resultados de búsqueda. Luego veremos cómo mejorar el posicionamiento en buscadores.
+
+Ahora pasemos al último tipo de medios digitales: medios ganados. Estos son toda exposición digital positiva generada
+mediante recomendaciones personales o públicas. Las empresas no crean ni poseen medios ganados, y no se pueden pagar. Se
+generan con la respuesta del cliente ante la calidad del producto o el servicio al cliente, y con campañas de marketing
+exitosas.
+
+Si una marca se asocia con un influencer, esa es publicidad paga. Pero si a un cliente le encanta un producto y le cuenta a
+sus amigos de forma gratis, este es un medio ganados. Es la reputación que crea una marca gracias a la excelencia de su
+oferta. Los medios ganados pueden ser menciones en RR. SS., artículos de blog, reseñas escritas o en video, o notas en
+prensa positivas, como perfiles de producto o listas de recomendaciones.
+
+El contenido generado por el cliente puede ayudar a vender, pero no se limita a eso. También ayuda a penetrar mercados
+nuevos y generar confianza. Antes de continuar, repasemos.
+
+Para tener éxito en línea, las marcas usan medios de pago, propios y ganados. Los medios de pago son publicidad de pago,
+como anuncios de banner o videos. Los medios propios son contenidos que la empresa crea y controla, como el contenido de
+sitios web, blogs o casos prácticos. Los medios ganados son contenido positivo que genera el cliente, crea conocimiento y
+mejora la reputación de una marca.
+
+Estos son los distintos tipos de medios digitales. Ahora verás más sobre sobre tácticas y canales específicos usados para
+captar clientes.
+
 #### Atrae clientes con la optimización de motores de búsqueda
 
 #### Llegar a las y los clientes con el marketing de motores de búsqueda (SEM)
