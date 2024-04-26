@@ -2175,7 +2175,105 @@ editores y las herramientas digitales te ayudarán a llevar las medidas de segur
 
 #### Los elementos de una estrategia de marketing digital
 
+Ahora que entiendes la relación entre la marca y el marketing, veremos cómo las marcas usan estrategias de marketing digital
+para objetivos de negocio.
+
+Cuando inicias en marketing digital o e-commerce, quizá no estás a cargo de crear una estrategia de marketing digital. A
+menos que sea una empresa pequeña, fijar una estrategia es un esfuerzo colaborativo. Pero sí ayudarás a ejecutar la
+estrategia, incluso si otros la crearon. Por eso deber entender qué es una estrategia de marketing digital y cómo se
+desarrolla.
+
+Una estrategia de marketing digital es un plan para lograr objetivos específicos mediante canales en línea para apoyar y
+promover objetivos de negocio. Ahora, analicemos cómo se planifica una estrategia de marketing digital. Antes de planear
+campañas publicitarias o difusión en medios sociales investiga a tu audiencia y establece metas significativas. Estos pasos
+te dirán a quién intentas captar y qué quieres lograr. Verás más sobre cómo hacerlo más adelante.
+
+Lo que debes saber es que son esenciales para el éxito de toda estrategia de marketing digital. Al terminar la investigación
+y fijar metas, debes crear una estrategia. Significa usar lo aprendido para guiar a los clientes por el embudo de marketing
+digital, con tácticas eficaces y mezcla de medios.
+
+La mezcla de medios es la combinación de canales digitales para lograr tus objetivos y cómo dividir el presupuesto entre
+ellos. Son las actividades de tu embudo de marketing. Para elegir tu mezcla de medios, revisa el contenido multimedia
+existente para identificar brechas. Luego, podrás decidir en qué canales centrarte, qué contenido compartir, qué campañas
+realizar y cómo asignar tu presupuesto.
+
+Probemos un ejemplo. Imagina que estás en un equipo que trabaja con un minorista de joyas que quiere aumentar sus ingresos
+en un 30% en tres años. Los clientes de joyas pueden tardar mucho en pasar de conciencia a la compra. Así que eliges metas
+de marketing para pasar por el embudo, atraer clientes nuevos y cuidar leads existentes de forma más efectiva. Estas son
+cuestiones del embudo superior y medio que deben impulsar ventas. Debes centrarte en aumentar conciencia y promover la
+consideración para lograrlo.
+
+Aquí hay una versión resumida de una estrategia para estas metas. Para crear conciencia y captar clientes nuevos, se destina
+40% del presupuesto a acciones en la parte superior. Sabes que los anuncios en video es lo más eficaz para aumentar la
+conciencia del público objetivo Otro 40% se destina a crear leads en el embudo medio. Usa este dinero para atraer clientes
+en distintos canales, como las redes sociales y las campañas de anuncios de pago para captar clientes que buscan comprar
+joyas. Y 20% es para anuncios del producto para los visitantes de la web y marketing por correo. La meta de la campaña es
+convertir esos leads en el embudo superior en clientes pagos. Todo el embudo es importante, pero la mayoría del presupuesto
+va al medio y arriba para crear clientes nuevos y cuidar leads.
+
+Luego de definir tu estrategia, crea el contenido para tus campañas. Incluye plantillas de correo, animaciones de video,
+copias de anuncios e imágenes de banners. Verás cómo crear todo ese contenido más adelante. Por último, necesitas un plan
+para medir y analizar los resultados, así sabes cómo puedes mejorar a futuro. Este punto es muy importante y lo abordaremos
+más adelante en el curso.
+
+¡Y eso es todo! Crear una estrategia implica mucho trabajo. Recuerda que es un trabajo en equipo. Tal vez solo debas alinear
+el presupuesto con las actividades de marketing o analizar los resultados. Repasemos. Para planear una estrategia de
+marketing digital eficaz: debes investigar a tu audiencia y fijar metas para el negocio. Luego, revisar los medios para ver
+brechas, elegir canales de marketing y trazar el contenido para lograr tus metas. Finalmente, crear un plan para medir y
+analizar resultados. Y si te parece mucho, ¡no te preocupes! Veremos todo en detalle a lo largo de este programa.
+
+Ahora, veremos cómo definir metas eficaces para tu estrategia de marketing.
+
 #### Identifica a tu público y conoce a tus clientes
+
+En esta lectura, aprenderás a crear clientes ideales (customer personas) para llegar a tu público objetivo. Al analizar
+ciertos datos clave de tus clientes, podrás determinar qué tipo de contenido atrae más a tu público.
+
+¿Por qué es importante conocer a tu público? Cuando entiendes a tu audiencia, puedes crear campañas de marketing digital que
+les resulten más interesantes y atractivas. Esto puede hacer crecer a la marca y aumentar su reconocimiento.
+
+Conocer a tu público implica aprender detalles sobre sus vidas, tales como su ubicación geográfica, intereses, actividades
+en línea y preferencias. Es importante entender qué contenido le gusta a tu público y de qué manera le gusta consumirlo. Por
+ejemplo, ¿les gusta recibir contenido humorístico por correo electrónico? Tal vez, les guste que se les presenten nuevos
+productos a través de anuncios en redes sociales. Quizás, es más probable que interactúen con un anuncio si lo ven mientras
+están en un sitio web que visitan frecuentemente. Hay muchas cosas a tener en cuenta cuando piensas en tu público, pero
+sobre todo, tienes que saber quiénes son.
+
+**¿Quién es tu público? Comprendiendo a tu clente ideal**
+El/la cliente ideal (customer persona) representa a un grupo de personas similares, dentro de tu audiencia deseada. Es un
+perfil de tus posibles clientes, construido en base a investigaciones y datos. Crear un cliente ideal puede ayudar a una
+empresa a descubrir cómo llegar a las personas en el momento adecuado y con el mensaje, la oferta o los productos correctos.
+Permite enfocar tu tiempo y energía en leads con posibilidad real de convertirse en clientes, en lugar de apelar
+aleatoriamente a personas que pueden no tener ningún interés por tu empresa.
+
+Existen varias formas de crear un/a cliente ideal. Algunas herramientas de automatización de marketing como HubSpot, Xtensio
+y Up Close & Persona tienen incorporados generadores de clientes ideales. En cambio, si prefieres crear los tuyos, deberás
+empezar por realizar algunas investigaciones.
+
+**Formular las preguntas correctas**
+Si utilizas encuestas, entrevistas o datos con los que ya cuentas en tus herramientas de automatización, podrás encontrar la
+información necesaria para crear a tu cliente ideal. Esa información probablemente sean datos demográficos como género,
+edad, ubicación geográfica, ingresos económicos, educación y tipo de trabajo.
+
+Si vas a buscar esta información a través de encuestas o entrevistas, es importante que hagas preguntas relacionadas con los
+objetivos de tu negocio. A veces, es tan simple como descubrir los rasgos de personalidad de tus clientes, pasatiempos y qué
+plataformas de redes sociales utilizan para interactuar con las marcas.
+
+![alt text](image-7.png)
+
+Nota: Es posible que tu cliente ideal no se vea exactamente así. Puede estar más o menos detallado o incluir otro tipo de
+información. En realidad, lo importante es que sea el perfil ideal para tu empresa. Más adelante, obtendrás instrucciones
+más detalladas sobre cómo crear tu cliente ideal.
+
+**Conclusiones principales**
+El/la cliente ideal representa a un grupo de personas similares, dentro de una audiencia deseable, y:
+
+    Ayuda a las empresas a descubrir cómo llegar a las personas en el momento adecuado y con el mensaje, la oferta o los
+    productos correctos.
+
+    Permite enfocar tu tiempo y energía en leads con posibilidad real de convertirse en clientes.
+
+    Se puede crear manualmente o mediante herramientas automatizadas.
 
 #### Define tus objetivos de marketing
 
