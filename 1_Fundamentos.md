@@ -3059,6 +3059,52 @@ Próximamente, hablaremos sobre cómo interpretar los datos y presentarlos a otr
 
 #### Ética de datos
 
+En un video anterior, viste que el Performance Marketing requiere de una gran cantidad de datos. Los datos pueden contener
+información sobre los intereses y los comportamientos de las y  los usuarios, e incluso las compras individuales que
+realizan. Esta lectura es una introducción a la ética de datos. Trabajar con los datos de las y los usuarios de manera
+responsable y legal es fundamental para la integridad de tu organización, tu rol y tus proyectos.
+
+**Ética de datos** Ética de datos es el estudio y la evaluación de los retos morales que presenta la recopilación y el
+análisis de datos. Cuando se trata de datos, las empresas aplican prácticas éticas para:
+
+    Seguir las normativas.
+
+    Demostrar confiabilidad en la protección de los datos de sus clientes.
+
+    Asegurar que el uso de los datos de las y los clientes sea justo y sin sesgos.
+
+**Seguir las normativas** Muchos países tienen leyes con respecto a la generación, registro, curación, procesamiento,
+intercambio y uso de datos de identificación personal. Los datos de identificación personal (en inglés, Personally
+Identifiable Data. PII) son información que se puede usar para identificar, contactar o localizar directamente a una
+persona. Asegúrate de estar al tanto de los protocolos de privacidad y seguridad de datos de tu organización. La privacidad
+de los datos se refiere al manejo adecuado de los datos. La forma en que recopilas, procesas, analizas, compartes, archivas
+y eliminas datos debe estar de acuerdo con las leyes de privacidad de los países donde residen tus clientes.
+
+**Proteger los datos del cliente** Una manera importante de proteger la información de las y los clientes es anonimizar los
+datos. La anonimización de datos se refiere a una o más técnicas que permiten enmascarar o eliminar información personal de
+los datos, para proteger la identidad de las personas. La anonimización de datos se hace frecuentemente en datos que
+provienen de múltiples fuentes. Una vez que los datos se anonimizan, se pueden compartir de forma más amplia y libre en una
+organización. A menudo, los tipos de datos anonimizados son nombres, números de teléfono, direcciones de correo electrónico,
+fotografías, números de cuenta y compras.
+
+**Usar los datos adecuadamente y sin sesgos** Otra práctica de la ética de datos es asegurar de que los datos que se
+recopilan sean usados para fines comerciales legítimos. El uso adecuado y razonable de los datos también significa que no
+los usas de manera sesgada. El sesgo de datos es un tipo de error humano que desvía los resultados en una dirección
+determinada. Ten en cuenta que una cosa es la selección de datos y otra es el sesgo de esos datos. Por ejemplo, imaginemos
+que quieres revisar los datos históricos de clientes potenciales de entre 21 y 45 años. Eso no es sesgo de datos. Lo que se
+podría considerar como sesgo de datos es si excluyes los datos de los clientes que devolvieron productos porque no los
+consideras fieles a tu marca. No obstante, incluso cuando administras objetivamente un conjunto de datos, puedes tener algún
+sesgo. Esto es posible, por ejemplo, si los datos históricos provenían de una audiencia que no era representativa de todos
+los clientes potenciales. Así, si creas campañas publicitarias basadas en comportamientos anteriores de los clientes, puedes
+estar incurriendo en un sesgo sin saberlo.
+
+Consejo profesional: para minimizar los riesgos de sesgos en los datos, pide a otras personas de tu equipo que revisen la
+información más crítica que piensas usar.  Así podrás incorporar otras perspectivas.
+
+**Recomendación** La ética de datos es importante porque promueve el uso responsable de los datos de las y los clientes.
+Procura siempre seguir las leyes de privacidad de datos de tu país y las de los países donde viven tus clientes, protege sus
+datos y evita el sesgo.
+
 ### Usa lo que te muestran los datos y mejora tu estrategia
 
 ### Ve en busca de tu nueva carrera
