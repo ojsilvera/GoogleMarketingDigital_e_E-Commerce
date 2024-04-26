@@ -2277,6 +2277,68 @@ El/la cliente ideal representa a un grupo de personas similares, dentro de una a
 
 #### Define tus objetivos de marketing
 
+Hasta aquí, hemos visto lo básico de la estrategia de marketing digital, la relevancia de investigar a clientes y el perfil
+del cliente.
+
+Veamos ahora la siguiente parte del proceso: fijar metas para una estrategia de marketing digital. Todos establecemos metas,
+ya sea en lo profesional o personal, pero es más probable alcanzarlas si sabemos por qué son importantes y qué implican.
+Esto aplica para todos los niveles de un negocio y personas.
+
+Las empresas, departamentos, equipos y empleados se benefician de fijar metas relevantes para guiar su trabajo. Las metas de
+marketing digital deben respaldar las metas de una empresa.
+
+¿En qué se diferencian las metas de marketing con las de negocio? ¿Y cómo asegurar que estén alineadas? Iniciemos por las
+metas de negocio. Son los objetivos, logros o resultados de un negocio. Suelen ser grandes, a largo plazo y pueden afectar a
+toda una empresa.
+
+Incluyen aspectos como aumentar las ganancias, conseguir clientes nuevos, mejorar el servicio al cliente, aumentar la
+productividad o lanzar nuevos productos o servicios. Las metas de marketing suelen ser más pequeñas y específicas, y
+vinculadas a actividades de marketing.
+
+Son objetivos específicos en un plan o estrategia de marketing que apoyan los objetivos de negocio más amplios. Algunas
+metas comunes incluyen aumentar el conocimiento de la marca, aumentar el tráfico web, generar leads e impulsar las ventas o
+las conversiones.
+
+Entonces, ¿cómo conectas una meta de marketing, como la conciencia de marca, con una meta de negocio, como alzar las
+ganancias? Para empezar, tus metas de marketing y de negocios deben ser específicas y medibles.
+
+Digamos que hay una empresa de software de edición de fotos, y quiere expandir su base de clientes. Una versión bien
+definida de este negocio podría ser: aumentar el número de clientes activos en un 25 % en los próximos dos años, al
+incorporar cinco funciones muy solicitadas a nuestro software.
+
+Es mucho más específico, ¿cierto? Detalla lo que van a hacer, cómo planean hacerlo, y cuando quieren que se haga. Más
+adelante, verás cómo fijar metas bien definidas. Por ahora, veamos esta meta desde una perspectiva de marketing.
+
+¿Qué metas de marketing digital ayudan a la empresa a expandir su base de usuarios activos? ¿Qué tal aumentar el tráfico del
+sitio web? En definitiva, debes visitar el sitio web para crear una cuenta. Un mayor tráfico web no siempre equivale a más
+usuarios nuevos.
+
+Depende de cuántos de esos visitantes son nuevos, cuántos son clientes existentes, y qué hacen en el sitio web. Aumentar el
+tráfico web puede ayudar, pero quizá hay una opción mejor. ¿Y si generamos leads nuevos?
+
+Dado que un lead es alguien que le interesa una empresa, es más probable que se generen más registros que el tráfico web
+general. Una versión bien definida de esa meta puede ser: “Aumentaremos la generación de leads en 40% el próximo año con
+anuncios del embudo superior que destaquen las funciones nuevas y aumentaremos el presupuesto para el embudo medio en un 20
+%.
+
+Al crear conciencia sobre las funciones y alzar el presupuesto para acciones que generen nuevos leads, la meta de marketing
+apoya a la otra: aumentar su base de usuarios. Es un ejemplo de cómo una meta de marketing contribuye a una de negocio, pero
+hay muchos más.
+
+Imagina las metas de negocio como la parte superior de una pirámide. Hay muchas metas por debajo que las respaldan. Una
+estrategia de marketing digital puede tener varias metas que contribuyen a esa meta principal de negocio.
+
+Puedes tener metas para cada parte de tu estrategia. P. ej., puedes fijar metas específicas para medios sociales o tareas de
+marketing por correo. Cuando los objetivos se alinean con las grandes metas de la empresa, hay más posibilidades de
+alcanzarlos.
+
+Recapitulemos. Las metas bien definidas son importantes en cualquier nivel. Las metas de negocio son objetivos a largo plazo
+que afectan a toda la empresa. Las metas de marketing pertenecen a los esfuerzos de marketing, pero deben respaldar las
+metas de la empresa.
+
+A continuación, veremos tácticas y canales que las marcas pueden usar para impulsar metas de marketing y de negocio. ¡Nos
+vemos ahí!
+
 #### turaCómo establecer objetivos SMART
 
 ### Llega a las y los clientes en línea
