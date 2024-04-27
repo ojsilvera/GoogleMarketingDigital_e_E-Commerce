@@ -3109,6 +3109,87 @@ datos y evita el sesgo.
 
 #### Modelos de atribución en marketing digital
 
+Muy bien. Fijaste tu estrategia, elegiste tus canales, planeaste tu contenido y mediste tus resultados.
+
+¿Y ahora qué? Sabes que todos esos datos deberían indicarte qué canales y y contenidos funcionan bien. ero, ¿qué significa
+realmente un buen rendimiento?
+
+¿Es cuando un anuncio recibe muchos clics? ¿Cuándo un tweet se vuelve viral? ¿Qué pasa con el aumento del tráfico del sitio
+web?
+
+Con tantos puntos de contacto y canales que determinan las interacciones de los clientes con la marca, ¿cómo saber por dónde
+empezar?
+
+En este video, veremos cómo las empresas usan los datos de informes para averiguar cuáles de sus esfuerzos de marketing y
+ventas tienen más éxito.
+
+El éxito puede tener diferentes significados en función de tus metas comerciales y de marketing. Pero todo marketer digital
+quiere saber qué puntos de contacto consiguen que los clientes actúen
+
+Digamos que creas una campaña para una empresa de materiales de arte. Si muchas personas hacen clic en un anuncio de una
+nueva línea de pinturas, pero solo unos pocos compran, puede que el anuncio no haya tenido tanto éxito
+
+Para optimizar una estrategia, debes saber qué puntos de contacto influyen más en la decisión de los clientes.
+
+Por supuesto, no puedes saber exactamente lo que piensan. Solo puedes basarte en lo que hacen. Pero su comportamiento puede
+decirte mucho sobre dónde tus esfuerzos tienen éxito y donde se quedan cortos.
+
+El proceso de determinar qué contenidos y canales son responsables de generar clientes potenciales, conversiones o registros
+se llama atribución.
+
+No es algo que tengas que determinar tú solo. Las herramientas de análisis incluyen funciones que usan tus datos para saber
+con qué puntos y palabras clave interactúan los clientes antes de actuar.
+
+Más adelante en el programa obtendrás algo de práctica con estas herramientas. Al atribuir con precisión el éxito a los
+esfuerzos de marketing y ventas, las empresas pueden tomar decisiones informadas sobre dónde invertir su tiempo, presupuesto
+y recursos.
+
+Algunas personas creen que el último punto de contacto debería llevarse el mérito, y tiene sentido, ¿no? La gente suele
+pensar que el punto de contacto justo antes de una compra debe ser el que convence a un cliente para que actúe.
+
+Pero no siempre es así. Sabes que el cliente medio se encuentra con seis puntos de contacto en su viaje de compra, y que el
+camino no siempre es sencillo.
+
+Digamos que alguien está comprando una computadora, y decide el modelo después del segundo punto de contacto, pero luego
+pospone la compra.
+
+Puede que esté esperando a las vacaciones o a que baje de precio. Tal vez simplemente se distrajo. Puede que haga falta otro
+punto para recordarle la compra que ya había planeado hacer.
+
+Ambos puntos merecen algo de crédito, y la atribución es la forma de conseguirlo.
+
+Las empresas tienen opciones cuando se trata de modelos de atribución. No vamos a repasarlas todas aquí, solo algunas para
+darte una idea de cómo atribuyen el éxito: basado en datos, primer clic, último clic y lineal.
+
+La atribución basada en datos mide la interacción del cliente con el contenido de marketing en todos los canales para
+comprender qué le motiva a actuar. Asigna crédito a cada punto de contacto basándose en estadísticas como qué anuncios o
+palabras clave conducen más a menudo a conversiones.
+
+La atribución toma la conducta del cliente para asignar créditos. Pero si no tienes suficientes datos significativos para
+este modelo, existen otras opciones.
+
+Estos son algunos ejemplos: la atribución al primer clic asigna todo el mérito al primer punto de contacto que finalmente
+conduce a una conversión.
+
+Volvamos a nuestra tienda de arte. Si la primera interacción de un cliente con la marca es un anuncio de pinturas al óleo,
+todo el mérito de su compra irá a ese anuncio, aunque tarde unos cuantos puntos de contacto más en comprar algo.
+
+La atribución al último clic asigna todo el mérito al último punto de contacto conocido antes de la conversión. Si el
+cliente de la tienda compra después del cuarto o quinto punto de contacto, la atribución al último clic daría el crédito a
+ese correo.
+
+La atribución lineal da el mismo crédito a cada punto de contacto por el recorrido del cliente. Así, en el recorrido del
+cliente de la tienda, el anuncio social, el correo promocional y los puntos intermedios comparten el mérito de la
+conversión.
+
+La atribución no es una ciencia exacta, pero puede darte una mejor idea de cómo interactúan los clientes con tu contenido y
+qué los lleva a actuar
+
+Al usar modelos como la atribución basada en datos, primer clic, último clic y la atribución lineal, las empresas pueden
+colocar sus recursos en lugares que maximicen las conversiones de clientes.
+
+A continuación, aprenderás a comunicar las percepciones que obtienes de tus datos a otras personas.
+
 #### Conceptos básicos de la narración de datos
 
 #### La estructura de una historia
