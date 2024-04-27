@@ -2575,11 +2575,144 @@ aprender e implementar estrategias de SEO.
 
 #### Aprende más sobre Google Search Console
 
+Google Search Console es una herramienta gratuita que permite a las personas obtener información útil sobre el sitio web de
+un negocio. La herramienta permite a los y las usuarios/as monitorear su sitio y dar respuesta a sus necesidades, lo que
+aumenta el rendimiento general de la página y hace que los y las visitantes disfruten más de pasar tiempo allí.
+
+Google Search Console tiene muchas funciones. Puedes ver un informe estadístico de tu sitio, realizar mejoras en HTML,
+configurar sitemaps y muchas cosas más. Search Console te brinda control total sobre tu sitio web.
+
+Si quieres obtener más información sobre Google Search Console, mira los siguientes videos. Centro de Búsqueda de Google:
+Capacitación sobre Google Search Console
+
 #### Más herramientas e informes en Google Search Console
+
+Tal como se explica en uno de los videos, Google Search Console es una herramienta que te ayuda a comprender mejor el
+rendimiento de tu sitio web. Te ayuda a administrar la presencia de tu sitio web en los motores de búsqueda y facilita que
+más personas lo encuentren. Ahora descubrirás algunas de las herramientas e informes disponibles en Google Search Console.
+
+**Informe “Sitemaps”** El informe “Sitemaps” de Google Search Console te permite enviar o actualizar tu sitemap (archivo que
+proporciona información sobre las páginas, videos y otros archivos de un sitio, y cómo se relacionan entre ellos).
+
+Un sitemap ayuda a Google a encontrar las páginas más importantes de tu sitio web que deseas que aparezcan en los resultados
+de búsqueda. También ayuda a Google a comprender la relación entre las páginas de tu sitio.
+
+Es posible que no necesites enviar un sitemap si tu sitio es pequeño y ya fue rastreado por Google. Sin embargo, enviar un
+sitemap puede ayudar a Google a mejorar la forma en que rastrea tu sitio web, especialmente si es más grande o incluye más
+de 500 páginas.
+
+Algunas plataformas de sitios web, como WordPress, Wix y Blogger, crean automáticamente un sitemap para ti y lo ponen a
+disposición de los motores de búsqueda. En esos casos, no es necesario enviarlo. Si la plataforma de tu sitio web no crea y
+envía automáticamente un sitemap, puedes usar el informe “Sitemaps” en Google Search Console para hacerlo.
+
+El informe “Sitemaps”, por su parte, te permite averiguar qué sitemaps se han enviado para tu sitio web, acceder a sus
+estadísticas y monitorear cualquier error que Google pueda haber encontrado al procesar tus sitemaps.
+
+![alt text](image-28.png)
+
+**Herramienta de inspección de URLs** Otra función que ofrece Google Search Console es la herramienta de inspección de URLs,
+que proporciona información detallada de rastreo, indexación y servicio sobre tus páginas, directamente desde el índice de
+Google. Te permite acceder a la información que tiene el índice de Google sobre una URL específica de tu propiedad. Te
+permite, además, probar una página en tiempo real en tu sitio web.
+
+La herramienta de inspección de URL detecta errores en la página, como errores de código HTML o JavaScript. También revela
+otra información técnica. Esta herramienta es útil para solucionar cualquier error de rastreo que Google haya encontrado en
+tu sitio. También es útil para corregir y volver a probar una página con errores.
+
+**Cambio de dirección** Si trasladas tu sitio web de un dominio a otro, deberás informar a Google mediante la herramienta de
+cambio de dirección. Por ejemplo, si la dirección de tu sitio web es example.com y decides cambiarla a example.org, debes
+usar esta herramienta para informar a Google sobre la modificación. Al hacer esto, Google podrá migrar los resultados de
+Búsqueda de tu antiguo sitio web al nuevo.
+
+![alt text](image-29.png)
+
+**Herramienta de retirada** En algunos casos, es posible que desees evitar que una página web de tu sitio aparezca en la
+Búsqueda de Google. Una solución temporal es usar la herramienta de retirada, que te permite bloquear temporalmente ciertas
+páginas de los resultados de la Búsqueda de Google y gestionar el filtro de Búsqueda Segura (Safe Search).
+
+Sin embargo, el bloqueo temporal solo durará unos 6 meses. Para eliminar permanentemente la página de los resultados de la
+Búsqueda de Google, deberás realizar una de las siguientes acciones:
+
+    Retirar o actualizar el contenido de tu página.
+
+    Bloquear el acceso al contenido solicitando una contraseña o usando otro método para restringir el acceso.
+
+    Agregar un código a la página que le indique a los motores de búsqueda que no se debe indexar (este método es menos
+    seguro que los otros).
+
+![alt text](image-30.png)
+
+**Conclusiones principales** Google Search Console proporciona herramientas que te ayudan a monitorear y administrar el
+rendimiento de tu sitio web. El uso de estas herramientas puede hacer que más personas encuentren tu sitio web.
 
 #### Bing Webmaster Tools
 
+En una lectura anterior, aprendiste sobre Google Search Console y las herramientas que ofrece. Ahora es el momento de
+conocer un recurso alternativo llamado Bing Webmaster Tools. A continuación, aprenderás qué es, qué funciones tiene y cómo
+usarlo.
+
+**¿Qué es Bing Webmasters Tools?** Bing Webmaster Tools (o Bing WMT) es un servicio gratuito desarrollado por el motor de
+búsqueda Bing de Microsoft, que permite a quienes trabajan en marketing digital y en desarrollo de sitios web agregar sus
+páginas al rastreo e indexación de Bing para ver el rendimiento de su sitio. Básicamente, Bing Webmaster Tools es para el
+motor de búsqueda de Bing, lo mismo que Google Search Console es para la Búsqueda de Google.
+
+**¿Por qué usar Bing Webmaster Tools?** Es importante que las y los especialistas en marketing digital se mantengan
+informados/as sobre otros motores de búsqueda y los recursos que ofrecen. Si bien Google y Google Search Console son
+increíblemente populares, quienes trabajan en marketing digital también deben prestarle atención a otras oportunidades
+adicionales para promocionar sus marcas. Bing es un claro ejemplo de esto, ya que cuenta con más de mil millones de visitas
+cada mes. El uso de Bing Webmaster Tools para comercializar en Bing podría generar aún más tráfico a tu sitio web.
+
+**¿Qué funciones ofrece Bing Webmaster Tools?** Bing Webmaster Tools ayuda a los usuarios/as a monitorear el rendimiento de
+sus sitios web, mejorar la visibilidad de SEO e identificar de qué forma las y los clientes encuentran sus sitios.
+
+Bing Webmaster Tools ofrece funciones similares a las de Google Search Console, que ya fueron explicadas más atrás en el
+curso, como la verificación del sitio, el control de rastreo, los informes de sitemaps, la herramienta de inspección de
+URLs, la herramienta de cambio de dirección y la herramienta de retirada.
+
+Bing Webmaster Tools también ofrece otras funciones, que incluyen:
+
+    Enlaces entrantes (backlinks): sus usuarios/as pueden acceder y analizar datos sobre sus páginas de referencia, dominios
+    y textos de enlace.
+
+    Investigación de palabras clave: sus usuarios/as pueden comprobar qué frases y palabras clave están siendo consultadas
+    en los buscadores y sus volúmenes de búsqueda.
+
+    Informe SEO: esta función recopila todos los errores encontrados en el sitio web.
+
+    Site Scan: esta herramienta de auditoría de sitios bajo demanda rastrea una página y comprueba si tiene problemas técnicos
+    comunes de SEO.
+
+**Conclusiones principales** Explorar herramientas y recursos adicionales fuera de la comunidad de Google es fundamental
+para convertirse en un/a especialista en marketing digital completo. Bing Webmaster Tools es un recurso para promocionar tu
+marca con éxito en Bing. Al igual que con Google Search Console, el uso de Bing Webmaster Tools puede atraer a más personas
+a tu sitio web.
+
 #### Dave: Mi trayectoria profesional en SEO y SEM
+
+Hola, mi nombre es Dave, soy especialista en compras y responsable de ayudar a los comercios minoristas a promocionar sus
+productos en Google. Lo mejor de mi trabajo es ser un asesor de confianza para los minoristas con los que trabajamos. Me
+gusta brindarles soluciones para ayudarlos a maximizar sus inversiones en las propiedades de Google.
+
+Al terminar la secundaria, me uní al Cuerpo de Marines de los Estados Unidos. Estuve dos años en Tradepoint, en Carolina del
+Norte. Estuve dos años en Londres, Inglaterra. Las habilidades que adquirí en el Cuerpo de Marines las pude implementar en
+mi carrera profesional. Una de las primeras cosas que adquieres en el campamento es esta tarjeta. Se trata de una tarjeta de
+honor, coraje y compromiso. Cada infante de marina lo recibe como un pilar de cómo deberías vivir la vida. El honor se
+refiere a la integridad, responsabilidad y transparencia. El coraje se refiere a hacer lo correcto, de la manera correcta y
+por las razones correctas. Dejé el Cuerpo de Marines en el año 2002 y desde entonces llevo esta tarjeta conmigo. Esto lo
+traslado a mi trabajo actual al tratar de aplicar estos valores en todas las decisiones que tomo para mis clientes
+minoristas.
+
+Aprendí sobre comercio electrónico y marketing digital principalmente en Internet, al estudiar tácticas para atraer más
+tráfico a los sitios web, ya sea de forma orgánica o de pago. Empecé a jugar al golf en la universidad, y me encantó. Quería
+encontrar una forma de poder practicarlo más sin gastar mucho dinero. Y se me ocurrió que escribir sobre golf podría ser una
+forma interesante, ya que hay mucho para leer al respecto. Está el Tour de Profesionales, las reseñas de los campos de golf,
+los productos, aparatos y artilugios. Aprendí sobre marketing digital, SEO y SEM a través de blogs. En cierto punto,
+empezamos a hacer publicidad, a vender productos mediante el marketing de afiliación. Una excelente manera de atraer tráfico
+de buena calidad al sitio fue a través del programa Google Ads.
+
+Mis palabras de aliento para quienes se sumergen en tanto contenido, es que hay una razón por la que estás aquí. Hay una
+razón por la que haces esto ahora. Sigue hasta el final, porque estoy seguro que del otro lado, una vez que tengas el
+certificado, se te abrirán oportunidades que no tenías cuando empezaste.
 
 ### Revisión: Aplica la optimización de motores de búsqueda (SEO)
 
