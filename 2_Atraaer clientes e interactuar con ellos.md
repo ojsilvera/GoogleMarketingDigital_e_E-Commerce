@@ -1864,6 +1864,16 @@ Tasa de rebote: porcentaje de visitantes de un sitio web que ven una página y l
 
 ### Optimiza el contenido de un sitio web para mejorar el posicionamiento en los motores de búsqueda
 
+#### Te damos la bienvenida a la semana 3 curso 2
+
+#### Optimiza el contenido de un sitio web
+
+#### La mejor forma de utilizar los enlaces y promocionar un sitio web
+
+#### Optimiza imágenes para un sitio web
+
+#### Adapta tu sitio web a los dispositivos móviles
+
 ### Ayuda a Google (y a los y las usuarios/as) a comprender el contenido
 
 ### Analiza el rendimiento de los resultados de la búsqueda y el comportamiento de los y las usuarios/as
