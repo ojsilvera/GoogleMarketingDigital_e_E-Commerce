@@ -866,8 +866,6 @@ Programas de recompensas. Incentiva a los clientes a volver a comprar. Hay progr
 alimentos como cadenas de comida rápida. Muchos sistemas de punto de venta (POS) ofrecen programas de recompensas integrados
 en su software. El sistema POS acepta pagos de clientes y administra su información.
 
-Reproduce el video desde :1:39 y sigue la transcripción1:39
-
 El email marketing mantiene tu marca a la vista del cliente de forma constante. Recuerda siempre elaborar correos que
 ofrezcan valor al cliente. De lo contrario, puede darse de baja. Para generar fidelidad, puedes informar a los clientes o
 contarles la historia de tu marca.
@@ -963,6 +961,72 @@ que puedan comprar. Lograr que clientes eventuales se conviertan en promotores/a
 incluso gratuita, de conseguir aún más ventas.
 
 ### Introducción para atraer e involucrar a clientes con marketing digital
+
+#### Términos y definiciones del Curso 2, semana 1
+
+Anuncio de remarketing: anuncio mostrado a compradores, suscriptores o personas que hayan visitado previamente un sitio
+web o las redes sociales de una marca.
+
+Anuncio de display: un formato de anuncio visual colocado en sitios web o aplicaciones.
+
+Barrera del cliente tipo: aquello que impide que el cliente logre su objetivo.
+
+Carrito abandonado: cuando un/a potencial cliente agrega un artículo al carrito, pero no completa la transacción.
+
+Cliente tipo (customer persona): representación de un grupo de personas similares en una audiencia deseable.
+
+Compartir en redes sociales: cuando un cliente comparte un producto o servicio con sus seguidores en las redes sociales.
+
+Datos demográficos: información específica del/la cliente, como edad, identidad de género, ingresos, tamaño de la familia,
+ocupación, educación y ubicación.
+
+Estrategia: plan para lograr un objetivo de marketing.
+
+Etapa de Conciencia: primera etapa del embudo de marketing, cuando un/a cliente potencial descubre por primera vez el
+producto o servicio.
+
+Etapa de Consideración: segunda etapa del embudo de marketing, cuando el interés de un/a cliente potencial sobre un producto
+o servicio aumenta.
+
+Etapa de Conversión: tercera etapa del embudo de marketing, cuando las y los especialistas en marketing capitalizan el
+interés que las personas ya mostraron en las etapas previas.
+
+Etapa de Fidelidad: cuarta etapa del embudo de marketing, cuando las y los clientes se convierten en clientes regulares y
+promotores/as de la marca.
+
+Marketing de contenido: técnica de marketing que se centra en crear y distribuir contenido relevante a una audiencia
+específica.
+
+Marketing de influencers: proceso de reclutar influencers para que respalden o mencionen una marca o producto a sus
+seguidores en las redes sociales.
+
+Marketing de motores de búsqueda (SEM): consiste en generar tráfico a un sitio web a través de anuncios de pago que aparecen
+en los resultados de los buscadores.
+
+Marketing en redes sociales: proceso de creación de contenido para diferentes plataformas de redes sociales para impulsar la
+interacción y promover un negocio o producto.
+
+Marketing por correo electrónico: proceso de enviar mensajes a una lista de suscriptores para compartir información,
+impulsar las ventas o crear una comunidad.
+
+Objetivo del cliente tipo: lo que el/la cliente quiere lograr.
+
+Optimización de motores de búsqueda (SEO): proceso de mejorar la visibilidad de las páginas web en los buscadores para
+atraer tráfico más relevante.
+
+Propuesta de venta única (USP): explicación de por qué un producto o servicio es mejor que el de la competencia.
+
+Prueba A/B: método de prueba donde se comparan dos versiones de contenido con una sola variable diferente para determinar
+cuál produce mejores resultados.
+
+Táctica: acción que un especialista en marketing toma para alcanzar un objetivo de marketing.
+
+Tasa de conversión: porcentaje de usuarios/as o visitantes del sitio web que completaron una acción deseada, como hacer clic
+en el enlace en un correo electrónico o comprar un producto.
+
+Texto publicitario (copy): cualquier material escrito que impulse  a una persona a comprar un producto o servicio.
+
+Webinar: presentación, típicamente educativa, que se proporciona en línea.
 
 ## Comprende la optimización de motores de búsqueda (SEO)
 
