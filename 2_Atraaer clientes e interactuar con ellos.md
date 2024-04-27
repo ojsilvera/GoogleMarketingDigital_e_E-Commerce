@@ -3614,6 +3614,125 @@ para satisfacer las necesidades de las marcas.
 
 #### Cómo crear un anuncio de display responsivo
 
+En un video anterior, se mencionaron los anuncios de display responsivos, como un subtipo de anuncio de display. En esta
+lectura, conocerás acerca de los anuncios de display responsivos y entenderás cómo crearlos.
+
+**Crear un anuncio de display responsivo** Los anuncios de display responsivos son el tipo de anuncio predeterminado que
+aparece en la Red de Display de Google, un grupo de más de 2 millones de sitios web, videos y aplicaciones.
+
+Los anuncios de display responsivos se consideran “responsivos” porque ajustan automáticamente su tamaño, apariencia y
+formato para adaptarse a los diferentes espacios publicitarios disponibles. Es decir que pueden mostrar texto o imágenes de
+cualquier tamaño. Incluso, tienen la capacidad de mostrarse como anuncios “nativos”, lo que significa que pueden mezclarse
+con las fuentes y las formas del sitio en el que aparecen.
+
+**Cómo empezar** Antes de subir tus recursos, deberás completar, recopilar o establecer los siguientes elementos
+relacionados con tu marca:
+
+    Nombre del negocio: es el nombre oficial de tu negocio o marca. Asegúrate de que el nombre de tu empresa esté bien
+    escrito y con el uso correcto de mayúsculas, ya que el anuncio contendrá exactamente lo que tú incluyas aquí.
+
+    URL de visualización: es la página a la que el anuncio dirigirá a las y los clientes una vez que hagan clic en él. La
+    política de Google establece que la página de destino y la URL final deben compartir el mismo dominio que la URL de
+    visualización.
+
+    Campaña de Display: antes de ejecutar un anuncio de display responsivo, debes crear una campaña de Display en Google
+    Ads. Aquí, determinarás tu presupuesto y establecerás tu estrategia de puja, grupos de anuncios y público objetivo,
+    entre otros.
+
+Para comenzar:
+
+    Accede a tu cuenta de Google Ads.
+
+    Selecciona la campaña de display para la que desea crear anuncios.
+
+    Selecciona Anuncios y extensiones.
+
+    Selecciona Anuncios.
+
+    Selecciona Anuncio de display responsivo.
+
+**Sube los recursos** Los anuncios de display responsivos son un tipo de anuncio basado en recursos, lo que significa que
+puedes crearlos subiendo diferentes elementos. Al configurar un anuncio de display responsivo en Google Ads, puedes subir
+los siguientes elementos cuando se te solicite:
+
+Imágenes: aparecerán como el elemento principal de tu anuncio. Tus imágenes deben:
+
+    ser de alta calidad y tener un fuerte enfoque visual
+
+    hacer foco en el producto o servicio
+
+    apoyar el punto principal del anuncio
+
+    usar un fondo que se adapte al producto
+
+    no superponer un logo, texto o botones
+
+    no estar fuera de foco, sesgadas o con filtros excesivos
+
+Puedes subir entre 5 y 15 imágenes desde tu computadora, o usar una biblioteca gratuita de imágenes de archivo
+proporcionadas por Google. También puedes revisar tu sitio web en busca de imágenes relevantes.
+
+Logos: el logo oficial de tu marca también aparecerá en el anuncio. Debe ser una imagen de proporción 1:1 o cuadrado. El
+tamaño recomendado es 1200 x 1200 px.
+
+Títulos cortos: se te pedirá que escribas al menos cinco títulos cortos. Estas son las primeras líneas de tus anuncios y
+aparecerán en espacios publicitarios estrechos, donde los títulos largos no encajan. Los títulos cortos pueden aparecer con
+o sin tu descripción y tienen una extensión de 30 caracteres o menos.
+
+Títulos largos: se te pedirá que escribas un título largo. Estos aparecerán en anuncios más grandes y tienen una extensión
+de 90 caracteres como máximo. Tanto los títulos cortos como los largos deben:
+
+    escribirse con mayúscula inicial (es decir, solo en mayúscula la primera letra de la primera palabra, excepto los
+    sustantivos propios)
+
+    incorporar un texto publicitario único y convincente, que demuestre el valor de la marca o producto
+
+    poder funcionar solos, sin necesidad de una descripción
+
+    describir la promoción u oferta especial
+
+    decir a las y los clientes qué hacer
+
+Descripciones: deberás escribir hasta cinco descripciones distintas de tu producto o servicio que alienten a tu audiencia a
+actuar. Cada descripción tiene un límite de 90 caracteres. Tus descripciones deben:
+
+    escribirse con mayúscula inicial
+
+    complementar tus títulos
+
+    explicar claramente el valor de tu producto o servicio
+
+    incluir puntos de venta, precios y promociones únicas
+
+    explicar con más detalle por qué las y los clientes deben confiar en la marca o en el negocio
+
+    enumerar calificaciones y reseñas
+
+Videos: los videos son un elemento opcional. Si eliges incluir videos, estos deben tener una duración de 30 segundos o
+menos, y deben subirse a YouTube antes de crear tu anuncio.
+
+Una vez que ingreses tus elementos creativos y publiques tu anuncio, Google Ads generará automáticamente las mejores
+combinaciones para los espacios disponibles, por lo que debes  subir tantos elementos creativos como puedas. Cuantos más
+tengas, más posibilidades tendrá Google Ads de adaptar tus anuncios a diferentes espacios.
+
+Te recomendamos tener en cuenta la accesibilidad al momento de crear tus anuncios. Es posible que las personas  con baja
+visión no puedan leer tus anuncios sin la ayuda de un lector de pantalla, una tecnología de asistencia que lee en voz alta
+la descripción del texto y las imágenes. Por esta razón, haz que tus títulos y descripciones sean claros, sencillos y
+descriptivos.
+
+**Evaluación de rendimiento** Con el tiempo, Google utiliza el aprendizaje automático para determinar qué combinación
+creativa funciona mejor para tus necesidades de marketing, y comienza a mostrar solo las versiones más efectivas del
+anuncio.
+
+Aproximadamente dos semanas después del lanzamiento de tu anuncio, Google Ads tendrá datos suficientes para que puedas ver
+las versiones con mejor rendimiento.
+
+Si ciertos anuncios de display responsivos no funcionan bien, podrás ver si es un tema de la creatividad y cambiar los
+elementos que reciben poco o ningún tráfico por otros que creas que tendrán más éxito.
+
+**Conclusiones principales** Los anuncios de display responsivos dependen de los elementos creativos que aportes. Dedica
+tiempo a seleccionar las imágenes de mejor calidad, así como a pensar los títulos y las descripciones.
+
 ### Revisión: Marketing de motores de búsqueda (SEM) y publicidad de display
 
 ### Revisión del curso: Atrae e involucra clientes con marketing digital
