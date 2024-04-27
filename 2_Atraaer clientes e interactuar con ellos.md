@@ -1195,6 +1195,46 @@ y configuración de usuario/a.
 
 #### Desglose de las páginas de resultados del motor de búsqueda de Google (SERP)
 
+Profundicemos en el aspecto de los resultados de búsqueda de Google. Las páginas de resultados de motores de búsqueda (SERP)
+aparecen al realizar una consulta de búsqueda. Hay distintos tipos de funciones de SERP según cada búsqueda.
+
+Por ejemplo, si buscas un producto, los resultados serán sobre compras o productos. Si buscas noticias puntuales, los
+resultados serán artículos. Busca siempre en Google tu producto o servicio con el nombre de marca y palabras relacionadas.
+Analiza los resultados: ¿qué posición tendrías en las SERP?
+
+Al analizar las SERP, considera que hay resultados orgánicos y de pago. Normalmente los anuncios pagos se muestran en la
+parte superior de la página de resultados. Después de estos vienen los resultados orgánicos. También puedes ver los anuncios
+al final de la página de resultados.
+
+Debes conocer varias funciones de las SERP. Veamos algunas de las más comunes. Un fragmento destacado (featured snippet) es
+un recuadro especial que muestra información de una búsqueda en la página de resultados. Se muestra cuando el algoritmo
+define el formato o cuando el público podría descubrir más fácilmente lo que busca. Es una función sin costo.
+
+Los especialistas pueden marcar una página como fragmento destacado. Los sistemas de Google decidirán si la página es un
+buen fragmento destacado para la búsqueda. Los resultados enriquecidos dan datos específicos sobre un sitio web. Ayudan a
+mostrar el sitio web con más funciones en los resultados.
+
+Un ejemplo es una página web de productos. La información adicional incluye reseñas, calificaciones, precio y
+disponibilidad. Pueden aparecer imágenes si el sistema de Google decide que el contenido visual aporta valor a la búsqueda.
+Las imágenes pueden aparecer en cualquier posición, como arriba, en el medio o en la parte inferior de las SERP. Las
+imágenes son una función sin costo.
+
+Al igual que las imágenes, pueden aparecer videos si el sistema de Google cree que le aportan valor a la consulta. Estos
+también aparecen arriba, en el medio o abajo de la página. Las SERP muestran videos de cualquier parte del sitio web.
+
+Al buscar un negocio, producto o servicio local, pueden aparecer distintas funciones de SERP según la ubicación. La más
+destacada es un mapa y una lista de negocios locales. Los negocios enumerados son de una lista de perfiles empresariales sin
+costo que ofrece Google. El perfil está disponible para negocios con clientes locales. Además, si alguien busca el nombre de
+la empresa, su perfil empresarial podría aparecer como un panel en el lado derecho de la SERP.
+
+Aparte de los resultados orgánicos, están los anuncios pagos. Verás más sobre los distintos tipos de anuncios más adelante
+en el curso. Aquí concluimos la lección sobre las páginas de resultados del motor de búsqueda de Google.
+
+Me gustaría que hicieras algo para saber más sobre las SERP. Al buscar en Google u otro motor de búsqueda, analiza los
+resultados. ¿Qué sitios web, productos, y fragmentos destacados aparecen? ¿Dónde se ubican? ¿Por qué crees que que están
+ahí? Al analizar los resultados, entenderás mejor los resultados de búsqueda y estarás un paso más cerca de pensar como un/a
+especialista en marketing digital.
+
 #### Otros motores de búsqueda populares
 
 #### Jake - Objetivo y funcionamiento de los algoritmos de búsqueda
