@@ -1866,11 +1866,244 @@ Tasa de rebote: porcentaje de visitantes de un sitio web que ven una página y l
 
 #### Te damos la bienvenida a la semana 3 curso 2
 
+¡Les damos la bienvenida de nuevo!
+
+Ahora que sabes cómo funciona la búsqueda y adquiriste los conceptos básicos sobre optimización de motores de búsqueda, ya
+puedes aprender a aplicarlos. En este video, analizaremos estrategias, consejos y recomendaciones que ayudarán a que el
+contenido de tu sitio web funcione mejor en los buscadores.
+
+Una habilidad importante para especialistas en marketing digital es poder aplicar el SEO. Tal vez tengas que crear contenido
+SEO en tu nuevo rol para que tus clientes potenciales te encuentren al hacer consultas en un motor de búsqueda. La
+información de esta sección te será de gran ayuda para hacerlo.
+
+Empezaremos esta sección con recomendaciones generales y consejos para optimizar el contenido de un sitio web. Luego,
+veremos los enlaces internos y cómo optimizar imágenes para un sitio web. También aprenderás a crear un sitio web compatible
+con dispositivos móviles.
+
+Luego, veremos estrategias que ayudan a los motores de búsqueda a entender mejor tu contenido, como escribir títulos y
+metadescripciones efectivas. También conocerás cómo añadir el marcado de datos estructurados y hacer que tu contenido sea
+único en los motores de búsqueda.
+
+Para terminar, analizaremos una herramienta de Google para SEO llamada Search Console. Ofrece una variedad de informes y
+métricas relacionadas con SEO. También aprenderás sobre una herramienta SEO que ofrece el motor de búsqueda Bing llamada
+Bing Webmaster Tools.
+
+Estoy muy feliz de poder ayudarte a ampliar tu conocimiento sobre marketing digital y SEO. ¿Todo listo? Genial, empecemos.
+
 #### Optimiza el contenido de un sitio web
+
+Si bien puedes creer que hay trucos y consejos de SEO, realmente todo se reduce a crear un excelente contenido. Si el
+contenido está bien escrito, es informativo y abarca bien el tema, ayudará a satisfacer las consultas quienes buscan. Y como
+especialista de marketing y comercio electrónico que implementa SEO, debes intentar satisfacer las consultas mejor que tu
+competencia.
+
+En este video, analizaremos cómo optimizar el contenido de tu sitio web. Estas recomendaciones se extraen de los documentos
+de Google para mejorar el SEO. Si bien no garantizan que una página web quede de primero en un motor de búsqueda, es
+importante considerarlas a la hora de crear una página web.
+
+La primera recomendación es crear un sitio web útil e interesante. Crear contenido útil y atractivo probablemente generará
+un impacto mayor en tu sitio web que cualquier otro factor que discutamos. Los y las usuarios/as consideran atractivo un
+buen contenido. Si el contenido los cautiva, es probable que quieran compartirlo y dirigir a otros/as usuarios/as al sitio.
+Lo que ayuda a crear la reputación del sitio en Google y entre las y los visitantes es que tu audiencia hable del sitio web
+y lo comparta con otros/as usuarios/as. Rara vez se comparte un sitio web si no presenta contenido de calidad.
+
+Otra recomendación es saber qué quieren tus visitantes para dárselos. Debes empezar con una investigación de palabras clave.
+Al tener las palabras clave y el tema correcto, crea contenido de calidad. No hay una única manera de crear contenido de
+calidad. Sin embargo, las Directrices básicas de la Búsqueda de Google brindan algunas sugerencias, para garantizar un
+contenido bien redactado y fácil de leer, y para revisar el texto cuidadosamente y evitar errores ortográficos y
+gramaticales.
+
+El contenido fresco y único también funciona mejor para quienes buscan. No repitas contenido antiguo. Google se esfuerza por
+mostrar las páginas con información distintiva. Si el sitio web contiene páginas duplicadas o con contenido similar es
+probable que no se muestren en los resultados en el motor de búsqueda.
+
+La tercera recomendación es actuar para aumentar la confianza de los y las usuarios/as. El público se siente cómodo
+visitando tu sitio web si cree que es confiable. Un sitio con una buena reputación es confiable. Crea una reputación de
+experiencia en tu sector o área determinada. Brinda información sobre quién publica el sitio, quién proporciona el contexto
+y cuáles son los objetivos de la empresa. Si tu sitio web es de comercio electrónico, asegúrate de tener información clara y
+concreta sobre el servicio a las y los clientes. Esto ayudará a tus visitantes a resolver sus problemas.
+
+También recomendamos usar las tecnologías adecuadas. Por ejemplo, si tu página de pago de comercio electrónico no tiene una
+conexión segura, tus visitantes no confiarán en el sitio.
+
+La siguiente recomendación es dejar en claro la experiencia y la autoridad. Asegúrate de que el contenido del sitio sea
+creado por personas que tengan conocimiento en el tema. Si como especialista en marketing digital debes crear contenido
+sobre un tema que no conoces, asegúrate de que alguien con experiencia lo revise. O bien, puedes mencionar fuentes que sean
+confiables. La fuente ayuda a entender la experiencia en la que se basa el contenido.
+
+La quinta recomendación es proporcionar una cantidad adecuada de contenido para tu tema. Crear contenido de alta calidad
+requiere una cantidad significativa de al menos uno de los siguientes elementos: tiempo, esfuerzo, experiencia, talento o
+habilidad. Asegúrate de que tu contenido sea preciso, completo y esté redactado con claridad. Por ejemplo, si publicas una
+receta, proporciona una receta completa que sea fácil de seguir. No publiques solamente los ingredientes o una descripción
+básica del plato. Asegúrate de que las instrucciones tengan sentido y sean las correctas.
+
+Estas son cinco recomendaciones de las Directrices de la Búsqueda de Google. Úsalas para crear contenido que ofrezca una
+gran experiencia para tus clientes potenciales. Si les ofreces una gran experiencia a quienes buscan en línea, será un gran
+comienzo para que la página se posicione alto en las SERP.
 
 #### La mejor forma de utilizar los enlaces y promocionar un sitio web
 
+Los enlaces son importantes para ayudar a las y los visitantes a encontrar la información que necesitan dentro de tu sitio
+web. También son útiles para optimizar el contenido de los sitios web para SEO, que es lo que estás aprendiendo en este
+curso. Esta lectura te ayudará a familiarizarte con las mejores formas de usar los enlaces internos y externos. También
+aprenderás cómo promocionar un sitio web y atraer enlaces de entrada (inbound).
+
+**Introducción sobre los enlaces a sitios web** Existen dos tipos principales de enlaces en los sitios web: los enlaces
+dentro de tu sitio web y los enlaces que llevan hacia tu sitio web.
+
+Los enlaces en un sitio web pueden ser enlaces internos, que llevan a otras páginas del mismo sitio, o enlaces externos, que
+te dirigen a contenido de otras páginas. Un enlace interno, por ejemplo, podría llevarte desde una lista de hoteles en un
+sitio web de planificación de viajes, a otra página del sitio que incluya información sobre un hotel específico. Sin
+embargo, un enlace externo podría llevarte desde la lista de hoteles, hasta el sitio web oficial del hotel escogido. Los
+enlaces externos también se conocen comúnmente como enlaces de salida o outbound.
+
+Los enlaces que te llevan a un sitio web desde otros sitios se llaman enlaces de entrada (inbound) o backlinks. Por ejemplo,
+si un artículo en línea sobre los mejores paquetes de vacaciones incluye un enlace a un sitio web de planificación de
+viajes, eso se consideraría un enlace de entrada.
+
+**Mejores prácticas para enlaces internos y externos**
+Estas son las mejores prácticas a tener en cuenta al crear enlaces internos y externos.
+
+*Usar un texto de enlace (anchor text) apropiado.*
+Texto de enlace: el texto visible en un hipervínculo. En este ejemplo, “Más información” es el texto de enlace.
+
+![alt text](image-22.png)
+
+Un buen texto de enlace ayuda a las y los visitantes a navegar por tu sitio, y a Google a comprender de qué trata la página
+que estás enlazando.
+
+El texto de enlace debe ser:
+
+Descriptivo: usa un texto de enlace que proporcione una idea básica de lo que trata la página enlazada.
+
+    Evita los textos de enlace genéricos como “página”, “artículo” o “haz clic aquí”.
+
+    En la mayoría de los casos, evita usar la propia URL como texto de enlace.
+
+Conciso: el texto de enlace solo debe tener unas pocas palabras o una frase corta.
+
+    Evita enlazar un párrafo completo o una oración larga.
+
+Fácil de detectar: utiliza un formato que haga que tus enlaces se destaquen sobre el texto normal de tu sitio web.
+
+    Si sólo puedes ver el enlace cuando colocas el mouse sobre él, podrías perderlo fácilmente, o incluso hacer clic de
+    forma accidental.
+
+Útil: usa texto de enlace solo cuando ayude a las y los visitantes a navegar por tu sitio para encontrar la información que
+necesitan.
+
+    Evita usar textos de enlace extensos sólo para favorecer a los motores de búsqueda.
+
+    Evita llenar el texto de enlace con palabras clave.
+
+**Precaución con el uso de enlaces externos** Usar enlaces que llevan a otros sitios web puede ser beneficioso, pero debes
+evitar enlazar a sitios que podrían no tener buena reputación o incluir información que tu página no respalda.
+
+Algunos/as usuarios/as pueden tratar de aprovechar los enlaces externos para el beneficio de su propio sitio web. Por
+ejemplo, pueden agregar un enlace a su sitio en la sección de comentarios o los espacios para mensajes de una página
+determinada. También, una aplicación agregada a un sitio, como un software de chat en vivo, podría incluir enlaces externos
+no deseados.
+
+En estos casos, puedes usar enlaces con el atributo nofollow, es decir, enlaces que cuentan con un código HTML que indica a
+los motores de búsqueda que lo ignoren. Esto significa que los motores de búsqueda no asociarán tu página con el sitio
+enlazado.
+
+Si tu sitio incluye comentarios públicos o una sección de mensajes, es recomendable usar enlaces con el atributo nofollow
+automáticamente para todos los comentarios y mensajes agregados por los y las usuarios/as. Este suele ser un proceso más
+rápido y más eficiente que eliminar los enlaces externos uno por uno cada vez que aparecen en la sección de comentarios o
+tableros de mensajes.
+
+**Promueve tu sitio web** Una de las formas en que Google determina el ranking de un sitio web es analizando los sitios que
+lo enlazan. Tanto la calidad como la cantidad de enlaces cuentan para definir el ranking de un sitio.
+
+Crear contenido de calidad al que otras personas quieran vincularse es la mejor manera de promocionar tu sitio web y atraer
+enlaces de entrada (inbound). Este es un proceso gradual que ocurre a medida que las personas descubren el contenido de un
+sitio web y eligen enlazarlo desde el suyo. La promoción de tu sitio web puede facilitar este proceso para que las personas
+encuentren más rápido tu contenido.
+
+*Formas de promocionar tu sitio web* Éstas son algunas ideas para ayudarte a promocionar tu sitio web y atraer enlaces de
+entrada:
+
+    Publica entradas de blog sobre nuevos contenidos o servicios que ofrezcas.
+
+    Comparte contenido de calidad en las redes sociales.
+
+    Incluye artículos útiles, como guías de compra, en tu contenido de marketing por correo electrónico.
+
+    Conéctate con otras comunidades en línea relacionadas con tu sitio, como foros o tableros de mensajes, grupos de redes
+    sociales o sitios web similares al tuyo.
+
+    Solo comparte contenido que sea interesante para tu público, en lugar de compartir todas las actualizaciones del
+    contenido de tu sitio.
+
+**Enlaces pagados** Google está en contra del uso de enlaces pagados, a menos que sean con fines publicitarios y estén
+debidamente etiquetados. Comprar y vender enlaces para manipular los resultados de búsqueda no es una práctica aceptable y
+puede afectar negativamente al ranking de un sitio. También puede conducir a enlaces de entrada de baja calidad, desde
+sitios con reputación dudosa.
+
+**Conclusiones principales** El uso de enlaces internos y externos ayuda a las y los visitantes a encontrar la información
+que necesitan. Promocionar tu sitio web te ayudará a aumentar la calidad y cantidad de enlaces que lleven a tu sitio, lo que
+podría mejorar su reputación.
+
 #### Optimiza imágenes para un sitio web
+
+Los motores de búsqueda usan imágenes como una forma de encontrar información en Internet de manera visual. Las imágenes
+también son la forma en que las y los clientes comprenden tus productos y servicios de forma visual. ¿Recuerdas cuando
+hablamos sobre las imágenes en las SERP de Google? Bueno, esas imágenes provienen en su mayoría de sitios web. Sí, es
+posible lograr que las imágenes que subes a un sitio web se muestren en los resultados de Google Imágenes.
+
+En este video, abordaremos las mejores prácticas para lograr que tus imágenes aparezcan en los resultados de Google. Verás
+que estas recomendaciones son para los y las usuarios/as, no sólo para los motores de búsqueda. Cuando tus usuarios/as están
+conformes, los motores de búsqueda suelen reconocerlo, y mostrarán tu sitio web, tus imágenes o tu contenido. Si bien cargar
+imágenes a tu sitio web puede parecer un proceso simple, existen varios factores a considerar para que se adapten tanto al
+público como a los motores de búsqueda. ¡Empecemos!
+
+Una de las formas más efectivas de aumentar tu visibilidad en Google Imágenes es creando primero una gran experiencia de
+usuario/a con imágenes en el sitio web. ¿Y cómo se logra? Primero, asegúrate de que el contenido visual es relevante al tema
+de la página. Es importante mostrar imágenes que puedan aportar valor original a la página. Siempre que sea posible, coloca
+imágenes de forma destacada en la página y cerca del texto más relevante. Cuando tenga sentido, considera colocar la imagen
+más importante cerca de la parte superior de la página.
+
+Para brindar una excelente experiencia a los y las usuarios/as, también asegúrate de que tus imágenes sean compatibles con
+cualquier dispositivo. Esto significa que deben cargarse correctamente en computadoras, tabletas electrónicas y dispositivos
+móviles. A veces, la imagen puede cambiar de tamaño en el móvil. ¿Se ve cortada? ¿Se ve de la misma forma que en tu
+computadora?
+
+Otra de las mejores prácticas con imágenes es incluir descripciones, subtítulos y nombres de archivos. Al extraer una imagen
+de un sitio web para mostrarla en Google Imágenes, Google generará automáticamente un título y lo fragmentará para describir
+la foto. Puedes crear un título de página descriptivo para facilitar esta acción. También debes considerar incluir
+descripciones en las fotos. Esta acción ayuda a que Google entienda de qué se trata la foto. Del mismo modo, el nombre del
+archivo puede darle pistas a Google sobre la temática de la imagen. Por ejemplo, “mi-nuevo-gatito-gris.jpg” es más
+descriptivo que “IMG0023.jpg”.
+
+Otra importante práctica para las imágenes es usar texto alternativo descriptivo. El texto alternativo es el texto que
+describe una imagen. Mejora la accesibilidad para las personas que no pueden ver imágenes en una página web, como las y los
+visitantes que usan lectores de pantalla o tienen conexiones con poco ancho de banda. Google usa texto alternativo junto con
+algoritmos de visión artificial y con el contenido de las páginas para entender la temática de la imagen. Al escribir texto
+alternativo, concéntrate en crear contenido útil, que contenga mucha información y que use palabras clave de manera
+apropiada.
+
+El texto alternativo también debe coincidir con contenido de la página. También debes evitar el exceso de palabras clave en
+el texto alternativo. Puede provocar una mala experiencia de usuario/a y puede hacer que la Búsqueda de Google considere tu
+sitio como spam.
+
+Veamos un ejemplo de keyword stuffing en el texto alternativo para la foto de un cachorrito. El texto alternativo de keyword
+stuffing se leería como “Cachorrito perro bebé cachorros perrito retriever labrador dálmata terrier comida barata para
+cachorros comida para cachorros”. Un ejemplo de texto alternativo más claro sería “Perrito dálmata jugando con la pelota”.
+
+Una cuarta recomendación es optimizar la velocidad. Las imágenes suelen ser los elementos que más incrementan el tamaño
+general de las páginas, lo que puede provocar que se carguen más lento. Al cargar imágenes en un sitio web, normalmente no
+debes cargar la imagen original. Se recomienda cambiar el tamaño de la imagen, a uno más apropiado para el sitio web sin
+perder la calidad de la foto. Para determinar si las imágenes ralentizan la velocidad de carga de un sitio web, usa la
+herramienta gratuita proporcionada por Google llamada Page Speed Insights. Esta herramienta analiza la página web y
+proporciona información sobre su tiempo de carga. También ofrece sugerencias sobre cómo puedes reducir el tiempo de carga,
+al mostrarte qué imágenes tardan más tiempo en cargarse.
+
+Ahora ya sabes más sobre cómo lograr que las imágenes de un sitio web aparezcan en los resultados de Google Imágenes. Si
+eres especialista en marketing digital o comercio electrónico que trabaja en un sitio web, redes sociales, publicidad en
+línea, o en marketing por correo electrónico, los elementos visuales como las imágenes serán un aspecto importante de tu
+trabajo. Recuerda, un poco de conocimiento sobre SEO puede tener un gran impacto. Aplica estas prácticas importantes para
+incluir imágenes y asegurarte de que tu contenido se muestre en Google Imágenes y atraiga un tráfico mayor a tu sitio web.
 
 #### Adapta tu sitio web a los dispositivos móviles
 
