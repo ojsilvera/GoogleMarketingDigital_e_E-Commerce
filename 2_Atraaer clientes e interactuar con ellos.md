@@ -1237,7 +1237,74 @@ especialista en marketing digital.
 
 #### Otros motores de búsqueda populares
 
+Google es un motor de búsqueda enormemente popular, pero no es el único. Por eso, para posicionar y comercializar productos
+y servicios de manera efectiva, debes considerar otras plataformas. Ten en cuenta que los motores de búsqueda evolucionan
+continuamente a medida que la tecnología mejora. Esta lectura te permitirá identificar otros buscadores populares, que
+puedes utilizar para el marketing digital, y te explicará sus características.
+
+**Motores de búsqueda tradicionales** En un video anterior, aprendiste que un motor de búsqueda es un software que localiza
+información a partir de una búsqueda. Cuando una persona escribe una consulta en un motor de búsqueda como Google, recibe
+una variedad de enlaces relacionados con ella para seleccionar. Los siguientes motores de búsqueda ofrecen una estructura de
+búsqueda similar a la del buscador de Google.
+
+**Yahoo! Google Search y Bing** Al igual que Google creó Google Search en 1995, la empresa estadounidense de servicios web
+Yahoo! creó el motor de búsqueda Yahoo Search, su principal producto.
+
+Desde entonces, la empresa ha diversificado sus actividades. En 2009, Yahoo! anunció que el motor de búsqueda de su sitio
+web pasaría a funcionar con Bing, el buscador creado por Microsoft. En la actualidad, la plataforma de búsqueda orientada se
+llama Microsoft Bing, mientras que el backend de marketing digital se llama Microsoft Advertising. Microsoft Advertising
+tiene características similares a Google Ads, y es el segundo mayor motor de búsqueda a nivel publicitario.
+
+**DuckDuckGo** DuckDuckGo es un motor de búsqueda que fue lanzado en 2008. Una de las características que define a
+DuckDuckGo es su compromiso de proporcionar páginas de resultados de motores de búsqueda (SERP) sin filtro, ya que no
+incorpora información de la persona que hace la consulta de búsqueda. Así, evita recopilar datos privados de quienes
+realizan las búsquedas. Microsoft Advertising publica los anuncios en DuckDuckGo.
+
+**Baidu (China)** Baidu, propiedad de una empresa multinacional de tecnología del mismo nombre, es el buscador más utilizado
+en China y tiene una participación del 76,05 % en el mercado de motores de búsqueda de ese país.
+
+**Conclusiones clave** En la era digital, los motores de búsqueda son necesarios para ayudar a las personas a encontrar
+información, contenidos y productos. Como profesional del marketing digital, debes tener en cuenta otros motores de
+búsqueda, más allá de Google Search, para llegar a audiencias adicionales y tener más oportunidades de alcanzar tus
+objetivos.
+
 #### Jake - Objetivo y funcionamiento de los algoritmos de búsqueda
+
+Hola, soy Jake, y soy Responsable de Búsqueda en Google. Trabajo con Pods y clientes. Los Pods en Google son un grupo de
+gerentes y ejecutivos/as de cuentas que trabajan con un grupo de clientes. Realmente te asocias con ellos/as en la
+estrategia general en todo su pod o todo su grupo de clientes. Sin embargo, también trabajas con ellos/as y dialogas sobre
+cómo alinear sus objetivos de negocio con tus esfuerzos de búsqueda. Esto permite que exista un vínculo directo para que
+todo lo que desarrollen en su publicidad de búsqueda también se conecte con el crecimiento del negocio.
+
+Así que aquí hay algunos ejemplos de los motores de búsqueda más conocidos. Obviamente, Google es líder al respecto en todo
+el mundo. Pero hay muchos otros. Bing es uno de los más grandes en Estados Unidos. Baidu es uno de los más grandes en China.
+Está Yandex, está Yahoo Japón. Hay muchísimas opciones cuando se trata de diferentes motores de búsqueda en los que puedes
+mostrarte y anunciarte de manera orgánica.
+
+Las habilidades en estos motores de búsqueda son muy transferibles. Esto se debe a que todos usan algoritmos muy similares
+para obtener la información que se busca, especialmente en la parte orgánica. Lo más importante que debes aprender sobre
+publicidad es cómo usar las interfaces de usuario/a de distintas plataformas. Pero cuando se trata del lado orgánico, son
+muy transferibles. Las mismas búsquedas generalmente producen resultados similares en varios motores de búsqueda.
+
+Son las mismas tres etapas del algoritmo de búsqueda. La primera es rastrear. Se trata básicamente de buscar toda la
+información en la web. La siguiente es indexar, que es cuando tomas toda esa información y comienzas a entender la
+relevancia, los temas y asuntos de esa naturaleza. Y la tercera es publicar, que es a lo que estamos acostumbrados como
+usuarios/as. Cuando hacemos una búsqueda, ahí es cuando los resultados se publican, dependiendo de qué tan relevante es la
+información que se indexó.
+
+Por lo tanto, se revisa todo lo que se indexó y se decide lo que se publica en función de la relevancia de la búsqueda. El
+rastreo, la indexación y la publicación son tres fases distintas, y cada una de ellas es continua y constante. La etapa de
+rastreo no se detiene cuando comienza la etapa de indexación. La etapa de indexación no se detiene cuando se pasa a la etapa
+de publicación.
+
+Esto es muy importante porque hay diferentes sitios web en la red todo el tiempo. Es necesario para que la etapa de rastreo
+continúe y encuentre esta nueva información. Y el 15 % de las búsquedas son únicas, por lo que es necesario comprender su
+relevancia y atender de forma diferente a los y las usuarios/as, para responder estas nuevas búsquedas nunca antes vistas.
+El proceso es continuo, no estático, pero se van conectando unos con otros y van en ese orden.
+
+¿Cuál es realmente el objetivo de los algoritmos de búsqueda? Obtener información relevante disponible en la web para los y
+las usuarios/as. Eso es realmente a lo que se reduce. Y el objetivo de todos estos motores de búsqueda y de todas estas
+empresas es ser lo más relevante posible para cada usuario/a, para que regrese una y otra vez.
 
 ### Comprende los conceptos básicos de la optimización para motores de búsqueda (SEO)
 
