@@ -45,6 +45,18 @@ Estaré feliz de guiarte a través de lo que viene en tu recorrido por el market
 
 ### Comprende qué es el marketing en redes sociales
 
+#### Te damos la bienvenida a la semana 1 cirso 3
+
+#### Las ventajas del marketing en redes sociales
+
+#### Cindy: un día en la vida de una gerente de marketing de productos
+
+#### Los cinco pilares básicos del marketing en redes sociales
+
+#### Redes sociales de pago, propias y ganadas
+
+#### El embudo de marketing en redes sociales
+
 ### Revisión: Introducción a “De Me gusta a Leads: interactúa con las y los clientes en línea”
 
 ## Estrategia, planificación y publicación en redes sociales
