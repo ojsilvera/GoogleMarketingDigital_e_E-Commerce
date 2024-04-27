@@ -2716,4 +2716,32 @@ certificado, se te abrirán oportunidades que no tenías cuando empezaste.
 
 ### Revisión: Aplica la optimización de motores de búsqueda (SEO)
 
+#### Términos y definiciones del curso 2, semana 3
+
+Acción manual: la forma en que Google penaliza o elimina sitios web que no cumplen con sus pautas de calidad.
+
+Datos estructurados: código utilizado para describir mejor el contenido de una página web a los motores de búsqueda.
+
+Elemento de título de la página web: texto que proporciona tanto a las o los usuarios como a los motores de búsqueda el tema de una página.
+
+Enlace entrante (backlink): enlace que apunta a un sitio web desde otro sitio.
+
+Enlace externo (external link): enlace en un sitio web que dirige a contenido en otros sitios.
+
+Enlace interno: enlace en un sitio web que dirige a otras páginas en el sitio.
+
+Enlace nofollow: enlace que presenta un código HTML que indica a los motores de búsqueda que lo ignoren.
+
+Google Search Console: herramienta que ayuda a las y los usuarios/as a comprender mejor cómo funciona un sitio web en la búsqueda de Google.
+
+Metadescripción: texto que proporciona a los motores de búsqueda un resumen de lo que trata la página.
+
+Schema (esquema): tipo de código utilizado para marcar datos estructurados.
+
+Sitemap: archivo que proporciona información sobre las páginas, videos y otros archivos en un sitio web, así como las relaciones entre ellos.
+
+Texto alternativo: breve descripción escrita de una imagen con el propósito principal de ayudar a las personas con discapacidad visual.
+
+Texto del enlace: texto visible en un hipervínculo.
+
 ## Marketing de motores de búsqueda (SEM) y publicidad gráfica
