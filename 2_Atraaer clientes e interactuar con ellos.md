@@ -373,6 +373,244 @@ de una buena categorización en el sitio web podría dificultar su localización
 
 ### Etapas de Conciencia y Consideración del embudo de marketing
 
+#### Introducción al embudo de marketing y sus beneficios
+
+¡Hola de nuevo!
+
+Aprendiste lo que es el embudo de marketing, un proceso para dirigir a personas que no conocen tus productos o servicios y
+convertirlos en clientes que pagan. En general, un objetivo principal del embudo es ayudar a la empresa a lograr sus
+objetivos, ya sean para beneficios, ingresos, nuevos clientes o incluso otra cosa. Todos los esfuerzos de marketing deben
+estar optimizados para que ayuden a lograr los objetivos de la empresa.
+
+Como profesional de marketing, debes comunicarte y relacionarte con tus públicos objetivos en todas las etapas del recorrido
+del cliente. Si buscas embudos de marketing, verás rápidamente que hay muchos tipos diferentes. Puedes trabajar para una
+empresa con un embudo de seis etapas. No hay ningún problema. El embudo es solo un marco. Ayuda a que los clientes pasen de
+conocer un negocio a comprar algo de él. La estructura puede variar según el negocio.
+
+Aquí nos enfocaremos en el embudo de marketing de cuatro etapas: Conciencia, Consideración, Conversión y Fidelidad. En los
+siguientes videos, profundizaremos en cada etapa y veremos estrategias de marketing. Pero antes de ver las estrategias,
+repasemos brevemente las ventajas del embudo de marketing.
+
+La primera ventaja de este esquema es considerar el recorrido del comprador. En lugar de probar estrategias al azar, o
+mantener lo que impulsa ventas en lo inferior del embudo, el embudo te anima a considerar la experiencia del comprador con
+la marca. ¿Cuándo es su primera experiencia con la marca? ¿Cómo la experimentan? ¿Y qué hacen después de su primera
+experiencia? Estas preguntas te ayudan como profesional a entender la marca y el negocio desde la perspectiva del cliente.
+
+La siguiente ventaja es optimizar la estrategia de marketing. Todas las estrategias tienen lagunas; el embudo ayuda a verlas
+y arreglarlas. Quizá los anuncios gráficos no llaman la atención del cliente potencial o quizá tus anuncios sí, pero la
+página a la que llega se carga lentamente y le impide avanzar. Al optimizar el embudo, puedes buscar y resolver estos retos.
+
+Y, por último, tras considerar el recorrido del comprador y optimizar las estrategias de marketing, aumentarás la tasa de
+conversión y generarás más resultados. Por ejemplo, con un e-commerce puede rastrear el porcentaje de potenciales clientes
+que hacen una compra. Si 100 personas visitan la página de un producto y solo una compra, la tasa de conversión es del 1 %.
+Al optimizar el embudo das una mejor experiencia a los clientes potenciales. Esto puede aumentar la tasa de conversión y
+generarle más ingresos a la empresa.
+
+En general, un objetivo principal del embudo es dar una excelente experiencia al cliente y generarle más ingresos a la
+empresa. Los esfuerzos de marketing deben estar optimizados. Así el rendimiento de marketing ayuda a lograr los objetivos de
+la empresa. Saber qué ayuda al cliente a avanzar por el embudo y qué no puede ser una de tus tareas profesionales más
+importantes.
+
+#### Conciencia: Estrategias para que las y los clientes conozcan una marca
+
+Hola de nuevo.
+
+En el video anterior, hablamos del embudo de marketing y sus ventajas. En los siguientes videos, verás estrategias de
+marketing de cada etapa del embudo.
+
+Hablemos de la primera etapa del embudo: Conciencia. En esta etapa el cliente potencial puede no conocer el producto o
+servicio. Quizá tiene un problema específico que necesita resolver, como comprar un mueble nuevo. O quizá vio tu marca sin
+buscar un producto o servicio en particular, por ejemplo, mediante un anuncio en una red social. No obstante, encuentra la
+marca. La etapa de Conciencia es cuando un cliente potencial descubre el producto o servicio. Esta primera impresión cuenta.
+
+Imagina que trabajas en marketing digital y debes crear e implementar una estrategia para que más personas conozcan un
+producto o servicio. ¿Cómo lo consigues? Antes de hablar sobre las estrategias, si no entiendes bien estos términos y
+conceptos, está bien. Los explicaré mejor más tarde en este curso y los que siguen. Te prometo que serás un profesional al
+terminar el programa de certificación.
+
+Repasemos rápido la diferencia entre estrategias y tácticas. Este es un concepto de marketing importante. Verás que se
+suelen usar estos términos como sinónimos. Pero, para nosotros, las estrategias apoyan el plan para lograr la meta de
+marketing y tienden a ser ideas más generales. Las tácticas son acciones tomadas para hacer que el plan suceda. Por ejemplo,
+el marketing de redes sociales es una estrategia; es una idea general. Las acciones en redes sociales son tácticas; apoyan
+la estrategia.
+
+Estas son estrategias y tácticas para crear conciencia. La primera es optimización de motores de búsqueda (SEO). Es el
+proceso de mejorar un sitio web para aumentar su visibilidad en un motor de búsqueda como Búsqueda de Google o Microsoft
+Bing. Piensa en cuando un cliente potencial busca una solución a su problema. Si tu sitio web aparece en lo alto de la
+búsqueda, conocerá tu negocio.
+
+La siguiente es el marketing de motores de búsqueda (SEM). Consiste en aumentar la visibilidad de un sitio web en un motor
+de búsqueda con anuncios de pago. Es similar al SEO. Cuando un cliente busca en Google lo que ofreces, ¿acaso no es ideal
+aparecer arriba de los resultados de búsqueda? El SEM puede colocar la marca ahí.
+
+Los anuncios de Display son fotos, videos o texto. Es común ver anuncios de Display en sitios web y aplicaciones. Para crear
+reconocimiento, coloca anuncios de Display en sitios web que tus clientes potenciales visitan.
+
+La siguiente es el marketing en redes sociales: publicaciones en redes sociales como Facebook, Instagram o LinkedIn. Estas
+suelen ser gratis. Según la red social, hay diversas formas de crear reconocimiento. Una estrategia común es lograr que un
+seguidor comparta una publicación de la marca. Cuando esto pasa hay nuevas personas que descubren tu marca.
+
+Los anuncios en redes sociales son como marketing en redes sociales, pero de pago. El tipo de anuncios varía según la
+plataforma. Una oportunidad común de pago que genera reconocimiento son anuncios mostrados en los feeds de los no
+seguidores. Puedes dirigirte a clientes potenciales según sus intereses.
+
+El marketing de video varía mucho; pero un uso común para generar reconocimiento son los anuncios de YouTube reproducidos
+antes de un video, similar a los anuncios en redes sociales. Puedes dirigirte a clientes potenciales según qué videos
+vieron.
+
+El marketing de influencers es colaborar con personas o marcas con muchos seguidores, que te cobran por promocionar tu
+producto o servicio. Hay varios tipos de colaboraciones de marketing de influencers. Uno común para crear reconocimiento es
+una reseña. Por ejemplo, la marca paga a un influencer para que pruebe su producto o servicio. El influencer entonces
+detalla su experiencia. La reseña puede ser por video, foto o texto. Al hacer marketing de influencers, asegúrate de que el
+influencer revele la relación. Sigue las pautas reglamentarias.
+
+Luego tenemos el marketing de contenidos; una técnica de marketing para crear y distribuir contenido valioso. Un ejemplo es
+un libro digital descargable que los clientes potenciales pueden leer o una página web educativa. El marketing de contenidos
+suele vincularse al SEO o SEM. Pero recuerda: crear contenido valioso es el primer paso del marketing de contenidos. El
+siguiente es mostrar el contenido a clientes potenciales.
+
+Muy bien. Vimos muchas estrategias para crear conciencia. Repasemos brevemente: hablamos de SEO, SEM, anuncios de Display,
+marketing en redes sociales, anuncios en redes sociales, marketing de videos marketing de influencers y marketing de
+contenidos. Recuerda: aprenderás más sobre esto a lo largo de este programa.
+
+#### Cómo una marca da a conocer sus productos
+
+Las marcas utilizan estrategias de marketing para crear reconocimiento entre las y los clientes potenciales. Ya aprendiste
+que la primera etapa del embudo de marketing es la de Conciencia. En esta etapa, las y los clientes potenciales conocen por
+primera vez un producto o servicio. Las personas que no  conocen la marca, no buscan sus productos o servicios. Por eso, es
+tarea de la empresa darse a conocer en primer lugar.
+
+En esta lectura, aprenderás cómo una empresa ficticia, Lirio Cases, crea una estrategia de marketing para generar
+reconocimiento (Conciencia) de marca. Lirio Cases fabrica y comercializa fundas de cuero de alta calidad para teléfonos
+móviles. La compañía lleva varios años en el mercado. Y, aunque su base de clientes es cada vez más grande, busca llegar a
+una mayor cantidad de personas potencialmente interesadas en sus productos.
+
+Estas son las estrategias de marketing que Lirio Cases utiliza para dar a conocer sus productos a  potenciales clientes:
+
+**Marketing de motores de búsqueda (SEM)** Aunque el sitio web de Lirio Cases aparece en la primera página de resultados de
+búsqueda de Google y Bing para palabras clave como “funda de cuero para iPhone” o “funda de cuero para Android”, suele
+figurar en la parte inferior de la página.
+
+Con el fin de tener también presencia en la parte superior de la página de resultados de búsqueda, la empresa decidió crear
+y publicar anuncios de búsqueda utilizando Google Ads y Microsoft Advertising. Estos anuncios permiten a Lirio Cases
+presentar su marca a las personas que buscan productos como los suyos. Por ejemplo, cuando alguien busca artículos como
+“funda iPhone de cuero negro”, su anuncio suele aparecer, con otros anuncios, en la parte superior del motor de búsqueda.
+
+**Marketing en redes sociales** Lirio Cases está presente en varias plataformas de redes sociales y tiene muchos seguidores
+en Instagram. Por lo general, publica fotos sencillas de sus productos. Sin embargo, a la firma le gustaría llegar a nuevas
+y nuevos clientes proporcionando más información útil en su contenido de Instagram.
+
+Para ello, agregó fotos de alta calidad de sus fundas de cuero para teléfonos combinadas con otros artículos populares, como
+bolígrafos, billeteras y relojes. La combinación artística de sus fundas con otros accesorios crea una buena y nueva razón
+para seguir a esta cuenta: recomendaciones de estilo y moda.
+
+**Publicidad en redes sociales** Además de hacer publicaciones de alta calidad en Instagram, Lirio Cases también hace
+publicidad en plataformas de redes sociales. Para llegar a nuevos clientes potenciales, se basa en los clientes tipo que
+creó previamente. Para el contenido de los anuncios, reutiliza las nuevas fotos de alta calidad de su cuenta de Instagram.
+
+La publicidad en redes sociales llega a nuevas y nuevos clientes, y también hace crecer  la cantidad de seguidores en
+Facebook e Instagram.
+
+**Marketing de influencers** Para aumentar el alcance en Instagram, Lirio Cases contrató a un influencer con muchos
+seguidores y le pidió que promocione su última funda de cuero. Gracias a esta acción, miles de nuevos clientes potenciales
+conocieron la marca y los productos de Lirio Cases.
+
+En el posteo de Instagram, el influencer recomendó a sus seguidores  visitar la cuenta de Lirio Cases y ofreció un descuento
+del 15 % para las próximas 200 compras.
+
+**Conclusiones principales** La combinación del marketing de motores de búsqueda (SEM), marketing en redes sociales,
+publicidad en redes sociales y marketing de influencers ayudó a Lirio Cases a alcanzar nuevos clientes potenciales. Pero
+este fue solo el primer paso. Tras la presentación inicial, se debe crear interés para que las personas se conviertan en
+clientes.
+
+Es importante recordar que, como especialista en marketing digital, es poco probable que implementes todas estas estrategias
+al mismo tiempo. Lo más factible es que desarrolles una a la vez. Además, una pequeña o mediana empresa típica sólo puede
+centrarse en 2 o 3 de estas estrategias. En una empresa más grande, los y las especialistas en marketing digital
+generalmente se dedican a un tipo concreto de marketing, como el marketing de motores de búsqueda o el marketing en redes
+sociales.
+
+#### Caso práctico: Okabashi utiliza estrategias de marketing para atraer clientes y generar interés
+
+Ya aprendiste sobre la etapa de Conciencia del embudo de marketing, que es cuando un/a cliente aún no conoce una marca o sus
+productos. Ahora, verás cómo Okabashi utiliza estrategias de marketing para crear reconocimiento (Conciencia) y
+consideración entre los clientes potenciales. La Conciencia es la primera etapa del embudo y se refiere a cuando las
+personas aún no han oído hablar de la marca o no la conocen. La Consideración, en tanto, es la segunda etapa y es cuando
+un/a cliente conoce una marca, pero aún no está preparado/a para hacer una compra. Okabashi utiliza estrategias de marketing
+específicas para guiar a las y los clientes potenciales a su sitio de comercio electrónico y tratar de que, finalmente,
+realicen una compra.
+
+![alt text](image-14.png)
+
+![alt text](image-15.png)
+
+Creada en 1984, Okabashi Brands, es una empresa familiar de calzado situada en la pequeña localidad de Buford, Georgia.
+Actualmente, la compañía  está dirigida por Sara Irvani, quien sucedió a su padre en el cargo en 2017.  Okabashi se
+caracteriza por ofrecer chanclas y sandalias moldeables y coloridas, diseñadas para mantener los pies saludables. La empresa
+fabrica sus productos en una planta de casi 9300 metros cuadrados.
+
+Okabashi hace hincapié en sus valores empresariales, como su fuerte compromiso con la sostenibilidad. Cada par de sandalias
+Okabashi está hecho con casi un 25 % de productos reciclados de su propio proceso de fabricación. Además, las y los clientes
+que reciclan sus sandalias viejas con Okabashi reciben un 15 % de descuento en su próxima compra.
+
+![alt text](image-16.png)
+
+**El desafío** Como muchas empresas, Okabashi enfrenta el desafío de llegar a nuevas y nuevos potenciales clientes y
+despertar su interés. Aunque tiene muchos clientes fieles, siempre está tratando de aumentar su alcance.
+
+**El enfoque** Para llegar a nuevos/as clientes, Okabashi utiliza varias estrategias, como anuncios en motores de búsqueda,
+anuncios en redes sociales, anuncios de display y marketing de influencers. Una vez que las y los clientes potenciales
+conocen sus productos, la marca sigue utilizando varias estrategias de marketing, pero ahora busca despertar el interés de
+esas personas. Las estrategias que utiliza durante la etapa de Consideración incluyen anuncios de remarketing, marketing por
+correo electrónico y exhibición de reseñas de Google para generar confianza.
+
+En muchas de sus estrategias de marketing, Okabashi utiliza un lenguaje que refleja sus valores: productos de fabricación
+local, hechos en EE.UU., un negocio  liderado principalmente por mujeres y calzado producido de forma sostenible.
+
+![alt text](image-17.png)
+
+**Conciencia** Durante la etapa de Conciencia del embudo de marketing, Okabashi utiliza varios tipos de Google Ads,
+incluidos los anuncios de búsqueda y los anuncios de shopping. Al configurar Google Ads, se especifica el tipo de producto,
+incluso el color. Por ejemplo, usará “coral” para describir sandalias en lugar de un color más general, como “rosa”. Esto
+hace que los productos de Okabashi aparezcan en resultados de búsquedas específicas.
+
+En las redes sociales, la empresa promociona anuncios en Facebook e Instagram. Normalmente, estos se basan en el estilo de
+vida y hacen referencia a  la marca en general, no solo a un producto específico.
+
+Una de las estrategias de marketing que Okabashi utiliza es el marketing de influencers. La empresa envió notas escritas a
+mano junto a un producto gratuito a más de 100 influencers. La idea detrás de esta estrategia era que el/la influencer se
+conecte con la nota escrita a mano, disfrute del producto y luego haga una publicación en su perfil de redes sociales. La
+clave para que esta estrategia se traduzca en ventas es asegurarse de que el/la influencer tenga una audiencia interesada en
+ese tipo de producto.
+
+**Consideración** Okabashi utiliza el remarketing para mantener sus productos en las mentes de las y los clientes
+potenciales. Cuando un cliente potencial ve un producto en su sitio web, Okabashi vuelve a promocionarlo a través de
+anuncios en línea. Los anuncios de remarketing se muestran en sitios web compatibles con Google Ads, Facebook e Instagram.
+
+Otra estrategia utilizada por Okabashi para despertar el interés de las y los clientes potenciales es el marketing por
+correo electrónico. En esta estrategia, se asocia con marcas que no sean competidoras y que compartan valores e intereses
+similares, como la fabricación en Estados Unidos. Cada marca envía un correo electrónico a su lista de contactos con un
+mensaje promocionando el negocio de la otra.
+
+Como una manera de generar consideración, Okabashi se enfoca en aumentar la confianza de sus clientes potenciales. Una forma
+de hacerlo es a través de las reseñas en su Perfil de Negocio de Google, donde es posible conocer la experiencia que
+tuvieron otras personas con los productos de la marca. Además, Okabashi  fomenta la confianza compartiendo su historia
+empresarial en las redes sociales, por correo electrónico y en sus páginas de productos. Al leer la historia de cómo
+Okabashi fabrica sus productos en los Estados Unidos, las y los clientes potenciales confían más en la marca.
+
+**Los resultados** El embudo de marketing bien diseñado y con múltiples estrategias ayudó a Okabashi a aumentar su base de
+clientes en línea. Hasta ahora, la marca lleva vendidos más de 35 millones de pares de calzado.
+
+**Conclusión** Una de las cualidades que ha hecho que Okabashi tenga éxito con su tienda de comercio electrónico es su
+creatividad en las estrategias de marketing . El uso del marketing de influencers y las colaboraciones por correo
+electrónico para hacer llegar sus productos a los clientes tipo es algo especialmente innovador. Al considerar estas
+estrategias, es importante tener en cuenta que se necesita construir relaciones. Si bien una empresa puede crear anuncios
+para generar reconocimiento y consideración, asociarse con influencers y marcas es una estrategia que fortalece las
+relaciones. Si se hace bien, puede ser beneficiosa para todos.
+
+#### Consideración: Estrategias para despertar el interés por tu producto o servicio
+
+#### Cómo aumentar la consideración de una marca
+
 ### Etapas de Conversión y Fidelidad del embudo de marketing
 
 ### Introducción para atraer e involucrar a clientes con marketing digital
