@@ -2947,11 +2947,11 @@ puedes ver aspectos que no verías con anuncios físicos, como cuántos encuentr
 Recopilar y evaluar toda esa información puede ayudarte a replantear una estrategia débil o a reforzar una buena. Eso es
 marketing de rendimiento.
 
-Es usar información concreta sobre el comportamiento de los clientes para planear y refinar las estrategias de marketing y
-ventas. Se centra en resultados medibles, como clics y conversiones. Los profesionales fijan metas específicas y usan
-métricas para ver si las alcanzan. Ya conoces métricas de rendimiento, como el número de impresiones y el costo por clic en
-anuncios de pago. Otra métrica es el valor del tiempo de vida del cliente, que se refiere a los ingresos medios generados
-por cliente durante un período.
+marketing de rendimiento(performance marketing) Es usar información concreta sobre el comportamiento de los clientes para
+lanear y refinar las estrategias de marketing y ventas. Se centra en resultados medibles, como clics y conversiones. Los
+profesionales fijan metas específicas y usan métricas para ver si las alcanzan. Ya conoces métricas de rendimiento, como
+el número de impresiones y el costo por clic en anuncios de pago. Otra métrica es el valor del tiempo de vida del cliente,
+que se refiere a los ingresos medios generados por cliente durante un período.
 
 También se mide el ROAS: retorno de la inversión publicitaria. El ROAS compara la cantidad de ingresos obtenidos con la
 cantidad gastada. Si se gastan $100 en un anuncio y se ganan $150 gracias a él, el ROAS es del 150 %.
@@ -3292,6 +3292,173 @@ conflicto y resolución te ayudará a lograrlo.
 
 ### Ve en busca de tu nueva carrera
 
+#### Prepárate para tu búsqueda de empleo
+
+Hola de nuevo. ¿Te acuerdas de mí? Me llamo Erica Soy consultora de personas en Google, es decir, socia comercial de RR. HH.
+La última vez que nos vimos, acababas de empezar este curso y ahora estás aquí, casi al final. Felicidades por tu progreso
+hasta ahora y por tomar medidas para avanzar en tu carrera. Ahora que ya acabas el primer curso, quería informarte sobre
+algunas de las actividades y recursos de desarrollo que verás en lo que queda de programa. En el próximo curso y en los
+siguientes, podrás completar una serie de actividades prácticas basadas en escenarios de e-commerce y marketing. Podrás
+practicar lo que aprendiste, además de discutir tus habilidades con los gerentes de una manera concreta. Guarda tus trabajos
+de estas actividades. Te serán útiles al final del programa y cuando empieces a pensar en la siguiente etapa de tu carrera
+en marketing digital o e-commerce. Cuando llegues al último curso del programa, profundizaremos en el tema de la búsqueda de
+empleo. Cubriremos cómo encontrar y aplicar para trabajos que te interesen. Te diré algunos tips que te servirán para el
+proceso de la entrevista, para que sepas qué esperar. Verás cómo armar una cartera en línea que te ayudará a demostrar tus
+conocimientos y experiencia. Completarás un proyecto basado en un escenario, que podrás incluir en tu cartera y y usar para
+presentar tu razonamiento a posibles empleadores. Igual que el recorrido de un cliente, tu carrera es única para ti. Pero
+elijas el camino que elijas, lo que aprendas en este programa te dará un inicio sólido. Ya has conseguido mucho y aún te
+queda mucho por hacer. Éxito en tu próxima etapa. Espero verte de nuevo muy pronto.
+
+#### Cómo encontrar oportunidades de trabajo
+
+A medida que avances en este programa, identificarás qué tareas disfrutaste más o en cuáles te pareció que tuviste más
+éxito. A pesar de que apenas estamos en el inicio del curso, es una buena idea empezar a pensar qué roles puedes desempeñar
+en el futuro. Esta lectura te proporciona una visión general sobre cómo encontrar oportunidades de trabajo y qué debes tener
+en cuenta cuando las encuentres.
+
+**Consejos para encontrar el trabajo adecuado** Hay varios pasos que puedes dar para acercarte al trabajo que quieres. El
+cambio puede ser difícil. Cambiar de industria y buscar nuevas oportunidades requiere tiempo, dedicación y organización. Sé
+paciente al completar las tareas que siguen y procura mantener las notas o documentos relevantes en un solo lugar, para que
+siempre puedas consultarlos.
+
+**Busca en las bolsas de trabajo y analiza las descripciones de los puestos** Hay muchas bolsas de trabajo disponibles en
+Internet. Sitios como Indeed, LinkedIn y Glassdoor son bolsas de trabajo confiables, que te permiten encontrar empleo en
+cualquier sector que te interese. Visita estos sitios y haz una búsqueda con frases como “marketing digital” o “especialista
+en comercio electrónico”. Si buscas un puesto de nivel inicial, incluye palabras como “asociado”, “asistente”, “coordinador”
+y “nivel inicial”. A medida que leas las descripciones de los puestos, toma notas sobre qué tareas y funciones te interesan
+más.
+
+Consejo profesional: a medida que revises las descripciones de los puestos de trabajo, anota las palabras que te parezca que
+las empresas usan más frecuentemente. Te servirán mucho en el futuro.
+
+**Haz tu inventario profesional** Ahora que ya navegaste por las bolsas de trabajo y sabes lo que los empleadores buscan,
+crea tu propio inventario profesional. Crear tu inventario implica considerar los rasgos y calificaciones que te definen
+como profesional. ¿Eres una persona organizada? ¿Naciste para dirigir o para innovar? ¿Tienes un talento especial para todo
+lo relacionado con las redes sociales? ¿Te destacas en la comunicación y presentación de informes? Piensa en los proyectos,
+momentos y situaciones laborales en las que te desenvolviste con éxito: ¿cuáles de tus habilidades contribuyeron a ese
+éxito?
+
+Incluye cualquier cosa sobre ti que te parezca relevante. El formato del inventario depende completamente de ti: puedes
+seguir el formato de un diario, una lista o cualquier otra cosa.
+
+**Revisa los documentos relevantes y las redes sociales** Esta es quizás la tarea más significativa en esta lectura y es muy
+importante. ¿Recuerdas cómo anotaste las palabras más frecuentes en las descripciones de puestos de trabajo? Ahora úsalas
+para refinar tu presencia en línea. Comienza por revisar tu currículum y cualquier carta de presentación que hayas escrito.
+Cuando edites esos documentos, asegúrate de aprovechar tus experiencias profesionales. Esto es especialmente importante si
+vas a cambiar de industria y necesitas demostrar que eres ideal para un trabajo de marketing digital, incluso si tienes poca
+experiencia.
+
+Después de que hayas adaptado tu currículum y carta de presentación, crea un perfil de LinkedIn. Si ya tienes uno, adáptalo
+igual que lo hiciste con tu currículum. Visita los perfiles de otros/as especialistas en marketing digital y comercio
+electrónico para inspirarte.
+
+**Aprovecha tu red personal** Aprovechar tu red personal puede ser una excelente manera de llegar a nuevos empleadores. A
+veces, las empresas ofrecen programas de referencia a sus empleados, y los/las invita a recomendar a las personas que
+conocen para las nuevas vacantes. Comunícate con viejas amistades, colegas y personas que conozcas que puedan darte consejos
+sobre la industria o, incluso, referirte para nuevos puestos. Seguramente, harás esto después de terminar este programa de
+certificación, pero puedes comenzar ya y ganar algo de tiempo.
+
+**Reconoce los pequeños logros** Antes de hacer todo esto, puedes crear una hoja de cálculo para celebrar cada pequeño logro
+del camino que estás recorriendo. Hacer un seguimiento minucioso de tus progresos es una excelente manera de recompensarte.
+
+Te estás embarcando en un viaje emocionante e inspirador, ¡asegúrate de darte el crédito que mereces!
+
+#### Elle – Fortalece tu confianza
+
+Hola, me llamo Elle y soy la vicepresidenta del Equipo de Maestría. Mi función es apoyar a la organización empresarial de
+Google con grandes experiencias de aprendizaje. Uno de mis valores fundamentales es la curiosidad, y lo que más me gusta de
+mi trabajo es que puedo apoyar la curiosidad de nuestra organización con grandes experiencias que ayudan a las personas a
+aprender, crecer y desarrollarse, y aportar todo su ser al trabajo cada día. A lo largo de este programa y de tu
+trayectoria, tendrás momentos en los que no sentirás seguridad de ti mismo, y la confianza es muy importante. Te voy a
+contar una historia sobre un momento en el que me faltó confianza y lo que hice para levantarme. Llevaba unos diez años
+trabajando y, por desgracia, me despidieron. Estaba destrozada. Carecía por completo de confianza y no tenía ni idea de cómo
+iba a levantarme y encontrar mi próximo empleo. Así que recurrí a una cita en la que pienso a menudo en momentos como este.
+Y esa cita es: “No se trata de cómo te caes. Lo que cuenta es cómo te vuelves a levantar”. Y me rodeé de un sistema de apoyo
+que me ayudara a recuperar la confianza. Y hay dos tipos de personas con las que te recomiendo que te rodees. El primero es
+un animador. Es una persona que cree completamente en ti porque ha visto que tienes capacidades y que puedes hacerlo.
+Sostienen un espejo y te describen momentos en los que han visto pruebas de que muestras esas capacidades. Si no tienes
+claro dónde podrías encontrar a tu mayor animador, esa persona puede ser cualquiera en tu vida que tenga experiencia y esté
+expuesta a ti en todos los aspectos de tu vida. Un ejemplo rápido es mi hermana. En mi caso, mi hermana estaba
+reincorporándose al mercado laboral, y tuve la oportunidad de apoyarla y animarla mientras buscaba si tenía o no las
+aptitudes necesarias para solicitar un empleo. Y le recordé todos los momentos en los que demostró habilidades clave que la
+prepararían para el éxito en ese trabajo. Muy bien, la segunda persona de la que puedes rodearte es un compañero de
+práctica. Así que, busca un compañero de práctica: alguien que pueda hacerte responsable y apoyarte mientras practicas.
+Puede venir de este programa, o de cualquier aspecto de tu vida. Entonces, cuando pienses en entrar en este programa, dos
+cosas: tu mejor animador y tu compañero de práctica. Porque habrá momentos en los que tu confianza se tambalee, y la
+confianza será muy importante. No entré en el mundo del marketing o del comercio electrónico hasta más o menos la mitad de
+mi carrera, cuando decidí dar un giro. Y este programa de certificación no existía en ese entonces, ojalá hubiera existido.
+Te daré un par de consejos sobre cómo comencé a aprender más sobre el marketing y el comercio electrónico. Lo primero que
+hice fue crear una campaña de búsqueda. Una amiga mía estaba vendiendo su departamento, así que creé una campaña que
+realmente ayudó a promocionarlo, y aprendí mucho sobre marketing de búsqueda a través de esa experiencia. Lo segundo que
+hice fue decidir aprender más sobre sitios web y decidí crear un blog. Y algo que realmente me apasiona es el yoga. Así que
+creé un blog sobre mi trayectoria en el yoga, y luego apliqué la analítica al blog y empecé a ver quién accedía y leía mi
+blog y vi gente de la India, de todas partes de Asia, que accedían y leían esto, y fue muy divertido aprender al realizar
+ambas experiencias. Así que mi consejo para ti: Participa en las experiencias prácticas a través de este programa y,
+potencialmente, en experiencias a las que puedas tener acceso fuera de este. Pero el punto principal es que aprendemos más a
+través de la práctica, así que encuentra oportunidades para practicar. Habrá personas en tu vida que tratarán de definir
+quién eres y cuál debe ser tu carrera. Algunos incluso pueden poner en duda que puedas completar este certificado y
+potencialmente crear y/o pivotar tu propia carrera. Y estoy aquí para decirte: da un paso atrás, confía en tu instinto, y
+cree que puedes definir quién eres y quién quieres ser.
+
 ### Revisión: medir el éxito del Performance Marketing
+
+Términos y definiciones del curso 1, semana 4
+
+Análisis de datos: consiste en examinar los datos para sacar conclusiones, hacer predicciones e impulsar la toma de decisiones
+informada.
+
+Analítica de datos: monitoreo y evaluación de datos para obtener información procesable.
+
+Anonimización de datos: técnicas para enmascarar o eliminar información personal de los datos, con el fin de proteger la
+identidad de las personas.
+
+Atribución basada en datos: mide la interacción del cliente con el contenido de marketing en todos los canales, para
+comprender qué lo motiva a actuar.
+
+Atribución del primer clic: asigna todo el crédito al primer punto de contacto que, finalmente, conduce a una conversión.
+
+Atribución del último clic: asigna todo el crédito al último punto de contacto conocido antes de la conversión.
+
+Atribución lineal: asigna el mismo crédito a cada punto de contacto a lo largo del recorrido del cliente.
+
+Atribución: determina cuáles contenidos y canales son responsables de generar leads, conversiones o registros.
+
+Datos: son una colección de hechos o información.
+
+Ética de datos: estudio y evaluación de desafíos morales, relacionados con la recopilación y análisis de datos.
+
+Extracción de datos: recolección de datos de herramientas analíticas para ponerlas en una hoja de cálculo o base de datos.
+
+Gestión del cambio: métodos, prácticas, enfoques y procesos que las organizaciones toman para garantizar que los cambios se
+implementen sin problemas.
+
+Indicador clave de rendimiento (KPI): indicador que se usa para medir el éxito de una empresa, en su esfuerzo por alcanzar
+un objetivo de negocio o de marketing.
+
+Información de identificación personal (PII): información que podría usarse para identificar, contactar o localizar
+directamente a una persona.
+
+Informes de datos: consiste en organizar y resumir datos para hacer un seguimiento del rendimiento, en los esfuerzos de
+marketing y ventas.
+
+Informes de rendimiento: (consultar informes de datos)
+
+Narración de datos:  (o narración de historias con datos) consiste en transmitir información de datos a una audiencia
+específica usando una narrativa clara y convincente.
+
+Performance Marketing: proceso de usar información concreta sobre el comportamiento de los clientes para planificar y
+refinar las estrategias de marketing y ventas.
+
+Privacidad de datos: derechos de los que gozan las personas por ley para controlar cómo se recopila, procesa, comparte,
+archiva y elimina su información personal.
+
+Retorno sobre la inversión publicitaria (ROAS): cantidad de ingresos que se obtienen en relación a cuánto se gastó.
+
+Sesgo de datos: error humano que sesga la recopilación de datos o la interpretación de ellos en una dirección determinada.
+
+Valor del tiempo de vida del cliente (LTV o CLV): los ingresos promedio generados por cliente durante un cierto periodo de
+tiempo.
+
+Visualizaciones de datos: representaciones gráficas de datos, que transmiten información.
 
 ### Revisión del curso: Fundamentos del marketing digital y el comercio electrónico
