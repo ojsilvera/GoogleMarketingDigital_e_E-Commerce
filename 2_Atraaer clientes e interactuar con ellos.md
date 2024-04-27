@@ -1308,6 +1308,112 @@ empresas es ser lo más relevante posible para cada usuario/a, para que regrese 
 
 ### Comprende los conceptos básicos de la optimización para motores de búsqueda (SEO)
 
+#### ¿Qué es SEO y por qué es importante?
+
+Vimos algunas formas sin costo y pagas de encontrar sitios web en las páginas de resultados de los motores de búsqueda.
+Hablemos sobre el proceso orgánico para dar visibilidad a los sitios en las SERP.
+
+La optimización de motores de búsqueda (SEO) consiste en aumentar la visibilidad de las páginas en los motores de búsqueda
+para atraer más tráfico relevante. El tráfico relevante se refiere a los y las clientes tipo que quieres en tu sitio.
+También se denomina SEO a los y las profesionales que se dedican a ello. Verás, por ejemplo: “Contraté un nuevo SEO para
+mejorar nuestra presencia en línea”.
+
+Cada profesional de marketing digital debe aprender las bases de SEO. Aunque trabajes para un negocio con un sitio web en
+una plataforma como Blogger, Wix o Squarespace, igual vale la pena saber de SEO. Saber un poco puede ayudar mucho a que las
+personas encuentren tu sitio.
+
+En general, los sitios web con SEO pueden facilitar a los algoritmos de los motores a rastrear, indexar y comprender su
+contenido. El SEO es importante porque si los motores de búsqueda no logran rastrear un sitio, puede que no aparezca en un
+motor de búsqueda como Google. Y, si el algoritmo de un motor no logra comprender el contenido del sitio, puede que no se
+muestre cuando un/a cliente potencial busque los productos y servicios del negocio.
+
+El SEO suele consistir en hacer pequeños cambios en algunas partes de un sitio web. Los cambios por separado pueden parecer
+mejoras mínimas. Pero al combinarlos con otras optimizaciones, el impacto puede ser grande. Puede afectar el rendimiento en
+los resultados de búsqueda.
+
+En el motor de búsqueda de Google, hay una herramienta de ayuda para el SEO llamada Google Search Console. Ayuda a
+monitorear, dar mantenimiento y y solucionar problemas sobre la presencia del sitio en los resultados de Google. Veremos más
+sobre Google Search Console más adelante.
+
+Recuerda que hay muchas opiniones sobre la mejor manera de hacer SEO. Normalmente, Google publica directrices de SEO. Pero
+suele ser el o la especialista en marketing digital, SEO o la empresa quienes deciden cómo implementar estas directrices.
+Según la empresa, el o la especialista puede tener distintas estrategias para implementar el SEO.
+
+Por suerte, hay muchas formas de hacer visible un sitio en la búsqueda. No tiene que ser la misma que usan otros sitios.
+Veamos algunas tareas que suelen implicar el SEO. Al hacer SEO se puede revisar el contenido o la estructura del sitio. Es
+importante tener un sitio web bien organizado que los algoritmos puedan rastrear fácilmente. Verás a qué me refiero con un
+sitio bien organizado en la próxima sección. Por ahora, solo debes saber que, si un sito no se rastrea fácilmente, algunas
+páginas podrían no mostrarse en los resultados.
+
+Otra tarea de SEO es el desarrollo técnico web. Esta tarea es más avanzada. Puede implicar tareas de hosting,
+redireccionamiento web, páginas de errores o uso de JavaScript. JavaScript es un lenguaje de programación que se considera
+un tipo de código informático. El desarrollo técnico también puede implicar mejorar la velocidad de carga.
+
+Una tercera tarea de SEO es el desarrollo de contenidos. El contenido es todo lo que experimenta un/a visitante en un sitio
+El contenido incluye texto, videos y fotos. El SEO también incluye la experiencia de usuario/a. Al desarrollar el contenido
+hay que considerar cómo el o la visitante experimenta e interactúa con él.
+
+Una cuarta tarea de SEO es la investigación de palabras clave. La investigación de palabras clave consiste en buscar
+términos y frases que las y los clientes potenciales escriben en los motores de búsqueda. Hay que crear contenido web según
+lo que las y los clientes potenciales buscan.
+
+Se suelen investigar palabras clave y crear contenido a la vez. Se pueden investigar palabras para mejorar la estrategia de
+contenido. La investigación de palabras clave es un ejemplo de estrategia SEO que varía según cada empresa. Algunas
+estrategias son más eficientes que otras. No existe una que sea perfecta.
+
+Ahora tienes una visión general del SEO: por qué importa y qué tareas comunes tiene. Todo/a especialista en marketing
+digital o comercio electrónico debe conocer a nivel práctico las mejores prácticas de SEO. La mayoría de las y los
+especialistas creará contenido para sitios web. Es importante aprender las mejores prácticas para que los motores de
+búsqueda y las personas entiendan el contenido.
+
+#### Primeros pasos antes de implementar la optimización para motores de búsqueda
+
+Como especialista en marketing digital responsable del SEO de la empresa, debes hacer un trabajo previo para dos grupos: la
+empresa u organización que solicita el SEO, y las y los visitantes potenciales del sitio web. Implementar SEO sin hacer un
+trabajo previo puede causar problemas. Puede que tu trabajo no esté alineado con los objetivos de la empresa. Tu trabajo
+debe ayudar a que la organización alcance sus objetivos. Pero hay otro problema con las y los visitantes del sitio web. ¿Qué
+pasa si tu trabajo no logra conectar con ellos? Peor aún, ¿qué pasa si los ahuyenta? El trabajo previo a implementar la SEO
+puede ayudar en estas situaciones. Repasemos los factores a considerar antes de hacer tareas de SEO.
+
+El primero es conocer los objetivos de tu sitio o empresa.
+
+¿Qué se quiere lograr principalmente? Por ejemplo, ¿quiere tener más ventas, correos o llamadas? El tipo de SEO que usarás
+dependerá de estos objetivos. Es importante tenerlos bien claros. Lo ideal es hacer tareas que crees que apoyarán a estos
+objetivos. Recuerda: Como profesional de marketing digital, puedes influir en estos objetivos. La mayoría de los y las
+empresarios/as quieren vender y obtener más ingresos. Puede depender de ti encontrar la mejor manera de lograrlo. Por
+ejemplo, imagina que creas un formulario de marketing que busca recopilar correos electrónicos. Sabes que con correos de
+clientes potenciales, tendrás ventas. Al implementar el SEO priorizas crear contenido para recopilar correos.
+
+Otro paso a seguir antes de empezar con el SEO es conocer bien a tus clientes. Este principio es la razón por la que
+empezamos el curso con clientes tipo (customer persona). Antes de hacer SEO, debes conocer a quienes leen y experimentan tu
+contenido. Imagina que un/a cliente potencial visita un sitio web que puede ayudarlo/a a resolver su problema. Si lee frases
+o ve imágenes que no están alineadas con lo que busca, simplemente se irá. Se irá a otro sitio web. Hay otros sitios web que
+podrán ayudar a resolver su problema. Además, debes conocer la intención de las y los visitantes. ¿Qué quieren lograr?
+Comunícate con ellos/as directamente y ayuda a que logren lo que desean.
+
+Un tercer paso a seguir antes de iniciar el SEO es hacer una lluvia de ideas para pensar primero qué contenido quiere tu
+público. Para entender qué significa crear este contenido, debes entender cómo es trabajar en SEO. Al crear o mejorar el
+contenido, revisarás lo que ya aparece en las SERP. Es fácil caer en el hábito de crear contenido para lo que crees que las
+SERP de Google quieren mostrar. Si ya funciona, hay que crear contenido similar, ¿correcto? Pero las y los mejores
+profesionales de SEO no crean contenido primero para los resultados de búsqueda de Google. Lo crean primero para las
+personas y luego para Google. ¿Qué hace esto? Que un/a especialista prioriza y considera lo que los y las usuarios/as
+necesitan en sus consultas, y no solo lo que ya aparece en los resultados de búsqueda. ¿Hay información que falta? Por
+ejemplo, ¿el o la especialista debería explicar el contenido de forma visual con fotos y videos?
+
+Aunque todos los artículos de los resultados sean de texto, puede que eso no es lo que los y las usuarios/as quieren.
+
+Un último factor a considerar es conocer muy bien a la competencia. Para posicionarte más alto en las SERP, a menudo tendrás
+que crear contenido mejor que el de tu competencia. Cada persona interpreta “mejor” de forma distinta. Puede ser un video en
+lugar de un texto, o quizás un contenido más detallado, como una historia larga o un estudio de caso para agregar
+información sobre un tema, o bien un contenido más corto y preciso. Será tu responsabilidad descubrir cómo mejorar. Para
+crear mejor contenido que la competencia, primero analiza lo que han creado y hecho, y hazlo de una mejor manera. No te
+olvides de mantener a tu cliente ideal en mente.
+
+En las próximas secciones, hablaremos mucho de conceptos de SEO y estrategias generales que podrás usar cuando entres al
+mundo del marketing digital. Excelente trabajo hasta ahora.
+
+#### Terminología SEO para principiantes
+
 ### Investigación de palabras clave y estructura del sitio web
 
 ### Revisión: Comprender la optimización de motores de búsqueda (SEO)
