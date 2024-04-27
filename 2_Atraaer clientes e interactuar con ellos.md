@@ -3733,6 +3733,146 @@ elementos que reciben poco o ningún tráfico por otros que creas que tendrán m
 **Conclusiones principales** Los anuncios de display responsivos dependen de los elementos creativos que aportes. Dedica
 tiempo a seleccionar las imágenes de mejor calidad, así como a pensar los títulos y las descripciones.
 
+#### Ejemplo de actividad: Optimiza anuncios de display responsivos
+
+Compara el ejemplo con tu organizador de anuncios de display responsivos completado. Revisa tu trabajo utilizando cada uno
+de los criterios del ejemplo. ¿Qué hiciste bien? ¿En qué aspectos podrías mejorar? Las respuestas a estas preguntas te
+servirán de guía a medida que avances en el curso.
+
+Tu organizador de anuncios de display responsivos debe incluir:
+
+Comentarios sobre dónde los títulos cortos y largos no cumplen con las prácticas creativas recomendadas
+
+Los títulos deben:
+
+escribirse con mayúscula inicial
+
+incluir no más de 30 caracteres (títulos cortos) y 90 caracteres (títulos largos)
+
+demostrar el valor de la marca o producto
+
+poder funcionar sin necesidad de una descripción
+
+describir una promoción u oferta especial
+
+decir a las y los clientes qué hacer
+
+Dos títulos cortos adicionales, escritos según los criterios enumerados anteriormente
+
+Comentarios sobre dónde las descripciones no cumplen con las prácticas creativas recomendadas
+
+Las descripciones deben:
+
+escribirse con mayúscula inicial
+
+incluir no más de 90 caracteres cada una
+
+complementar los títulos
+
+explicar claramente el valor del producto o servicio
+
+explicar con más detalle por qué los y las clientes deben confiar en la marca o en el negocio
+
+enumerar calificaciones y reseñas
+
+Una descripción adicional, escrita según los criterios enumerados anteriormente
+
+Comentarios sobre dónde las imágenes no cumplen con las mejores prácticas creativas recomendadas
+
+Las imágenes deben:
+
+ser de alta calidad y tener un fuerte enfoque visual
+
+enfocarse en el producto o servicio
+
+apoyar el punto principal del anuncio
+
+no incluir un logo, texto o botones
+
+usar un fondo que se adapte al producto
+
+no estar fuera de foco, sesgadas o usar filtros excesivos
+
+Los títulos y números de slides de dos imágenes adicionales que cumplen con los criterios enumerados anteriormente
+
 ### Revisión: Marketing de motores de búsqueda (SEM) y publicidad de display
+
+#### Términos y definiciones del curso 2, semana 4
+
+Anuncio de display responsivo: anuncio gráfico que ajusta automáticamente su tamaño, apariencia y formato para adaptarse a
+los espacios publicitarios disponibles.
+
+Campaña: plan de acción sobre cómo se distribuirá en línea uno o más grupos de anuncios que comparten un presupuesto,
+orientación por ubicación y otras características.
+
+Clic: interacción entre un/a usuario/a en línea y un anuncio.
+
+Concordancia amplia: tipo de coincidencia de palabras clave en Google Ads que muestra anuncios cuando alguien busca un
+término relacionado con una palabra clave.
+
+Concordancia de frase: tipo de coincidencia de palabras clave en Google Ads que muestra anuncios cuando alguien busca un
+término que incluye el significado de una palabra clave.
+
+Concordancia exacta: tipo de coincidencia de palabras clave en Google Ads que muestra anuncios cuando alguien busca un
+término que tiene el mismo significado o la misma intención que una palabra clave.
+
+Estrategia de puja automática: función de Google Ads que establece automáticamente una puja por un anuncio en función de la
+probabilidad de que este genere un clic o una conversión que ayude a lograr un objetivo específico.
+
+Estrategia de puja: dice a un anunciante cuánto pagar por cada acción del usuario o usuaria relacionada con un anuncio.
+
+Extensión de anuncios: función de Google Ads que muestra información adicional sobre el negocio, como enlaces al sitio web,
+un número de teléfono o una dirección.
+
+Formatos de anuncios: elementos como texto, videos, imágenes, anuncios de contenido digital y más que conforman un anuncio
+de Google.
+
+Google Ads: plataforma de publicidad en línea donde las y los anunciantes pujan por mostrar anuncios breves, propuestas de
+servicios, listados de productos o videos a las personas que están en línea.
+
+Grupo de anuncios: grupo de anuncios que está organizado por un conjunto de palabras clave.
+
+Impresiones: cada vez que un anuncio se muestra a un público objetivo.
+
+Nivel de optimización: estimación de qué tan bien está configurada una cuenta de Google Ads.
+
+Página de destino: la primera página que una persona encuentra cuando accede a un sitio web.
+
+Páginas de resultados de motores de búsqueda (SERP): páginas de resultados que aparecen cuando alguien realiza una consulta
+de búsqueda.
+
+Pago por clic (pay-per-click, PPC): tipo de publicidad que permite que el anunciante pague solo cuando alguien hace clic en
+un enlace de anuncio.
+
+Palabra clave: término de búsqueda que las personas usan para encontrar información, productos o servicios en línea.
+
+Palabras clave negativas: términos de búsqueda excluidos de una campaña publicitaria.
+
+Presupuesto diario promedio: monto promedio establecido por día para cada campaña publicitaria.
+
+Publicidad digital: comunicación realizada por una empresa para promocionar su marca, producto o servicio utilizando
+diversas plataformas y canales en línea.
+
+Publicidad tradicional: anuncios no digitales, como periódicos, radio, televisión o vallas publicitarias.
+
+Puja: monto que un anunciante está dispuesto a gastar cada vez que un cliente potencial hace clic en su anuncio o se
+contacta con la marca.
+
+Puja inteligente: estrategias de puja automatizada que utiliza el aprendizaje automático para optimizar las conversiones o
+el valor de conversión con cada subasta.
+
+Red de Display de Google: grupo de sitios web, videos y aplicaciones donde pueden aparecer anuncios.
+
+Resultados orgánicos: resultados de búsqueda no pagados por los anunciantes.
+
+Resultados pagados: resultados de búsqueda que los anunciantes pagan para mostrar cada vez que un usuario/a ejecuta una
+búsqueda que contiene ciertas palabras clave.
+
+Segmentación geográfica: pueblos, ciudades o países en los que aparecerá un anuncio.
+
+Subasta de anuncios: proceso que determina el mejor anuncio para mostrarle a una persona en un momento determinado.
+
+Visitantes: número total de veces que las personas han estado en un sitio web o app como resultado de hacer clic en un
+anuncio.
 
 ### Revisión del curso: Atrae e involucra clientes con marketing digital
