@@ -1494,6 +1494,91 @@ consulta este glosario: Centro de la Búsqueda de Google: Consulta el glosario d
 
 ### Investigación de palabras clave y estructura del sitio web
 
+#### Investigación de palabras clave y recomendaciones
+
+Como especialista en marketing digital o comercio electrónico, tu empresa puede pedirte que crees contenido para una página
+web. Antes de crearlo, es importante saber qué términos o frases escriben las y los clientes potenciales en Google para
+hallar información. Por ejemplo, imagina que escribes en una página web sobre un tipo y estilo de sofá. Antes de crear el
+contenido, es importante que sepas qué palabras escriben las y los clientes potenciales en los motores de búsqueda para
+encontrar la información del sofá sobre el que estás escribiendo. Esto parece fácil, pero puede complicarse.
+
+Por ejemplo, además del sofá, ¿buscan un diván, sofá cama o sillón? ¿Usan alguna palabra más que otras? ¿O combinan
+palabras, como “sofá seccional”? Entender las preferencias de palabras te ayudará a crear un contenido que se relacione
+directamente con lo que las y los clientes buscan. Este contenido logrará conectar con ellos. Y cuando eso sucede, es más
+probable que tomen una acción que deseas. En SEO, estas palabras se denominan palabras clave. Son los términos que usan las
+personas para encontrar información, productos o servicios en línea.
+
+Pero ¿cómo se determinan las palabras clave? La investigación de palabras clave es hallar términos que se usan en los
+motores. No hay una única forma de investigar las palabras clave. Cada empresa tiene sus propios procesos. Es subjetivo. Al
+investigar palabras clave, hay herramientas que te ayudarán. Ofrecen datos sobre cuántas veces la gente busca ciertas
+palabras. También muestra qué tan competitiva es cada palabra clave.
+
+Este proceso varía según la empresa para la que trabajes, y también un poco según las opiniones de cada persona. Es algo que
+se aprende con la práctica, así que no lo trabajaremos aquí. Pero las directrices de calidad de SEO de Google recomiendan no
+hacer una práctica de palabras clave llamada keyword stuffing. Esta consiste en llenar una página con palabras clave o
+números para intentar manipular el posicionamiento del sitio en los resultados de búsqueda. Estas palabras suelen aparecer
+en forma de lista o agrupadas. Suelen no ir con el contexto ni la naturaleza del contenido de la página.
+
+Llenar páginas con palabras clave genera una experiencia de usuario/a negativa, y puede dañar el posicionamiento del sitio.
+Concéntrate en crear información útil y contenido relevante con palabras clave de forma adecuada y dentro de cada contexto.
+Algunos ejemplos de keyword stuffing son: bloques de textos que enumeran ciudades y estados en los que la página busca
+posicionarse, o repetir las mismas palabras o frases con una frecuencia poco natural, como: “Vendemos velas. Nuestras velas
+están hechas a mano. Si quieres comprar velas, contacta a un/a especialista en velas”.
+
+Ahora sabes qué son las palabras clave y la investigación de palabras clave. Al igual que definir clientes tipo es
+fundamental antes de crear material de marketing, investigar palabras clave es fundamental antes de crear contenido. Las
+palabras clave son los temas de tu página web. Obtener palabras clave precisas te ayudará a crear contenido que conecte
+directamente con los y las usuarios/as. Al conectarte con ellos, puedes impulsar acciones. Y hacer que las y los clientes
+potenciales tomen tus acciones, te hará tener éxito en tu rol de especialista en marketing digital.
+
+#### Daniel - Pasos y consejos para optimizar un sitio web para SEO
+
+Hola, soy Daniel. Soy Gerente de Marketing de Productos y Trabajo para Google Store. SEO es optimización de motores de
+búsqueda. Cuando alguien tiene curiosidad por cualquier cosa del mundo, va a Google, y hace esa pregunta. Lo que un/a
+especialista o profesional en SEO hace es entender lo que las personas buscan en sus respectivos mercados, en sus
+respectivos negocios, y cómo responder a esa pregunta que les permite estar en la parte superior de la página de resultados.
+Y Google creó este algoritmo que les permite a los negocios competir por ese espacio de la manera más orgánica posible, y
+que no se sobreescribe con los anuncios de pago y las publicaciones patrocinadas.
+
+El objetivo de los motores de búsqueda es ofrecer una respuesta a una pregunta. Ofrecen información y respuestas sobre
+productos o servicios que las personas quieren conocer y obtener más información al respecto. Si obtienes un ranking alto en
+algún tema, o en una consulta de palabras clave o consulta de búsqueda, es más probable que atraigas a más visitantes a tu
+página, que se podría optimizar aún más, al convertir a esas personas en ventas si vendes un producto o servicio, o puedes
+aumentar la interacción, si solo das información y quieres que las personas formen parte de tu página.
+
+Si optimizas tu página para SEO, obtendrás más visitantes y tráfico en tu página. Uno de los problemas más comunes cuando
+una página no está optimizada, es que las personas no reciben tráfico en su página. Si es un negocio que depende de vender
+productos en línea, significa que no tendrá ventas porque nadie encontrará sus páginas, a menos que quieran invertir dinero
+en marketing y promocionar su página en la parte superior de la página de resultados. Pueden hacer eso, pero también
+requiere de mucho capital y la mayoría de las empresas pequeñas no pueden darse el lujo de hacerlo.
+
+Una forma gratuita de hacerlo es el SEO. Si optimizas para SEO, puedes impulsar tu contenido de manera orgánica y gratuita y
+hacer que el tráfico web fluya hacia tu sitio. Con suerte, esas personas se convertirán en clientes y tendrás más ventas.
+Hay dos tipos de SEO. El componente SEO orientado a los y las usuarios/as se refiere al contenido y palabras clave y y lo
+que realmente se ve en la página. Y luego está el backend SEO, que es el lado más técnico, que trata sobre la velocidad y el
+rendimiento del sitio.
+
+Algunas de las optimizaciones de SEO para tu propia página son buscar las palabras clave que son realmente relevantes para
+tu página, para tu negocio, o para tu industria. Crea contenido a partir de esas palabras clave y en torno a las consultas
+de búsqueda que sabes que le interesan a las personas. Si puedes ofrecerles una respuesta, como una página de blog o de
+información en tu página, entonces eso se puede usar para canalizar el tráfico hacia tu sitio. También puedes buscar
+palabras clave relevantes.
+
+Hay herramientas gratuitas con las que puedes explorar distintas industrias y ver las palabras clave por sector, mercado o
+negocio. Y si aún no lo has incorporado, puedes comenzar después a crear contenido alrededor de estos temas. Así que si
+quieres saber cómo le va a tu sitio web en términos de SEO, hay muchas herramientas gratuitas que ofrecen una auditoría
+gratuita que muestra qué tan rápido carga tu página, las medidas y acciones que puedes tomar para disminuir el tamaño de la
+página, para que cargue más rápido.
+
+Si puedes aumentar la velocidad para la carga de la página, conseguirás una mejor experiencia de usuario/a. Un consejo que
+doy para personas realmente interesadas en SEO, o para quien quiera seguir con SEO, es entender que siempre está cambiando.
+Pero el resultado final es el mismo: tratar de entender a las y los clientes, qué les interesa orgánicamente, y de qué
+tienen curiosidad orgánicamente. Y si puedes concentrarte en eso, entonces tendrás una carrera exitosa en SEO.
+
+#### Organiza las páginas de tu sitio web: estructura y navegación
+
+#### Mejores prácticas de jerarquía del sitio
+
 ### Revisión: Comprender la optimización de motores de búsqueda (SEO)
 
 ## Utiliza la optimización de motores de búsqueda (SEO)
