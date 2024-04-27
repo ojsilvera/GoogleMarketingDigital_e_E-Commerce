@@ -2893,11 +2893,495 @@ Para obtener una lista de todos los términos presentados en el Curso 2, consult
 
 #### Formatos habituales de anuncios de SEM en Google Ads
 
+Quizás te preguntes ¿cómo se ven los formatos de anuncios en Google Ads? ¿Y cuándo debes usar cada uno? En este video,
+veremos diferentes tipos de anuncios Google Ads. Con los años, los anuncios que se muestran en el buscador de Google fueron
+evolucionado. El objetivo fue siempre mostrar anuncios que satisfagan las necesidades de quienes buscan. Como especialista,
+tú también usarás estos anuncios para cubrir las necesidades de tus clientes potenciales.
+
+Veamos diferentes tipos de anuncios para los resultados del buscador. Los anuncios de texto son anuncios clásicos, con un
+enlace en el título. Después del título, sigue una descripción corta. La descripción debe atraer a quien busca y explicarle
+lo que encontrará en el sitio web si hace clic.
+
+Los anuncios de compras son específicos para las empresas de e-commerce. Muestran productos relacionados con cada búsqueda.
+A veces, las empresas usan estos anuncios para mostrar sus productos. Este tipo de anuncio difiere de los de texto, porque
+muestra una foto del producto en la página de resultados.
+
+Los anuncios de servicios locales son específicos para empresas de servicios, que apuntan a clientes locales. Como un
+cerrajero, un fontanero, o un asesor inmobiliario. Para usar un anuncio de servicios locales, la empresa debe ser evaluada
+por Google. Es decir que alguien de Google debe confirmar que sea una empresa legítima. Esto le da al negocio más
+credibilidad frente a clientes potenciales.
+
+Los anuncios de Google Maps sirven a empresas locales. Pero, a diferencia de los servicios locales, estos sirven a empresas
+de productos. Por ejemplo, un anuncio de Google Maps funciona para un restaurante, una joyería o un gimnasio.
+
+Los anuncios de llamadas solo son para búsquedas hechas desde dispositivos móviles. Se hicieron populares porque hoy las
+personas usan más el teléfono que las computadoras para buscar productos y servicios. Estos anuncios permiten a clientes
+potenciales hacer clic y llamar inmediatamente.
+
+Muchos tipos de anuncios de Google cuentan con la opción de sumar lo que llamamos extensión de anuncio. Estas ofrecen
+información adicional de la empresa, como un enlace adicional al sitio web, un número de teléfono o una dirección. Hay
+varias extensiones de anuncios. Algunas de las que deberías conocer son las extensiones de enlaces a sitios, que incluyen
+otros vínculos al sitio web, útiles para quien hace la búsqueda. Este es el caso de nuestro ejemplo de anuncios de texto.
+
+Las extensiones de llamada permiten llamar a la empresa haciendo clic en tu anuncio. Otra extensión de anuncio es la
+extensión de ubicación. Esta extensión permite a los clientes encontrar una empresa local y abrir su perfil en Google Maps.
+
+La cuarta es la extensión de precios, usada por empresas de e-commerce. Muestra un producto específico y su precio. Si un
+cliente potencial hace clic en el enlace, éste lo llevará a la página del producto. La quinta extensión es la de fragmentos
+estructurados. Esta información destaca aspectos específicos de tus productos y servicios. Algunos ejemplos de encabezados
+posibles son: servicios, marcas, comodidades, tipos y estilos.
+
+Además de los motores de búsqueda tradicionales, hay quienes consideran también a YouTube como un motor de búsqueda. Tus
+clientes podrían usar esa plataforma para realizar sus búsquedas. Y en ese caso, deberías publicitar allí. Una ventaja de
+YouTube es que llega a clientes potenciales mientras estos buscan un producto o servicio.
+
+A veces, están en la fase de Consideración del embudo de marketing. Por ejemplo, un concesionario puede publicitar a las y
+los clientes potenciales mientras estos ven reseñas de automóviles. El SEM es una oportunidad publicitaria en constante
+evolución. A medida que Google aprende más sobre cómo servir mejor a quien hacen una búsqueda, los tipos de anuncios y
+extensiones también evolucionan.
+
+Como marketer o analista de e-commerce, es crucial que sepas qué tipo de oportunidades de publicidad en línea hay
+disponibles hoy.
+
 #### Estrategias de puja de Google Ads
+
+Cada campaña de Google Ads requiere una estrategia de puja. Determinar cuál es la correcta es clave para su éxito.
+
+En esta lectura, te contaremos cuáles son los diferentes tipos de estrategias de puja que puedes elegir.
+
+**¿Qué es una estrategia de puja?** Una estrategia de puja está diseñada para ayudar a lograr los objetivos de la campaña,
+en función del presupuesto.
+
+La estrategia de puja más básica es el costo manual por clic (CPC). Con las pujas manuales de CPC, estableces el costo
+máximo por clic para tus anuncios.
+
+Alternativamente, las estrategias de pujas automáticas permiten a Google Ads establecer automáticamente una puja en función
+de la probabilidad de que un anuncio genere un clic o una conversión que te ayude a lograr un objetivo específico.
+
+**¿Qué es la puja inteligente?** La puja inteligente es un subconjunto de estrategias de puja automatizadas. Estas
+estrategias usan el aprendizaje automático para optimizar las conversiones o el valor de conversión con cada subasta. Tienen
+en cuenta una amplia gama de señales, como el dispositivo que utilizan las personas, la ubicación, la hora del día, la lista
+de remarketing, el idioma y el sistema operativo. Esto significa que, en función de estos factores y el contexto de cada
+búsqueda, la estrategia de puja determina automáticamente si se debe o no pujar y por cuánto se debe hacerlo.
+
+**Tipos de estrategias de puja.**
+
+![alt text](estrategias-de-puja-de-google-ads-2024-2.png)
+
+**Seleccionar una estrategia de puja**
+Al crear una campaña, Google Ads te guía para elegir una estrategia de puja mediante una serie de preguntas orientadas a
+determinar los objetivos de tu campaña. Esto te será útil si no estás familiarizado/a con estrategias específicas de puja.
+
+Sin embargo, el sitio web ofrece la opción de seleccionar una estrategia de puja directamente. Las y los usuarios/as pueden
+elegir estrategias de puja específicas de un menú desplegable.
+
+![alt text](image-31.png)
+
+![alt text](image-32.png)
+
+**Puntos clave** Con tantas opciones, elegir una estrategia de puja puede ser difícil. Para que tu decisión sea más fácil,
+asegúrate de identificar primero tu objetivo y luego combinarlo con la estrategia adecuada. Elegir la estrategia correcta, a
+menudo, requiere probar y equivocarse, así que no te preocupes si la estrategia que seleccionaste no funciona al principio.
+Siempre puedes aplicar lo que has aprendido en intentos anteriores a tu próxima campaña.
 
 #### Ginny - SEM y cómo atraer clientes
 
+Hola, soy Ginny y trabajo como Coordinadora de Productos Publicitarios en Google. En este puesto, mi función es crear un
+puente entre nuestra comunidad de anunciantes y las personas que trabajan en agencias, o en forma interna para sus empresas
+o como consultores/as que hacen SEM para los clientes. También ayudo a responder sus preguntas, comprender sus
+preocupaciones, o ayudarlos/las con los problemas que tengan con los productos particulares del SEM o las estrategias.
+Además, comunico ese feedback a los equipos internos, los cuales trabajan en productos, en comunicaciones, y en estrategias
+de marketing.
+
+Algunos de los SEM con los que he trabajado son: Google Ads, Microsoft Advertising, redes sociales, como Facebook,
+Pinterest, Instagram, Snap, y también Amazon. Y cada uno de ellos es un poco diferente. Hay una curva de aprendizaje con
+cada canal, pero los fundamentos siguen siendo los mismos. Se trata de llegar al público y crear contenido con el cual se
+identifique la audiencia.
+
+Un ejemplo que recuerdo que fue bastante exitoso, y que demuestra la importancia de pensar en las audiencias, fue una
+campaña para un programa de verano para estudiantes de secundaria en una universidad. Tuvimos que pensar en estudiantes de
+secundaria que pudieran estar interesados/as en sus actividades de verano, pero también tuvimos que considerar a los padres
+y madres que estaban buscando programas para sus hijos/as de secundaria. Por lo tanto, debimos utilizar diferentes enfoques
+para estas dos audiencias y pensar en la asignación presupuestaria.
+
+¿Quién aportará el dinero? ¿Quién va a a pagar la matrícula? Es probable que sean los padres o madres. Y así, no solo
+tomamos en cuenta el enfoque de los mensajes. También consideramos el enfoque de la asignación presupuestaria. ¿Cuál
+audiencia será la más valiosa para este anunciante?
+
+Siempre es gratificante ver llegar a los leads, recibir llamadas. O, si venden por comercio electrónico, ver las primeras
+ventas completarse y que se realicen los pagos de los carritos. Entonces, en este caso, al atraer a ambos públicos y tener
+una estrategia real dirigida a estudiantes y padres/madres, aunque esa estrategia fue en gran parte dirigida hacia los
+padres/madres, pudimos tender un puente y lograr esa conexión entre esas dos audiencias. La segmentación fue fundamental
+para conseguir conversiones incrementales, o, en este caso, clientes potenciales y llevar adelante una campaña exitosa para
+esta universidad.
+
+Algunos de los mayores desafíos en el SEM es que está en constante cambio. Esa es la parte divertida. Constantemente tienes
+que pensar de manera diferente en las estrategias y la forma en la que usas las herramientas. La automatización cada vez
+juega un papel más importante en el SEM.
+
+Una de las cosas más emocionantes sobre trabajar en el SEM es la gratificación inmediata y poder ver si se trata de leads,
+ventas o descargas. Sea lo que sea, se trata de la acción que quieres que tomen tus clientes potenciales. Tener la
+posibilidad de verlo suceder en tiempo real, o casi en tiempo real, es increíblemente satisfactorio y puedes ver el impacto
+que estás haciendo en el negocio.
+
+Al ver a las personas que creo que serán exitosas en el SEM, la primera característica que observo es la curiosidad. Tienes
+que ser una persona curiosa, con ganas de aprender. Tienes que querer lidiar diariamente con cosas inesperadas.
+
 ### Entiende Google Ads
+
+#### Cómo funciona Google Ads
+
+Como hemos visto, hay muchos tipos de formatos de Google Ads, desde anuncios de búsqueda hasta de compras y de video. Pero
+independientemente del formato que utilices, hay ciertos pasos que debes seguir al crear un anuncio en Google Ads.
+Aprenderás esos pasos en este video.
+
+El primer paso es definir tu meta de campaña. Una meta es aquello que quieres lograr con el anuncio ¿Quieres vender más?
+¿Conseguir más leads? ¿Aumentar el tráfico al sitio web o incentivar a la gente a visitar tu tienda? La meta que elijas
+definirá otras opciones de campaña. Por ejemplo, imagina que tu objetivo es aumentar el tráfico al sitio web. Es probable
+que quieras seleccionar un tipo de puja como "maximizar clics". Así, tu inversión publicitaria hará que más personas hagan
+clic en el anuncio. También puedes encontrar la palabra "objetivo" en lugar de "meta", como "define tu objetivo de campaña”.
+
+Para Google Ads, estas palabras significan lo mismo. Recuerda, tu meta u objetivo, es lo que quieres lograr con tus anuncios
+en última instancia.
+
+El siguiente paso es elegir el tipo de campaña publicitaria. Esto determina dónde se mostrarán tus anuncios y cómo se verán.
+La palabra “campaña” tiene un significado específico en Google Ads. Las campañas son anuncios que comparten un presupuesto,
+orientación, etc. Las campañas se usan para ordenar las categorías de los productos y servicios que ofreces. Tu cuenta de
+Google Ads puede tener varias campañas operando al mismo tiempo. Así que, el segundo paso es elegir el tipo de campaña para
+tu anuncio Puede ser búsqueda, compras, locales o de video. Dependiendo de cuál campaña elijas, tus anuncios aparecerán en
+varias ubicaciones. Por ejemplo, un anuncio de búsqueda saldrá en los resultados del buscador y uno de video saldrá en
+YouTube. Un anuncio local podrá estar en Maps, en sitios web y en YouTube.
+
+El tercer paso es establecer un presupuesto para tu campaña. Este presupuesto define el monto máximo que gastarás. Puedes
+cambiarlo en cualquier momento. Pondrás un presupuesto promedio diario, que especifica cuánto quieres gastar cada día
+durante un mes. Google Ads optimiza automáticamente tu gasto en los días del mes en que es más probable ganar clics y
+conversiones, según tu estrategia de puja. Por ejemplo los días en que el tráfico de búsqueda es mayor. Esto significa que
+algunos días no llegarás a gastar el presupuesto diario, pero en otros puedes excederlo. Sin embargo, nunca excederás tu
+límite de presupuesto mensual.
+
+El cuarto paso es elegir tu estrategia de puja. Al seleccionar una meta de campaña, verás una estrategia de puja
+recomendada. Google Ads te permite elegir tu estrategia de puja para asegurar que tu campaña pueda cumplir tu meta
+específica. Por ejemplo, podrías elegir enfocar tu puja en las conversiones. También puedes seleccionar una estrategia de
+puja automatizada. Muchas personas usan el aprendizaje automático para mejorar el rendimiento del anuncio. Para Google Ads,
+esto es un conjunto de instrucciones de software que ayudan al anuncio a lograr su meta. Una estrategia de puja automática
+evita tener que pensar qué puja es mejor para alcanzar tus metas de rendimiento. En una estrategia de puja automatizada,
+Google Ads establece pujas para tus anuncios, basándose en la mayor probabilidad de que el anuncio resulte en una conversión
+o venta. El software de machine learning de este tipo de estrategias aprende durante la marcha. Si los anuncios llegan a más
+personas, el desempeño de la puja muestra los montos futuros de puja.
+
+El siguiente paso es seleccionar tu público objetivo. La segmentación ayuda a definir qué tan estrecha o amplia será la
+audiencia. Es decir, quién te gustaría que viera tus anuncios. Sin segmentación, tus anuncios tendrán un alcance más amplio.
+Definir la segmentación del anuncio te permite llegar a clientes concretos, interesados en lo que tienes para ofrecer.
+¿Recuerdas a tus clientes tipo o ideales? Ahora es el momento de utilizarlos. Las formas más comunes de segmentación en
+Google Ads incluyen: palabras clave, audiencias, ubicaciones, temas y dispositivos. Si bien puedes usar Google Ads para
+obtener ideas de segmentación, lo más común es planificar y determinar las opciones antes de crear un anuncio. Planificar
+con anticipación evita errores en el proceso de creación del anuncio.
+
+El sexto paso, simplemente, es crear tu anuncio. El formato principal de los anuncios de texto son los anuncios de búsqueda
+responsivos, y están compuestos por encabezados, descripción y URL de la página de destino. Luego, los motores prueban
+automáticamente diferentes combinaciones para saber cuál funciona mejor. No olvides que crear tu anuncio es solo una parte
+de la conversión de clientes. Tu página de destino debe mostrar lo que el cliente potencial espera ver al hacer clic en tu
+anuncio. Porque si no lo hace, podrías perder a ese cliente potencial.
+
+El séptimo paso es configurar tus conversiones. Para saber si el anuncio es exitoso, debes saber si los clientes potenciales
+se convertirán en clientes que paguen. Este seguimiento, te permite conocer las acciones que quieres que el cliente haga en
+tu sitio web. Al ver esos datos podrás evaluar la eficiencia de tus anuncios, la segmentación y las campañas en general. Una
+forma de hacer seguimiento de conversiones es con Google Analytics. Para hacer este seguimiento, conectarás tu cuenta de
+Analytics directamente con Ads. Aprenderás más sobre Google Analytics más adelante.
+
+Antes de configurar cualquier conversión, deberás dar a los usuarios información clara y completa acerca de los datos que
+estés recolectando sobre ellos. También, necesitarás su permiso para recopilar cualquier dato. Generalmente, este permiso se
+obtiene con una ventana emergente y un botón de acuerdo. Cuando veas un aviso emergente sobre la recolección de datos,
+también conocido como “banner de consentimiento de cookies”, por favor, léelo. Es posible que necesites usar algo similar si
+haces seguimiento de las conversiones.
+
+Son muchos pasos los que debes dar para crear un anuncio de Google. Al principio, todo esto puede resultarte un poco
+abrumador. No hay problema. Una vez que conozcas la plataforma y crees algunos anuncios, comprenderás el proceso y sentirás
+que todo es mucho más fácil. Piensa en eso.
+
+#### Caso práctico: Cómo Studley’s Flower Gardens usa Google Ads para hacer crecer su negocio
+
+El marketing de motores de búsqueda (SEM) y Google Ads ayudan a las empresas a poner sus productos y servicios frente a sus
+clientes ideales. Las y los clientes potenciales usan Google y otros motores de búsqueda para buscar información sobre un
+producto, un servicio o una marca. Y las Campañas de Búsqueda de Google Ads ayudan a poner el negocio frente a esa persona
+justo cuando está buscando una solución.
+
+En este caso práctico, conocerás cómo la empresa Studley’s Flower Gardens, con sede en Rochester, Nuevo Hampshire, utiliza
+Google Ads para poner sus flores y plantas frente a sus clientes locales cuando están en línea.
+
+![alt text](image-33.png)
+
+**Más información de la empresa** Studley’s Flower Gardens, fundada en 1928, es una empresa familiar de floristería,
+jardinería y paisajismo ubicada en el centro de Rochester, Nuevo Hampshire.
+
+Además de una tienda, Studley’s también tiene un  sitio de comercio electrónico robusto. El amplio y visualmente atractivo
+surtido de flores y plantas del sitio web ayuda a las y los clientes a encontrar y comprar sus productos en línea.
+
+La publicidad en línea representa la mayor parte de su presupuesto de marketing. Alrededor del 65 % de su presupuesto
+publicitario anual se destina a anuncios en línea, mientras que el 35 % restante va a publicidad en medios radiales y
+televisivos locales.
+
+**El desafío** Debido a que Studley’s es un pequeño emprendimiento local, enfrenta el desafío de competir, en las páginas de
+resultados de motores de búsqueda de Google, con marcas con presencia nacional que atienden el mismo rubro. La optimización
+de motores de búsqueda (SEO) puede ser particularmente difícil. Las marcas nacionales de flores cuentan con mayor
+presupuesto y varios miembros del equipo se dedican a optimizar el contenido para lograr una mejor posición en el ranking de
+los resultados de búsqueda.
+
+Aunque Studley's aparece en las primeras páginas para algunas palabras clave relacionadas con su negocio, esto puede cambiar
+de un momento a otro, dependiendo de lo que sus clientes potenciales buscan en la web. Al tratarse de una empresa pequeña,
+Studley's no cuenta con el equipo ni el presupuesto necesarios para competir de manera consistente y mejorar su posición en
+los resultados de búsqueda. Si aparece más abajo, es menos probable que los clientes la encuentren y compren, impactando en
+sus ingresos.
+
+**El enfoque** Para garantizar una presencia constante en los resultados de búsqueda de Google, Studley’s Flower Gardens usa
+Google Ads. A diferencia de otros recursos de marketing, como una campaña de correo directo, Google Ads le permite a
+Studley’s colocar sus anuncios frente a clientes muy específicos, que buscan sus productos o el nombre de la marca.
+
+Mira, por ejemplo, las pujas de Studley’s por palabras clave relacionadas con el nombre de su negocio. Cuando alguien en
+Rochester, New Hampshire, busca su nombre comercial, Studley’s apunta a aparecer entre los primeros resultados, para que sus
+clientes potenciales puedan encontrar su sitio web de manera rápida y fácil.
+
+Además, en lugar de tratar de administrar los anuncios de Google Ads por su cuenta, esta empresa familiar contrató a una
+agencia de marketing. Los y las especialistas en marketing digital y en Google Ads analizan qué estrategias publicitarias
+están funcionando bien y deciden cuáles deben mejorar o dejar de usar.
+
+De esta forma, quienes lideran Studley’s no necesitan  dedicar tiempo a mantenerse al día con el último software de Google
+Ads o los cambios en los productos, sino que pueden centrarse en lo que mejor saben hacer: administrar y hacer crecer su
+negocio de floristería, jardinería y paisajismo.
+
+**Los resultados** Al usar Google Ads, Studley’s Flower Gardens coloca anuncios frente a clientes potenciales justo cuando
+necesitan flores y plantas.
+
+Por ejemplo, cuando alguien busca la marca Studley’s, es probable que encuentre el anuncio en la página de resultados de
+buscadores, además del sitio web en los listados de búsqueda. Cuando un/a cliente potencial busca “entrega de flores cerca
+del negocio”, es probable que vea el anuncio, incluso si el sitio web no aparece en los listados de búsqueda de la
+optimización de motores de búsqueda.
+
+**Conclusión** El marketing de motores de búsqueda (SEM) y Google Ads pueden ayudar tanto a pequeños emprendimientos locales
+como a medianas y grandes empresas. La segmentación geográfica, como en Rochester, New Hampshire, posibilita a Studley’s
+publicar anuncios para sus clientes locales. Google Ads permite a los negocios más pequeños, que no pueden competir con la
+optimización para motores de búsqueda (SEO), medirse contra las marcas más grandes.
+
+Como futuro o futura especialista en marketing digital, ten en cuenta que tienes la oportunidad de ayudar a una pequeña
+empresa como Studley’s. Si trabajas para una agencia de marketing, es posible que tengas que administrar anuncios de docenas
+de clientes. Es gratificante saber que el trabajo que haces con el marketing de motores de búsqueda ayuda a las pequeñas
+empresas y a emprendedores a atender a sus comunidades locales.
+
+#### Identifica palabras clave y entiende la subasta de anuncios
+
+Cuando haces publicidad en buscadores, las palabras claves son un elemento esencial. Debes dirigir tus mensajes al tipo
+correcto de posibles clientes, para no perder ninguna oportunidad. Esto empieza con la investigación de palabras clave.
+Recuerda: las palabras clave son el el tipo de palabras o frases que las y los clientes potenciales usan cuando buscan en
+Google.
+
+Al elegir palabras clave para Google Ads, no tienes que ingresar todos los tipos de palabra clave exactos. En su lugar,
+puedes usar la concordancia de palabras clave. Los tipos de concordancia definen qué tanto la palabra clave debe coincidir
+con la consulta del usuario/a. Para que se muestre el anuncio, hay tres opciones: Concordancia amplia, concordancia de frase
+y concordancia exacta.
+
+La concordancia amplia muestra tus anuncios cuando se busca con frases asociadas con tu palabra clave. Es posible que no
+incluyan la palabra clave en sí. Por ejemplo, la frase “plan de dieta baja en carbohidratos” podrá aparecer en búsquedas de
+“comidas sin carbohidratos” o “recetas bajas en calorías”.
+
+Para encontrar coincidencias relevantes, la concordancia amplia tiene en cuenta las búsquedas recientes del usuario y
+también el contenido de tu página de destino. Sí, los algoritmos de Google Ads revisan la página de destino del anuncio para
+entender mejor el anuncio. La página de destino es crucial para el éxito con Google Ads. Para tipos de concordancia amplia,
+se recomiendan las estrategia de puja automática.
+
+El segundo tipo es concordancia de frase. Éstas incluyen el significado de tu palabra clave. La concordancia de frase es más
+flexible que la exacta, pero es más específica que una concordancia amplia. Por ejemplo, si la palabra clave es “zapatos de
+tenis”, el anuncio aparecerá en búsquedas de “zapatos para tenis”, “compra zapatos de tenis con descuento” o “zapatos rojos
+de tenis”. Pero no aparecerá en “raquetas de tenis” o “zapatos de entrenamiento” o “¿puedo usar zapatos de correr para
+tenis?”
+
+El tercer tipo es la concordancia exacta. Aquí, los anuncios aparecen en búsquedas con el mismo significado o intención de
+la palabra clave. De las tres opciones de concordancia, la exacta te da mayor control sobre quién ve tu anuncio. Por
+ejemplo, si la palabra clave es “zapatos para hombre”, el anuncio puede mostrarse en búsquedas de “zapatos hombres” “zapatos
+de hombre” o “zapato de hombre”. Pero no saldrá en búsquedas con “tenis de hombres” o “zapatos para niños”. ¿Entiendes lo
+específico que es?
+
+Todos los tipos de coincidencias pueden captar variaciones en las palabras clave, como plurales, faltas de ortografía,
+sinónimos o el orden de las palabras. Esto significa que no hay necesidad de hacer listas de palabras largas y exhaustivas,
+que incluyan todas estas variaciones en tu campaña.
+
+Al elegir las palabras clave para tu anuncio, considera también las palabras clave negativas. Cuando agregas palabras clave
+negativas excluyes de tus campañas ciertos términos. Esto evita búsquedas irrelevantes, que no tendrían buen rendimiento.
+Google Ads se centra en palabras clave y busca siempre aumentar el rendimiento de tu cuenta. Puedes usar palabras clave
+negativas para cualquier tipo de concordancia que vimos.
+
+Veamos un ejemplo de palabras clave de concordancia amplia. Con esta concordancia, tu anuncio aún puede aparecer si la
+búsqueda tiene alguna de tus palabras clave. Pero nota que, a diferencia de las palabras positivas, las negativas no
+coinciden con variaciones. Por ejemplo, supongamos que “zapatos para correr" es una palabra negativa del tipo amplio. El
+anuncio sale en “tenis azules” o “zapato para correr”, pero no en “zapatos para correr azules” o “zapatos correr” o “zapatos
+para correr”.
+
+Ahora, ¿por qué vemos toda esta información de palabras clave? Tus palabras clave deben relacionarse con el tema del anuncio
+y la página de destino para la “subasta de anuncios”. La subasta de anuncios es cómo Google determina qué anuncios mostrar y
+su orden para cada resultado con anuncios de texto. Su lugar en una búsqueda se llama posición de anuncio, un valor que
+Google usa para definir la posición del anuncio.
+
+Tres factores definen la posición del anuncio. El primero es tu puja. Es decir: cuánto quieres pagar cada vez que un cliente
+hace clic en el anuncio. Cuanto más pagues, más arriba saldrá en los resultados. El segundo factor es la calidad del anuncio
+y la página de destino. Con cada subasta, Google evalúa la relevancia del anuncio y su página de destino para la búsqueda
+del usuario, así como la probabilidad de que éste haga clic en el anuncio. Una herramienta de diagnóstico en tu cuenta de
+Google Ads, llamada nivel de calidad, te ayuda a identificar formas de mejorar la calidad de tu anuncio. El nivel de calidad
+se muestra en una escala del 1 al 10. Esta puntuación es una guía para mejorar la efectividad del anuncio y no se usa en la
+subasta.
+
+El tercer factor en la posición del anuncio son sus extensiones. Es la información adicional del anuncio, como teléfono o
+enlaces a tu sitio web. Debes usar todas las extensiones de anuncios
+
+ relevantes para tu empresa. Juntos, estos tres factores determinan si tu anuncio aparecerá frente a clientes potenciales y
+ cuándo. Considera que también hay otros factores para la posición del anuncio, como el contenido de búsqueda y otros
+ resultados en la página.
+
+Como puedes ver, es crucial elegir las palabras clave adecuadas para el anuncio. Si no, tus anuncios podrían aparecer ante
+el tipo de público incorrecto y afectar la posición del anuncio. Con palabras claves que coincidan, la puja correcta, un
+anuncio de calidad y una página de destino útil, será mucho más probable que tu anuncio esté en la parte superior del
+buscador de Google.
+
+#### Prácticas recomendadas para crear un anuncio de Búsqueda en Google
+
+Veamos las mejores prácticas para crear un anuncio de búsqueda efectivo. Además de incentivar a las y los clientes
+potenciales a hacer clic en el anuncio, ¿por qué querrías un anuncio efectivo? Un anuncio efectivo aparece más arriba en las
+páginas de resultados y genera más clics y más conversiones. A veces, incluso, a un costo más bajo por clic que el de tu
+competencia.
+
+Aquí hay algunas prácticas recomendadas para crear tu anuncio de búsqueda en Google. Diseña tus mensajes enfocándote en las
+necesidades y beneficios del usuario. Es decir, ofrece algo de valor a quien busca, y es más probable que responda. Piensa
+en lo que la persona quiere de tu anuncio. ¿quiere credibilidad y confianza? Es posible que desees utilizar un lenguaje como
+“Sitio oficial” o ¿quiere un rango amplio de productos? entonces incluye “Mira nuestro catálogo”
+
+Este es un buen momento para usar los clientes tipo. Revisa los objetivos del cliente y tenlos en cuenta para tu anuncio.
+Otra buena práctica es incluir al menos una de las palabras clave de tu grupo en tus encabezados. Recuerda, el encabezado es
+el enlace que está en la parte superior del anuncio. La descripción está debajo del encabezado. Google probará
+automáticamente distintas combinaciones de encabezados y descripciones, así que intenta que cada combinación sea fácil de
+entender.
+
+Es importante incluir palabras clave, porque en eso piensan los clientes potenciales. Si tu anuncio se conecta con lo que
+buscan, es probable que den clic. Además, hay herramientas avanzadas que ponen la palabra clave en el encabezado desde la
+configuración y personalizan automáticamente el contenido del anuncio. Conocerás estas técnicas avanzadas al aprender más
+sobre Google Ads.
+
+Una tercera práctica recomendada es evitar el lenguaje genérico de ventas. Frases como "llámenos hoy" crean una falsa
+sensación de urgencia. Ten presente el beneficio del usuario. Si no hay un beneficio para el usuario, entonces ¿por qué
+llamaría hoy? Las llamadas a la acción genéricas, como “regístrate hoy” o “reserva hoy” a menudo muestran menor interacción
+con el anuncio. En vez del lenguaje de ventas genérico, usa llamados a la acción específicos.
+
+Imagina que escribes contenido para una empresa que administra propiedades. En lugar de escribir “reserva ahora” en el
+anuncio, escribe “reserva el alquiler vacacional de tus sueños”. Esto es más específico y se relaciona con los deseos del
+cliente potencial.
+
+Otra buena práctica es añadir todas las extensiones de anuncio que tengan sentido. Las extensiones de anuncios dan
+información adicional de la empresa. Están diseñadas para que los anuncios sean más atractivos, al mostrar información útil.
+Incluir extensiones hace que los anuncios se posicionen mejor en los resultados. Extensiones como ubicación, llamada o
+instalación de la app, mejoran la experiencia para los usuarios móviles también. Son una manera fácil de destacar el anuncio
+ante sus competidores. Puedes usar varias extensiones en tu anuncio, así que habilita todo lo que tenga sentido para tu
+empresa. Cuando sea posible, intenta habilitar al menos cuatro. Google Ads determina la mejor combinación de extensiones,
+subasta por subasta.
+
+Una quinta práctica recomendada es optimizar tu página de destino. El anuncio y la página de destino trabajan juntos para
+ofrecer una gran experiencia de usuario. Compara tus palabras clave y el contenido de la página de destino con la
+experiencia general del usuario. Las palabras clave exactas no necesitan estar en la página de destino, pero la coherencia
+debe ser clara de inmediato. Pregúntate: ¿Qué tan útil es la página de destino para quien da clic al anuncio? ¿La página
+está bien organizada? ¿El texto se relaciona con una búsqueda? ¿La página es clara en sus direcciones?
+
+También, debes hacer que tu página de destino sea confiable. Asegúrate de que cargue rápido. Si la carga de la página se
+demora, los usuarios se frustrarán y se irán. Además, esto indica a Google que el anuncio y la página pueden no ser la mejor
+opción.
+
+Solo quiero decir: ¡Buen trabajo! Acabas de aprender buenas prácticas al crear un anuncio de búsqueda en Google. Piensa en
+crear anuncios de Google como en un experimento. Si sigues las prácticas recomendadas, crearás anuncios diferentes. Luego
+recibirás feedback y resultados. Y modificarás el contenido de los anuncios de menor rendimiento. Todo esto es un esfuerzo
+para ofrecer los mejores anuncios y página de destino posibles a tus clientes potenciales. Cuanto más practiques, mejores
+serán tus anuncios.
+
+#### Estructura y organización de una cuenta de Google Ads
+
+En un video, aprendiste sobre Google Ads, campañas y grupos de anuncios. Esta lectura te ayudará a aprender cómo se
+organizan estos elementos dentro de Google Ads.
+
+Google Ads es el programa de publicidad en línea de Google. A través de Google Ads, puedes crear anuncios en línea para
+alcanzar a las personas exactamente cuando están interesadas en los productos y servicios como los que tú ofreces.
+
+![alt text](image-34.png)
+
+**Estructura de la cuenta de Google Ads:**
+
+![alt text](image-35.png)
+
+*Los siguientes elementos se presentan en el orden en que los encontrarás cuando definas  una campaña en Google Ads.*
+
+Google Ads: es el programa de publicidad en línea de Google. A través de Google Ads, puedes crear anuncios en línea para
+alcanzar a las personas, exactamente cuando están interesadas en los productos y servicios como los que tú ofreces.
+
+Campaña: plan de acción sobre cómo se distribuirá un conjunto de uno o más grupos de anuncios que comparten un presupuesto,
+una orientación por ubicación y otros ajustes. Las campañas se utilizan con frecuencia para agrupar las diferentes
+categorías de productos o servicios que ofreces.
+
+Presupuesto diario promedio: monto que decidiste gastar diariamente, en promedio, mientras dure tu campaña publicitaria.
+Especifica aproximadamente cuánto estás dispuesto/a a  gastar por día durante el transcurso del mes.
+
+Grupos de anuncios: la forma de organizar y segmentar los anuncios en grupos temáticos de palabras clave. Cada campaña se
+compone de uno o más grupos de anuncios.
+
+Formatos de anuncios: texto, videos, imágenes, anuncios de contenido digital y otros, que se muestran en los resultados de
+búsqueda  para promocionar productos y servicios con Google Ads.
+
+Puja: cantidad de dinero que deseas pagar cada vez que un/a cliente potencial haga clic en tu anuncio o te contacte se
+conoce como puja.
+
+Palabras clave:  palabras o frases que describen tu producto o servicio y ayudan a determinar cuándo y dónde puede aparecer
+tu anuncio. Los anunciantes pujan entre sí, y los anuncios se clasifican en función de qué tan alto puja cada uno y qué tan
+relevante es, entre otros factores.
+
+#### Crea un anuncio de Google Ads
+
+Ya aprendiste sobre Google Ads y sus diferentes formatos. Esta lectura te permitirá explorar los siete pasos que debes dar para crear un anuncio de búsqueda responsivo, según cuál sea tu objetivo.
+
+Esta guía se basa en la interfaz de Google Ads, la cual ofrece orientación a lo largo del proceso.
+
+Puedes optar por crear una campaña sin definir un objetivo de orientación, seleccionando la opción cuando se presenta en pantalla.
+
+Siete pasos para crear una campaña de Google Ads
+
+*Define tu objetivo de campaña:*
+
+Tu objetivo es lo que quieres conseguir con el anuncio. Hay siete objetivos de campaña para elegir:
+
+    Ventas: impulsa las ventas en línea, en la app, por teléfono o en la tienda
+
+    Leads: atrae clientes potenciales (leads) y otras conversiones, alentando a las y los clientes a realizar determinadas acciones
+
+    Tráfico al sitio web: anima a las personas a visitar tu sitio web
+
+    Consideración del producto y la marca: anima a las personas a explorar tus productos o servicios
+
+    Alcance y reconocimiento de marca: llega a un público amplio y crea reconocimiento
+
+    Promoción de la app: aumenta las descargas o el conocimiento de tu app móvil
+
+    Visitas a tiendas locales y promociones: incentiva a las y los clientes a visitar una tienda física
+
+![alt text](image-36.png)
+
+*Elige el tipo de campaña:*
+
+A continuación, elige tu tipo de campaña. Las opciones incluyen:
+
+    Búsqueda
+
+    Performance Max
+
+    Display
+
+    Shopping
+
+    Video
+
+    Discovery
+
+![alt text](image-37.png)
 
 ### Aplica la publicidad gráfica (Display)
 
