@@ -3337,11 +3337,13 @@ relevante es, entre otros factores.
 
 #### Crea un anuncio de Google Ads
 
-Ya aprendiste sobre Google Ads y sus diferentes formatos. Esta lectura te permitirá explorar los siete pasos que debes dar para crear un anuncio de búsqueda responsivo, según cuál sea tu objetivo.
+Ya aprendiste sobre Google Ads y sus diferentes formatos. Esta lectura te permitirá explorar los siete pasos que debes dar
+para crear un anuncio de búsqueda responsivo, según cuál sea tu objetivo.
 
 Esta guía se basa en la interfaz de Google Ads, la cual ofrece orientación a lo largo del proceso.
 
-Puedes optar por crear una campaña sin definir un objetivo de orientación, seleccionando la opción cuando se presenta en pantalla.
+Puedes optar por crear una campaña sin definir un objetivo de orientación, seleccionando la opción cuando se presenta en
+pantalla.
 
 Siete pasos para crear una campaña de Google Ads
 
@@ -3387,8 +3389,8 @@ A continuación, elige tu tipo de campaña. Las opciones incluyen:
 
 *Establece tu  presupuesto:*
 
-Una vez que selecciones la campaña, establece tu presupuesto. Para obtener más información sobre cómo configurar tu presupuesto, visita el
-Centro de ayuda de Google Ads .
+Una vez que selecciones la campaña, establece tu presupuesto. Para obtener más información sobre cómo configurar tu
+presupuesto, visita el Centro de ayuda de Google Ads .
 
 ![alt text](image-39.png)
 
@@ -3406,7 +3408,34 @@ Ubicación/Idioma/Segmentos de audiencia
 
 ![alt text](image-41.png)
 
+*Crea tu anuncio:*
+
+El siguiente paso es ingresar la información para determinar cómo aparecerá tu anuncio en línea. Esto incluye:
+
+Descripciones/URL final/Ruta visible/Títulos/Extensiones
+
+Asegúrate de incluir al menos una de tus palabras clave en los títulos y que estos sean relevantes para las palabras clave a
+las que apuntas. Además, usa el indicador de Ad Strength (calidad del anuncio) como guía para mejorar la efectividad. Cuanto
+mayor sea la solidez de tu anuncio, más posibilidades tendrás de dar los mensajes correctos a tus clientes.
+
+![alt text](image-42.png)
+
+*Finaliza tu anuncio:*
+
+Una vez que todo esté listo, termina el anuncio agregando la URL final y la ruta visible. Usa la ventana de vista previa en
+la pantalla para comprobar cómo se verá  tu anuncio en línea.
+
+![alt text](image-43.png)
+
 ### Aplica la publicidad gráfica (Display)
+
+#### Introducción a la publicidad gráfica (Display)
+
+#### Cómo optimizar un anuncio de Display responsivo según tus objetivos
+
+#### Anunciarse en YouTube
+
+#### Cómo crear un anuncio de display responsivo
 
 ### Revisión: Marketing de motores de búsqueda (SEM) y publicidad de display
 
