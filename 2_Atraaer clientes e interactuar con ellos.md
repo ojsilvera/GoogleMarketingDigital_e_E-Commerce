@@ -1414,6 +1414,84 @@ mundo del marketing digital. Excelente trabajo hasta ahora.
 
 #### Terminología SEO para principiantes
 
+Aprendiste los conceptos básicos de la optimización para motores de búsqueda (SEO) y cómo funciona. Ahora es el momento de
+revisar los términos que aprendiste y conocer otros, que verás en detalle más adelante en este curso. Este glosario te
+ayudará a familiarizarte con algunos de los términos y definiciones básicas de SEO que debes conocer al momento de ocupar un
+puesto de nivel inicial en marketing digital o comercio electrónico.
+
+Algoritmo de búsqueda: proceso automatizado que ayuda a localizar información para responder a las consultas realizadas en
+buscadores.
+
+Breadcrumb (ruta de navegación): serie de enlaces internos en la parte superior o inferior de un sitio web que permite a
+quienes lo visitan navegar rápidamente a una sección anterior o a la página de inicio.
+
+Búsqueda orgánica: resultados no pagados que produce un buscador cuando se realiza una búsqueda.
+
+Datos estructurados: código utilizado para describir mejor el contenido de una página web a los motores de búsqueda.
+
+Dominio: parte central de la URL o dirección de Internet de un sitio web. Por ejemplo, en la URL <www.google.com/ads>, el
+nombre de dominio es google.com.
+
+Enlace roto: enlace que conduce a una página web que ya no existe. Por ejemplo, es posible que se haya eliminado la página
+web o el contenido se haya movido a una ubicación diferente.
+
+Googlebot: nombre genérico del rastreador de Google.
+
+Índice: Google almacena todas las páginas web que conoce en su índice (similar al índice de un libro). La entrada del índice
+de cada página describe el contenido y la ubicación (URL) de ese sitio.
+
+Investigación de palabras clave: proceso de encontrar términos y frases que las personas usan en los motores de búsqueda.
+
+Metadescripción: texto que proporciona a los motores de búsqueda un resumen de lo que trata la página. En algunas
+situaciones, esta descripción se muestra en los resultados de búsqueda.
+
+Optimización de motores de búsqueda (SEO): proceso de mejorar la visibilidad de las páginas web en un motor de búsqueda para
+atraer tráfico más relevante.
+
+Página 404: URL que dice a quien visita la página web que esta no existe.
+
+Página web apta para dispositivos móviles: página web que está diseñada para cargarse rápidamente y mostrarse correctamente
+en la pantalla de un teléfono.
+
+Páginas de resultados de motores de búsqueda (SERP): páginas de resultados que aparecen cuando alguien realiza una consulta
+de búsqueda.
+
+Palabra clave: término de búsqueda que las personas usan para encontrar información, productos o servicios en línea.
+
+Paneles de conocimiento de Google: cuadros de información que aparecen en Google cuando alguien busca personas, lugares,
+organizaciones o cosas que están disponibles en la base de datos de Google.
+
+Ranking: posición de una página web en las páginas de resultados de motores de búsqueda (SERP), que está determinada por un
+algoritmo.
+
+Rastreador (Crawler): software automatizado que rastrea (busca) páginas de la web y las indexa
+
+Rastreo (Crawling): proceso de encontrar páginas web nuevas o actualizadas.
+
+Resultados enriquecidos: resultados mejorados en la búsqueda de Google con funciones visuales o interactivas adicionales.
+
+Sitemap: archivo que proporciona información sobre las páginas, videos y otros archivos en un sitio web, así como las
+relaciones entre ellos. Los motores de búsqueda como el de Google leen este archivo para rastrear tu sitio de manera más
+eficiente.
+
+Subdominio: subconjunto de un dominio más grande utilizado para organizar un sitio web en una URL de página diferente. Los
+subdominios generalmente se encuentran al comienzo de una URL. Por ejemplo, support.google.com es un subdominio de
+google.com.
+
+Tasa de rebote: porcentaje de visitantes de un sitio web que ven una página y luego la abandonan.
+
+Título de la página web: elemento que proporciona tanto a las personas como a los buscadores el tema de una página.
+
+URL: dirección de una página web o archivo en Internet. Por ejemplo, <www.google.com>.
+
+**Conclusiones principales** Hemos descubierto una gran cantidad de términos de SEO y veremos más, a medida que avance el
+curso. Este glosario te servirá para recordar sus significados y entender cómo se relaciona la optimización para motores de
+búsqueda con el marketing digital y el comercio electrónico. Además, te ayudará al momento de empezar a trabajar en un nuevo
+puesto relacionado con la temática.
+
+**Recursos para obtener información adicional** Para obtener más información sobre los términos de SEO para principiantes,
+consulta este glosario: Centro de la Búsqueda de Google: Consulta el glosario de términos SEO de la Guía de inicio de SEO
+
 ### Investigación de palabras clave y estructura del sitio web
 
 ### Revisión: Comprender la optimización de motores de búsqueda (SEO)
