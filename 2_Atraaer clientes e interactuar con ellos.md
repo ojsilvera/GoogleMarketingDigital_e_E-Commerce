@@ -705,11 +705,262 @@ etapa del embudo: la Conversión.
 
 #### Conversión: Estrategias para aumentar la tasa de conversión de un sitio web
 
+En el video anterior, viste cómo crear consideración y hacer que los clientes se interesen en un producto o servicio. Ahora
+están listos para comprar. La siguiente etapa del embudo de marketing es la Conversión. La Conversión es el proceso para
+hacer que un cliente potencial tome una acción deseada. Esta puede ser registrarse para una consulta, o simplemente que
+visite la tienda. En este video, nos enfocaremos en las compras en línea.
+
+Parece un proceso sencillo: alguien visita un sitio web y hace una compra, pero no siempre es tan fácil. ¿Qué pasa si tiene
+dificultades con el proceso de pago o se distrae y no completa la transacción? ¿O qué pasa si le interesa el producto o
+servicio, pero aún no sabe si es el adecuado?
+
+Como profesional de marketing digital o comercio electrónico, quizá debes encargarte de que no haya problemas con el proceso
+de pago. Quizá también debes aumentar la probabilidad de que el cliente compre. O quizá debes aumentar el volumen de compra
+o el valor total. Ambos trabajos tienen una meta principal: aumentar la tasa de conversión. Esta es el porcentaje de
+usuarios o visitantes del sitio web que toman una acción deseada. La tasa de conversión de un sitio de e-commerce suele ser
+de alrededor del 1 o 2 %. Por ejemplo, si 2 de 100 personas visitan la página de un producto y lo compran, la tasa de
+conversión es del 2 %. Imagina poder aumentarla con solo 1 de cada 100 personas. Si 3 de cada 100 personas compran, los
+ingresos aumentan en un 33 % con un simple cambio en el sitio web. Eso tendría un gran impacto en los ingresos de la
+empresa.
+
+Ahora que entiendes más sobre la Conversión, veamos estrategias y tácticas.
+
+Optimizar el proceso de pago. Cuando un cliente va a pagar, el proceso debe ser lo más fácil posible. Cada campo adicional
+puede disminuir la tasa de conversión. Un campo es cualquier información que debe ingresarse para comprar el producto. Por
+ejemplo, ¿necesitas su número telefónico? Si no, elimina ese campo. Otra idea de optimización es cambiar el botón de compra
+de “Agregar al carrito” a “Comprar ahora”. O considera agregar más opciones de pago como Google Pay o Shop Pay de Shopify.
+
+Agregar mejores fotos del producto y servicio. La calidad y cantidad de fotos en un sitio web impactan en la tasa de
+conversión.
+
+Agrega fotos de alta calidad con ángulos variados para aumentarla. Muchas empresas de e-commerce solo muestran fotos del
+producto o servicio. Considera agregar fotos de estilo de vida: imágenes de alguien usando el producto o servicio. Anima a
+los clientes a poner este tipo de fotos en las reseñas.
+
+Robustece el copy del producto o servicio. Lo que el cliente potencial lea sobre el producto o servicio debe ser persuasivo.
+El copy es el material escrito que anima a comprar un producto o servicio. El copy debe explicar el producto y hacer un
+llamamiento emocional para comprarlo.
+
+Agregar chat en vivo. No todas las empresas podrán agregar chat en vivo, pero, si pueden, podrían aumentar la tasa de
+conversión. Si un cliente tiene un problema de pago o una pregunta sobre el producto, puede preguntar por el chat. Eso es
+mejor que si debe salir de la página web. Si trabajas para una pequeña empresa que no puede tener chat en vivo, puedes
+agregar chatbots. Un chatbot es un software que responde preguntas básicas de los visitantes.
+
+Dar seguimiento a carritos abandonados. Es cuando un cliente va a pagar, ingresa su correo, pero no compra. Tal vez no lo
+parezca, pero suele suceder. Muchos softwares de e-commerce permiten enviar un correo a estos clientes. En él se les
+recuerda que aún tienen artículos en su carrito. Algunos clientes volverán al sitio web y finalizarán la compra. Además, es
+excelente para enviar un anuncio de remarketing, que recordará a estos clientes potenciales lo que hay en su carrito.
+
+Aumentar la velocidad del sitio web. Según un estudio de The State of Online Retail Performance, con cada segundo de retraso
+de carga de la página, la Conversión cae un 20 %. Veremos la velocidad del sitio web más adelante en el programa. Hay
+estrategias simples para aumentar la velocidad de un sitio web lento, como reducir el tamaño de las imágenes.
+
+Ofrecer una prueba o garantía de devolución de dinero. No es posible hacerlo con todos los productos o servicios, pero puede
+persuadir al cliente a hacer la compra. Las garantías de devolución son comunes en compras de mayor valor. Yo lo he visto
+recientemente en compras de colchones, lentes y ropa.
+
+Experimentar con pruebas A/B. Esta es una estrategia más avanzada porque requiere analítica. La prueba A/B compara dos
+versiones de una página web para ver cuál tiene la mayor tasa de conversión. Recomendamos que al cambiar un elemento de la
+página compares su tasa de conversión con la versión anterior de la página. En general, debes cambiar un elemento a la vez
+para obtener resultados precisos. Por ejemplo, puedes probar distintas fotos principales de un producto. ¿Cuál convierte
+más? ¿La foto del producto con fondo blanco, exterior o en entorno de estilo de vida? Recuerda que las pruebas A/B no solo
+se aplican en el e-commerce, sino en todo negocio que desea facilitar al cliente tomar una acción deseada.
+
+Al implementar una estrategia para aumentar la Conversión, hay que tener en cuenta la tasa de devolución. No es bueno si la
+Conversión sube a la vez que la cantidad de productos devueltos. Tenlo en cuenta.
+
+Bien. Llevaste al cliente potencial de la etapa de Conciencia a la de Consideración y y a la de Conversión. ¡Felicidades! Ya
+es tu cliente. ¿Pero termina el marketing aquí? No. En el siguiente video veremos la etapa de Fidelidad: cómo convertir a
+clientes en clientes regulares que apoyan la marca.
+
 #### Cómo aumentar la tasa de conversión de un sitio web de comercio electrónico
+
+Una vez que las y los clientes potenciales conocen y consideran un producto, el siguiente paso en el embudo de marketing es
+convertirlos en clientes que paguen. Esta es la tercera etapa del embudo de marketing, la Conversión. Es decir, el proceso
+de lograr que un/a cliente potencial realice una acción deseada.
+
+En el caso de Lirio Cases, la empresa ficticia de fundas de cuero para teléfonos, se busca que las y los clientes compren
+sus accesorios.
+
+Estas son algunas de las estrategias de marketing que Lirio Cases utiliza para conseguir una conversión de compra:
+
+**Recuperar los carritos abandonados** Un porcentaje de quienes ven los productos de Lirio Cases llega a la página final de
+pago e ingresa su dirección de correo electrónico, pero no realiza finalmente la compra. Esto se denomina carrito
+abandonado.
+
+Anteriormente, Lirio Cases no recuperaba los carritos abandonados. Dejaba que el cliente se fuera del sitio web y el carrito
+abandonado, simplemente, desaparecía. Ahora, decidieron intentar recuperar estos carritos enviando un correo electrónico de
+seguimiento. A través de este correo electrónico, la firma recuerda al/la cliente los artículos que agregó a su carrito
+digital, pero no compró.
+
+No todos los correos electrónicos que envía Lirio Cases terminan generando una compra. Sin embargo, algunos sí. Estas
+compras aumentan la tasa de conversión general de las páginas de productos.
+
+Además, Lirio Cases analiza todo su proceso de pago para determinar si hay algún problema que impida a sus clientes
+potenciales efectuar el pedido, como por ejemplo, que se pida completar demasiados campos de información. Un proceso de pago
+más simple puede ayudar a reducir el porcentaje de carritos abandonados.
+
+**Agregar mejores fotos** Aunque Lirio Cases tenía buenas fotos de los productos, éstas tenían ya varios años, por lo que la
+empresa decidió contratar a un fotógrafo profesional para que actualizara las imágenes de su catálogo.
+
+Además de las fotos estándar de los productos, Lirio Cases añadió fotografías que son fáciles de relacionar con la
+experiencia personal, también llamadas fotos de “estilo de vida”. Estas imágenes muestran a personas usando las fundas en
+situaciones cotidianas, tanto en el hogar como en el trabajo o en alguna actividad al aire libre. Es clave que las fotos de
+estilo de vida representen la diversidad de personas que pueden usar el producto.
+
+Para mostrar mejor las características de las fundas, Lirio Cases también contrató a un diseñador gráfico y le pidió que
+cree mini animaciones. Estas se muestran en el sitio web y ayudan a explicar las características especiales de sus fundas.
+
+En la etapa de Conversión del embudo, las fotos y animaciones de mayor calidad incentivan a las y los clientes a pasar a la
+acción y realizar la compra.
+
+**Reforzar el texto publicitario** Además de las nuevas fotos, Lirio Cases decidió reformular el texto publicitario de su
+sitio web. El texto publicitario (copy) es el material escrito que incentiva a las y los clientes a comprar un producto o
+servicio.
+
+Anteriormente, el texto solo describía las características del producto, lo que no resultaba muy convincente para su público
+objetivo. Ahora, el texto incluye una apelación emocional, explicando cómo la vida del/la cliente podría ser diferente si
+adquiriese la funda de cuero para teléfono de Lirio Cases. Una apelación emocional lleva al cliente a imaginar cómo se
+sentiría usando el producto, lo que aumenta las probabilidades de que realice la compra.
+
+La empresa también rediseñó su página de preguntas frecuentes (FAQ) e incluyó las preguntas más comunes recibidas por correo
+electrónico. Las nuevas preguntas y respuestas, por ejemplo cómo cuidar la funda de cuero, ayudan a disipar las dudas de las
+y los clientes potenciales sobre los productos.
+
+**Experimentar con pruebas A/B** Después de reformular las fotos y el texto publicitario de la página del producto, Lirio
+Cases quiso probar los cambios para asegurarse de que estuvieran generando más ventas. También quiso probar cambios en la
+página del producto, como dónde colocar las reseñas y las recomendaciones de otros artículos.
+
+Para hacerlo, realizó pruebas A/B. La prueba A/B consiste en comparar dos versiones de una página web para determinar cuál
+tiene la tasa de conversión más alta.
+
+Lirio Cases probó varias versiones de páginas web de productos. Así, determinó cuál era la más efectiva y aumentó su tasa de
+conversión en un 0,8 %. Los cambios generaron un incremento de $150.000 (USD) en los ingresos anuales por ventas debido solo
+a unas pocas modificaciones en la página del producto.
+
+**Conclusiones principales** Las estrategias de marketing que Lirio Cases utilizó para aumentar su tasa de conversión fueron
+agregar mejores fotos, reforzar el texto publicitario del sitio web, realizar pruebas A/B sobre cambios en la página del
+producto y recuperar los carritos abandonados. Al implementar estas estrategias, la empresa aumentó su tasa de conversión y
+sus ingresos globales.
+
+Lirio Cases ya consiguió que las y los clientes potenciales conozcan sus productos, se interesen por ellos y se conviertan
+en clientes que pagan. Ahora, tienen que convertir a esos clientes en clientes regulares y fieles promotores de la marca.
 
 #### Fidelidad: Estrategias para aumentar la fidelidad de las y los clientes luego de realizar una compra
 
+En el último video, vimos estrategias que llevan a a clientes interesados a hacer una compra. Ahora veremos estrategias para
+convertirlos en clientes regulares fieles.
+
+En la etapa de Fidelidad del embudo, los clientes se vuelven regulares y promotores de la marca. Idealmente, se convierten
+en voceros de la marca. Quizá hablan del excelente producto a su familia y amistades. Quizá publican algo en redes sociales
+y cientos de amistades ven su experiencia. O quizá pasan de recibir recordatorios de compra a buscar activamente el
+servicio. Con las herramientas digitales, ahora es muy fácil volver a clientes fieles en seguidores de la marca.
+
+En esta etapa, ya tienes al cliente que paga. Las siguientes estrategias no son necesarias. Pero implementarlas generará más
+clientes regulares y una mayor tasa de conversión o valor de conversión. Además, tus clientes fieles promocionan el producto
+o servicio y se convierten en voceros de la marca. Eso es marketing gratis.
+
+Veamos estrategias y tácticas de posventa para aumentar la lealtad del cliente.
+
+Programas de recompensas. Incentiva a los clientes a volver a comprar. Hay programas de recompensas en aplicaciones de
+alimentos como cadenas de comida rápida. Muchos sistemas de punto de venta (POS) ofrecen programas de recompensas integrados
+en su software. El sistema POS acepta pagos de clientes y administra su información.
+
+Reproduce el video desde :1:39 y sigue la transcripción1:39
+
+El email marketing mantiene tu marca a la vista del cliente de forma constante. Recuerda siempre elaborar correos que
+ofrezcan valor al cliente. De lo contrario, puede darse de baja. Para generar fidelidad, puedes informar a los clientes o
+contarles la historia de tu marca.
+
+Compartir en redes sociales es cuando los clientes comparten lo que ofreces en sus redes sociales. Primero debes persuadir a
+los clientes para que sigan a la empresa en las redes sociales. Luego debes dar contenido que querrán compartir con sus
+seguidores.
+
+Haz remarketing a clientes que ya pagan con anuncios nuevos. Aunque vimos el remarketing de anuncios en una etapa anterior,
+úsalo para volver a involucrar a clientes. Cuando sabes qué producto compró el cliente, puedes recomendar otro producto o
+complementos.
+
+Otra forma de ganar fidelidad es fomentar que el cliente deje una reseña positiva. Si el cliente tiene una experiencia
+positiva anímalo a escribir al respecto. La reseña puede ser en línea, como en una red social, o simplemente por correo. Las
+reseñas positivas pueden publicarse como contenido en el sitio web, o redes sociales de la empresa y por email marketing.
+
+A mucha gente le gusta que la feliciten en su cumpleaños. Puedes dar un descuento al cliente en su cumpleaños o en el día
+de su aniversario de haberse hecho cliente.
+
+Los regalos recuerdan a los clientes la marca una y otra vez. Pueden ser un sticker, imán, camiseta o algo relacionado con
+la empresa. Por ejemplo, compré una almohada hace poco. Y recibí de regalo un antifaz de la marca para dormir. La verdad es
+que me pareció genial.
+
+La última estrategia consiste en mensajes de confirmación divertidos. Cuando un cliente compra un producto, recibe un correo
+o mensaje de texto de confirmación. Los mensajes suelen ser estándar y transaccionales. Si son apropiados, ¿por qué no
+hacerlos interesantes? Dales personalidad a los mensaje de confirmación al escribirlos de una forma que emocione al cliente
+por recibir su producto o servicio.
+
+De forma descriptiva, dile qué sentirá al recibir el producto. Al usar estas estrategias, ojalá puedas convertir a los
+clientes en fans leales. Seguirán comprando más productos y servicios, e, idealmente, los clientes fieles les contarán
+también a su familia y amistades sobre el negocio.
+
 #### Cómo incrementar la fidelidad de las y los clientes después de una compra
+
+En la etapa de Fidelidad del embudo de marketing, las empresas buscan que sus clientes eventuales se conviertan en clientes
+regulares y promotores/as de la marca. Piensa en promotores como si fueran voceros/as de la marca, que hablan con sus
+familiares y amistades acerca de su compra y de lo conformes que están con ella.
+
+A las empresas les interesa contar con promotores de la marca porque estas personas recomiendan sus productos con pasión y
+entusiasmo. Este tipo de promoción no tiene costo. Ten presente que las y los promotores de la marca no cobran por su
+recomendación, por lo tanto no representan un gasto adicional para el área de marketing.
+
+Continuaremos con nuestro ejemplo de Lirio Cases, el negocio dedicado a la fabricación y comercialización de fundas de cuero
+para teléfonos móviles. En la actualidad, la empresa cuenta con decenas de miles de clientes. Sin embargo, no ha aplicado
+estrategias específicas para fidelizarlos y convertirlos en promotores de la marca.
+
+Estas son algunas de las estrategias que utiliza Lirio Cases para fidelizar a sus clientes:
+
+**Compartir en redes sociales** Compartir en redes sociales (social sharing) es cuando una persona comparte el contenido de
+una marca con sus seguidores a través de las distintas plataformas de redes sociales que utiliza. Actualmente, las y los
+seguidores de Lirio Cases no comparten mucho contenido de la marca.
+
+En una lectura anterior, mencionamos que Lirio Cases está enfocando su contenido de Instagram en consejos de estilo y moda.
+Desde la empresa, creen que este cambio de estrategia hará que las personas sean más propensas a compartir su contenido.
+
+Además de mejorar el contenido en las redes sociales, Lirio Cases también incorporó sorteos mensuales de productos entre
+aquellas/os clientes que publiquen su última compra en las redes sociales. Cada mes seleccionan a una persona que etiquete
+su cuenta de Instagram en una publicación para recibir el obsequio.
+
+**Incentivar las reseñas** Las reseñas indican qué tan satisfecha está una persona con una compra. Una reseña positiva y
+detallada puede persuadir a un/a cliente potencial para que realice una compra.
+
+Un aspecto de las reseñas que en general no se discute es la fidelidad de marca que generan. Cuando alguien se toma el
+tiempo de escribir por qué está conforme con un producto, desarrolla sentimientos positivos hacia éste y construye lealtad
+de marca.
+
+Actualmente, Lirio Cases muestra reseñas en las páginas de sus productos. Sin embargo, no incentiva a sus clientes a que las
+escriban. Para cambiar esto, desde la firma deciden enviar un correo electrónico de seguimiento a sus clientes una semana
+después de haberles entregado la funda de cuero, pidiéndoles que escriban una reseña.
+
+**Enviar obsequios** Los obsequios son artículos que cada cliente recibe junto al producto comprado. Anteriormente, Lirio
+Cases no enviaba obsequios con sus productos. Ahora, con cada venta, envía un sticker con la marca, un imán pequeño y un
+manual de instrucciones sobre cómo cuidar la funda de cuero.
+
+Este tipo de gesto ayuda a crear una conexión con la marca. Algunos clientes colocarán el imán en la puerta de la nevera y
+el sticker en su computadora portátil o en su botella de agua. Esta exhibición pública de la marca los convierte en
+promotores de la misma. Además, recuerda la marca a cualquier persona que vea el sticker o el imán ¡incluidos sus clientes!
+
+**Vender otros productos (cross selling)** Lirio Cases vende otros productos, además de fundas de cuero para teléfonos, como
+correas, carteras y estuches para tabletas. A la empresa le gustaría promocionar estos otros artículos a personas que hayan
+comprado alguna vez una funda, para convertirlas en clientes regulares.
+
+Recuerda que los anuncios de remarketing se envían a compradores, suscriptores o personas que hayan visitado previamente un
+sitio web. Basándose en lo que las y los clientes compraron con anterioridad, Lirio Cases publica anuncios de productos que
+no han sido adquiridos por estas personas.
+
+Por ejemplo, si una persona compró una funda de cuero de color marrón para el teléfono, puede recibir anuncios con una
+cartera del mismo color que combine con la funda.
+
+**Conclusiones principales** Lirio Cases busca fidelizar a sus clientes ofreciéndoles la posibilidad de compartir sus
+productos en las redes sociales, incentivando que escriban reseñas, enviándoles obsequios y presentándoles otros artículos
+que puedan comprar. Lograr que clientes eventuales se conviertan en promotores/as de la marca es una forma económica, o
+incluso gratuita, de conseguir aún más ventas.
 
 ### Introducción para atraer e involucrar a clientes con marketing digital
 
