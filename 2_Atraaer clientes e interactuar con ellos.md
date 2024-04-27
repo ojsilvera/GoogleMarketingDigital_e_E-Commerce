@@ -321,6 +321,56 @@ logres conocer a tus clientes.
 empatizar con él. El proceso empieza por investigar e identificar quiénes son tus clientes. A continuación, se agrupan las
 y los clientes similares y se crea un cliente tipo que represente a cada grupo.
 
+#### Actividad de ejemplo: Crear dos clientes tipo
+
+Evaluación del ejemplo
+
+Compara el ejemplo con los clientes tipo que creaste. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo.
+¿Qué hiciste bien? ¿En qué aspectos podrías mejorar? Las respuestas a estas preguntas te servirán de guía, a medida que
+avances en el curso.
+
+Nota: el ejemplo representa dos clientes ideales (customer personas) creados en función de los datos de cliente
+proporcionados. Es probable que tus clientes tipo difieran en algunos aspectos. Lo importante es que ofrezcan una
+representación clara de las características generales, los objetivos y las barreras de cada público objetivo.
+
+Revisemos cada cliente tipo:
+
+**Cliente tipo 1 - Comprador de bajo presupuesto** Nombre: Este cliente tipo utiliza el nombre de uno de los encuestados
+(Raj), que coincide con la mayoría de las características del comprador de bajo presupuesto.
+
+Edad: La edad de Raj (27 años) está dentro del rango etario principal de las y los clientes que más se preocupan por el
+precio del producto.
+
+Ubicación: Raj vive en los suburbios, porque es donde residen la mayoría de las y los compradores de bajo presupuesto.
+
+Educación: Raj tiene estudios universitarios porque las y los clientes de bajo presupuesto suelen tener estudios
+universitarios.
+
+Hogar: Las y los compradores de bajo presupuesto suelen ser más jóvenes que las y los compradores de variedades, por lo que
+suelen no tener pareja, cónyuge ni hijos.
+
+Barreras: Raj es un comprador de bajo presupuesto, así que quiere comprar ropa de cama que no cueste demasiado. Pero le
+preocupa que su bajo presupuesto pueda limitar sus opciones. Dado que no puede revisar la ropa de cama en persona antes de
+comprarla, también se pregunta si la calidad es realmente tan alta como parece en línea.
+
+**Cliente tipo 2 - Comprador de variedades** Nombre: Para mencionar a este cliente tipo se usará el nombre de una de las
+encuestadas (Malena), cuyas características coinciden con la mayoría de las de las compradoras de variedades.
+
+Edad: La edad de Malena (44 años) está dentro de la franja principal de edad de las y los clientes que más se preocupan por
+la variedad.
+
+Ubicación: Malena vive en una ciudad, porque allí es donde residen la mayoría de las y los compradores de variedades.
+
+Educación: Malena tiene estudios universitarios, porque las y los compradores de variedades suelen tener estudios
+universitarios.
+
+Hogar: Malena forma parte de un hogar de varias personas, porque las y los compradores de variedades suelen estar en pareja
+o casados, y tener 1 o 2 hijos.
+
+Barreras: Como compradora de variedades, Malena quiere poder elegir entre una amplia gama de opciones para ella, su pareja y
+sus hijos. Pero no sabe si podrá encontrar tantas alternativas en un solo lugar. Incluso, aunque estén disponibles, la falta
+de una buena categorización en el sitio web podría dificultar su localización.
+
 ### Etapas de Conciencia y Consideración del embudo de marketing
 
 ### Etapas de Conversión y Fidelidad del embudo de marketing
