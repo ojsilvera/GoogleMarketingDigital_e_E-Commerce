@@ -3294,20 +3294,35 @@ conflicto y resolución te ayudará a lograrlo.
 
 #### Prepárate para tu búsqueda de empleo
 
-Hola de nuevo. ¿Te acuerdas de mí? Me llamo Erica Soy consultora de personas en Google, es decir, socia comercial de RR. HH.
+Hola de nuevo. ¿Te acuerdas de mí? Me llamo Erica. Soy consultora de personas en Google, es decir, socia comercial de RR.
+HH.
+
 La última vez que nos vimos, acababas de empezar este curso y ahora estás aquí, casi al final. Felicidades por tu progreso
-hasta ahora y por tomar medidas para avanzar en tu carrera. Ahora que ya acabas el primer curso, quería informarte sobre
-algunas de las actividades y recursos de desarrollo que verás en lo que queda de programa. En el próximo curso y en los
-siguientes, podrás completar una serie de actividades prácticas basadas en escenarios de e-commerce y marketing. Podrás
-practicar lo que aprendiste, además de discutir tus habilidades con los gerentes de una manera concreta. Guarda tus trabajos
-de estas actividades. Te serán útiles al final del programa y cuando empieces a pensar en la siguiente etapa de tu carrera
-en marketing digital o e-commerce. Cuando llegues al último curso del programa, profundizaremos en el tema de la búsqueda de
-empleo. Cubriremos cómo encontrar y aplicar para trabajos que te interesen. Te diré algunos tips que te servirán para el
-proceso de la entrevista, para que sepas qué esperar. Verás cómo armar una cartera en línea que te ayudará a demostrar tus
-conocimientos y experiencia. Completarás un proyecto basado en un escenario, que podrás incluir en tu cartera y y usar para
-presentar tu razonamiento a posibles empleadores. Igual que el recorrido de un cliente, tu carrera es única para ti. Pero
-elijas el camino que elijas, lo que aprendas en este programa te dará un inicio sólido. Ya has conseguido mucho y aún te
-queda mucho por hacer. Éxito en tu próxima etapa. Espero verte de nuevo muy pronto.
+hasta ahora y por tomar medidas para avanzar en tu carrera.
+
+Ahora que ya acabas el primer curso, quería informarte sobre algunas de las actividades y recursos de desarrollo que verás
+en lo que queda de programa.
+
+En el próximo curso y en los siguientes, podrás completar una serie de actividades prácticas basadas en escenarios de
+e-commerce y marketing. Podrás practicar lo que aprendiste, además de discutir tus habilidades con los gerentes de una
+manera concreta.
+
+Guarda tus trabajos de estas actividades. Te serán útiles al final del programa y cuando empieces a pensar en la siguiente
+etapa de tu carrera en marketing digital o e-commerce.
+
+Cuando llegues al último curso del programa, profundizaremos en el tema de la búsqueda de empleo. Cubriremos cómo encontrar
+y aplicar para trabajos que te interesen.
+
+Te diré algunos tips que te servirán para el proceso de la entrevista, para que sepas qué esperar. Verás cómo armar una
+cartera en línea que te ayudará a demostrar tus conocimientos y experiencia.
+
+Completarás un proyecto basado en un escenario, que podrás incluir en tu cartera y usar para presentar tu razonamiento a
+posibles empleadores.
+
+Igual que el recorrido de un cliente, tu carrera es única para ti. Pero elijas el camino que elijas, lo que aprendas en este
+programa te dará un inicio sólido.
+
+Ya has conseguido mucho y aún te queda mucho por hacer. Éxito en tu próxima etapa. Espero verte de nuevo muy pronto.
 
 #### Cómo encontrar oportunidades de trabajo
 
@@ -3366,41 +3381,61 @@ Te estás embarcando en un viaje emocionante e inspirador, ¡asegúrate de darte
 #### Elle – Fortalece tu confianza
 
 Hola, me llamo Elle y soy la vicepresidenta del Equipo de Maestría. Mi función es apoyar a la organización empresarial de
-Google con grandes experiencias de aprendizaje. Uno de mis valores fundamentales es la curiosidad, y lo que más me gusta de
-mi trabajo es que puedo apoyar la curiosidad de nuestra organización con grandes experiencias que ayudan a las personas a
-aprender, crecer y desarrollarse, y aportar todo su ser al trabajo cada día. A lo largo de este programa y de tu
-trayectoria, tendrás momentos en los que no sentirás seguridad de ti mismo, y la confianza es muy importante. Te voy a
-contar una historia sobre un momento en el que me faltó confianza y lo que hice para levantarme. Llevaba unos diez años
-trabajando y, por desgracia, me despidieron. Estaba destrozada. Carecía por completo de confianza y no tenía ni idea de cómo
-iba a levantarme y encontrar mi próximo empleo. Así que recurrí a una cita en la que pienso a menudo en momentos como este.
-Y esa cita es: “No se trata de cómo te caes. Lo que cuenta es cómo te vuelves a levantar”. Y me rodeé de un sistema de apoyo
-que me ayudara a recuperar la confianza. Y hay dos tipos de personas con las que te recomiendo que te rodees. El primero es
-un animador. Es una persona que cree completamente en ti porque ha visto que tienes capacidades y que puedes hacerlo.
-Sostienen un espejo y te describen momentos en los que han visto pruebas de que muestras esas capacidades. Si no tienes
-claro dónde podrías encontrar a tu mayor animador, esa persona puede ser cualquiera en tu vida que tenga experiencia y esté
-expuesta a ti en todos los aspectos de tu vida. Un ejemplo rápido es mi hermana. En mi caso, mi hermana estaba
-reincorporándose al mercado laboral, y tuve la oportunidad de apoyarla y animarla mientras buscaba si tenía o no las
+Google con grandes experiencias de aprendizaje.
+
+Uno de mis valores fundamentales es la curiosidad, y lo que más me gusta de mi trabajo es que puedo apoyar la curiosidad de
+nuestra organización con grandes experiencias que ayudan a las personas a aprender, crecer y desarrollarse, y aportar todo
+su ser al trabajo cada día.
+
+A lo largo de este programa y de tu trayectoria, tendrás momentos en los que no sentirás seguridad de ti mismo, y la
+confianza es muy importante. Te voy a contar una historia sobre un momento en el que me faltó confianza y lo que hice para
+levantarme.
+
+Llevaba unos diez años trabajando y, por desgracia, me despidieron. Estaba destrozada. Carecía por completo de confianza y
+no tenía ni idea de cómo iba a levantarme y encontrar mi próximo empleo. Así que recurrí a una cita en la que pienso a
+menudo en momentos como este. Y esa cita es: “No se trata de cómo te caes. Lo que cuenta es cómo te vuelves a levantar”.
+
+Y me rodeé de un sistema de apoyo que me ayudara a recuperar la confianza. Y hay dos tipos de personas con las que te
+recomiendo que te rodees. El primero es un animador. Es una persona que cree completamente en ti porque ha visto que tienes
+capacidades y que puedes hacerlo. Sostienen un espejo y te describen momentos en los que han visto pruebas de que muestras
+esas capacidades.
+
+Si no tienes claro dónde podrías encontrar a tu mayor animador, esa persona puede ser cualquiera en tu vida que tenga
+experiencia y esté expuesta a ti en todos los aspectos de tu vida. Un ejemplo rápido es mi hermana. En mi caso, mi hermana
+estaba reincorporándose al mercado laboral, y tuve la oportunidad de apoyarla y animarla mientras buscaba si tenía o no las
 aptitudes necesarias para solicitar un empleo. Y le recordé todos los momentos en los que demostró habilidades clave que la
-prepararían para el éxito en ese trabajo. Muy bien, la segunda persona de la que puedes rodearte es un compañero de
-práctica. Así que, busca un compañero de práctica: alguien que pueda hacerte responsable y apoyarte mientras practicas.
-Puede venir de este programa, o de cualquier aspecto de tu vida. Entonces, cuando pienses en entrar en este programa, dos
-cosas: tu mejor animador y tu compañero de práctica. Porque habrá momentos en los que tu confianza se tambalee, y la
-confianza será muy importante. No entré en el mundo del marketing o del comercio electrónico hasta más o menos la mitad de
-mi carrera, cuando decidí dar un giro. Y este programa de certificación no existía en ese entonces, ojalá hubiera existido.
+prepararían para el éxito en ese trabajo.
+
+Muy bien, la segunda persona de la que puedes rodearte es un compañero de práctica. Así que, busca un compañero de práctica:
+alguien que pueda hacerte responsable y apoyarte mientras practicas. Puede venir de este programa, o de cualquier aspecto de
+tu vida.
+
+Entonces, cuando pienses en entrar en este programa, dos cosas: tu mejor animador y tu compañero de práctica. Porque habrá
+momentos en los que tu confianza se tambalee, y la confianza será muy importante.
+
+No entré en el mundo del marketing o del comercio electrónico hasta más o menos la mitad de mi carrera, cuando decidí dar un
+giro. Y este programa de certificación no existía en ese entonces, ojalá hubiera existido.
+
 Te daré un par de consejos sobre cómo comencé a aprender más sobre el marketing y el comercio electrónico. Lo primero que
 hice fue crear una campaña de búsqueda. Una amiga mía estaba vendiendo su departamento, así que creé una campaña que
-realmente ayudó a promocionarlo, y aprendí mucho sobre marketing de búsqueda a través de esa experiencia. Lo segundo que
-hice fue decidir aprender más sobre sitios web y decidí crear un blog. Y algo que realmente me apasiona es el yoga. Así que
-creé un blog sobre mi trayectoria en el yoga, y luego apliqué la analítica al blog y empecé a ver quién accedía y leía mi
-blog y vi gente de la India, de todas partes de Asia, que accedían y leían esto, y fue muy divertido aprender al realizar
-ambas experiencias. Así que mi consejo para ti: Participa en las experiencias prácticas a través de este programa y,
-potencialmente, en experiencias a las que puedas tener acceso fuera de este. Pero el punto principal es que aprendemos más a
-través de la práctica, así que encuentra oportunidades para practicar. Habrá personas en tu vida que tratarán de definir
-quién eres y cuál debe ser tu carrera. Algunos incluso pueden poner en duda que puedas completar este certificado y
-potencialmente crear y/o pivotar tu propia carrera. Y estoy aquí para decirte: da un paso atrás, confía en tu instinto, y
-cree que puedes definir quién eres y quién quieres ser.
+realmente ayudó a promocionarlo, y aprendí mucho sobre marketing de búsqueda a través de esa experiencia.
+
+Lo segundo que hice fue decidir aprender más sobre sitios web y decidí crear un blog. Y algo que realmente me apasiona es el
+yoga. Así que creé un blog sobre mi trayectoria en el yoga, y luego apliqué la analítica al blog y empecé a ver quién
+accedía y leía mi blog y vi gente de la India, de todas partes de Asia, que accedían y leían esto, y fue muy divertido
+aprender al realizar ambas experiencias.
+
+Así que mi consejo para ti: Participa en las experiencias prácticas a través de este programa y, potencialmente, en
+experiencias a las que puedas tener acceso fuera de este. Pero el punto principal es que aprendemos más a través de la
+práctica, así que encuentra oportunidades para practicar.
+
+Habrá personas en tu vida que tratarán de definir quién eres y cuál debe ser tu carrera. Algunos incluso pueden poner en
+duda que puedas completar este certificado y potencialmente crear y/o pivotar tu propia carrera. Y estoy aquí para decirte:
+da un paso atrás, confía en tu instinto, y cree que puedes definir quién eres y quién quieres ser.
 
 ### Revisión: medir el éxito del Performance Marketing
+
+#### Revisión del curso: Fundamentos del marketing digital y el comercio electrónico
 
 Términos y definiciones del curso 1, semana 4
 
@@ -3460,5 +3495,3 @@ Valor del tiempo de vida del cliente (LTV o CLV): los ingresos promedio generado
 tiempo.
 
 Visualizaciones de datos: representaciones gráficas de datos, que transmiten información.
-
-### Revisión del curso: Fundamentos del marketing digital y el comercio electrónico
