@@ -609,9 +609,107 @@ relaciones. Si se hace bien, puede ser beneficiosa para todos.
 
 #### Consideración: Estrategias para despertar el interés por tu producto o servicio
 
+Muy bien.
+
+Tienes clientes potenciales conscientes de la marca y de qué ofrece. Pero aún no están listos para comprar. ¿Qué sigue?
+Creas Consideración. En esta etapa del embudo de marketing, creas interés para tu producto o servicio. El cliente potencial
+ya conoce el producto o servicio; ahora quiere saber más. Recuerda que las estrategias que vimos en el video anterior aún
+aplican en la etapa de Consideración. Por ejemplo, el marketing en redes sociales crea reconocimiento, el marketing de
+contenidos también. La diferencia entre la etapa de Conciencia y Consideración es el tipo de estrategia de marketing que
+usas. Por ejemplo, el contenido para la Consideración puede ser más detallado y persuasivo, como un estudio de caso. El
+anuncio se dirigirá a una audiencia distinta también: a visitantes anteriores.
+
+Estas son estrategias y tácticas de marketing para crear consideración. La primera es la propuesta de venta única (USP).
+Explica por qué un producto o servicio es mejor que el de la competencia. Cuando un cliente potencial conoce el producto o
+servicio, asegúrate de que la USP sea clara y se repita con frecuencia. Los testimonios es la experiencia con un producto o
+servicio contada por clientes. Un buen testimonio puede generar confianza en un cliente potencial. Se imaginan siendo el
+cliente que tuvo una gran experiencia y cuyo problema se resolvió. Los testimonios pueden ser por escrito, audio o video.
+Los estudios de casos son similares a los testimonios, pero son más detallados. Suelen ser por escrito. Un negocio con
+proyectos que duran varios meses puede usarlos para explicar su avance. Los estudios de casos exhaustivos generan confianza.
+Los anuncios de remarketing se muestran a compradores, suscriptores o visitantes anteriores del sitio web o las redes
+sociales de una marca. Son comunes en el comercio electrónico. Seguro has visto anuncios de remarketing. Por ejemplo, quizá
+viste unos zapatos en un sitio web y luego viste anuncios de esos zapatos en otros sitios o aplicaciones. Eso es el
+remarketing. Aprenderás más al respecto en un curso posterior.
+
+Los webinars son presentaciones que suelen ser educativas y se dan en línea. Son excelentes para informar a clientes
+potenciales y promocionar tu producto o servicio. Un reto es hacer que la gente asista a los webinars. Debes asegurarte de
+ofrecer algo atractivo y valioso a los clientes.
+
+El email marketing consiste en enviar correos promocionales o educativos a una lista de contactos. Cuando un cliente
+potencial descubre la marca y se suscribe a la lista de correos, quiere saber más sobre lo que se ofrece. Las listas de
+correos tienen muchos usos. Una estrategia para crear consideración es enviar información educativa sobre los productos o
+servicios. Los testimonios ayudan a los que aún no compran también. El marketing en redes sociales en la etapa de
+Consideración es diferente a la de Conciencia. En la Consideración, los clientes potenciales siguen la cuenta. Publica
+continuamente contenido variado para crear interés en la marca.
+
+Esas son las estrategias para generar consideración. Los clientes potenciales ya consideraron el producto o servicio, y
+están listos para comprar. En el siguiente video, verás la etapa de Conversión: cómo incentivar a los clientes a seguir y
+hacer la compra.
+
 #### Cómo aumentar la consideración de una marca
 
+La segunda etapa del embudo de marketing es la Consideración. Durante la etapa de Consideración, una empresa busca despertar
+en las personas el interés por su producto o servicio. El/la cliente potencial conoce el producto y la empresa le
+proporciona información para acercarlo/a a la compra.
+
+Si bien hay estrategias similares entre la etapa de Conciencia y la de Consideración, la etapa de Consideración suele
+proporcionar información más detallada y persuasiva que la etapa de Conciencia.
+
+Lirio Cases, una empresa ficticia que fabrica fundas de cuero para teléfonos móviles, tiene miles de clientes potenciales
+que conocen sus productos. La firma busca ahora despertar el interés y deseo de estas personas por sus artículos y éstas son
+algunas de las estrategias de marketing que utiliza:
+
+*Anuncios de remarketing* Los anuncios de remarketing son anuncios que se envían a compradores o personas que hayan visitado
+previamente el sitio web o las redes sociales de una marca. Después de que alguien visita su sitio web o su perfil  de redes
+sociales, Lirio Cases realiza anuncios de remarketing para la página del producto específico que esa persona visitó.
+
+Así, por ejemplo, cuando alguien visita la página de la funda de cuero para iPhone, Lirio Cases puede mostrar anuncios de
+ese mismo producto a esa misma persona en Instagram. Si la persona desea obtener más información, puede hacer clic en el
+enlace y volver al sitio web. Y si quiere saber más sobre la marca, puede visitar fácilmente la cuenta de Instagram de Lirio
+Cases.
+
+**Marketing por correo electrónico** Cuando una persona visita el sitio web de Lirio Cases, se le anima a suscribirse en la
+lista de correo electrónico para recibir un descuento del 15 % en el primer pedido. Aunque algunas personas realizan una
+compra inmediatamente con este descuento, la mayoría no lo hace.
+
+Lirio Cases mantiene el contacto con estos clientes a través del marketing por correo electrónico. Una vez a la semana, las
+y los clientes potenciales reciben correos electrónicos sobre productos de cuero, incluidas las fundas para teléfonos. A
+través de estos correos, Lirio Cases también cuenta a las y los nuevos clientes la historia de la marca: cómo empezó el
+negocio, la calidad de su cuero, la sostenibilidad y cómo está inspirando a su clientela.
+
+**Reseñas** Las reseñas son cuando las y los clientes comparten cómo resultó su experiencia con los productos de una
+empresa. Para aumentar el interés de clientes potenciales, Lirio Cases agregó reseñas positivas en las páginas de sus
+productos, en sus redes sociales y, periódicamente, también en sus correos electrónicos.
+
+Las y los clientes potenciales leen las reseñas de clientes actuales que están conformes con el producto y confían en su
+calidad. También, comienzan a imaginarse cómo sería tener la funda de cuero para su teléfono.
+
+**Propuesta de venta única** Una propuesta única de venta (unique selling proposition, USP) explica por qué un producto o
+servicio es mejor que el de la competencia. La USP de Lirio Cases es “fundas de cuero para teléfonos y diseños de primera
+calidad que pueden ir a todas partes”. Esta USP explica claramente por qué un cliente debe comprar sus fundas de cuero para
+teléfono. Para que su propuesta única de venta fuera efectiva y vista con frecuencia, Lirio Cases la incluyó en todo su
+sitio web, así como en los materiales de marketing.
+
+**Conclusiones principales** Para despertar el interés de clientes potenciales, Lirio Cases utiliza anuncios de remarketing,
+marketing por correo electrónico, reseñas y una propuesta única de venta renovada.
+
+Las estrategias de marketing que una empresa utiliza en la etapa de Consideración pueden variar drásticamente. Los productos
+de Lirio Cases cuestan menos de $80 (USD). Para productos y servicios de mayor costo, pueden ser necesarias estrategias más
+detalladas, como webinars, casos prácticos y pruebas gratuitas. Cuanto mayor sea el precio del producto, por lo general, más
+tiempo llevará despertar el interés de un/a cliente potencial.
+
+Después de que una empresa despierte interés por sus productos y su marca, debe centrarse en estrategias para la siguiente
+etapa del embudo: la Conversión.
+
 ### Etapas de Conversión y Fidelidad del embudo de marketing
+
+#### Conversión: Estrategias para aumentar la tasa de conversión de un sitio web
+
+#### Cómo aumentar la tasa de conversión de un sitio web de comercio electrónico
+
+#### Fidelidad: Estrategias para aumentar la fidelidad de las y los clientes luego de realizar una compra
+
+#### Cómo incrementar la fidelidad de las y los clientes después de una compra
 
 ### Introducción para atraer e involucrar a clientes con marketing digital
 
