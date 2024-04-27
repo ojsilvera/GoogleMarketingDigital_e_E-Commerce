@@ -3431,9 +3431,186 @@ la pantalla para comprobar cómo se verá  tu anuncio en línea.
 
 #### Introducción a la publicidad gráfica (Display)
 
+Ya hablamos de SEM y de cómo anunciar en el buscador de Google. Otra opción popular para hacer publicidad en línea es poner
+anuncios en otros lugares de internet que no son motores de búsqueda,
+
+Por ejemplo, si vendes muebles infantiles, tal vez quieras poner un anuncio de tus productos en un sitio web de tendencias
+en muebles. En marketing, este tipo de colocación de de anuncios se llama publicidad de Display. La publicidad de Display es
+poner formatos de anuncios visuales en sitios web o apps.
+
+Imaginemos que eres marketer en una empresa de e-commerce. Te gustaría anunciar tus productos en sitios web que visiten
+personas con intereses similares a los de tus clientes. Puedes dedicar tiempo a contactar sitios web y preguntar si puedes
+anunciar allí, pero eso sería mucho trabajo. O bien, podrías registrarte en una red de display, como la Red de Display de
+Google.
+
+La Red de Display de Google es un grupo de más de dos millones de sitios web, videos y apps donde pueden aparecer anuncios
+de display. La red alcanza a más del 90 % de usuarios de Internet de todo el mundo. Dentro de esta red, podrías segmentar
+para mostrar tus anuncios en contextos como “estilo de vida el aire libre” o sitios web concretos. O bien, el anuncio podría
+mostrarse a públicos particulares, como madres jóvenes o personas que compran sedanes nuevos. También pueden incluir
+ubicación de la persona y remarketing a visitantes anteriores del sitio web.
+
+Con la publicidad de display, es crucial dirigirte a las personas adecuadas. A diferencia de los anuncios de búsqueda, quien
+ve un anuncio de display, no busca tu producto o servicio directamente, simplemente ve tu anuncio. Para aumentar la
+posibilidad de una acción deseada, como un registro o una compra, debes mostrar tu anuncio a tu cliente potencial.
+
+En general, hay dos tipos de anuncios de display en Google: Subidos y responsivos. Con los anuncios subidos, tendrás que
+crear el display del anuncio, cumplir con los requerimientos y luego subirlo. Hay varios tamaños de anuncios para elegir,
+como banner, clasificados o rascacielos. Un/a marketer crea un anuncio como éste cuando tiene una visión concreta del diseño
+publicitario. También se precisan recursos de diseño y tiempo para crear el anuncio.
+
+Con los anuncios de display responsivos, subes los elementos, como imágenes, encabezados, logotipos, videos y descripciones.
+Google Ads genera automáticamente combinaciones de anuncios. Estas combinaciones son para sitios web, apps, YouTube y Gmail.
+Si bien tienes menos control sobre cómo se ve el anuncio, algunas personas prefieren el anuncio responsivo por ser más
+fácil. No tienes que crear publicidades gráficas en diferentes tamaños. Google Ads hace todo el trabajo.
+
+Estos son beneficios de los anuncios de display responsivos. Otra ventaja es que puedes usar el software de Google Ads para
+optimizar tus anuncios. El software usa la mejor combinación de contenido publicitario, como imágenes, encabezados y logos,
+y muestra los mejores anuncios a clientes potenciales. Así que no necesitas probar ninguna de las combinaciones. Google Ads
+lo hace automáticamente.
+
+Otro beneficio es que tus anuncios tienen un alcance más amplio. Esto significa que tus anuncios llegan a más clientes.
+Algunos sitios web solo admiten ciertos tamaños de anuncios. Así que si subes anuncios manualmente y no subes el tamaño
+específico, tu anuncio no se mostrará en ese sitio web. Cuando uses anuncios de display responsivos, Google ajustará el
+tamaño del anuncio, apariencia y formato para ajustarlos a cada espacio publicitario disponible.
+
+Un tercer beneficio de los anuncios responsivos es que puedes usar videos. Agregar videos maximizará tu alcance en la red de
+display. Si subes un video, Google comparará el video con las fotos que subiste. Si el video ofrece un mejor rendimiento,
+cuando sea posible, lo mostrará en lugar de las fotos.
+
+Un cuarto beneficio es que te ahorrará tiempo. Con anuncios de display responsivos, puedes reducir el tiempo de gestión de
+una cartera de anuncios compleja, con una variedad de tipos de anuncios. Google Ads se encarga de eso. Y tú puedes dedicar
+más tiempo a mejorar el rendimiento.
+
+Como puedes ver, en comparación con la publicidad en buscadores, la publicidad de display es mucho más visual. Puede ser
+difícil diseñar anuncios y luego administrarlos en Google Ads. Pero los anuncios de display responsivos pueden hacer tu
+trabajo más simple. Esto puede ser importante si eres especialista en marketing o analista de e-commerce.
+
 #### Cómo optimizar un anuncio de Display responsivo según tus objetivos
 
+En este video, veremos buenas prácticas en anuncios de display responsivos, que son el tipo de anuncio de display más
+popular. Sigue estas recomendaciones para llegar a más clientes y mejorar el rendimiento.
+
+Primero, revisaremos las prácticas creativas recomendadas y consejos concretos para imágenes. Comencemos con las buenas
+prácticas creativas. La primera es subir el número recomendado de elementos. Recuerda, los elementos son el contenido del
+anuncio como el encabezado, imagen, descripción, logotipo y nombre de la empresa. Para tener un mejor resultado, Google
+recomienda cinco encabezados, cinco imágenes y cinco descripciones. En promedio, los anunciantes tienen un 10 % más de
+conversiones cuando usan múltiples encabezados, imágenes y descripciones con anuncios de display responsivos.
+
+Otra buena práctica es tener contenido creativo y único. El encabezado debe mostrar el valor de tu marca o producto. Tiene
+que ser interesante y útil para las y los clientes. Escribe el encabezado para que sea claro y efectivo, aun sin el apoyo de
+la descripción. La descripción debe complementar el encabezado. Úsala para explicar el valor del producto o servicio
+claramente a tus clientes potenciales.
+
+Una tercera buena práctica es garantizar que la página de destino este en línea con el anuncio para garantizar una
+experiencia correcta al cliente. Ya vimos la página de destino en un video de SEM anterior, pero esto también se aplica para
+anuncios de display. Los mensajes de la página de destino deben coincidir con los del anuncio. Si la experiencia que va del
+anuncio a la página de destino es confusa, el cliente potencial podría volver a lo suyo y abandonar el anuncio. Entonces,
+dile lo más claramente posible cuál debe ser el siguiente paso.
+
+La cuarta práctica es alternar nuevos anuncios de display cada par de semanas. Mejorar los anuncios es un proceso de prueba
+y error. Cambia los elementos creativos de menor rendimiento por otros nuevos. Incluso los buenos banners se vuelven menos
+efectivos con el tiempo. Alternar con nuevos anuncios evita que los clientes sufran fatiga publicitaria. Esta fatiga ocurre
+cuando el público ve un anuncio tan seguido que se aburre y deja de prestarle atención. Evita la fatiga publicitaria
+alternando con nuevos anuncios.
+
+Las imágenes que subas a tu anuncio de display responsivo serán un elemento crucial. Ayudarán a las y los clientes a
+entender el negocio, los productos y la marca. Sigue estos consejos al elegir las imágenes del anuncio: Usa imágenes con un
+enfoque visual fuerte. Las imágenes que apoyan la idea principal del anuncio tienden a tener mejor rendimiento. Si no tienes
+imágenes de calidad o tienes dificultad para cumplir con la política de imágenes, considera usar fotografías de la
+biblioteca de imágenes de Google. Estas imágenes no tienen costo y puedes usarlas en tus anuncios.
+
+Para asegurar que el anuncio tenga un enfoque visual fuerte, no sobrepongas un logotipo, texto o botón. Agregar un logotipo
+puede ser repetitivo en ciertos formatos de anuncio. Tampoco debes incluir texto en la imagen. El texto puede ser ilegible
+en ciertos formatos pequeños. Además, los botones como “reservar ahora” o “descargar” parecen ser una llamada a la acción
+eficaz, pero incumplen la Política publicitaria de Google, entonces, evítalos también.
+
+Si estás anunciando un producto, un tercer consejo de imagen es hacer que el producto sea el centro de la imagen. El espacio
+en blanco no debe ocupar más del 80 % de la fotografía. Ten esto en cuenta si estás haciendo una sesión de fotos con
+productos. Un cuarto consejo es asegurarte de que el fondo se adapte al producto. Por ejemplo, no debes crear un fondo falso
+para una imagen, como poner un producto en el espacio exterior. Bueno, a menos que esté en el espacio de verdad. En su
+lugar, usa imágenes que tengan luz natural.
+
+Al usar imágenes en Google Ads, hay muchas políticas y recomendaciones. Pero una vez que las aprendes, ya las conoces. Para
+un/a analista de e-commerce o especialista en mkt digital, los anuncios de display responsivos son una gran herramienta
+publicitaria. Puedes usar software avanzado para hacer anuncios efectivos de alto rendimiento. Google lanzó esta tecnología
+en 2016. No tiene tanto tiempo. Pero si la necesitas en tu trabajo, por favor, aprovéchala.
+
 #### Anunciarse en YouTube
+
+Con millones de videos subidos diariamente, YouTube ofrece una gran oportunidad para que las marcas lleguen a un público
+variado en todo el mundo.
+
+A continuación, aprenderás sobre cómo anunciar en YouTube y conocerás en detalle cuáles son los beneficios de hacerlo y los
+diferentes formatos que puedes utilizar.
+
+**Anuncios de Display vs. anuncios de video TrueView** Antes de conocer las ventajas de anunciar en YouTube, es importante
+saber que hay dos tipos de anuncios en la plataforma: anuncios gráficos y anuncios TrueView. Esto puede ser algo confuso, ya
+que ambos a menudo se denominan, simplemente, “anuncios de YouTube”.
+
+**Anuncios de Display** Como has aprendido, los anuncios de Display son formatos de anuncios visuales colocados en sitios
+web o aplicaciones. Son anuncios estáticos creados en Google Ads mediante campañas de display. Piensa en ellos como vallas
+publicitarias digitales. Los anuncios de Display usan la Red de Display de Google, que es un grupo de sitios web, videos y
+aplicaciones donde pueden verse los anuncios. Cuando están en YouTube, estos anuncios aparecen junto a determinados  videos.
+Te invitamos a repasar la lección anterior sobre los anuncios de Display para obtener más información.
+
+![alt text](image-44.png)
+
+**TrueView Video Ads** Los anuncios TrueView son anuncios de video y se llaman “trueview” porque las marcas solo pagan
+cuando alguien elige verlos. Si bien estos anuncios también se administran desde Google Ads, los anunciantes deben subir sus
+videos a su canal de YouTube antes de crear una campaña.
+
+Después de subir tu anuncio de video al canal de tu marca, hay diferentes formatos de anuncios para elegir. Estos incluyen:
+anuncios de video que se pueden omitir, anuncios de video que no se pueden omitir, anuncios superpuestos y anuncios en el
+feed.
+
+Los anuncios de video que se pueden omitir permiten a las y los espectadores saltarlos después de cinco segundos.
+
+![alt text](image-45.png)
+
+Los anuncios de video que no se pueden omitir deben verse antes de que se pueda ver un video. Duran entre 15 y 20 segundos,
+dependiendo de cada región. Una subcategoría de anuncios que no se pueden omitir son los bumper, que son anuncios de solo
+seis segundos de duración.
+
+![alt text](image-46.png)
+
+Los anuncios de imagen o texto superpuestos aparecen en la parte del 20 % inferior de un video. A diferencia de los otros
+anuncios de TrueView, los superpuestos solo se pueden ver en computadoras, y no en dispositivos móviles.
+
+![alt text](image-47.png)
+
+Los anuncios de video In-display, también conocidos como TrueView Discovery Ads, aparecen en los resultados de búsqueda que
+se hacen en YouTube sobre temas relacionados con el anuncio. Incluyen una miniatura de video, título y descripción. Piensa
+en ellos como anuncios de búsqueda, que muestran un video en lugar de un enlace a una página web. Cuando se seleccionan, se
+pueden ver en forma totalmente independiente de otros videos.
+
+![alt text](image-48.png)
+
+**Beneficios de la publicidad en YouTube** Hay una serie de razones por las que la publicidad en YouTube es beneficiosa para
+la mayoría de las marcas. Las más conocidas son el costo, el alcance y la efectividad.
+
+**Los anuncios de YouTube son baratos** Si bien el costo de producción de los anuncios de video puede diferir de una empresa
+a otra, es relativamente barato publicar anuncios de YouTube. Los anuncios de YouTube funcionan en un modelo de pago por
+vista o de pago por clic. Esto significa que las marcas o empresas no tienen que pagar por un anuncio hasta que las personas
+realicen una acción específica.
+
+En promedio, estos anuncios cuestan entre $0,10 y $0,30 (USD) por vista o acción. El costo exacto depende de factores como
+el tiempo de visualización, la segmentación de la audiencia y el objetivo de la campaña. El bajo costo es útil para marcas o
+empresas con presupuestos reducidos o bien con presupuestos más abultados que quieren producir muchos anuncios.
+
+**Los anuncios de YouTube te ayudan a alcanzar a tu audiencia** YouTube ofrece a marcas y empresas la oportunidad de llegar
+a una variedad de audiencias que buscan temas relacionados con sus productos o servicios. Las marcas pueden dirigirse a las
+y los clientes usando temas específicos, palabras clave o datos demográficos.
+
+El video de tu marca también puede aparecer en el feed sugerido de otro video. Esto significa que tus anuncios pueden verse
+en videos populares, que serán vistos por una audiencia relevante.
+
+**Los anuncios de YouTube son efectivos** Al alcanzar una audiencia más grande, hay más posibilidades de  que las personas
+interactúen con tu marca. De hecho, quienes ven un anuncio tienen 10 veces más probabilidades de interactuar con la marca
+que lo impulsa. Esto es ideal para el reconocimiento de marca y para aumentar las ventas.
+
+**Conclusiones principales** YouTube es una herramienta poderosa para las y los especialistas en marketing que buscan dar
+visibilidad a sus marcas ante audiencias relevantes. Sus funcionalidades  y bajo costo lo convierten en una solución ideal
+para satisfacer las necesidades de las marcas.
 
 #### Cómo crear un anuncio de display responsivo
 
