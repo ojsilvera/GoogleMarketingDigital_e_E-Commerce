@@ -2745,3 +2745,162 @@ Texto alternativo: breve descripción escrita de una imagen con el propósito pr
 Texto del enlace: texto visible en un hipervínculo.
 
 ## Marketing de motores de búsqueda (SEM) y publicidad gráfica
+
+### Comprende el marketing de motores de búsqueda (SEM)
+
+#### Te damos la bienvenida a la semana 4 curso 2
+
+Te damos la bienvenida a la sección sobre cómo entender y aplicar marketing en buscadores y publicidad de display. En esta
+sección, aprenderás sobre publicidad pagada en línea. En concreto, anuncios en los motores de búsqueda, sitios web y apps.
+
+Te enseñaré cómo publicitar en los resultados del buscador de Google cuando alguien hace una búsqueda de un producto o
+servicio. También, aprenderás cómo publicitar en otros sitios web con la red de display. Como marketer o analista de
+e-commerce, es probable que uses publicidad en línea. Es una función común en esos roles y una habilidad importante para
+tener.
+
+Empezaré esta sección con el marketing de motores de búsqueda (SEM) y por qué un/a marketer debería aplicarlo. Los anuncios
+de SEM se muestran cuando alguien consulta en el buscador. Luego, aprenderás sobre anuncios pagados en el buscador de Google
+usando la plataforma de Google Ads. Obtendrás una visión general de los formatos más comunes de Google Ads. Y te enseñaré
+sobre el proceso para crear un anuncio en Google Ads.
+
+Aprenderás a crear la campaña, estrategias de puja y segmentación del público. También, cubriré los tipos de concordancia en
+las palabras clave. Más tarde, te presentaré la subasta de anuncios, que determina dónde aparece un anuncio en los
+resultados de búsqueda y cuánto pagarás si un usuario hace clic en él. Este es un proceso importante que sucede en cada
+búsqueda con un anuncio de Google. Terminaremos esta sección con detalles sobre cómo crear un buen anuncio.
+
+Finalmente, hablaremos de publicidad de display. Estos son anuncios en imágenes, que se muestran en sitios de toda la web.
+Profundizaré en un tipo concreto de anuncios de display llamado anuncios de display responsivos. Hablaremos de las mejores
+prácticas y cómo crear uno.
+
+Anteriormente, conté mi experiencia con el SEO y cómo esto me ayudó a ampliar el alcance de mi marca. Años más tarde, lancé
+una nueva empresa. Necesitaba una estrategia más rápida que el SEO para poner mi empresa en los resultados de búsqueda. Y
+entonces los anuncios de SEM llegaron al rescate. Para mí fue un gran cambio porque, en menos de 24 horas, mi empresa estaba
+en la cima de los resultados de búsqueda. Los anuncios de búsqueda me permitieron estar frente a mi público objetivo en el
+momento exacto en que buscaban las soluciones que ofrecemos.
+
+Me entusiasma enseñarte más sobre publicidad pagada en línea. ¿Quieres empezar? Genial. Entonces nos vemos en el próximo
+video.
+
+#### Comprende los beneficios del SEM
+
+Hay dos formas de encontrar un negocio en las páginas de resultados: listados de búsqueda y anuncios pagados. La parte
+pagada de una clasificación en las páginas de búsqueda se llama marketing de motores de búsqueda (SEM). Consiste en aumentar
+la visibilidad de un producto o servicio en una página de resultados de un buscador mediante publicidad pagada. Como
+especialista en marketing digital o analista de comercio electrónico, deberás configurar tus anuncios basados en el SEM. O
+deberás revisar el rendimiento de tus anuncios para mejorar los anuncios existentes.
+
+Si usas SEM, cuando un/a cliente potencial busca un producto o servicio que ofreces, sabes que pueden ver tu anuncio en la
+página de resultados. Generalmente, no se te cobra por tu anuncio en los resultados de búsqueda, sino una vez que le hacen
+clic en él. Aquí veremos cómo hacer marketing en los motores de búsqueda de Google. Hablaremos del motor de búsqueda y su
+marketing con confianza. Pero también puedes hacer SEM en otros motores de búsqueda. Quienes trabajan en marketing pueden
+usarlo en plataformas de comercio electrónico, donde la gente busca productos en el sitio de comercio electrónico. Son
+motores de búsqueda basados en productos.
+
+Para los objetivos de este video, veremos cómo funciona SEM con los motores de búsqueda. Este es un tipo de anuncio en línea
+que usarás como especialista en marketing. Ahora que tienes un conocimiento básico de cómo funciona SEM, hablemos de los
+modelos de pago. Con SEM, pagas cuando alguien hace clic en tu anuncio. Esto se llama "Publicidad de pago por clic" o
+"Publicidad PPC". PPC es un tipo de modelo publicitario que permite que las empresas solo paguen cuando hacen clic en sus
+anuncios.
+
+Hay otros modelos además de "Publicidad de pago por clic". Un ejemplo es pagar por la cantidad de veces que alguien ve un
+anuncio, llamado impresiones. Por eso muchos/as especialistas y empresas prefieren la Publicidad PPC. Solo pagan si alguien
+hace clic en su anuncio.
+
+Además, PPC garantiza que Google esté alineado con las y los anunciantes. Google muestra los anuncios adecuados a
+usuarios/as que no tienen clics para poder recibir los pagos. Compara ese modelo de pago con un canal no digital como... una
+revista. Al anunciar en una revista, hay que pagar un gran costo inicial. Además, no se pueden rastrear las acciones de un
+lector.
+
+Algo emocionante del marketing digital es poder optimizar un anuncio basado en las acciones de los y las usuarios/as. Esto
+abre la posibilidad de servir mejor a las y los clientes potenciales. Una vez que decides hacer un anuncio basado en SEM,
+¿dónde aparece? Por lo general, en la parte superior e inferior de las búsquedas de Google. Dónde y cuándo aparece depende
+del tipo de anuncio que sea.
+
+Por ejemplo, algunos anuncios SEM son de compras. Pueden aparecer en la parte superior de la página para búsquedas de
+productos, o con otras propiedades de Google en línea como la pestaña de compras. Los anuncios de búsqueda local aparecen
+cuando se busca un negocio, producto o servicio local. Puede que no haya anuncios en una página de búsqueda.
+
+Ahora imagina a un especialista diciendo ¿por qué elegiría hacer SEM como estrategia de marketing digital? ¿Qué ventajas
+tiene? Bueno, aquí hay algunas.
+
+Una es que puedes llegar a más clientes que pueden comprarle a tu empresa. Te permite tener un sitio web, aplicación o
+exposición de productos cuando alguien escribe ciertas cosas en las búsquedas. Por ejemplo, si tienes una empresa de
+plomería en Phoenix y un/a cliente potencial busca plomeros en Phoenix, tu negocio les puede interesar.
+
+Una segunda ventaja es que aparece de inmediato en las páginas de búsqueda.
+
+Si un sitio web no tiene suficiente autoridad o reputación para recibir tráfico para determinados términos de búsqueda, el
+SEM puede ayudar con la visibilidad adicional. La dificultad de aparecer en los resultados puede ser real para un nuevo
+sitio web, ya que aparecer en los resultados rápidamente y crear autoridad y reputación en búsquedas competitivas toma
+tiempo.
+
+También aprenderás cuál de tus anuncios está impulsando las ventas. Si lanzas un sitio web comercial nuevo, quizá no recibas
+muchos/as visitantes en él. Eso significará que tendrás menos datos analíticos. Eso dificultará determinar si los clientes
+conectan más con ciertas páginas que otras, o medir si ciertas páginas logran la conversión a un ritmo más alto. Al usar
+SEM, puedes dirigir el tráfico a páginas web específicas en tu sitio web para recopilar datos que podrán determinar qué
+contenido está rindiendo bien y qué se puede mejorar.
+
+Una cuarta ventaja de SEM es el control sobre donde envías a quienes buscan en línea.
+
+Que una página web clasifique en los listados para una palabra clave, no significa que sea la mejor para lograr la
+conversión. SEM te da control sobre qué página aparece en el buscador para una búsqueda específica. Por ejemplo, en una
+empresa de plomería, los clientes buscan "reparación de calentadores de agua con fugas". Tu página clasifica en los listados
+de Google para esta búsqueda. Sin embargo, querrás una página con formularios para completar o un número para reparaciones
+de calentadores con fugas. Con SEM, adaptarás tu mensaje y usarás esta página más directa para búsquedas con palabras clave
+relacionadas con fugas o reparaciones del calentador de agua.
+
+Recuerda, una página de destino es cualquier página web en la que se ingresa al sitio. La página de destino debe abordar el
+problema que el o la cliente potencial busca resolver. Como especialista en marketing o analista de comercio electrónico,
+quizás debas configurar los anuncios de SEM. Y deberás revisar el análisis de anuncios, para mejorar los anuncios
+existentes. Como con la optimización, el marketing de motores de búsqueda puede ser la habilidad más compleja que aprendas
+como especialista en marketing. No te preocupes. Te enseñaremos los conocimientos básicos y, al final de este curso, sabrás
+muchísimo sobre los anuncios SEM y de Google.
+
+#### Términos comunes de SEM
+
+El propósito de esta lectura es mostrarte cuáles son los términos básicos relacionados con el marketing de motores de
+búsqueda (SEM) en Google Ads. Conocerlos te ayudará a entender  el contenido SEM de este curso.
+
+**Common Advertising Terms** Publicidad digital: comunicación realizada por una empresa para promocionar su marca, producto
+o servicio utilizando diversas plataformas y canales en línea.
+
+Publicidad tradicional: anuncios no digitales, como periódicos, radio, televisión o vallas publicitarias.
+
+**Términos comunes de SEM** Clics: interacción entre un/a usuario/a en línea y un anuncio. Los clics pueden ayudarte a
+comprender si tu anuncio resulta atractivo para las personas que lo ven.
+
+Impresiones: cada vez que un anuncio se muestra a un público objetivo.
+
+Resultados orgánicos: resultados de búsqueda no pagados por los anunciantes.
+
+Resultados pagados: resultados de búsqueda que los anunciantes pagan para mostrar cada vez que un/a usuario/a ejecuta una
+búsqueda que contiene ciertas palabras clave.
+
+Páginas de resultados de motores de búsqueda (SERP): páginas de resultados que aparecen cuando alguien realiza una consulta
+de búsqueda.
+
+Visitantes: número total de veces que las personas han estado en un sitio web o app como resultado de hacer clic en un
+anuncio.
+
+**Términos de publicidad digital** Página de destino: la primera página que una persona encuentra cuando accede a un sitio
+web.
+
+Nivel de optimización: estimación de qué tan bien está configurada una cuenta de Google Ads.
+
+Segmentación geográfica: pueblos, ciudades o países en los que aparecerá un anuncio.
+
+Para obtener una lista de todos los términos presentados en el Curso 2, consulta el glosario de términos al final del curso.
+
+#### Formatos habituales de anuncios de SEM en Google Ads
+
+#### Estrategias de puja de Google Ads
+
+#### Ginny - SEM y cómo atraer clientes
+
+### Entiende Google Ads
+
+### Aplica la publicidad gráfica (Display)
+
+### Revisión: Marketing de motores de búsqueda (SEM) y publicidad de display
+
+### Revisión del curso: Atrae e involucra clientes con marketing digital
