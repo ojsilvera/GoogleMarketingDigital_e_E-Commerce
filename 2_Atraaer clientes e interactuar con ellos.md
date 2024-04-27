@@ -1034,9 +1034,164 @@ Webinar: presentación, típicamente educativa, que se proporciona en línea.
 
 #### Te damos la bienvenida a la semana 2 - curso 2
 
+Hola. Imagina que un/a cliente potencial usa un motor de búsqueda para resolver su problema. Si tu negocio ofrece la
+solución, lo ideal sería que te encuentre en los resultados de búsqueda.
+
+Bien. Un aspecto muy importante del marketing digital es encontrar tu sitio web en los motores de búsqueda. En las
+siguientes lecciones, aprenderás más sobre cómo lograrlo. Te diré cómo funciona el motor de búsqueda de Google y cómo decide
+la clasificación de los sitios. Verás la estructura de las páginas de resultados de los motores de búsqueda (SERP). Luego
+veremos la optimización de motores de búsqueda (SEO). Esta consiste en posicionar un sitio en las SERP. Discutiremos los
+pasos a seguir antes de empezar a considerar la SEO.
+
+Y luego, para tus primeros pasos: la investigación de palabras clave y la organización de la estructura del sitio.
+
+En lo personal, me encanta trabajar en SEO. Ha sido la mejor herramienta de marketing para mi marca. Pero admito que no lo
+entendía cuando empecé. Escuchaba hablar de palabras clave, etiquetas, aparecer en las SERP, etc. La verdad es que cuando
+empecé todo me sonaba a un idioma desconocido.
+
+Tras implementar estrategias durante varios meses pasó algo interesante para mi marca. Recuerdo que un amigo me contactó, y
+me dijo que leyó uno de mis artículos y vio una foto que publiqué de mi negocio. Recuerdo que pensé: “¿De qué hablas? Yo no
+compartí nada”. Me dijo que buscaba ayuda sobre un tema, y que aparecieron mi artículo y foto. Me emocioné mucho cuando eso
+sucedió. Ahora, años después, solo al buscar mi nombre en Google, aparecen decenas de imágenes, contenidos y videos. Mi
+confianza y credibilidad en línea me ahorra mucho tiempo al no tener que convencer con lo que hago una y otra vez. El SEO es
+de las mejores estrategias de marketing para aumentar la exposición de una marca en línea.
+
+Te doy la bienvenida al mundo de la optimización de motores de búsqueda. Espero que estés entusiasmado por empezar.
+
 #### ¿Cómo funciona el motor de búsqueda de Google?
 
+Antes de aprender a optimizar contenido para los motores de búsqueda, debes entender qué es y cómo funciona un motor de
+búsqueda. Aquí veremos los tres procesos principales del motor de búsqueda de Google: rastreo, indexación y publicación.
+
+El motor de Google usa estos procesos para hallar el contenido más relevante según la búsqueda de cada usuario/a. Un aviso
+rápido sobre el contenido de búsqueda que verás: no contiene información confidencial. Todo está disponible públicamente.
+Puedes ver más en la documentación oficial de la Búsqueda de Google.
+
+Entonces, ¿qué es un motor de búsqueda? Es un software que encuentra información para una consulta en una búsqueda. Como
+especialista en marketing, puedes trabajar con varios motores de búsqueda. Por ejemplo, en comercio electrónico puedes
+trabajar con el motor de búsqueda de Amazon o el de Etsy. Cada motor funciona un poco diferente. Sin embargo, muchos de los
+conceptos y estrategias que vemos aplican a todos.
+
+Veamos los procesos de Google para organizar la información en línea: rastreo, indexación y publicación. Lo primero que hace
+el motor de búsqueda de Google es rastrear, que es el proceso de hallar páginas web nuevas y actualizadas. Google explora
+por Internet con programas automatizados: rastreadores. Estos encuentran páginas web nuevas y actualizadas.
+
+Tras descubrir una página web nueva o actualizada, Google almacena sus URLs en una lista grande que revisará después. La URL
+de una página es una dirección web como <www.example.com/blog>. Hay varias formas en las que los rastreadores hallan páginas
+web. La principal es seguir los enlaces de las páginas ya identificadas. Los enlaces son las direcciones web dentro de una
+página.
+
+Imaginemos que creas una página para un sitio web, El rastreador descubrirá principalmente la página mediante un enlace
+dentro del sitio o en otro sitio web diferente. Antes de rastrear la página, se fijará si el o la propietario/a del sitio lo
+permite.
+
+Tras rastrear las nuevas páginas, Google las almacena en un índice. Imagínate un índice en línea similar al de la última
+página de un libro. El índice de un libro es una lista del contenido y las páginas donde se encuentra. Google almacena
+contenido web con su ubicación de forma similar: la URL de cada página web.
+
+¿Qué tipo de contenido indexará Google? Casi cualquier cosa en la página: texto, fotos y videos. La indexación solo es
+posible si el o la propietario/a del sitio permite rastrear la página web. Si el o la propietario/a no quiere que se
+rastree, indexe ni aparezca en la Búsqueda de Google, puede indicarlo en el código del sitio.
+
+Tras indexar el contenido, el algoritmo de Búsqueda de Google se pone a trabajar. En este contexto, un algoritmo es un
+software automatizado que encuentra información para responder consultas de los y las usuarios/as. El algoritmo inspecciona
+miles de millones de páginas para entregar el contenido más relevante para cada consulta.
+
+El objetivo del algoritmo es ofrecer los mejores resultados para una búsqueda. Por ejemplo, si buscas un producto, los
+resultados probablemente sean los que más te ayuden a conocer o comprar el producto. ¿Qué toma en cuenta el algoritmo al
+clasificar una página en una búsqueda? Muchos factores, como el contenido del sitio y la información de otros sitios.
+Algunos son más evidentes que otros, como la ubicación y el idioma.
+
+Google quiere ofrecer resultados que necesitan los y las visitantes con una gran experiencia de usuario/a. Veremos cinco
+factores clave, como la calidad del contenido y usabilidad de las páginas web, en un próximo video. En general, la Búsqueda
+de Google quiere dar los resultados que necesitan los y las visitantes, junto con una gran experiencia de usuario/a.
+
+Si esta información te confunde, no te preocupes. Al final de este curso, sabrás mucho más sobre estrategias para posicionar
+un sitio en el motor de búsqueda de Google. Al trabajar en marketing digital, verás algoritmos con frecuencia. En términos
+generales, un algoritmo es un conjunto de instrucciones para resolver un problema o realizar una tarea.
+
+Un ejemplo sencillo de un algoritmo es una receta. Si quieres preparar algo, sigues las instrucciones de una receta. Los
+sitios y plataformas usan algoritmos para decidir qué verá su público. Un algoritmo de búsqueda de un sitio de comercio
+electrónico podría mostrar productos que probablemente comprará un/a usuario/a. Factores como el precio y el envío influyen
+en los resultados.
+
+Un algoritmo de redes sociales intenta mostrar el contenido más entretenido posible. Factores como popularidad y duración
+del contenido influyen en los resultados que el o la usuario/a ve en la red social.
+
+Bien. Ahora sabes cómo funcionan el motor de búsqueda y los algoritmos. Como especialista en marketing, quizá te preguntes
+cómo mostrar tu sitio web, productos o publicaciones a muchas más personas. ¡Es parte del trabajo!
+
 #### Cómo determina Google el ranking de un sitio web
+
+En marketing digital, entender cómo aparecen las páginas en una búsqueda, ayuda a aprovechar al máximo tus esfuerzos. En
+este video, profundizaremos en la clasificación de los resultados en las páginas de resultados de motores de búsqueda
+(SERP). Veremos cinco factores clave: el significado de la consulta, la relevancia de las páginas web, la calidad del
+contenido, la usabilidad de las páginas web y el contexto general y configuración de usuario/a. Considera estos factores
+clave como conceptos. Verás que se pueden aplicar de distintas maneras.
+
+Crear contenido para posicionarse bien en las SERP suele interpretarse de varias formas. Por ejemplo, ¿cuánta información
+debes escribir sobre un tema y cómo debes organizarla? ¿El público prefiere contenido con fotos o videos? Veremos más
+estrategias más adelante. Por ahora, piensa en estos factores clave desde la perspectiva de un motor de búsqueda, para
+entender qué toma en cuenta el algoritmo al clasificar los sitios web.
+
+El primer factor es el significado de la consulta. La consulta son las palabras escritas en la barra de búsqueda de Google.
+Para obtener resultados relevantes, el algoritmo necesita definir qué busca el o la usuario/a. Es decir, la intención de la
+consulta. Los algoritmos de Google crearon modelos de lenguaje para descifrar el significado y la intención de cada
+búsqueda. Como especialista en marketing, considera también el significado y la intención de las búsquedas de los y las
+clientes potenciales.
+
+Quizás debas crear tu contenido según las necesidades de quienes buscan. Un buen especialista entiende la intención y el
+significado de las búsquedas. Por eso es ideal crear clientes tipo (customer persona), para entender a las y los clientes.
+
+El segundo factor clave es la relevancia de las páginas web. Es cuando el algoritmo decide qué contenido es relevante para
+cada búsqueda. La señal básica que indica que la información es relevante es que la página contiene las mismas palabras
+clave que la consulta. Una palabra clave es una o varias palabras usadas para buscar información, productos o servicios en
+línea. La palabra clave debe coincidir o parecerse a la de la consulta.
+
+Por ejemplo, si las palabras clave aparecen en los encabezados o en el cuerpo del texto de una página, los algoritmos pueden
+decidir que la página es más relevante que otras. Los algoritmos de Google ven más que palabras clave para la relevancia.
+Vinculan frases y temas que les pueden interesar a los y las usuarios/as.
+
+Por ejemplo, si alguien busca “perros”, es probable que no quiera una lista larga con resultados de esa palabra. También
+puede interesarle otros contenidos, como razas o fotos de perros. Según el tipo de búsqueda, se ven también distintos tipos
+de contenido relevante. Quizás es más probable que un/a usuario/a vea un video en lugar de leer textos. O quizás el
+contenido también incluye fotos y no solo texto.
+
+Otro factor clave es la calidad del contenido. Lo veremos a lo largo de este curso. Como especialista en marketing debes
+crear contenido web de calidad. Una forma en que Google decide si el contenido es de calidad es sabiendo si hay sitios
+importantes con enlaces o referencias al contenido.
+
+Google usa varios factores para definir la calidad de un contenido y de un sitio web en general. Los factores no son
+elementos técnicos que los y las propietarios/as pueden activar o desactivar, sino aspectos que capturan el panorama
+general. Por ejemplo, los libros no se disfrutan solo porque están bien hechos.
+
+Además, la Búsqueda de Google recibe cierto feedback a través de un proceso de evaluación de la calidad de las búsquedas
+para mejorar los algoritmos usados para la clasificación.
+
+El cuarto factor es la usabilidad de las páginas web. Los algoritmos de Google consideran la facilidad de uso del contenido.
+Si tienes dos páginas con exactamente el mismo contenido, la que tenga mejor experiencia de usuario/a puede clasificar
+mejor. Google lo llama factor de posicionamiento de experiencia de página.
+
+¿Cómo es una mejor experiencia de usuario/a? Por ejemplo, si la página es apta para dispositivos móviles, se ve mejor en
+teléfonos o se carga rápidamente. Estos son algunos de los muchos factores que contribuyen al posicionamiento.
+
+El último factor es el contexto y la configuración de usuario/a. Los datos como su ubicación, historial de búsquedas y
+configuración de búsqueda ayudan al algoritmo a ofrecer resultados relevantes y útiles. El país y la ubicación pueden
+alterar los resultados.
+
+Por ejemplo, imagina que vives en Chicago. Buscas “fútbol”. Es probable que veas resultados de fútbol americano y los
+Chicago Bears. Pero si buscas “fútbol” en Londres, Es probable que veas resultados de fútbol y la Premier League.
+
+Otro aspecto de contexto interesante que puede alterar los resultados: Google puede adaptar los resultados según la
+actividad de tu cuenta de Google. Por ejemplo, si buscas “eventos cerca de mí”, Google podría recomendarte categorías que
+cree que podrían interesarte.
+
+Estos sistemas se diseñaron para coincidir con los intereses, pero no para interferir en características personales
+delicadas. Ahora sabes cómo funciona la Búsqueda de Google y algunos factores que los SEO consideran importantes al
+posicionar el contenido. Es fundamental saber esto. Recuerda los factores clave:
+
+significado de la consulta, relevancia de las páginas web, calidad del contenido, usabilidad de la página web, y contexto
+y configuración de usuario/a.
 
 #### Desglose de las páginas de resultados del motor de búsqueda de Google (SERP)
 
