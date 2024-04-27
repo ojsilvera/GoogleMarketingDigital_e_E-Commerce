@@ -3383,6 +3383,29 @@ A continuación, elige tu tipo de campaña. Las opciones incluyen:
 
 ![alt text](image-37.png)
 
+![alt text](image-38.png)
+
+*Establece tu  presupuesto:*
+
+Una vez que selecciones la campaña, establece tu presupuesto. Para obtener más información sobre cómo configurar tu presupuesto, visita el
+Centro de ayuda de Google Ads .
+
+![alt text](image-39.png)
+
+*Elige tu estrategia de puja:*
+
+Consulta la lectura anterior sobre estrategias de puja para repasar los diferentes tipos.
+
+![alt text](image-40.png)
+
+*Selecciona tu segmentación:*
+
+La segmentación ayuda a definir qué tan estrecha o amplia será tu audiencia. Las posibles  categorías incluyen:
+
+Ubicación/Idioma/Segmentos de audiencia
+
+![alt text](image-41.png)
+
 ### Aplica la publicidad gráfica (Display)
 
 ### Revisión: Marketing de motores de búsqueda (SEM) y publicidad de display
