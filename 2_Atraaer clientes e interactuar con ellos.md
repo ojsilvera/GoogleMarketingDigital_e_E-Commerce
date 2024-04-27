@@ -2107,9 +2107,479 @@ incluir imágenes y asegurarte de que tu contenido se muestre en Google Imágene
 
 #### Adapta tu sitio web a los dispositivos móviles
 
+Adaptar tu sitio web a los dispositivos móviles significa hacer que pueda funcionar en un teléfono inteligente. En muchos
+países, la cantidad de teléfonos inteligentes ha superado a las computadoras personales. En los Estados Unidos, por ejemplo,
+el 95 % de las personas con teléfonos inteligentes los usan para buscar información. Tener un sitio web adaptado a los
+dispositivos móviles es fundamental para poder tener una fuerte presencia en línea.
+
+**¿Por qué adaptar un sitio web a los dispositivos móviles?**
+
+![alt text](image-23.png)
+
+Si un sitio web no es compatible con dispositivos móviles, puede resultar difícil de ver y usar en un teléfono. Un sitio no
+adaptado a dispositivos móviles hace que los y las usuarios/as deban ampliar la imagen o hacer zoom para poder leer el
+contenido. Esto podría resultar frustrante y hacer que abandonen el sitio.
+
+Cuando un sitio web es compatible con dispositivos móviles, resulta fácil de leer en un teléfono inteligente y esto
+garantiza que las y los visitantes tengan una buena experiencia.
+
+El trabajo para hacer que un sitio web se adapte a los dispositivos móviles depende de los recursos, el modelo de negocio y
+la experiencia de una empresa. Muchos desarrolladores de sitios web, como Wix, adaptan el contenido automáticamente para los
+dispositivos móviles. Comprueba siempre la versión móvil de tu sitio para asegurarte de que el contenido se lea bien y sea
+fácil de navegar.
+
+**Lo que debes saber al crear un sitio web adaptado a los dispositivos móviles.**
+
+- Haz que sea fácil de usar para tus clientes.
+
+Ten en cuenta los objetivos de tus clientes. ¿Quieren entretenerse con lo que escribes en tu blog? ¿Necesitan la dirección
+de tu restaurante? ¿Quieren leer las reseñas de tus productos? Diseña tu sitio web de modo tal que sea fácil para ellos/as
+hacer lo que desean.
+
+Para ello, describe los pasos del recorrido que tus clientes quieren hacer dentro del sitio y asegúrate de que también
+puedan seguir fácilmente estos pasos y llegar a lo que buscan usando un dispositivo móvil.
+
+En el siguiente ejemplo, un/a cliente está tratando de comprar una lámpara. Primero, hace clic en un sitio web, después de
+buscar una lámpara para comprar. Luego, navega a través de una selección de lámparas. Finalmente, compra la lámpara deseada.
+
+![alt text](image-24.png)
+
+- Mide la efectividad de tu sitio web según la facilidad con que las y los clientes con dispositivos móviles pueden
+  completar tareas comunes.
+
+Haz una lista de las tareas comunes que tus clientes realizan en tu sitio web. Luego, haz que varias personas prueben hacer
+esas mismas tareas. ¿Qué tan fácil fue completarlas? Concéntrate en la consistencia de tu interfaz y ofrece una experiencia
+unificada en todas las plataformas.
+
+- Utiliza un diseño web responsivo.
+
+Un diseño web responsivo significa que el sitio web utiliza el mismo código tanto si la/el usuario está en una computadora
+de escritorio, una tablet o un teléfono móvil. La pantalla se ajusta según el tamaño del dispositivo.
+
+Google recomienda usar un diseño web responsivo en lugar de otros tipos de diseño. Uno de sus beneficios es que solo
+necesitas tener una versión de tu sitio, en vez de dos (una para dispositivos móviles y otra para escritorio).
+
+**Los 3 errores más importantes que debes evitar.**
+
+- Olvidarte de tus clientes móviles
+
+Recuerda que los buenos sitios móviles son útiles: ayudan a las y los visitantes a completar sus tareas. No te centres
+únicamente en crear un sitio con formato móvil sin ofrecer una funcionalidad completa. Aunque un sitio con formato móvil
+pueda verse bien en un teléfono inteligente, si no es tan funcional como en una computadora, puede limitar la experiencia de
+las y los usuarios/as. Además, asegúrate de que el formato y la funcionalidad móvil sean inclusivos para quienes no tengan
+acceso a una computadora y realicen la mayoría de sus tareas en un teléfono inteligente.
+
+- Implementar el sitio móvil en un dominio diferente
+
+Tener direcciones URL móviles separadas aumentará significativamente la cantidad de trabajo que tendrás que hacer para
+mantener y actualizar tu sitio. También es posible que presente mayores problemas técnicos.
+
+Puedes simplificar la administración de tu sitio web mediante el uso de un diseño web responsivo. Este diseño servirá tanto
+para un sitio web de escritorio como para uno móvil con la misma dirección URL.
+
+- Trabajar de forma aislada en lugar de buscar inspiración
+
+Antes de comenzar a adaptar tu sitio web a los dispositivos móviles, revisa las páginas de tu competencia u otras similares
+para inspirarte y encontrar la mejor forma de hacerlo. Descubre qué funciones son útiles y cuáles no en sus respectivos
+sitios web.
+
+**Prueba de optimización para móviles** La Prueba de optimización para móviles de Google utiliza GoogleBot para buscar tu
+sitio web y determinar si es compatible con dispositivos móviles. Si no lo es, los resultados describirán cuáles son los
+problemas que pueden afectar a tu página cuando se accede desde un teléfono inteligente. Es recomendable resolver estos
+problemas en tu sitio web para que no afecte negativamente a la experiencia de tus clientes.
+
+**Conclusiones principales** Tener un sitio web adaptado para dispositivos móviles es esencial. Un sitio web fácil de usar
+en un teléfono inteligente hace que tus clientes también puedan alcanzar sus objetivos desde sus dispositivos móviles. Al
+diseñar un nuevo sitio web, considera el uso de un diseño web responsivo. Este tipo de diseño es mucho más fácil de
+administrar que tener un sitio web para computadoras de escritorio y otro para teléfonos inteligentes.
+
 ### Ayuda a Google (y a los y las usuarios/as) a comprender el contenido
 
+#### Crea títulos y metadescripciones eficientes
+
+Piensa en los resultados de la página del motor de búsqueda.
+
+¿Qué elementos te ayudan a decidir en qué resultado hacer clic? ¿Es la URL? ¿Es el nombre que se muestra? ¿Es la descripción
+de la página? ¿O es una combinación de las tres cosas? Como especialista en marketing digital, al crear una página nueva, tú
+eliges el nombre de la página, o el texto de enlace que aparecerá en los resultados. También tienes un determinado control
+sobre la descripción de la página.
+
+En este video, analizaremos cómo crear títulos de páginas web efectivos y descripciones que atraigan a quienes buscan en
+línea y a clientes potenciales. En general, cada página web tiene un elemento de título y la mayoría tiene una
+metadescripción. El elemento de título de la página web proporciona tanto a los y las usuarios/as como a los motores de
+búsqueda el tema de una página. La metadescripción proporciona un resumen del contenido de la página para los motores de
+búsqueda. El título de una página puede ser de unas pocas palabras o una frase, mientras que la metadescripción puede ser de
+una o dos frases, o incluso un párrafo breve.
+
+Repasemos algunas recomendaciones para los títulos de las páginas. Al crear un título de página, debes lograr ofrecer una
+descripción precisa sobre su contenido. Debe poder leerse de forma natural. Evita escribir un título que no tenga relación
+con el contenido de la página. Además, evita crear un título por defecto como “Sin título” o “Nueva página 1”. Cuando un/a
+usuario/a lee el título de una página y luego hace clic en el enlace, el contenido de la página web debe coincidir con el
+título de la página. Si no coincide, es probable que vuelvan atrás a la página de resultados nuevamente.
+
+Otra recomendación es asegurarse de que cada página tenga un título único. Esto ayuda al público a comprender el valor único
+que brinda cada página. Por lo tanto, evita usar el mismo título en todas las páginas del sitio o en un grupo grande de
+páginas. Un ejemplo de esto podría ser una empresa que usa “Servicios” como título para su página de servicios. Deberían
+cambiarlo a un nombre que especifique el servicio que aborda el contenido de la página.
+
+Una tercera recomendación es crear títulos breves pero descriptivos. Si el título es demasiado largo o se considera poco
+relevante, el motor de búsqueda de Google podría mostrar solo una parte del texto en el título. Un ejemplo de un título poco
+relevante incluye un exceso de palabras clave. Está bien incluir una palabra clave, pero intenta no repetir las mismas
+palabras. Recuerda, el título siempre debe ser útil para los y las usuarios/as.
+
+En general, incluso al seguir estas prácticas, Google puede mostrar textos de enlace que son diferentes al elemento de
+título de una página. Esto puede suceder cuando nuestros sistemas determinan que es más valioso proporcionar otro contexto
+ligeramente diferente para los y las usuarios/as, o si el elemento título en cuestión no se ajusta al espacio disponible.
+
+Hablemos de las metadescripciones. Son importantes ya que la Búsqueda de Google podría usarlos en los resultados de tus
+páginas en SERP. Ten en cuenta que decimos “podría”. Esto se debe a que la Búsqueda de Google también puede elegir usar una
+sección relevante del texto de una página si coincide con la consulta de una persona en un buscador.
+
+Estas son algunas recomendaciones para elaborar metadescripciones. Asegúrate de crear una metadescripción para cada página
+del sitio web. Google mostrará un fragmento (snippet) de la metadescripción o de la página web en los resultados de
+búsqueda. Escribir una metadescripción clara puede influir en el fragmento de la página que se muestra en los resultados de
+búsqueda.
+
+Una segunda recomendación al escribir una metadescripción es que debe resumir con precisión el contenido de la página.
+Escribe una descripción que resulte informativa e interesante para el público cuando vean tu metadescripción en un resultado
+de búsqueda. Ahora bien, no hay una longitud mínima o máxima para una metadescripción. Asegúrate de que contenga únicamente
+la información relevante que necesitaría un/a usuario/a para determinar si la página le resultará útil.
+
+Una tercera recomendación es usar descripciones únicas para cada página. Tener una descripción diferente para cada página
+ayuda a las y los visitantes y a Google. Por ejemplo, si los resultados de búsqueda muestran varias páginas del mismo sitio
+web.
+
+Si trabajas para una empresa de comercio electrónico con miles de páginas web, escribir metadescripciones para cada página
+tal vez no sea lo ideal. En este caso, podrías generar descripciones automáticas que se basen en el contenido de cada
+página. Esta es una técnica más avanzada. Sin embargo, recuerda que en un sitio web grande, no todas las descripciones de
+página se deben escribir de forma manual.
+
+Ahora ya sabes lo importantes que son los títulos de las páginas y las metadescripciones para los motores de búsqueda y los
+y las usuarios/as. Los ayudan a comprender mejor de qué se trata la página, y buscan que las personas hagan clic en el
+enlace de la página. Si creas una página web con un contenido excelente, pero el título no refleja el tema de la página,
+podría frustrar a quienes buscan en línea. Esta frustración se puede reflejar en las métricas, y la Búsqueda de Google
+podría mostrar otros títulos de enlace en las SERP. Redacta siempre títulos efectivos, además de un excelente contenido de
+página.
+
+#### Controla los enlaces de título y fragmentos destacados (snippet)
+
+Cuando ingresas una consulta en un motor de búsqueda, te encontrarás con una multitud de resultados a lo largo de muchas
+páginas de resultados de motores de búsqueda (SERP). La mayoría de los motores de búsqueda tienen una estructura de
+resultados similar. Los resultados generalmente contienen un enlace de título en negrita (el título del resultado de
+búsqueda, que está enlazado con una página web) sobre un fragmento destacado o snippet (la descripción o la parte resumida
+del resultado de búsqueda).
+
+![alt text](image-25.png)
+
+Como ya has  aprendido anteriormente, Google genera de forma automática estos resultados en función del elemento de título
+de una página web y de su metadescripción o del texto que identifique con mayor relevancia dentro del contenido visible de
+la página. Recuerda que el elemento de título de una página web proporciona al usuario/a y al motor de búsqueda el tema de
+la página. Una metadescripción proporciona a los motores de búsqueda un resumen sobre lo que la página trata.
+
+![alt text](image-26.png)
+
+A continuación podrás ver algunas de las mejores prácticas para influir en los enlaces de título y fragmentos destacados,
+que te ayudarán a captar a tu audiencia deseada.
+
+**Influye en tus enlaces de título** Los enlaces de título proporcionan a los y las usuarios/as información rápida sobre el
+contenido de un resultado de búsqueda y explican por qué éste es relevante para su consulta. Suelen ser la principal pieza
+de información que las personas usan para decidir en qué resultado hacer clic.
+
+Google genera enlaces de título tanto del contenido de una página web como de las veces que se hace referencia al sitio. Si
+bien Google determina automáticamente estos enlaces de título, puedes influir en ellos y aumentar su efectividad de las
+siguientes maneras:
+
+*Lo que sí debes hacer:*
+
+    Describir con precisión el contenido de cada página en los elementos de título. 
+
+    Redactar títulos descriptivos pero concisos.
+
+    Revisar que los títulos se lean de forma natural.
+
+    Crear títulos únicos para cada página.
+
+    Darle al título principal de cada página una mayor importancia y peso visual
+
+*Lo que no debes hacer:*
+
+    Usar textos en los elementos de título que no tengan relación con el contenido de la página.
+
+    Usar textos predeterminados o genéricos en tus títulos, como “Inicio”, “Sin título” o “Nueva página 1”.
+
+    Usar un único título en todos los elementos de título de las páginas de tu sitio.
+
+    Crear títulos demasiado extensos o confusos.
+
+    Usar texto repetido o reiterativo en tus títulos.
+
+    Incluir palabras clave innecesarias o excesivas en tus títulos.
+
+**Controla tus fragmentos destacados (snippet) creando metadescripciones de calidad** Google a veces utiliza la
+metadescripción de una página web para generar un fragmento destacado o snippet en los resultados de búsqueda. Una
+metadescripción informa y atrae a los y las usuarios/as con un resumen breve y relevante de lo que trata una página en
+particular. Puede ayudar a convencer a quienes realicen las búsquedas de que la página es exactamente lo que están buscando.
+Sigue estos consejos para escribir metadescripciones efectivas:
+
+*Lo que sí debes hacer:*
+
+    Resumir con precisión el contenido de la página.
+
+    Incluir toda la información que los y las usuarios/as necesitan para determinar si la página les resultará útil y relevante.
+
+    Crear descripciones únicas para cada página de tu sitio.
+
+*Lo que no debes hacer:*
+
+    Escribir una metadescripción que no tenga relación con el contenido de la página.
+
+    Usar descripciones genéricas como “Esta es una página web” o “Página sobre ropa de mujer”.
+
+    Completar la descripción con demasiadas palabras clave.
+
+    Copiar todo el contenido de la página web y pegarlo en la etiqueta de metadescripción.
+
+    Utilizar una única metadescripción en todas las páginas de tu sitio.
+
+**Conclusiones principales** Los enlaces y fragmentos de título eficientes pueden incentivar a las personas a hacer clic en
+tu página web. Si aplicas todo lo aprendido y creas los elementos de título y metadescripciones de la página web a
+conciencia, podrás hacer que tu marca se destaque del resto.
+
+#### Actividad de ejemplo: Optimiza los títulos y metadescripciones de una página web
+
+Compara este ejemplo con tus títulos completos y metadescripciones. Revisa tu trabajo utilizando cada uno de los criterios
+del ejemplo. ¿Qué cosas hiciste bien y en qué aspectos podrías mejorar? Estas respuestas te servirán de guía a medida que
+avances en el curso.
+
+Nota: el ejemplo representa dos títulos de páginas web y dos metadescripciones posibles. Es probable que los tuyos difieran
+en algunos aspectos. Lo importante es que tus títulos y metadescripciones reflejen con precisión la URL y el contenido de la
+página.
+
+Ahora revisemos el título y la metadescripción de cada página:
+
+**Página 1 – Quesos** Título: Quesos | Founders ’Dairy – Alimentos especiales de calidad premium
+
+El título refleja con precisión la URL y el contenido de la página (quesos). También menciona el nombre completo del negocio
+y describe su producto principal (“alimentos especiales de calidad premium”).
+
+metadescripción: Quesos artesanales hechos con técnicas tradicionales. Compra nuestras mozzarellas, quesos suizos y cheddars
+ahumados más vendidos.
+
+La metadescripción fluye naturalmente y refleja el contenido de la página: quesos artesanales de Founders, incluido su
+cheddar ahumado.
+
+**Página 2 – Recetas** Título: Recetas familiares | Founders ’Dairy – Alimentos especiales de calidad premium
+
+El título refleja con precisión la URL y el contenido de la página (recetas). También menciona el nombre completo del
+negocio y describe su producto principal (“alimentos especiales de calidad premium”).
+
+metadescripción: Recetas tradicionales de nuestra familia a la tuya. Prueba los macarrones con queso caseros hechos con
+nuestro cheddar artesanal.
+
+La metadescripción fluye naturalmente y refleja el contenido de la página: recetas de la familia Founders que utilizan sus
+propios productos.
+
+#### Crea el marcado de datos estructurados
+
+#### Establece los detalles de tu negocio en Google
+
+El panel de conocimiento de Google es una función de las páginas de resultados del motor de búsqueda de Google (SERP) que
+muestra información de marcas y negocios en una sección separada de los resultados de búsqueda generales. Esta lectura
+describe los paneles de conocimiento e indica los pasos que debes seguir para configurar los detalles de tu negocio en
+Google.
+
+El panel de conocimiento de Google Los paneles de conocimiento son cuadros de información que aparecen en Google cuando
+buscas entidades como personas, lugares, organizaciones o cosas. Puedes comparar el panel de conocimiento con la tarjeta de
+identificación personal de un individuo. Igual que una identificación, el panel de conocimiento reúne la información
+esencial y oficial sobre un negocio o marca. Los paneles de conocimiento se generan automáticamente, y la información que
+contienen proviene de varias fuentes distintas en línea.
+
+Este ejemplo muestra los detalles del panel de conocimiento de Coursera en Google.
+
+![alt text](image-27.png)
+
+Como se observa en la imagen, los detalles del negocio pueden incluir:
+
+    Enlace al sitio web oficial
+
+    Logotipo del sitio
+
+    Industria de la marca
+
+    Descripción de la marca
+
+    Enlaces de los perfiles en redes sociales
+
+Incluir esta información hace que quienes quieran identificar el sitio oficial de una marca encuentren la información exacta
+más fácilmente.
+
+**Configura los detalles de un negocio en Google** Estos son los pasos que debes seguir para configurar los detalles
+comerciales de una marca en los paneles de conocimiento de Google.
+
+*Paso 1: Crea un Perfil de Negocio en Google.* Para quienes están a cargo de negocios físicos, como un restaurante o un
+comercio minorista, el primer paso para establecer los detalles comerciales es crear un Perfil de Negocio en Google.
+
+Perfil de Negocio en Google: una herramienta gratuita que permite a los negocios locales configurar la forma en que aparece
+su información en la Búsqueda de Google y en Google Maps. Las y los propietarios pueden publicar su horario de atención, sus
+productos y servicios, aceptar pedidos en línea y más. Puedes crear y administrar un perfil de negocio directamente desde
+Google Maps  o la Búsqueda de Google .
+
+*Paso 2: Verifica la propiedad del sitio web.* El siguiente paso es verificar la propiedad del sitio web en Google Search
+Console . Search Console es una poderosa herramienta de Google que te ayuda a comprender mejor el rendimiento de tu sitio
+web y te permite optimizar su visibilidad, entre otras cosas.
+
+Verificar tu sitio web a través de Search Console es importante porque garantiza que tengas control sobre cómo se presenta
+tu sitio web en Google y puedas acceder a datos sensibles de la Búsqueda de Google para tu sitio.
+
+*Paso 3: Actualiza el panel de conocimiento de Google del sitio web.* Una vez que te verifiques como representante oficial,
+puedes iniciar sesión en la cuenta de Gmail asociada con la entidad que representas y actualizar la información de tu panel
+de conocimiento de Google.
+
+Cuando actualizas estos detalles, se anula la información que los algoritmos de Google habían encontrado e ingresado por ti
+de forma automática previamente.
+
+*Paso 4: Agrega datos estructurados para obtener resultados enriquecidos.* Los resultados enriquecidos son los resultados de
+búsqueda de Google que van más allá del enlace azul habitual. Pueden incluir carruseles, imágenes u otros elementos no
+textuales. Como especialista en marketing digital, querrás asegurarte de que tu sitio web pueda obtener resultados
+enriquecidos, ya que eso ayudará a que tu negocio se destaque.
+
+Para ayudar a que tu negocio obtenga resultados enriquecidos, debes agregar datos estructurados. Los datos estructurados
+tienen un formato estandarizado para proporcionar información sobre una página y poder clasificar su contenido. Cabe
+recordar que añadir datos estructurados no te garantizará que se agreguen automáticamente los resultados enriquecidos a la
+página de resultados de búsqueda de tu negocio.
+
+Puedes obtener más información sobre la creación de datos estructurados leyendo el documento Comprende cómo funcionan los
+datos estructurados en el sitio web del Centro de la Búsqueda de Google.
+
+Una vez que hayas agregado datos estructurados, puedes verificar si funcionan ingresando la URL de tu sitio web en la página
+“Prueba de resultados enriquecidos” de Google .
+
+*Paso 5: Destaca los métodos de atención al cliente.* Asegúrate de incluir alternativas para que quienes visiten tu sitio
+web puedan acceder a información útil de atención al cliente o comunicarse contigo a fin de satisfacer sus necesidades.
+Estas alternativas podrían incluir tu número de contacto y dirección de correo electrónico, entre otras.
+
+**Conclusiones principales** Mostrar información precisa sobre tu negocio te ayudará a ser reconocido/a rápidamente por
+quienes utilicen los motores de búsqueda. Si logras hacerte ver, podrás dirigir a tu audiencia hacia tu sitio web para que
+eventualmente realicen una compra, o completen otras acciones deseadas.
+
 ### Analiza el rendimiento de los resultados de la búsqueda y el comportamiento de los y las usuarios/as
+
+#### Introducción a Google Search Console
+
+Al trabajar en la optimización de motores de búsqueda para un sitio web, existe una herramienta gratuita que te ayudará a
+comprender mejor cómo se posiciona el sitio web en la Búsqueda de Google. La herramienta se llama Google Search Console.
+Search Console proporciona información sobre una variedad de métricas e informes sobre tu sitio web. Por ejemplo, puedes
+consultar cuántas personas visitan el sitio web mediante la Búsqueda en Google, o puedes confirmar si Google está rastreando
+tus páginas web. También puedes saber si el sitio presenta errores técnicos.
+
+En este video, abordaremos cómo empezar a usar Google Search Console, y cómo un/a especialista en marketing digital
+principiante puede usar esta herramienta. Para algunos de los siguientes videos y ejemplos de capturas de pantalla, hemos
+usado una empresa llamada Happy Clothes. Es una empresa ficticia que usamos para probar herramientas de SEO y SEM.
+
+Existen muchas funciones en Search Console. Algunas son más avanzadas que otras. Analicemos los primeros pasos que debería
+seguir un/a principiante. Primero, debes agregar y verificar la propiedad del sitio web. La verificación es un proceso que
+consiste en demostrar que el sitio web te pertenece. Y una vez que termines de verificar el sitio, Search Console comenzará
+a recopilar datos, y obtendrás el acceso completo a la herramienta.
+
+Luego de unos días, cuando la herramienta Search Console recopile suficientes datos del sitio web, el segundo paso que debes
+seguir es asegurarte de que Google pueda encontrar y leer tus páginas. El informe de cobertura de indexación proporciona un
+resumen general de todas las páginas de tu sitio web que Google indexó o intentó indexar. Repasa la lista disponible e
+intenta corregir los errores y advertencias que haya.
+
+Para el tercer paso, debes revisar otro informe llamado “Usabilidad móvil”. Este informe muestra los problemas que podrían
+afectar a la experiencia de quienes navegan por el sitio desde un dispositivo móvil. El informe incluye información sobre
+temas específicos, una lista de las páginas afectadas, y cómo solucionar cada problema.
+
+El siguiente paso a considerar es enviar un sitemap a Search Console. Un sitemap es un archivo que proporciona información
+sobre las páginas, videos y otros archivos en el sitio, y cómo se relacionan estos elementos. Los motores de búsqueda como
+Google leen este archivo para rastrear el sitio de manera más eficiente.
+
+No es necesario que tengas un sitemap ya que es probable que Google rastree tu sitio web de todas formas. Sin embargo, es
+una buena práctica enviar el sitemap para mejorar el rastreo, especialmente si tu sitio web contiene más de 500 páginas.
+También debes incluir un sitemap en caso de que Google tenga dificultades para rastrear tu sitio y no pueda encontrar las
+páginas importantes.
+
+Enviar un sitemap es una tarea de SEO bastante técnica. Sin embargo, muchas plataformas web, como WordPress, Wix, o Blogger
+generan sitemaps automáticamente, disponibles para los motores de búsqueda. No hace falta que hagas nada. Si tu sitio web
+está en una plataforma, confirma que lo estén haciendo por ti.
+
+El quinto paso es monitorear el rendimiento de tu sitio. El informe “Rendimiento en los resultados de la búsqueda” muestra
+el volumen de tráfico que recibes de la Búsqueda de Google. El informe desglosa el tráfico por consultas, páginas y países.
+Para cada uno de estos puntos, puedes obtener tendencias sobre las impresiones, clics y otras métricas. Analizaremos los
+informes de Search Console más adelante en este curso.
+
+Analicemos el uso general de la herramienta Search Console como especialistas en marketing digital. El uso diario debería
+ser mínimo. Recibirás un correo electrónico cuando ocurra algo inusual, como por ejemplo si el sitio web es hackeado o si
+Google encuentra algún problema para rastrear tu sitio. Aproximadamente una vez al mes, consulta el panel de control de
+Search Console. Comprueba rápidamente el estado de tu sitio web. Comprueba que no haya ningún error en el sitio. Además,
+verifica que no haya bajas inusuales en la cantidad de clics. También debes consultar la herramienta Search Console cada vez
+que añadas contenido nuevo a los sitios web. Si es necesario, envía un sitemap nuevo con el contenido agregado
+recientemente. Unas horas después de agregar páginas nuevas, confirma que el número de las páginas indexadas esté
+aumentando. Si estás trabajando en el contenido del sitio web, revisa las métricas y los informes de Search Console para
+garantizar que el sitio web esté funcionando correctamente. De lo contrario, podría afectar el rendimiento de tu contenido.
+
+¡Buen trabajo! ¡Realmente has aprendido mucho! Espero que sientas más confianza respecto a tu conocimiento sobre SEO y
+Search Console.
+
+#### Informes y métricas de Google Search Console
+
+Unas de las funciones más beneficiosas de Google Search Console son sus informes y métricas. En este video, analizaremos
+algunos informes populares que debes tener en cuenta. También veremos los términos y características de esos informes.
+
+Empecemos con la página Descripción general. Esta es la página que verás después de iniciar sesión en la herramienta Search
+Console. Si bien no es un informe, es una página importante de entender. La página Descripción general muestra un resumen de
+la solidez de tu sitio, incluyendo problemas de seguridad, gráficos de métricas, y resúmenes de mejoras para el sitio, como
+los datos estructurados. Debes consultar esta página periódicamente para garantizar que no haya problemas de seguridad o
+errores que se deban corregir. Además, puedes confirmar que no haya una disminución del número de clics en el sitio web. Si
+encuentras algún problema, debes investigar la causa.
+
+El informe de Rendimiento en los resultados de búsqueda se centra en varias métricas relacionadas con el SEO. Veamos
+rápidamente algunas de estas métricas. Las impresiones se refieren a cuántas veces alguien ha visto tu sitio con la
+herramienta de Búsqueda de Google. Los clics son cuántas veces una persona que hace una búsqueda hizo clic en los resultados
+de tu sitio web en las SERP. La tasa de clics es el porcentaje de personas que vieron tu anuncio e hicieron clic en él. La
+posición media te indica en qué lugar se clasifica tu sitio en los resultados de la búsqueda. La posición uno es la posición
+superior. Como puedes ver, todas estas métricas están conectadas. Por ejemplo, si tu sitio web recibe muchas impresiones
+pero su posición promedio en las SERP es baja, es probable que no reciba muchos clics. Si el sitio web no está recibiendo
+muchos clics, entonces su tasa de clics también será baja.
+
+Otro informe a analizar es el informe “Enlaces”. Allí se muestra qué sitios web contienen enlaces al tuyo, cuál es el texto
+de enlace y cuáles son tus páginas más enlazadas. Usa este informe para comprender mejor qué páginas web reciben la mayor
+cantidad de enlaces de otros sitios web. Pregúntate, ¿por qué esta página recibe más enlaces que otras páginas? Además,
+puedes usar el informe “Enlaces” para determinar si un sitio web se vincula con sitios útiles o sospechosos. Si se vincula a
+sitios sospechosos, generalmente puedes ignorarlos.
+
+El informe de cobertura muestra el estado del indexación de todas las páginas de tu sitio. Las páginas se agrupan en función
+de si se pueden indexar o no. También se incluye una descripción de por qué las páginas se pueden indexar o no. Usa este
+informe para analizar periódicamente los picos de errores o caídas en los recuentos de indexaciones para identificar
+problemas de rastreo en tu sitio web.
+
+Otro informe a analizar es el de “Acciones manuales”. Una acción manual es una forma que tiene Google de restringir o
+eliminar páginas web que no cumplen con las Directrices de calidad para webmasters. Por lo general, las acciones manuales se
+aplican a sitios web o páginas que intentaron manipular el índice de búsqueda. Un ejemplo de por qué se aplica una acción
+manual a un sitio web es si se realizó la práctica de keyword stuffing. Si sigues la guía de calidad de Google, es probable
+que a tu sitio web no se le aplique ninguna acción manual. Aún así, es importante consultar el informe de Search Console
+para asegurarse.
+
+El informe “Problemas de seguridad” muestra los indicios de que tu sitio fue hackeado o el comportamiento en tu sitio que
+podría dañar a tus visitantes o a sus computadoras. Un ejemplo puede ser la instalación de un software no deseado en la
+computadora de un/a visitante. Si ves un problema de seguridad en este informe, Google proporcionará los detalles del
+problema y cómo solucionarlo.
+
+Si bien hay otros informes en la herramienta Search Console, estos son algunos de los más populares e importantes. Como
+principiante en el marketing digital, usarás estos informes para entender mejor cómo se desempeña una página web en la
+Búsqueda de Google. También los usarás para identificar cualquier problema importante que tengas en tu sitio web, como por
+ejemplo, si fue hackeado o si las páginas no están siendo indexadas. Google Search Console es una herramienta muy útil para
+aprender e implementar estrategias de SEO.
+
+¡Buen trabajo!
+
+#### Aprende más sobre Google Search Console
+
+#### Más herramientas e informes en Google Search Console
+
+#### Bing Webmaster Tools
+
+#### Dave: Mi trayectoria profesional en SEO y SEM
 
 ### Revisión: Aplica la optimización de motores de búsqueda (SEO)
 
