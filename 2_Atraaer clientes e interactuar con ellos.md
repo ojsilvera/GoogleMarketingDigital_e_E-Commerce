@@ -1030,6 +1030,26 @@ Webinar: presentación, típicamente educativa, que se proporciona en línea.
 
 ## Comprende la optimización de motores de búsqueda (SEO)
 
+### Cómo funciona la búsqueda
+
+#### Te damos la bienvenida a la semana 2 - curso 2
+
+#### ¿Cómo funciona el motor de búsqueda de Google?
+
+#### Cómo determina Google el ranking de un sitio web
+
+#### Desglose de las páginas de resultados del motor de búsqueda de Google (SERP)
+
+#### Otros motores de búsqueda populares
+
+#### Jake - Objetivo y funcionamiento de los algoritmos de búsqueda
+
+### Comprende los conceptos básicos de la optimización para motores de búsqueda (SEO)
+
+### Investigación de palabras clave y estructura del sitio web
+
+### Revisión: Comprender la optimización de motores de búsqueda (SEO)
+
 ## Utiliza la optimización de motores de búsqueda (SEO)
 
 ## Marketing de motores de búsqueda (SEM) y publicidad gráfica
