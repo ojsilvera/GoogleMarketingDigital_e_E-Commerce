@@ -1577,6 +1577,67 @@ tienen curiosidad orgánicamente. Y si puedes concentrarte en eso, entonces tend
 
 #### Organiza las páginas de tu sitio web: estructura y navegación
 
+Hola de nuevo. Un aspecto importante del SEO es tener una estructura del sitio bien organizada. La estructura del sitio es
+la forma en que las páginas se enlazan y conectan. También es cómo un/a visitante navega por el sitio web. Debes considerar
+la estructura al crear el sitio web o puede que debas encargarte de revisar la estructura existente. Muchas empresas grandes
+tienen departamentos enteros centrados en la arquitectura web y la experiencia de usuario/a. Aunque trabajes en un equipo
+con expertos y expertas, es importante entender cómo la estructura del sitio afecta al SEO.
+
+En general, la estructura del sitio pertenece a la parte técnica del SEO. Una empresa pequeña puede tener 10 páginas, algo
+fácil de estructurar. Sin embargo, si es de comercio electrónico y cuenta con miles de productos, la organización puede
+complicarse. En general, una buena estructura de sitio es jerárquica: las páginas se enlazan o se asocian con otras páginas
+web. Por ejemplo, los sitios de comercio electrónico organizan sus productos de forma jerárquica con categorías. Si visitas
+un sitio de mejoras para el hogar, verás categorías como equipamiento, aparatos y plomería.
+
+En general, la jerarquía debe ser una estructura plana. Una buena práctica a seguir es que cada página debe estar a solo
+tres o cuatro clics de la página de inicio. Desde una perspectiva técnica, el rastreador de Google debe pasar con facilidad
+de página en página y entender cómo fluye el sitio. Para los y las usuarios/as, la página debe ser fácil de usar. Piensa en
+tus experiencias con un sitio web. ¿Has visitado un sitio que te pareció difícil de navegar? ¿O simplemente confuso? Con una
+buena organización de sitio, eso no debería suceder.
+
+Hay varios motivos para planificar la estructura del sitio web. El primero: ayuda a los rastreadores de los motores de
+búsqueda. Recuerda: los rastreadores de Google ven las páginas nuevas o actualizadas mediante enlaces de otras páginas. Si
+creas una página sin enlaces a ella, los rastreadores de Google podrían tardar más en descubrirla. Otra forma en que los
+rastreadores descubren páginas es a través de un sitemap, que es importante particularmente para sitios web grandes. Verás
+más sobre sitemaps más adelante en el programa.
+
+Segundo motivo: ayuda a conseguir una estructura de URLs consistente y legible. La URL es la dirección de una página web. La
+mejor práctica es tener URLs claras. Las URLs encriptadas y largas con pocas palabras reconocibles pueden intimidar a las y
+los visitantes del sitio. Además, recuerda que la URL puede mostrarse en los resultados de búsqueda de Google cerca del
+título del documento. Las y los clientes potenciales podrían leerla antes de hacer clic en el resultado.
+
+Tercer motivo: mejora la experiencia de usuario/a. Si un/a usuario/a tiene dificultad para navegar por el sitio, es probable
+que se vaya. Esto aumentará tu tasa de rebote. Recuerda: el rebote es el porcentaje de visitantes que vieron solo una página
+y luego abandonaron el sitio. Una tasa de rebote alta indica que, aunque la audiencia llegue a través del buscador,
+abandonaron el sitio sin convertirse en clientes.
+
+Veamos consejos para considerar al crear la estructura y navegación del sitio. Uno es usar https:// siempre que sea posible,
+e idealmente para cada URL del sitio web. El HTTPS es un protocolo de comunicaciones de Internet que protege la integridad y
+confidencialidad de los datos entre la computadora de las personas y el sitio. Al crear una página o un sitio web con HTTPS
+en lugar del antiguo HTTP, proteges a las y los usuario/as de tu sitio, sin importar qué contenido haya en él.
+
+Otro consejo es crear una página de navegación para los y las usuarios/as. Esta se refiere a una página simple en el sitio
+web que muestre toda su estructura. En general, consiste en una lista jerárquica de todas las páginas del sitio. Los y las
+usuarios/as pueden visitarla si no logran hallar páginas en el sitio. Aunque los motores de búsqueda también la vean, está
+dirigida ante todo a los y las usuarios/as.
+
+Tercer consejo: mostrar páginas 404 útiles. Una página 404 es una URL que le indica a las y los visitantes que la página no
+existe. En ocasiones, las personas llegan a esta página por un enlace roto o al escribir la URL de forma incorrecta. Crear
+una página 404 personalizada para el sitio guía amablemente al público de vuelta hacia una página que sí funciona. Esto
+puede mejorar mucho la experiencia de quienes visiten el sitio. Agrega un enlace para volver a la página de inicio o enlaces
+que lleven hacia el contenido popular del sitio.
+
+Cuarto consejo: haz que el rastreador de Google navegue por el sitio fácilmente. Para que Google encuentre todas las páginas
+de tu sitio, haz que sean accesibles mediante enlaces de navegación. Para un sitio de comercio electrónico, la página de
+categorías de productos debe enlazarse con páginas de subcategorías y luego con las páginas de los productos.
+
+La estructura del sitio puede parecer sencilla, pero también puede complicarse, especialmente a medida que le agregas más
+páginas al sitio web. Un poco de trabajo antes de crear el sitio puede evitar problemas como la desorganización del sitio y
+páginas que los rastreadores de Google no pueden encontrar. Como especialista en marketing digital, quizás debas reorganizar
+un sitio. Quizás no consideraron la estructura del sitio al crearlo.
+
+Serás una gran ayuda.
+
 #### Mejores prácticas de jerarquía del sitio
 
 ### Revisión: Comprender la optimización de motores de búsqueda (SEO)
