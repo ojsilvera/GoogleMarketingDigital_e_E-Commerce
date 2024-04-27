@@ -86,20 +86,30 @@ productos en línea, incluido el uso de plataformas populares como Shopify.
 Satisfacción garantizada: desarrolla estrategias de fidelización de clientes en línea: Descubre estrategias para aumentar la
 fidelidad de las y los clientes en el comercio electrónico usando herramientas para desarrollar y mantener relaciones.
 
-Contenido del Curso 2
-Este curso tiene tareas semanales. Puedes completarlas a tu propio ritmo, aunque el orden semanal fue diseñado para ayudarte a terminar el programa en seis meses o menos. Consulta a continuación la progresión semanal de este curso.
+**Contenido del Curso 2** Este curso tiene tareas semanales. Puedes completarlas a tu propio ritmo, aunque el orden semanal
+fue diseñado para ayudarte a terminar el programa en seis meses o menos. Consulta a continuación la progresión semanal de
+este curso.
 
-Semana 1: Introducción para atraer e involucrar clientes con marketing digital
-Continuarás aprendiendo sobre el embudo de marketing y sus etapas: Conciencia, Consideración, Conversión y Fidelidad. También, aprenderás estrategias para convertir clientes potenciales en clientes que pagan y que sean regulares. Por último, explorarás cómo usar los clientes tipo para comprender los objetivos, los puntos de dolor y las plataformas en línea preferidas de las y los consumidores.
+*Semana 1: Introducción para atraer e involucrar clientes con marketing digital* Continuarás aprendiendo sobre el embudo de
+marketing y sus etapas: Conciencia, Consideración, Conversión y Fidelidad. También, aprenderás estrategias para convertir
+clientes potenciales en clientes que pagan y que sean regulares. Por último, explorarás cómo usar los clientes tipo para
+comprender los objetivos, los puntos de dolor y las plataformas en línea preferidas de las y los consumidores.
 
-Semana 2: Comprender la optimización de motores de búsqueda (SEO)
-Revisarás los fundamentos del SEO. Luego, incorporarás conceptos básicos sobre cómo funciona el motor de búsqueda de Google y cómo se hace el ranking de los sitios web. También, aprenderás cómo investigar las palabras clave.
+*Semana 2: Comprender la optimización de motores de búsqueda (SEO)* Revisarás los fundamentos del SEO. Luego, incorporarás
+conceptos básicos sobre cómo funciona el motor de búsqueda de Google y cómo se hace el ranking de los sitios web. También,
+aprenderás cómo investigar las palabras clave.
 
-Semana 3: Aplicar la optimización de motores de búsqueda (SEO)
-Aprenderás a optimizar un sitio web para mejorar su posicionamiento en los motores de búsqueda, incluyendo estrategias para el contenido, las imágenes y los enlaces. También, verás cómo ayudar a los motores de búsqueda a comprender mejor tu contenido. A continuación, explorarás cómo crear títulos de sitios web efectivos y agregar marcado de datos estructurados para ayudar a las y los usuarios y a los motores de búsqueda a encontrar lo que necesitan. Luego, aprenderás cómo usar las herramientas SEO para analizar el rendimiento de las búsquedas y el comportamiento de las audiencias.
+*Semana 3: Aplicar la optimización de motores de búsqueda (SEO)* Aprenderás a optimizar un sitio web para mejorar su
+posicionamiento en los motores de búsqueda, incluyendo estrategias para el contenido, las imágenes y los enlaces. También,
+verás cómo ayudar a los motores de búsqueda a comprender mejor tu contenido. A continuación, explorarás cómo crear títulos
+de sitios web efectivos y agregar marcado de datos estructurados para ayudar a las y los usuarios y a los motores de
+búsqueda a encontrar lo que necesitan. Luego, aprenderás cómo usar las herramientas SEO para analizar el rendimiento de las
+búsquedas y el comportamiento de las audiencias.
 
-Semana 4: Marketing de motores de búsqueda (SEM) y publicidad gráfica
-Verás las diferentes oportunidades de publicidad dentro de los motores de búsqueda, también llamada SEM, y publicidad en Google Display. Conocerás las mejores prácticas para crear un anuncio en los resultados de búsqueda o un anuncio de display. Terminarás el curso entendiendo cómo aplicar y mejorar los anuncios de display.
+*Semana 4: Marketing de motores de búsqueda (SEM) y publicidad gráfica* Verás las diferentes oportunidades de publicidad
+dentro de los motores de búsqueda, también llamada SEM, y publicidad en Google Display. Conocerás las mejores prácticas para
+crear un anuncio en los resultados de búsqueda o un anuncio de display. Terminarás el curso entendiendo cómo aplicar y
+mejorar los anuncios de display.
 
 ### Crea clientes tipo para tu público objetivo
 
@@ -107,90 +117,118 @@ Verás las diferentes oportunidades de publicidad dentro de los motores de búsq
 
 Hola, en esta sección verás estrategias para hacer avanzar al cliente por cada etapa del embudo. Iniciaremos con una
 descripción general del cliente tipo, que es una representación del cliente ideal (customer persona) de una empresa. También
-aprenderás a investigar y crear varios clientes tipo. Luego obtendrás una visión general del embudo de marketing, un enfoque
-paso a paso sobre cómo atraer clientes que pueden no conocer una marca, sus productos o servicios, y convertirlos en
-clientes regulares y promotores de la marca. Repasaremos la primera etapa del embudo, la etapa de Conciencia. En esta
-sección veremos estrategias para que los clientes conozcan la marca. Luego veremos la segunda etapa de embudo,
-Consideración. Esta etapa se trata de crear interés en clientes potenciales. Después veremos la Conversión. En esta etapa,
-los clientes están listos para hacer una compra. Hay que generar confianza en ellos para que hagan compras. Por último,
-veremos la etapa de Fidelidad. Es cuando tienes clientes que pagan y los incentivas a convertirse en clientes regulares y
-promotores de la marca. También leerás estudios de casos sobre cómo las empresas aplican estas estrategias en cada etapa del
-embudo de marketing. En los siguientes videos abarcaremos mucho. ¿Todo listo? Genial. ¡Empecemos!
+aprenderás a investigar y crear varios clientes tipo.
+
+Luego obtendrás una visión general del embudo de marketing, un enfoque paso a paso sobre cómo atraer clientes que pueden no
+conocer una marca, sus productos o servicios, y convertirlos en clientes regulares y promotores de la marca. Repasaremos la
+primera etapa del embudo, la etapa de Conciencia. En esta sección veremos estrategias para que los clientes conozcan la
+marca.
+
+Luego veremos la segunda etapa de embudo, Consideración. Esta etapa se trata de crear interés en clientes potenciales.
+Después veremos la Conversión. En esta etapa, los clientes están listos para hacer una compra. Hay que generar confianza en
+ellos para que hagan compras.
+
+Por último, veremos la etapa de Fidelidad. Es cuando tienes clientes que pagan y los incentivas a convertirse en clientes
+regulares y promotores de la marca. También leerás estudios de casos sobre cómo las empresas aplican estas estrategias en
+cada etapa del embudo de marketing. En los siguientes videos abarcaremos mucho.
+
+¿Todo listo? Genial. ¡Empecemos!
 
 #### Clientes tipo para tu público objetivo
 
 Nos abruman con marketing y anuncios todo el día. Como profesional de marketing, ¿cómo haces para destacar una marca? Debes
 crear un mensaje y materiales que conecten con tu cliente. Antes de empezar a crear materiales de marketing, debes saber a
-quién te diriges. En este curso empezaremos con un concepto importante de marketing: definir a tu cliente tipo. En este
-video, hablaremos del cliente tipo (customer persona, buyer persona, marketing persona, audience persona). El cliente tipo
-representa un grupo de personas similares en una audiencia deseable. Te permite llegar a las personas adecuadas en el
-momento adecuado con el mensaje, la oferta y productos adecuados. El cliente tipo que veremos es muy sencillo. Incluye quién
-es la persona representada, (sus características) su objetivo (qué quiere lograr) y la barrera para lograrlo (punto de
-dolor). El profesional de marketing suele crear varios clientes tipo para un producto o servicio. Incluso se puede trabajar
-más de diez. Esto es porque la mayoría de las empresas tienen más de un tipo de cliente. Recuerda que los clientes tipo
-pueden ser muy complejos. Aquí veremos una versión sencilla. Como profesional, agregarás más detalles como intereses del
-cliente, sus comportamientos, necesidades y habilidades. ¿Por qué crear clientes tipo? Un motivo es comprender la
-perspectiva del cliente. El cliente tipo te permite ponerte en el lugar del cliente. Esto es más específico que un público
-objetivo, que es más amplio y general. Al crear material de marketing como anuncios o correos debes considerar las
-prioridades del cliente: ¿qué mensaje o imagen le atraerá más? ¿Le ayuda a lograr sus objetivos o se relaciona con sus
-puntos de dolor? Otro motivo es que al saber quién es tu cliente es más fácil crear contenido personalizado para él. Sabrás
-cómo piensa, qué quiere lograr y qué barrera tiene para comprar. El último motivo para crear un cliente tipo es es para
-dirigir anuncios con eficacia. Más adelante en este curso y los siguientes verás más sobre dirigir anuncios (anuncios
-dirigidos). La mayoría de las plataformas de anuncios ofrecen anuncios dirigidos. Reproduce el video desde :2:44 y sigue la
-transcripción2:44 Ofrecen herramientas para dirigir anuncios y llegar a tu público objetivo. Veamos un ejemplo de un cliente
-tipo, para una empresa que vende tiendas de campaña. Quieren crear una campaña de marketing para una tienda para seis
-personas. Según su investigación, el equipo de marketing define que un elemento del cliente tipo es que tiene hijos. Al
-continuar la investigación demográfica descubre que tiene entre 35 y 55 años, y dos o tres hijos. Tras hacer entrevistas, el
-equipo descubre que su objetivo general es comprar una tienda económica que dure varios años. Verás que una barrera común
+quién te diriges.
+
+En este curso empezaremos con un concepto importante de marketing: definir a tu cliente tipo. En este video, hablaremos del
+cliente tipo (customer persona, buyer persona, marketing persona, audience persona). El cliente tipo representa un grupo de
+personas similares en una audiencia deseable. Te permite llegar a las personas adecuadas en el momento adecuado con el
+mensaje, la oferta y productos adecuados.
+
+El cliente tipo que veremos es muy sencillo. Incluye quién es la persona representada, (sus características) su objetivo
+(qué quiere lograr) y la barrera para lograrlo (punto de dolor). El profesional de marketing suele crear varios clientes
+tipo para un producto o servicio. Incluso se puede trabajar más de diez. Esto es porque la mayoría de las empresas tienen
+más de un tipo de cliente. Recuerda que los clientes tipo pueden ser muy complejos. Aquí veremos una versión sencilla. Como
+profesional, agregarás más detalles como intereses del cliente, sus comportamientos, necesidades y habilidades.
+
+¿Por qué crear clientes tipo? Un motivo es comprender la perspectiva del cliente. El cliente tipo te permite ponerte en el
+lugar del cliente. Esto es más específico que un público objetivo, que es más amplio y general. Al crear material de
+marketing como anuncios o correos debes considerar las prioridades del cliente: ¿qué mensaje o imagen le atraerá más? ¿Le
+ayuda a lograr sus objetivos o se relaciona con sus puntos de dolor?
+
+Otro motivo es que al saber quién es tu cliente es más fácil crear contenido personalizado para él. Sabrás cómo piensa, qué
+quiere lograr y qué barrera tiene para comprar. El último motivo para crear un cliente tipo es es para dirigir anuncios con
+eficacia. Más adelante en este curso y los siguientes verás más sobre dirigir anuncios (anuncios dirigidos). La mayoría de
+las plataformas de anuncios ofrecen anuncios dirigidos.
+
+Reproduce el video desde :2:44 y sigue la transcripción2:44 Ofrecen herramientas para dirigir anuncios y llegar a tu público
+objetivo. Veamos un ejemplo de un cliente tipo, para una empresa que vende tiendas de campaña. Quieren crear una campaña de
+marketing para una tienda para seis personas. Según su investigación, el equipo de marketing define que un elemento del
+cliente tipo es que tiene hijos.
+
+Al continuar la investigación demográfica descubre que tiene entre 35 y 55 años, y dos o tres hijos. Tras hacer entrevistas,
+el equipo descubre que su objetivo general es comprar una tienda económica que dure varios años. Verás que una barrera común
 para comprar una tienda grande es la inquietud que genera colocarla por una experiencia previa frustrante. Con esto puedes
-crear material ad hoc. Por ejemplo, un anuncio en línea que diga tienda fácil de instalar para toda la familia. Puedes
-dirigir el anuncio a personas del mismo perfil demográfico. Puedes profundizar en los datos demográficos, objetivos o
-barreras del cliente tipo. ¡Excelente! Este conocimiento práctico de los clientes tipo, te ayudará a conectar con clientes
-en tu futuro puesto de marketing digital.
+crear material ad hoc.
+
+Por ejemplo, un anuncio en línea que diga tienda fácil de instalar para toda la familia. Puedes dirigir el anuncio a
+personas del mismo perfil demográfico. Puedes profundizar en los datos demográficos, objetivos o barreras del cliente tipo.
+¡Excelente! Este conocimiento práctico de los clientes tipo, te ayudará a conectar con clientes en tu futuro puesto de
+marketing digital.
 
 #### Cómo crear un cliente tipo
 
 ¡Hola! Ahora, que sabes qué son los clientes tipo y por qué son importantes, veamos cómo crear uno. Al crear un cliente tipo
 necesitarás información sobre tus clientes ideales (customer personas). No se trata de adivinar; necesitas datos reales. Es
-probable que debas investigar para recopilar esta información. Estas son algunas maneras de investigar. La primera es
-revisar los datos de clientes. Puede que el negocio ya tenga datos de sus clientes. Consulta para obtener información como
-datos demográficos, ubicación, historial de ventas y notas de servicio. La segunda es entrevistar a clientes. Pregunta a los
-clientes directamente sobre su experiencia con el producto o servicio. Pregunta por qué compraron el producto, cómo
-resolvieron su problema, y si corresponde, recopila información sobre sus otros intereses para crear un cliente tipo más
-detallado. Otra forma es analizar los datos web. Si la empresa usa redes sociales, revisa los datos demográficos de los
-seguidores de la empresa. Además, la analítica de sitios web, como Google Analytics, proporciona datos sobre elementos como
-la edad y género de los visitantes del sitio. Si te preguntas qué es Google Analytics, lo veremos más adelante en otro
-curso. Si los hay, consulta comentarios y reseñas en línea también. Pueden ofrecer datos para el cliente tipo. La cuarta
-forma es enviar encuestas. Un método simple para obtener información es enviar encuestas por correo a clientes. Quizá la
-participación sea baja con esta estrategia. Para incentivar a que participen en la encuesta, regala algo a quienes la
-contesten. Tras investigar, lo primero al crear un cliente tipo es definir quién es tu cliente. Esto incluye definir sus
-intereses, características y datos demográficos. Los datos demográficos es información específica del cliente, como edad,
-identidad de género, ingresos, tamaño de familia, ocupación, educación y ubicación. Por ejemplo, un cliente tipo de un
-negocio de mascotas puede ser: hombre de 30-39 años, 2 hijos, ama el aire libre y vive en los suburbios. Incluso se puede
-ser más específico y detallado: hombre de 32 años, 2 hijos, tiene un perro grande y le gusta el senderismo. Cuantos más
-detalles haya, más clientes tipo crearás. Esto adapta tu lenguaje publicitario para muchos miembros de tu público. Tras
-definir los intereses, rasgos y datos demográficos del cliente tipo debes especificar sus objetivos y barreras. Para crear
-objetivos y barreras, usa principalmente los datos que recopilas de los clientes, como encuestas y entrevistas. Para el
-objetivo del cliente tipo, especifica los datos del cliente lo que quiere lograr. Este objetivo debe estar relacionado con
-el producto o servicio. Por ejemplo, si se trata de una empresa de paisajismo, el cliente quiere un excelente trabajo de
+probable que debas investigar para recopilar esta información. Estas son algunas maneras de investigar.
+
+La primera es revisar los datos de clientes. Puede que el negocio ya tenga datos de sus clientes. Consulta para obtener
+información como datos demográficos, ubicación, historial de ventas y notas de servicio. La segunda es entrevistar a
+clientes. Pregunta a los clientes directamente sobre su experiencia con el producto o servicio. Pregunta por qué compraron
+el producto, cómo resolvieron su problema, y si corresponde, recopila información sobre sus otros intereses para crear un
+cliente tipo más detallado.
+
+Otra forma es analizar los datos web. Si la empresa usa redes sociales, revisa los datos demográficos de los seguidores de
+la empresa. Además, la analítica de sitios web, como Google Analytics, proporciona datos sobre elementos como la edad y
+género de los visitantes del sitio. Si te preguntas qué es Google Analytics, lo veremos más adelante en otro curso. Si los
+hay, consulta comentarios y reseñas en línea también. Pueden ofrecer datos para el cliente tipo. La cuarta forma es enviar
+encuestas. Un método simple para obtener información es enviar encuestas por correo a clientes. Quizá la participación sea
+baja con esta estrategia. Para incentivar a que participen en la encuesta, regala algo a quienes la contesten.
+
+Tras investigar, lo primero al crear un cliente tipo es definir quién es tu cliente. Esto incluye definir sus intereses,
+características y datos demográficos. Los datos demográficos es información específica del cliente, como edad, identidad de
+género, ingresos, tamaño de familia, ocupación, educación y ubicación. Por ejemplo, un cliente tipo de un negocio de
+mascotas puede ser: hombre de 30-39 años, 2 hijos, ama el aire libre y vive en los suburbios. Incluso se puede ser más
+específico y detallado: hombre de 32 años, 2 hijos, tiene un perro grande y le gusta el senderismo. Cuantos más detalles
+haya, más clientes tipo crearás. Esto adapta tu lenguaje publicitario para muchos miembros de tu público.
+
+Tras definir los intereses, rasgos y datos demográficos del cliente tipo debes especificar sus objetivos y barreras. Para
+crear objetivos y barreras, usa principalmente los datos que recopilas de los clientes, como encuestas y entrevistas. Para
+el objetivo del cliente tipo, especifica los datos del cliente lo que quiere lograr. Este objetivo debe estar relacionado
+con el producto o servicio. Por ejemplo, si se trata de una empresa de paisajismo, el cliente quiere un excelente trabajo de
 jardinería. Al revisar los datos, también identificas objetivos adicionales que quizá quieren lograr. Algunos clientes solo
 quieren que alguien cuide sus plantas. Otros quieren enorgullecerse del aspecto de su jardín. Al usar tus datos para definir
 el objetivo y la barrera puedes incluir detalles adicionales. Por ejemplo, quizá varios clientes indicaron que desean un
-jardín con buen aspecto. Se puede inferir que quieren sentir orgullo por su hogar. Tras identificar los objetivos, considera
-la barrera, lo que impide que el cliente logre su objetivo. Puedes pensar en qué impide que el cliente contrate la empresa.
-Revisa los datos del cliente, incluidas las encuestas y entrevistas. ¿Puedes identificar alguna barrera? Siguiendo con el
-ejemplo anterior, al revisar las encuestas, notas algunas barreras recurrentes. Algunos clientes indican no tener tiempo
-para atender el pasto. Otros dicen que lo intentaron, pero no creen que se vea bien. Otro grupo indicó que simplemente no
-tiene el equipo. Piensa en una barrera relacionada con la contratación de la empresa. Podría ser que no confían en empresas
-de paisajismo por un mal servicio anterior. Ahora, que tienes los datos demográficos, objetivos y barreras, combina esa
-información para crear clientes tipo. Siguiendo con el mismo ejemplo, un cliente tipo puede ser una mujer de 55 años en la
-ciudad con un pequeño patio y un jardín. Ha cuidado de su propio patio por cinco años, pero ya no tiene tiempo para hacerlo.
-Otro puede ser un hombre de 30 años con casa nueva. Nunca ha hecho paisajismo y acaba de mudarse a los suburbios. Uno
-tercero puede ser un inquilino de 27 años con poco presupuesto en un área rural. Quiere un paisajismo básico para cumplir
-con los requisitos del vecindario. Imagina que creaste algunos clientes tipo. ¿Qué sigue? Una buena práctica es tenerlos a
-la mano. Al trabajar en material de marketing, considera todos los clientes tipo. ¿A quién quieres llegar? ¿Qué elementos
-visuales le atraen? ¿Qué mensajes le atraen? ¿Qué plataformas en línea usa? Ese es el poder de un cliente tipo. En lugar de
-adivinar o combinar clientes, tienes datos de quiénes son tus clientes. Sabes qué quieren lograr y qué barreras tienen.
+jardín con buen aspecto. Se puede inferir que quieren sentir orgullo por su hogar.
+
+Tras identificar los objetivos, considera la barrera, lo que impide que el cliente logre su objetivo. Puedes pensar en qué
+impide que el cliente contrate la empresa. Revisa los datos del cliente, incluidas las encuestas y entrevistas. ¿Puedes
+identificar alguna barrera? Siguiendo con el ejemplo anterior, al revisar las encuestas, notas algunas barreras recurrentes.
+Algunos clientes indican no tener tiempo para atender el pasto. Otros dicen que lo intentaron, pero no creen que se vea
+bien. Otro grupo indicó que simplemente no tiene el equipo. Piensa en una barrera relacionada con la contratación de la
+empresa. Podría ser que no confían en empresas de paisajismo por un mal servicio anterior.
+
+Ahora, que tienes los datos demográficos, objetivos y barreras, combina esa información para crear clientes tipo. Siguiendo
+con el mismo ejemplo, un cliente tipo puede ser una mujer de 55 años en la ciudad con un pequeño patio y un jardín. Ha
+cuidado de su propio patio por cinco años, pero ya no tiene tiempo para hacerlo. Otro puede ser un hombre de 30 años con
+casa nueva. Nunca ha hecho paisajismo y acaba de mudarse a los suburbios. Uno tercero puede ser un inquilino de 27 años con
+poco presupuesto en un área rural. Quiere un paisajismo básico para cumplir con los requisitos del vecindario.
+
+Imagina que creaste algunos clientes tipo. ¿Qué sigue? Una buena práctica es tenerlos a la mano. Al trabajar en material de
+marketing, considera todos los clientes tipo. ¿A quién quieres llegar? ¿Qué elementos visuales le atraen? ¿Qué mensajes le
+atraen? ¿Qué plataformas en línea usa? Ese es el poder de un cliente tipo. En lugar de adivinar o combinar clientes, tienes
+datos de quiénes son tus clientes. Sabes qué quieren lograr y qué barreras tienen.
+
 Parece complejo crear clientes tipo, pero vale mucho la pena. El marketing exitoso comienza con conocer bien a tus clientes.
 Ahora ya sabes qué pasos dar para obtener ese conocimiento y crear esa conexión.
 
@@ -1640,8 +1678,196 @@ Serás una gran ayuda.
 
 #### Mejores prácticas de jerarquía del sitio
 
+La organización jerárquica de un sitio facilita al motor de búsqueda de Google el rastreo y la indexación de las páginas del
+mismo. El rastreo es el proceso de encontrar páginas web nuevas o actualizadas. Una jerarquía del sitio organizada garantiza
+que las URL sean sencillas y legibles, mejora el SEO y facilita que tus clientes encuentren lo que buscan. Esta lectura te
+ayudará a conocer las mejores prácticas para llevarla a cabo.
+
+**Cómo planificar la jerarquía de un sitio web** Todos los sitios web tienen una página de inicio, o página raíz, que es el
+punto de partida desde el cual se crea la jerarquía. También, es la primera página que la mayoría de tus clientes verán
+cuando visiten tu sitio por primera vez.
+
+La página de inicio, que se encuentra en el nivel superior de la jerarquía de tu sitio, debe contener información general
+sobre tu negocio o tus productos. Las subpáginas, o páginas de nivel inferior que aparecen debajo de ella, deben contener
+información más específica, como los detalles de cada producto.
+
+Puedes tener tres o cuatro niveles de subpáginas dentro de la jerarquía de tu sitio. Cada nivel incluye información más
+específica que el anterior. Algunos sitios incluyen más de cuatro niveles, pero generalmente es mejor hacer que las otras
+páginas no estén a más de tres o cuatro clics de la página de inicio.
+
+Aquí hay un ejemplo de organización de la jerarquía de un sitio web de comercio electrónico, comenzando con la página de
+inicio y luego conduciendo a tres niveles de subpáginas: páginas de categorías, páginas de subcategorías y páginas de
+productos.
+
+![alt text](image-18.png)
+
+Imagina que trabajas para una librería en línea. La página de inicio podría presentar el contenido más interesante para la
+mayoría de los clientes, como ofertas actuales, nuevos lanzamientos y bestsellers.
+
+El primer nivel de jerarquía del sitio incluiría páginas de categorías, que agrupan contenido o productos similares. Por
+ejemplo, pueden incluir ficción, no ficción y libros para niños.
+
+El segundo nivel de jerarquía del sitio incluiría páginas de subcategorías, que son páginas que se relacionan con las
+páginas de categorías. Por ejemplo, debajo de la categoría “libros infantiles”, podría incluir subcategorías para libros de
+cuentos, ilustrados, novelas gráficas, sagas y otros temas relacionados.
+
+El tercer nivel de jerarquía debe incluir información más específica, como la descripción y detalles de un libro específico.
+
+La jerarquía que se muestra a continuación refleja cómo podría organizarse una parte del sitio web de la librería en línea.
+
+![alt text](image-19.png)
+
+**Uso de breadcrumbs** Piensa en el siguiente ejemplo: una persona visita el sitio y llega a la página que contiene los
+detalles un libro infantil específico. Una vez que ya conoce la información,  quiere buscar otros libros. ¿Cómo vuelve a las
+secciones anteriores? Una opción sería usar breadcrumbs, que es una serie de enlaces internos que se muestran en la parte
+superior o inferior de la página y que permite a cada visitante navegar rápidamente hacia una sección anterior o la página
+de inicio.
+
+Las breadcrumbs generalmente comienzan con la página de inicio e incluyen enlaces para cada nivel de jerarquía, hasta llegar
+a la página en la que se encuentra el o la visitante.
+
+Por ejemplo, las breadcrumbs de la librería comenzarán con la página de inicio, luego incluirán un enlace a la página de la
+categoría (libros infantiles) y terminarán con un enlace a la página de la subcategoría (libros de cuentos) como muestra el
+siguiente gráfico:
+
+![alt text](image-20.png)
+
+La ruta de navegación (breadcrumb trail) para llegar a la página de detalles de producto de un libro específico se vería
+así:
+
+![alt text](image-21.png)
+
+Al hacer clic en uno de estos enlaces, cada visitante podrá volver a una selección más amplia de libros.
+
+**Usar URLs simples y descriptivas** Otra buena práctica para la jerarquía de sitios es crear URLs que sean simples y
+descriptivas. El texto de las URL debe describir el contenido de la página. Esto hace que sea fácil para cada visitante
+entender lo que va a encontrar en esa página. Esto también mejora el SEO, al facilitar que los motores de búsqueda entiendan
+de qué trata la página.
+
+**Mejores prácticas para URL** *Mantén las URL lo más cortas posible.*
+
+    Las URL que son demasiado largas pueden abrumar o confundir.
+
+    Las URL más cortas hacen que sea más fácil compartir el enlace de tu página.
+
+*Haz que las URL sean fáciles de entender.* Las personas que visitan tu sitio web deben poder entender a dónde los llevará
+    un enlace cuando hagan clic en él.Por ejemplo, si estás creando una URL para una página de subcategoría para libros de
+    misterio, puedes usar una URL como esta: <https://www.booksgalore.com/ficcion/misterio>. Así, la persona que ingresa
+    sabrá que el enlace la llevará a la sección de libros de misterio, dentro de la categoría de ficción.
+
+    Las URL deben incluir palabras en lugar de números crípticos, que no significan nada para el/la visitante. También deberías evitar el uso de palabras genéricas como "página 1" o palabras clave excesivas como “libros-ficcion-libros-librosdeficcion” en tu URL.
+
+    Ten en cuenta que las URL son visibles en los resultados de los motores de búsqueda, por lo que es importante que sean fáciles de usar.
+
+*Mantener actualizadas las URL.* Los enlaces rotos son enlaces que conducen a páginas web que ya no existen y aparecen
+    cuando se elimina una página web o cuando el contenido se mueve a otra ubicación.
+
+*Crea páginas 404 útiles.* Ocasionalmente, los visitantes pueden aterrizar en una página 404, que es una página que informa
+    a las y los usuarios/as que la página web que intentan visitar ya no existe.
+
+    Las páginas 404 que tienen un mensaje vago o no orientan sobre qué hacer harán que la persona entre a un callejón sin salida.
+
+    Las páginas 404 personalizadas ayudan a guiar al visitante a una página de tu sitio que está en funcionamiento.
+
+**Conclusiones principales** Seguir las mejores prácticas para organizar la jerarquía de un sitio es clave, ya que facilita
+que las personas que lo visitan puedan encontrar lo que están buscando. También, ayuda a los motores de búsqueda a rastrear
+e indexar tu sitio. Seguir las mejores prácticas simplificará la navegación por tu sitio, mejorará el SEO y facilitará que
+los motores de búsqueda entiendan cómo las páginas de tu sitio se relacionan entre sí.
+
+**Recursos para obtener información adicional** Para obtener más información sobre mejores prácticas para la organización de
+la jerarquía, consulta este artículo: Centro de la Búsqueda de Google: Obtén más información sobre cómo organizar la
+jerarquía de tu sitio
+
 ### Revisión: Comprender la optimización de motores de búsqueda (SEO)
 
+#### Términos y definiciones del curso 2, semana 2
+
+Algoritmo de búsqueda: proceso automatizado que ayuda a localizar información para responder a las consultas realizadas en
+buscadores.
+
+URL: dirección de una página web o archivo en Internet.
+
+Algoritmo: Software automatizado que ayuda a localizar información para responder a la consulta de una persona.
+
+Breadcrumb (ruta de navegación): serie de enlaces internos en la parte superior o inferior de un sitio web que permite a
+quienes lo visitan navegar rápidamente a una sección anterior o a la página de inicio.
+
+Búsqueda orgánica: resultados no pagados que produce un buscador cuando se realiza una búsqueda.
+
+Consulta: las palabras escritas en la barra de búsqueda de Google.
+
+Datos estructurados: código utilizado para describir mejor el contenido de una página web a los motores de búsqueda.
+
+Dominio: parte central de la URL o dirección de Internet de un sitio web.
+
+Elemento de título de la página web: texto que proporciona tanto a las o los usuarios como a los motores de búsqueda el tema
+de una página.
+
+Enlace roto: enlace que conduce a una página web que ya no existe.
+
+Fragmento destacado: un cuadro especial que muestra información sobre una búsqueda en la página de resultados.
+
+Googlebot: nombre genérico del rastreador de Google
+
+HTTPS: protocolo de comunicación por Internet que protege la integridad y confidencialidad de los datos entre la computadora
+de las y los usuarios y el sitio web.
+
+Indexación: proceso por el que Google guarda y organiza la información del sitio web para mostrarla en el motor de búsqueda.
+
+Investigación de palabras clave: proceso de encontrar términos y frases que las personas usan en los motores de búsqueda.
+
+Keyword stuffing: práctica de cargar una página web con palabras clave o números en un intento de manipular el ranking de un
+sitio web en los resultados de búsqueda.
+
+Metadescripción: texto que proporciona a los motores de búsqueda un resumen de lo que trata la página.
+
+Motor de búsqueda: software que proporciona información sobre una consulta de búsqueda.
+
+Optimización de motores de búsqueda (SEO): proceso de mejorar la visibilidad de las páginas web en un motor de búsqueda para
+atraer tráfico más relevante.
+
+Página 404: URL que dice a quien visita la página web que esta no existe.
+
+Página web apta para dispositivos móviles: página web que está diseñada para cargarse rápidamente y mostrarse correctamente
+en la pantalla de un teléfono.
+
+Páginas de resultados de motores de búsqueda (SERP): páginas de resultados que aparecen cuando alguien realiza una consulta
+de búsqueda.
+
+Palabra clave: término de búsqueda que las personas usan para encontrar información, productos o servicios en línea.
+
+Paneles de conocimiento de Google: cuadros de información que aparecen en Google cuando alguien busca personas, lugares,
+organizaciones o cosas que están disponibles en la base de datos de Google.
+
+Perfil de Negocio de Google: herramienta que permite a las empresas locales adaptar la forma en que aparece su información
+en la búsqueda de Google y Google Maps.
+
+Ranking: posición de una página web en las páginas de resultados de motores de búsqueda (SERP), que está determinada por un
+algoritmo.
+
+Rastreo (Crawling): proceso de encontrar páginas web nuevas o actualizadas.
+
+Rastreador (Crawler): software automatizado que rastrea (busca) páginas de la web y las indexa.
+
+Resultados enriquecidos: resultados mejorados en la búsqueda de Google con funciones visuales o interactivas adicionales.
+
+Sitemap: archivo que proporciona información sobre las páginas, videos y otros archivos en un sitio web, así como las
+relaciones entre ellos.
+
+Subdominio: subconjunto de un dominio más grande utilizado para organizar un sitio web en una URL de página diferente.
+
+Subpágina: página de nivel inferior que aparece debajo de la página de inicio de un sitio web.
+
+Tasa de rebote: porcentaje de visitantes de un sitio web que ven una página y luego la abandonan.
+
 ## Utiliza la optimización de motores de búsqueda (SEO)
+
+### Optimiza el contenido de un sitio web para mejorar el posicionamiento en los motores de búsqueda
+
+### Ayuda a Google (y a los y las usuarios/as) a comprender el contenido
+
+### Analiza el rendimiento de los resultados de la búsqueda y el comportamiento de los y las usuarios/as
+
+### Revisión: Aplica la optimización de motores de búsqueda (SEO)
 
 ## Marketing de motores de búsqueda (SEM) y publicidad gráfica
