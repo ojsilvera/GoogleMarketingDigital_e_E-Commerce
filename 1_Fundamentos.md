@@ -3192,7 +3192,103 @@ A continuación, aprenderás a comunicar las percepciones que obtienes de tus da
 
 #### Conceptos básicos de la narración de datos
 
+Trabajar con datos no es solo cuestión de números. El proceso de extraer datos, elaborar informes, analizar y atribuir
+genera información valiosa que puede cambiar el curso de un proyecto o estrategia. Pero, ¿cómo convertir esos conocimientos
+en acciones? ¿Cómo persuadir a las personas clave de que hay que hacer algo, usando los datos para contar una historia? Sin
+una historia, los datos son solo números. Esos números pueden decirte lo que pasó, pero no pueden decirte por qué pasó, por
+qué es importante y qué puedes hacer. Ahí es donde entra la narración de datos, que es la práctica de transmitir información
+sobre los datos a un público específico mediante una narración clara y convincente.
+
+Los datos cuentan muchas historias, y no hay dos personas que cuenten la misma. Cada uno aporta sus propias perspectivas,
+experiencias y prejuicios a la narración de datos. Dentro de un rato descubrirás cómo superar algunos de esos retos. Por
+ahora, pensemos en cómo crear historias con datos. Una historia tiene 3 componentes clave: los datos, una narración
+convincente y visualizaciones claras. Juntas, estas piezas deben atraer a la audiencia explicando lo que se aprendió y cómo
+se puede usar esa información para tomar medidas. Vayamos por partes.
+
+Primero, los datos. Piensa en los datos como los personajes de una obra de teatro. Si están todos a la vez, es difícil saber
+dónde centrar la atención. Por eso hay que ser selectivo al destacar las cifras. Los puntos de datos más importantes son los
+protagonistas, mientras los otros hacen papeles secundarios y algunos no estarán en escena. Para saber qué puntos de datos
+son importantes, hay que entender las preguntas. Por ejemplo, tal vez trabajas para una juguetería que mide los resultados
+de una nueva campaña en medios sociales. Tu pregunta podría ser tan simple como saber si esta nueva campaña es más eficaz
+que la anterior. En este caso, el dato principal podría ser el retorno de la inversión publicitaria. Pero recuerda, debes
+entender la pregunta que deseas responder para saber qué datos usar. Tener claras las preguntas y los datos que puedes usar
+para responderlas es también el primer paso para planear la siguiente parte de la historia, la narración.
+
+La narración es como el argumento de una obra, es lo que pasa en la historia. Una narración bien estructurada es atractiva,
+memorable y persuasiva. Al elegir los puntos de datos y las ideas de respuestas, puedes crear una narración que los
+transmita con eficacia. En el ejemplo de la juguetería, dirías cómo los datos ROAS que recopilaste se comparan con la
+campaña anterior y cómo los resultados pueden influir después. En otras palabras, la historia debe explicar no solo lo que
+significan sino también por qué es importante para el público y qué puede hacer al respecto. Eso no significa que debas
+tener todas las respuestas. Algunas de las mejores historias crean espacio para el debate. Pero apelar a tu público con una
+narración sólida puede llamar la atención sobre tus ideas y animar a otros a pasar a la acción. Aprenderás más sobre cómo
+crear una narración efectiva en breve.
+
+Una vez explorada la estructura narrativa sencilla, pasemos al último elemento de la narración: las visualizaciones. Las
+visualizaciones son representaciones gráficas de datos que transmiten información.
+
+Las visualizaciones son como los trajes, iluminación y escenario de una obra. Centran la atención y ayudan al público a
+entender lo que ocurre en la narración. Las visualizaciones pueden tomar la forma de cuadros, gráficos, infografías u otras
+ilustraciones. Una visualización bien colocada aclara tendencias y expresa relaciones entre puntos de datos. Volviendo al
+ejemplo de la juguetería, podríamos optar por representar los datos de ROAS como una serie de números. Pero si lo que
+queremos es comparar la campaña actual con la anterior, es mucho más claro transmitir esa relación con un gráfico de barras.
+Transmite el punto de forma rápida y clara. En otro curso verás más sobre la visualización de datos y cómo hacer
+presentaciones accesibles a diferentes audiencias.
+
+La narración de datos es una herramienta poderosa y muy demandada para puestos de e-commerce y marketing digital. Usando
+datos, narrativa y visualizaciones, podemos atraer al público, comunicar ideas e influir en las grandes decisiones. A
+continuación, veremos más sobre cómo estructurar historias de datos.
+
 #### La estructura de una historia
+
+En un video anterior, aprendiste que sin una historia, los datos son solo números. La narración de datos  (o narración de
+historias con datos) es la práctica de mostrar lo que dicen los datos a una audiencia específica, usando una narrativa clara
+y convincente. Poder contar una buena historia a partir de datos es algo muy importante en el marketing digital. Para poder
+contar tu historia con datos de manera convincente, debes estructurarla en función de tres elementos.
+
+Las tres partes de una historia con datos Lo primero que debes hacer es analizar los datos para ver qué historia ocultan.
+Ten siempre presente que, en cada narración de datos, hay tres elementos: contexto, conflicto y resolución. Revisa tus datos
+para identificar cada uno de estos elementos y entonces podrás contar tu historia de manera adecuada.
+
+**Contexto** Definir el contexto es una parte importante de la narración de datos, porque sin contexto, no tienes un punto
+de partida. Piensa en tu contexto como el marco de la situación. Por ejemplo, imagina que el año pasado tu empresa tuvo una
+disminución tanto en las ventas como en su base de clientes. Los objetivos de la compañía son maximizar las ganancias y
+aumentar su base de clientes este año. Esos objetivos pueden ser el contexto de tu narrativa.
+
+**Conflicto** A continuación, debes identificar el conflicto. Esta es típicamente la razón por la cual la situación requiere
+actuar. Un conflicto, no necesariamente es algo malo. Puede ser una explicación, basada en datos, de cómo cambió una
+situación. Por ejemplo, si los objetivos de tu empresa son maximizar las ganancias y hacer crecer su base de clientes, y los
+datos muestran que estás en camino de cumplir el primer objetivo, pero no el segundo, eso es un conflicto. Cualquier cambio
+en las métricas puede ser ejemplo de un conflicto.
+
+**Resolución** Finalmente, como en cualquier narrativa, debes terminar en una resolución. La resolución de tu historia con
+datos es la acción necesaria para resolver un problema o aprovechar una oportunidad. Responde a las preguntas: ¿Cómo terminó
+la historia? ¿Cuáles fueron los resultados del conflicto? ¿Qué te dicen tus resultados sobre la campaña? Por ejemplo, si los
+resultados muestran que maximizaste tus ganancias pero no generaste nuevos clientes, explica la acción basada en datos que
+llevarás a cabo para cambiar eso.
+
+![alt text](image-9.png)
+
+Ahora, veamos un ejemplo. Usa los gráficos anteriores como imagen de referencia, y considera el ejemplo de la compañía de
+juguetes de un video anterior. Recuerda que, en el video, mediste los resultados de una nueva campaña de redes sociales para
+tu compañía de juguetes.
+
+El contexto de la historia puede ser el rendimiento de tu campaña anterior en redes sociales. En esa campaña, tu objetivo
+era aumentar las ventas un 5 % durante un periodo de tres meses,  mediante el uso de anuncios de pago en redes sociales.
+Desafortunadamente, no alcanzaste ese objetivo y ahora quieres revisar los datos de tu campaña actual para ver si está
+funcionando mejor. Ya estableciste el contexto para esta historia con datos.
+
+Cuando miras el retorno sobre la inversión publicitaria (Return On Ad Spend, ROAS) y las tasas de conversión que obtuviste
+la vez anterior, para comparar eso con los números de esta campaña, notas un aumento tanto en el ROAS como en las tasas de
+conversión. Ese aumento es el conflicto de tu campaña. Recuerda que, aunque el conflicto parece desfavorable, éste no
+siempre será el caso.
+
+Finalmente, la resolución de tu campaña cuenta la historia de por qué el ROAS y las tasas de conversión están subiendo.
+¿Aumentaron el ROAS y las tasas de conversión porque cambiaste los textos o las imágenes, promocionaste tus anuncios o por
+alguna otra razón? Tus hallazgos son tu resolución.
+
+**Conclusiones principales** Los datos no son solo números. Los datos tienen una narrativa que puede ser clave para el éxito
+futuro de tu empresa. Para crear campañas efectivas, debes encontrar las narrativas en los datos. Identificar tu contexto,
+conflicto y resolución te ayudará a lograrlo.
 
 ### Ve en busca de tu nueva carrera
 
