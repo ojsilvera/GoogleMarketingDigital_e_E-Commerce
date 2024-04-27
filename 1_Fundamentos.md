@@ -3107,6 +3107,12 @@ datos y evita el sesgo.
 
 ### Usa lo que te muestran los datos y mejora tu estrategia
 
+#### Modelos de atribución en marketing digital
+
+#### Conceptos básicos de la narración de datos
+
+#### La estructura de una historia
+
 ### Ve en busca de tu nueva carrera
 
 ### Revisión: medir el éxito del Performance Marketing
