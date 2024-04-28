@@ -1222,6 +1222,58 @@ encontrar más información a continuación.
 
 #### Ejemplo de actividad: Crea un calendario de redes sociales
 
+Las herramientas de gestión de redes sociales pueden ayudarte a realizar todo tipo de tareas. Ya sea que tu objetivo sea
+crear contenido, encontrar contenido para compartir, programar publicaciones o recopilar estadísticas, existen herramientas
+de administración de redes sociales para casi cualquier cosa que desees hacer. A continuación, aprenderás sobre algunas de
+estas herramientas.
+
+**Herramientas para crear contenido** Para ejecutar campañas en las redes sociales, deberás crear contenido. Estas
+herramientas pueden ayudarte a diseñar publicaciones:
+
+Canva ofrece suscripciones gratuitas y pagadas, y te permite crear tu propio contenido original o usar plantillas.
+
+Adobe Creative Cloud Express es una herramienta gratuita que ofrece capacidades similares en cuanto a la creación de
+contenido a partir de plantillas.
+
+**Herramientas para seleccionar contenido** Se llama “seleccionar contenido” al proceso de reunir y estructurar diferentes
+piezas de contenido. Para mantener los perfiles de redes sociales frescos y actualizados, es recomendable incluir contenido
+de diversas fuentes, además de crear y publicar el tuyo propio. Algunas herramientas útiles para encontrar, recopilar y
+organizar el contenido son:
+
+Feedly recopila noticias adaptadas a tu sector y te permite volver a publicarlas de inmediato en todas las cuentas sociales
+de tu marca. Si no deseas hacerlo en el momento, puedes guardar el contenido para más tarde.
+
+Pocket ofrece contenido relevante para tus intereses y te permite guardarlo para que puedas republicarlo más tarde. Con
+Pocket, puedes acceder a tu lista guardada desde el celular, la computadora o la tablet.
+
+**Herramientas para la programación de contenido** Quienes trabajan en  marketing digital siempre tienen una larga lista de
+tareas pendientes. Programar contenido puede ayudarte a hacer todo lo que necesitas, ya que te permite crear y publicar un
+contenido en el momento más adecuado para tu audiencia, sin tener que interrumpir lo que estás haciendo. Esto no significa
+que puedas programar publicaciones y olvidarte de ellas por completo, pero sí que tienes la posibilidad de crear las
+publicaciones cuando desees y asegurarte de que se publiquen en el mejor momento. Estas herramientas pueden ayudarte a
+programar y publicar contenido:
+
+Hootsuite es una herramienta de gestión de redes sociales que te permite crear calendarios. Se integra directamente con
+Instagram, Twitter, Facebook y otras plataformas para que puedas programar publicaciones con anticipación.
+
+Buffer también te permite redactar y programar publicaciones en Facebook, Instagram, Twitter, LinkedIn y Pinterest.
+
+**Herramientas de analítica** Para poder aprender sobre el rendimiento de la campaña, necesitarás una herramienta de
+analítica de redes sociales. Si prestas atención a lo que funcionó y lo que no, podrás ajustar tu estrategia en el futuro.
+Estas herramientas pueden ayudarle a recopilar y analizar los datos de tus campañas:
+
+Hootsuite Analytics es una herramienta de analítica con un panel de control, que se integra completamente con todas sus
+plataformas de redes sociales.
+
+Brandwatch te permite rastrear fácilmente la reputación de tu marca, las tendencias, los influencers y la competencia.
+
+Mentionlytics se centra en el seguimiento de menciones y palabras clave en todas tus plataformas de redes sociales.
+
+**Conclusiones principales** Las herramientas de gestión de redes sociales pueden ayudarte a optimizar tus procesos para que
+ahorres tiempo, te organices y publiques contenido de calidad en los momentos en los que sabes que tu audiencia es más
+propensa a interactuar. Los y las profesionales de marketing digital confían en estas herramientas para hacer que las
+campañas sean lo más efectivas posible.
+
 #### Herramientas de gestión de redes sociales
 
 #### Redacta y publica posteos a través de Hootsuite
