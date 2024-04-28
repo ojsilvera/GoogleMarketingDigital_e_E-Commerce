@@ -1220,7 +1220,7 @@ todo listo para completarlo!
 Consejo profesional: Hootsuite ofrece un planificador social interno que se integra directamente con Google Sheets. Puedes
 encontrar más información a continuación.
 
-#### Ejemplo de actividad: Crea un calendario de redes sociales
+#### Herramientas de gestión de redes sociales
 
 Las herramientas de gestión de redes sociales pueden ayudarte a realizar todo tipo de tareas. Ya sea que tu objetivo sea
 crear contenido, encontrar contenido para compartir, programar publicaciones o recopilar estadísticas, existen herramientas
@@ -1274,7 +1274,7 @@ ahorres tiempo, te organices y publiques contenido de calidad en los momentos en
 propensa a interactuar. Los y las profesionales de marketing digital confían en estas herramientas para hacer que las
 campañas sean lo más efectivas posible.
 
-#### Herramientas de gestión de redes sociales
+#### Redacta y publica posteos a través de Hootsuite
 
 Las herramientas de gestión de redes sociales te permiten organizar, programar y seguir tu contenido. Hootsuite, por
 ejemplo, es una herramienta “todo en uno” de gestión de redes sociales que te ayuda a planificar y crear contenido,
@@ -1384,13 +1384,319 @@ y personalizar el contenido para cada una. Al programar publicaciones con antici
 redes sociales de Hootsuite, puedes planificar y mantener una presencia constante en las redes sociales de manera más
 efectiva.
 
-#### Redacta y publica posteos a través de Hootsuite
-
 #### Ejemplo de actividad: Usa Hootsuite para crear y programar tuits
+
+Compara el ejemplo con tu cuenta de Hootsuite. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué
+hiciste bien? ¿En qué aspectos podrías mejorar? Las respuestas a estas preguntas te servirán de guía, a medida que avances
+en el curso.
+
+Tu cuenta de Hootsuite debe contener de dos a tres tuits programados para publicarse en Twitter entre las 6:00 a. m. y las
+9:00 a. m. en un día laborable. Cada tuit debe incluir:
+
+Menos de 280 caracteres de texto sobre un tema relacionado con tu vida profesional
+
+Uno o dos hashtags relevantes
+
+Un enlace a un sitio web que sustente el texto de tu tuit
+
+Contenido multimedia (como imágenes, GIF o videos) de la biblioteca de Hootsuite, tu dispositivo o un enlace a un artículo
+o contenido externo.
 
 ### Revisión: Estrategia, planificación y publicación en redes sociales
 
+#### Términos y definiciones del curso 3, semana 2
+
+Algoritmo de redes sociales: forma de clasificar las publicaciones en redes sociales en el flujo de contenido que ve un
+usuario/a, en función de su relevancia en lugar del orden cronológico de publicación.
+
+Blogging: se refiere a los escritos personales que se encuentran en línea
+
+Calendario de redes sociales: agenda de todas las publicaciones en redes sociales.
+
+Categorías de contenido: categorías para agrupar contenidos de marketing.
+
+Declaración de posicionamiento de marca: describe exactamente lo que hace una empresa y para quién, y qué la diferencia de
+sus competidores.
+
+Escucha social: seguimiento y análisis de conversaciones y tendencias relacionadas con una marca.
+
+Feed cronológico de contenido: feed de redes sociales que muestra primero el contenido publicado más reciente.
+
+Identidad de marca: la combinación de elementos que informan cómo las personas perciben una marca.
+
+Influencer: persona con la capacidad de influir en las y los compradores potenciales de un producto o servicio mediante la
+promoción o recomendación de artículos en las redes sociales.
+
+Marketing de influencers: proceso de reclutar influencers para que respalden o mencionen una marca o producto a sus
+seguidores/as en las redes sociales.
+
+Marketing en tiempo real: un enfoque de marketing que implica responder a eventos actuales, tendencias o comentarios en
+tiempo real o casi real, generalmente en las redes sociales.
+
+Medios ganados: exposición digital positiva generada a través de recomendaciones personales o públicas.
+
+Meme: elemento divertido o interesante, como una imagen o video con subtítulos, que se difunde ampliamente en línea.
+
+Microblogging: blogging a menor escala, ideal para distribuir contenido de formato corto de forma rápida y frecuente
+
+Público objetivo de las redes sociales: grupo específico de personas que una empresa desea alcanzar en las plataformas de
+redes sociales.
+
+Público objetivo: grupo de personas con más probabilidades de comprar los productos o servicios de una empresa.
+
+SMART: método de establecimiento de objetivos que puede ayudar a definir y medir el éxito de una campaña. Es el acrónimo
+inglés de “specific” (específico), “measurable” (medible), “attainable” (alcanzable), “relevant” (relevante) y “time-bound”
+(temporal).
+
+Usuarios/as activos/as mensuales: número de clientes únicos que visitan una plataforma durante un periodo de un mes.
+
 ## Escucha e interacción en redes sociales
+
+### Escucha social
+
+#### Te damos la bienvenida a la semana 3
+
+Imagina que eres responsable de marketing en redes sociales para una pequeña empresa. Desafortunadamente, uno de los
+productos tiene un pequeño defecto y tus clientes se están quejando en las redes sociales. Si conoces estas publicaciones y
+no abordas el problema, la reputación de tu empresa podría estar en peligro. Pero si escuchas a tus clientes en las redes
+sociales e interactúas para atender sus inquietudes, podrás mantener intacta la reputación de tu empresa. Eso nos lleva al
+tercer pilar del marketing en redes sociales: escucha e interacción. En esta sección, aprenderás acerca de cómo utilizar la
+escucha social, para el seguimiento y análisis de las conversaciones y tendencias relacionadas con tu marca. Hablaremos
+sobre cómo escuchar a tus clientes y seguidores en las redes sociales y analizar esas conversaciones para obtener
+información. También aprenderás sobre herramientas de escucha social que pueden ayudarte en este proceso. Luego, veremos
+cómo puedes aplicar lo que aprendiste para aumentar las interacciones con tu marca. Conocerás las diferentes formas para
+comunicarte con tus clientes y cómo responder a los distintos tipos de comunicación. Para profundizar en la interacción,
+aprenderás estrategias para desarrollar relaciones duraderas con tus clientes. También, a escribir y diseñar contenido
+atractivo para redes sociales y a desarrollar tu voz de marca en diferentes plataformas. Analizaremos cómo ahorrar tiempo y
+recursos reutilizando de otra forma contenidos que ya tienes. ¿Todo listo para descubrir cómo escuchar, aprender e
+interactuar con tus clientes en las redes? Vamos.
+
+#### La importancia de la escucha social
+
+Supongamos que ya hiciste varias publicaciones en las redes sociales que elegiste para tu campaña, ¿y ahora qué? Para saber
+cómo las personas reaccionan a estos mensajes, necesitas usar la escucha social. En este video, hablaremos sobre qué es la
+escucha social y por qué es tan importante para tu campaña en redes sociales. La escucha social es el seguimiento y análisis
+de las conversaciones y tendencias relacionadas con tu marca. Te ayuda a entender lo que las personas piensan de tu marca, y
+a tomar futuras decisiones de marketing y desarrollo de productos. La escucha social es un proceso de dos pasos. El paso 1
+es monitorear las plataformas de redes sociales en busca de menciones de tu marca, productos, servicios, competidores y
+cualquier palabra clave relacionada. El paso 2, es analizar la información que recopilaste y planificar acciones basadas en
+lo aprendido. Estas acciones pueden ser tan simples como responder a un cliente insatisfecho o tan complejas como ajustar
+toda tu estrategia de redes sociales. La escucha social es una parte importante de tu estrategia de marketing en redes
+sociales por varias razones. Para empezar, te ayuda a entender cuál es el sentimiento sobre tu marca en las redes sociales.
+El sentimiento es la actitud y el afecto que las personas tienen hacia una marca en las redes sociales. Conocer cómo se
+sienten las personas respecto a tu marca te permite identificar qué funciona en tu estrategia de marketing en redes sociales
+y dónde necesitas hacer cambios. La escucha social también te da la oportunidad de interactuar con tus clientes y seguidores
+acerca de tu marca. Por ejemplo, si un cliente comenta sobre cuánto le gusta un producto o hace una pregunta, estás ante una
+gran oportunidad de interactuar de forma directa con él o ella. Tus clientes quieren sentir que escuchas. Responderles puede
+generar fidelidad a la marca y aumentar la tasa de retención. Cuando hay opiniones negativas sobre tu marca en redes
+sociales, la escucha social te ayuda a identificar las causas y a abordar los problemas. ¿Cuáles son los puntos de dolor de
+tus clientes? ¿Puedes ofrecer una solución a los problemas que mencionan? Si puedes, cuéntaselo a la gente en las redes
+sociales. Por ejemplo, digamos que varios clientes detectaron un problema al hacer pedidos desde tu app. Puedes escalar el
+problema al departamento de TI de tu empresa y avisar a los clientes que lo están resolviendo con una publicación. Pero
+debes tener en cuenta cuáles mensajes debes responder de manera directa y cuáles públicamente. Un problema que afecta a un
+pequeño grupo de personas puede no afectar a la mayoría de tu audiencia y publicar sobre ello puede llamar más la atención.
+La escucha social sirve para analizar a la competencia. Te permite conocer lo que hace y descubrir cómo se sienten sus
+clientes. Por ejemplo, que no están contentos con un producto. Así, podrías diseñar estrategias para mejorar un producto
+similar. O puedes descubrir que el contenido de alguno de tus competidores supera al tuyo. Puedes analizar por qué su
+contenido tiene un mejor impacto en la audiencia en común y hacer ajustes en consecuencia. También puedes usar la escucha
+social para impulsar la adquisición de clientes. Las redes sociales ofrecen muchas oportunidades para llegar a clientes
+potenciales. Después de todo, tus seguidores no solo son tus clientes, también son personas a las que les interesa tu
+contenido. Con la escucha social, puedes descubrir el tipo de contenido que más disfrutan tus seguidores. y crear más
+contenido de ese tipo para atraerlos hacia tu marca. La escucha social será clave en tus campañas en redes sociales. Las
+ideas que obtienes de ella pueden ayudarte a crear contenido de interés, a proponer nuevas ideas en base a las tendencias, y
+a ajustar tu estrategia de marketing para adaptarte al mercado actual. Próximamente, hablaremos sobre estrategias y
+herramientas de escucha social.
+
+#### Estrategias de escucha social
+
+Aprendiste que la escucha social es seguir y analizar conversaciones y tendencias de tu marca. También aprendiste cómo la
+escucha social te ayuda a entender cómo se sienten las personas con tu marca lo que te permite interactuar con ellas de
+manera efectiva. Ahora que ya sabes lo que es la escucha social y por qué es importante, hablemos de cómo hacerla. Para
+comenzar, debes identificar las palabras clave que usan las personas cuando hablan de tu marca. Anteriormente, aprendiste a
+investigar palabras clave para la optimización de motores de búsqueda. Para SEO, encuentras las palabras clave más buscadas
+y las pones en tu página web para ayudar a las personas a encontrar tu contenido. En la escucha social identificas las
+palabras clave para encontrar conversaciones sobre tu marca. Usarás las que sean más relevantes para tu marca y la de tu
+competencia. La marca y nombres de productos, incluídas cualquier variación o faltas de ortografía comunes, eslóganes,
+nombres de personas clave en la empresa, palabras de moda de la industria, y hashtags relacionados con la marca. Un hashtag
+es una palabra o frase precedida por el símbolo numeral que indica que una pieza de contenido se relaciona con un tema o
+categoría específica. Los hashtags son un tipo de etiqueta digital que ayuda a las personas a encontrar contenido en las
+redes sociales. Por ejemplo, una empresa de café puede usar hashtags como #horadelcafé, #amantedelcafé, #elmejorcafé,
+o, #bebedoresdecafé. Una vez que hayas identificado las palabras clave más relevantes, tendrás que determinar dónde encuentras
+a cada una. Por ejemplo, las personas pueden hablar diferente sobre tu negocio en LinkedIn que en Facebook. O mencionarlo
+con más frecuencia en Twitter que en Instagram. Con el fin de desarrollar las mejores estrategias para las diferentes
+plataformas, debes escuchar cómo hablan las personas de ti en cada una de ellas. Después, querrás averiguar qué dicen las
+personas de tu marca. Buscar las respuestas a preguntas como: ¿qué es lo que más le gusta a las personas de tu marca?
+¿Cuáles son sus problemas más comunes? ¿Cuáles son sus preguntas más frecuentes? ¿Qué relación tienen las personas con tu
+marca? ¿Qué tipo de contenido comparten? Estas preguntas te ayudarán a identificar comentarios, problemas y sentimientos de
+clientes sobre tu marca. Comprender cómo se sienten las personas con tu marca y tus productos puede ayudarte a mejorar tu
+estrategia. Te darás una idea de la opinión que tienen sobre tu marca y productos específicos o las características que más
+les interesan. En lugar de actuar sobre suposiciones, entenderás lo que realmente necesita tu cliente. También usarás la
+escucha social para evaluar a tu competencia. ¿cuáles de sus contenidos funcionan mejor que los tuyos, y cómo podrías
+mejorarlos para que resuenen más en el público en común? ¿Con cuáles de sus productos están insatisfechos sus clientes? ¿Qué
+aprendizajes podrías usar para mejorar tus propios productos? ¿Qué nuevos productos o soluciones ofrecen y cómo se comparan
+con tu propuesta? La escucha social te muestra lo que tus competidores hacen bien y lo que a sus clientes les gusta de
+ellos, pero también puede resaltar sus errores, para que puedas ver lo que no debes hacer. Por ejemplo, si tu competencia
+publica un contenido que recibe muchos comentarios negativos, puedes evitar publicar un contenido similar y ahorrar tiempo,
+energía, y recursos aprendiendo de los errores de tu competencia. Además de mostrarte cómo es tu competencia directa, la
+escucha social puede ayudarte a conocer lo que sucede en tu industria, como las tendencias o el desempeño del mercado. Al
+utilizar la escucha social para obtener información sobre la industria, pregúntate lo siguiente. ¿Hay alguna necesidad que
+un nuevo producto o solución podría ayudar a resolver? ¿Hay algún hecho o problema importante en el mundo que sea relevante
+para tu marca? ¿En base a qué preguntas frecuentes podrías crear contenidos que respondan a las necesidades de tu público?
+Para ayudarte a implementar estas tácticas de escucha social, puedes usar una herramienta de escucha social. Esta
+herramienta es un software que te ayuda a rastrear menciones de tu marca, palabras clave relevantes y comentarios directos
+en múltiples redes sociales. Más adelante, hablaremos de algunas herramientas de escucha social y cómo elegir la más
+adecuada para tus campañas. Ahora que aprendiste algunas tácticas para aprovechar al máximo tu escucha social, veremos cómo
+usar estas lecciones para informar sobre cómo interactuar con tus clientes y seguidores.
+
+#### Caso práctico: Cómo EatMoveRest mejora los contenidos con la escucha social
+
+Ya sabes que una de las ventajas de la escucha social es el aumento de la interacción de las personas con una marca. La
+escucha social se lleva a cabo en las distintas plataformas de redes sociales a través de una variedad de métodos
+diferentes. Este caso práctico describe cómo Erin y Dusty Stanczyk, fundadores de la marca de estilo de vida saludable
+EatMoveRest, con sede en Omaha, Nebraska, incorporaron con éxito la escucha social para mejorar sus contenidos.
+
+![alt text](image-68.png)
+
+**Más información de la empresa** EatMoveRest se creó con la premisa de mejorar las tres cosas que las personas hacen todos
+los días:comer, moverse y descansar. EatMoveRest busca entrenar a las personas a lograr estilos de vida más saludables y
+sustentables. Como parte de su modelo de negocio, ofrece la planificación de comidas veganas, recetas basadas en plantas, el
+asesoramiento de expertos, coaching y consejos prácticos para una vida sostenible.
+
+Los Stanczyks crearon su empresa basándose en el concepto de que son un grupo de personas que comparten intereses y valores
+similares, pero como han construido una comunidad en línea, su círculo social se extiende por todo el mundo.
+
+![alt text](image-69.png)
+
+**Los desafíos** Recuerda que la escucha social consiste en seguir y analizar las conversaciones y tendencias relacionadas
+con una marca. Esto es un gran reto para una empresa de cualquier tamaño, y más aún para las pequeñas empresas, como
+EatMoveRest, que no cuentan con el suficiente tiempo para revisar todos los datos, y mucho menos analizarlos para tomar
+decisiones comerciales o de contenido. EatMoveRest se enfrentó a tres desafíos específicos con la escucha social:
+
+Gran volumen de comentarios
+
+Ausencia de barreras ni límites a lo que se expresa en los comentarios
+
+Imposibilidad de responder o abordar todos los comentarios
+
+**Gran volumen de comentarios de los usuarios** Los comentarios en YouTube e Instagram son interminables. Las personas son
+libres de dar su opinión cuando quieran, y puede ser abrumador leer, seguir y responder a todo. Examinar un gran volumen de
+comentarios es un reto enorme.
+
+No hay barreras ni límites a lo que se expresa en los comentarios Muchos de los comentarios son positivos y constructivos,
+pero también abundan los negativos y, a veces, odiosos. Esta ausencia de barreras hace que sea difícil identificar
+comentarios útiles entre miles de personas que “gritan” digitalmente con un lenguaje fuerte o en mayúsculas.
+
+Imposibilidad de responder o abordar todos los comentarios Abordar las aportaciones de un gran número de seguidores puede
+ser una tarea difícil. Con el enorme volumen de comentarios de YouTube e Instagram, es imposible responder a todos ellos.
+
+**El enfoque** Los Stanczyk recomiendan estas buenas prácticas o consejos para la escucha social:
+
+Identificar qué canal es prioritario para revisar los comentarios.
+
+Ofrecer a sus seguidores un horario determinado para que envíen sus comentarios a través de los métodos elegidos.
+
+**Opiniones prioritarias** EatMoveRest dio prioridad a su canal de YouTube sobre otros canales de redes sociales, a la hora
+de leer y responder comentarios, para que sus espectadores y espectadoras se sintieran parte de la comunidad EatMoveRest.
+Estas opiniones son las más importantes para la marca.
+
+**Tiempos y métodos designados para los comentarios** EatMoveRest empezó a ofrecer horarios y métodos designados para hacer
+comentarios. Así, los Stanczyk podían planificar y reservar cierto tiempo para responder a los comentarios recibidos.
+Establecer horarios y métodos específicos permite centrarse más en los comentarios constructivos, e ignorar aquellos
+ruidosos y de mal gusto.
+
+Un método muy útil para recibir comentarios es la función de preguntas y respuestas de Instagram. Esta permite crear un
+cuadro de envío justo debajo del contenido publicado, para que las personas interactúen con la marca a través de mensajes
+directos y relevantes enviados en el recuadro. Los comentarios que reciben sobre sus productos, aplicaciones, sitio web,
+recetas y contenidos están en un lugar organizado, y pueden responderlos rápidamente.
+
+**Los resultados** Al dar prioridad a la revisión de los comentarios de YouTube y establecer tiempos y métodos específicos
+para la escucha social, los Stanczyk pudieron descubrir dos problemas y resolverlos. Uno de ellos se refería a un estilo
+concreto de contenido y el otro a su aplicación para la planificación de comidas.
+
+**Revertir los cambios en el contenido** Gran parte del contenido de las redes sociales de EatMoveRest adopta el formato de
+“un día en la vida de la familia Stanczyk”. Muchas familias jóvenes encuentran que este tipo de videos son un reflejo de sus
+propias vidas. Aprecian los colores vibrantes de la casa, la música edificante que acompaña los videos y el compromiso con
+un  estilo de vida positivo. Cuando la música de un video era un poco más apagada de lo habitual, su público en YouTube les
+hizo saber que preferían una música más alegre. Así, el estilo musical optimista de la marca fue validado a través de la
+escucha social. Cuando Dusty Stanczyk publicó un video sobre agricultura animal, los comentarios de YouTube también le
+hicieron saber que ese no era el tipo de contenido que querían ver. Ese video se había desviado del contenido positivo y
+edificante habitual por el que EatMoveRest era conocido. ¡Pulgares hacia abajo y nada de compartir! Ahora EatMoveRest evita
+publicar contenidos de este tipo en su canal.
+
+**Mejorar de la app para la planificación de comidas** EatMoveRest también descubrió un problema con su nueva app para la
+planificación de comidas a través de la escucha social. Tras el lanzamiento de la aplicación, los Stanczyks comenzaron a
+recibir comentarios de preguntas y respuestas en Instagram sobre lo viejas que resultaban con el tiempo las recetas que se
+mostraban. Aunque no estaba en el diseño de la app, sus usuarios y usuarias esperaban que las recetas se renovarán
+semanalmente. Gracias a sus prácticas de escucha social inteligentes y dedicadas, EatMoveRest comenzó a actualizar las
+recetas en la app con más frecuencia.
+
+**Conclusión** Una empresa necesita escuchar activamente en las redes sociales para comprender cómo las personas interactúan
+con su marca. Los comentarios pueden ser positivos y constructivos, negativos y tendenciosos o, a veces, polémicos. Incluso
+una marca como EatMoveRest, con una base de público fiel, puede beneficiarse haciendo cambios útiles en sus prácticas
+comerciales o contenidos tras recibir comentarios constructivos a través de la escucha social.
+
+#### Herramientas más comunes de escucha social
+
+Ahora que ya conoces el contenido de este curso sobre redes sociales, deberías saber de qué se trata la escucha social. A
+modo de repaso, la escucha social se refiere al seguimiento y análisis de las conversaciones y tendencias relacionadas con
+tu marca. Otra forma de llevar a cabo la escucha social es simplemente preguntando a tu audiencia. En este artículo,
+aprenderás sobre las herramientas que te permiten llevar a cabo una escucha social efectiva. Estas herramientas pueden
+ayudarte a monitorear todas tus plataformas de redes sociales desde un solo lugar.
+
+En sus paneles de control , podrás consultar:
+
+las menciones de tu marca
+
+palabras clave relevantes
+
+comentarios a través de etiquetas y mensajes directos
+
+Incluso podrás hacer publicaciones directamente desde la herramienta e integrar todas tus cuentas para poder realizar un
+seguimiento analítico.
+
+**Herramientas de escucha social**
+Existen innumerables herramientas de escucha social, y elegir la adecuada puede ser una
+gran tarea. Por ahora,haremos una introducción a las más populares. A medida que conozcas cada una de ellas, podrás empezar
+a formarte una opinión sobre cuál preferirías utilizar en un futuro como especialista en marketing digital. Y una vez que lo
+hayas hecho, no dudes en navegar por sus sitios y probarlas: ¡no puedes saber realmente cuál es tu preferida hasta que las
+hayas usado!
+
+**Software de gestión de redes sociales HubSpot**
+Aprenderás  sobre HubSpot y sus sólidas funciones a lo largo de todo el programa. Esta herramienta tiene múltiples funciones
+y usos, pero como herramienta de escucha social, ofrece la integración y análisis de todos los tipos de marketing en un solo
+lugar. Con ella, puedes dirigirte a públicos específicos utilizando la base de datos de contactos integrada en la
+herramienta de gestión de relaciones de clientes y, a continuación, realizar un seguimiento y administrar las interacciones.
+Al igual que muchas herramientas de escucha social, HubSpot también permite responder a las etiquetas, menciones y
+comentarios directamente desde la interfaz.
+
+**Sprout Social**
+Sprout Social es una herramienta integral de gestión de redes sociales con funciones similares a las de HubSpot.Permite
+publicar contenido a través de sus funciones de publicación, y gestionar la escucha social y las necesidades de atención al
+cliente. Sprout Social también ayuda a descubrir tendencias a partir de las menciones y los comentarios, y proporciona
+información valiosa sobre el público.
+
+**Falcon.io + Brandwatch (Falcon.io forma ahora parte de Brandwatch)**
+Otra herramienta integral de gestión de redes sociales que se usa comúnmente es Falcon.io. Falcon.io permite la comunicación
+directa entre las personas que comentan en las redes sociales y el equipo interno de la empresa cuando es necesario. También
+incluye una función llamada Engage inbox, que permite gestionar eficazmente los mensajes privados.
+
+**Hootsuite**
+Al igual que las otras herramientas, Hootsuite permite crear y programar contenidos, monitorear la actividad y las
+menciones, y gestionar la comunicación de todas las cuentas compatibles en un solo panel. También sugiere los mejores
+momentos para publicar, basándose en datos, y permite la colaboración en equipo en todos los mensajes de Hootsuite Inbox.
+
+**Conclusiones clave**
+Recuerda que estas son solo algunas de las herramientas más utilizadas para la escucha social. Todos tienen casos de uso
+similares, pero la interfaz de usuario y las capacidades pueden variar. Si puedes, tómate un tiempo y prueba cada
+herramienta para que identifiques cuál te resulta más cómoda.
+
+#### Ejemplo de actividad: Usar la escucha social para obtener
+
+### Interacción en las redes sociales
+
+### Redactar contenido atractivo
+
+### Revisión: Escucha e interacción en las redes sociales
 
 ## Analítica e informes de redes sociales
 
