@@ -2074,6 +2074,503 @@ relevantes y consigas los mejores resultados.
 
 ### Redactar contenido atractivo
 
+#### Redactar para las redes sociales
+
+Puedes usar muchas buenas estrategias para aumentar tus interacciones y seguidores en redes sociales. Pero no mejorarás los
+resultados de tu campaña si el contenido que publicas no es convincente. La forma en que las empresas abordan el desarrollo
+de contenidos de marketing, depende del tamaño y los recursos. Algunas empresas pueden dedicar recursos internos al
+contenido de marketing. Otras pueden subcontratar la creación a profesionales independientes o productoras de contenido. Ya
+sea que escribas y diseñes el contenido por tu cuenta, o coordines su desarrollo con otras personas, debes comprender los
+principios para crear contenidos atractivos. Al final, eres responsable de que el contenido refleje bien a tu marca y llegue
+a tu público. En este video, hablaremos de las recomendaciones para escribir contenidos para redes sociales. Para empezar,
+asegúrate de escribir para tu público. Como se dijo antes, esto significa hacer investigación para conocerlo. ¿Cuáles son
+sus intereses y valores? ¿Cuáles son sus necesidades, obstáculos y desafíos? Si quieres que tu público vea e interactúe con
+tus publicaciones, debes priorizar sus necesidades cuando escribas. Piensa desde su perspectiva, y luego describe cómo tu
+negocio o producto pueden mejorar su vida. Esto también te ayuda a escribir como si le hablaras directamente a cada persona.
+Además de considerar la perspectiva de tu público, también debes aprender a hablar como él. Investiga el tipo de lenguaje
+que tu público objetivo usa para comunicarse. Luego, utiliza un lenguaje similar para lograr un mayor impacto. También
+tendrás que ser capaz de adaptar lo que escribas a cada plataforma. Por ejemplo, una publicación orientada a profesionales
+en LinkedIn, generalmente debe usar un lenguaje diferente que una dirigida a jóvenes adultos en Facebook. Sin embargo, usar
+intencionalmente un lenguaje diferente al que se utiliza en una plataforma determinada puede ser muy efectivo para captar la
+atención. Las personas están expuestas a una gran cantidad de contenido en las redes sociales todos los días. Para captar su
+atención en el breve momento en que pasan por tu contenido, debes crear publicaciones cortas y simples. Algunas maneras de
+hacer esto son evitar la jerga, dividir mensajes usando títulos, viñetas y listas, usar oraciones y párrafos cortos, y
+destacar la información importante en negritas. Esto ayudará a que tus publicaciones sean fáciles de leer y comprender para
+tu público. Al final, Una llamada a la acción es un estímulo para inducir al cliente a hacer algo a continuación. Se usan en
+muchos canales de marketing digital, como anuncios de display y marketing por correo electrónico. En redes sociales, las
+llamadas a la acción incluyen pedir a tu público que le dé Me gusta, comparta, responda a una pregunta, haga una prueba, lea
+otro contenido, vaya a tu sitio web, se suscriba a tu boletín informativo, o se conecte con tu perfil en otra plataforma de
+redes sociales. Incluso aunque crean que tu contenido es interesante y valioso puede ser que no tomen ninguna acción después
+de leerlo. Un llamado a la acción los anima a seguir conectados. Aunque en redes sociales debes escribir en el lenguaje de
+tu público objetivo, tu mensaje general debe estar escrito con la voz de tu marca. La voz de tu marca es la personalidad
+única que adoptas en sus comunicaciones. Es el lenguaje y tono que usas al escribir tu contenido, o al interactuar con tu
+público. Por ejemplo, la voz de tu marca puede ser casual y conversacional, o podría ser profesional y seria. La voz de tu
+marca debe ser consistente en todo el contenido y en todos tus canales de marketing, incluyendo las redes sociales. La
+consistencia ayuda a tu público a reconocerte y a familiarizarse contigo. Hablaremos más sobre cómo desarrollar la voz de tu
+marca en redes sociales más adelante. Por último y no menos importante, en la redacción de tus contenidos, debes poner
+atención a la gramática y la ortografía. Incluso si la voz de tu marca es casual, publicar contenido con errores no es una
+buena imagen para tu negocio. ¡Buen trabajo! Aplicar estos principios para escribir de manera efectiva en redes sociales te
+ayudará a llegar a tu público y a interactuar con él. Hablaremos más sobre cómo desarrollar contenido atractivo para redes
+sociales en el resto de esta lección.
+
+#### Desarrolla tu voz de marca en las redes sociales
+
+Anteriormente recibiste algunos consejos para escribir contenido atractivo en las redes sociales. Una de las mejores
+prácticas que mencionamos fue escribir con la voz de tu marca. En este video, analizaremos a fondo qué es una voz de marca,
+por qué es importante y cómo desarrollar una para las redes sociales. Repasemos. La voz de marca es una personalidad
+distintiva que una marca adquiere en su comunicación. Así es como las actitudes y valores de una marca se reflejan en todo
+su contenido. Desarrollar una voz de marca consistente, es esencial por varias razones. Para empezar, te ayuda a destacar en
+las redes sociales. En ese abarrotado espacio, tener una voz de marca distintiva puede hacer que seas recordable y
+diferenciarte del resto de tus competidores. Tener una voz de la marca diferente también te ayuda a hacer que seas más
+reconocible. Esto aumenta la familiaridad y el reconocimiento que tienen tus clientes actuales y potenciales de tu marca.
+Crear una voz de marca consiste en ofrecer un lenguaje y un mensaje consistente a través de todo el contenido de marketing.
+Esta consistencia ayuda a crear confianza y fidelidad. Ahora que comprendes la importancia de tener una voz de marca
+distintiva, vamos a hablar de cómo puedes desarrollar una para las redes sociales. Para comenzar a definir tu voz de marca
+en redes sociales, piensa primero cómo describirías la personalidad de tu marca. Si tu marca fuera una persona, ¿cómo sería?
+¿Qué diría? ¿Cómo actuaría? ¿Cuál sería su relación con sus clientes? ¿Actuaría como un entrenador, un amigo o un padre?
+Piensa en algunos adjetivos que podrías usar para describir la personalidad de tu marca. ¿Es amigable, optimista y
+servicial? ¿Inteligente, segura y formal? ¿Casual, sarcástica y audaz? Con el fin de definir más la voz de tu marca, revisa
+el contenido actual y anterior de la empresa. Estudia ejemplos de todas sus comunicaciones de marketing para tener una idea
+de cómo es la voz de tu marca en la actualidad. ¿Cómo habla tu público objetivo y cómo interactúa contigo? ¿Qué contenido
+tuvo impacto en tu público en el pasado? ¿Qué lenguaje usa? Ahora, podrás tener una idea de cómo es la personalidad de tu
+marca actualmente y comenzar a pensar en cómo darle más forma. Es importante que la voz de tu marca sea honesta y auténtica.
+Evita la terminología complicada, los acrónimos, y la jerga, y cualquier cosa que pueda dificultar que tu público, comprenda
+el mensaje. Dirígete a él de manera natural como lo harías si le hablaras en persona. El público necesita sentirse cómodo
+para interactuar en línea y quiere hablar con una persona real. Tener una voz de marca auténtica te ayudará a formar
+conexiones y a construir relaciones con tus clientes. Además de desarrollar tu voz de marca en redes sociales, puedes
+empezar a pensar en un concepto relacionado: el tono. Mientras que la voz es una expresión de la personalidad de tu marca,
+el tono es como la aplicas. El tono de tu contenido puede diferir en función de factores como el público, la situación y la
+plataforma. Por ejemplo, puedes usar un tono optimista y entusiasta para describir el lanzamiento de un producto. Mientras
+que utilizarás un tono serio y empático para transmitir apoyo a una comunidad que acaba de vivir un desastre natural.
+Esencialmente, tendrás una voz de marca, pero usarás muchos tonos para expresarla. Para ayudar a mantener la consistencia en
+todos los canales de marketing, muchas veces las empresas crean directrices para la voz de la marca. Estas directrices
+describen la manera en la que tu marca se debe presentar de manera escrita. Incluyen cosas como la misión de la marca y sus
+valores, personalidad, público objetivo, vocabulario común, frases, y el tono para diferentes situaciones o diferentes
+plataformas, y algunos ejemplos. Las directrices de la marca son una referencia útil cuando escribes con la voz de tu marca
+o revisas el trabajo de otros. Pueden ayudar a tus colaboradores a crear contenido que refleje tu marca y asegurar su
+consistencia. Y para alguien que empieza en la industria o en la empresa podrían proporcionarle una guía útil. Es importante
+expresar tu voz de marca en redes sociales porque te ayuda sobresalir de tus competidores, hace tu marca más reconocible, y
+genera confianza y fidelidad en tus clientes. Próximamente, te hablaremos sobre BLK & Bold, una empresa de café que valora
+invertir en comunidades que representan la diversidad y producen y ofrecen productos de calidad. Exploraremos cómo BLK &
+Bold expresa estos valores a través de su voz de marca en redes sociales. Nos vemos en el siguiente video.
+
+#### Caso práctico: Cómo BLK & Bold encontró su voz de marca
+
+Anteriormente, aprendiste que la voz de marca es la personalidad distintiva que adopta una marca en las comunicaciones de
+una empresa. Es la forma en que sus actitudes y valores se reflejan en el contenido público, incluido el contenido en las
+redes sociales. Este caso práctico describe cómo los fundadores de BLK & Bold, una empresa de café con sede en Des Moines,
+Iowa, incorporaron con éxito una voz de marca distintiva en su contenido en redes sociales y conocerás los elementos que la
+hacen única.
+
+![alt text](image-71.png)
+
+**Más información de la empresa.**
+
+![alt text](image-72.png)
+
+Los fundadores de BLK & Bold, Rod Johnson y Pernell Cezar Jr., son amigos de toda la vida  y crecieron en Gary, Indiana.
+Comenzaron a tostar café en el garaje de su casa con la idea de llevar su pasión y su gusto por el café y el té de primera
+calidad a todo el mundo, y de, al mismo tiempo, hacer algo positivo para la sociedad. Hoy, dirigen con éxito su negocio en
+línea y una planta de producción de más de 1800 metros cuadrados. Su café se vende en las tiendas Target en los Estados
+Unidos y el 5 % de sus beneficios se destina a programas para jóvenes necesitados.
+
+**Los retos**
+Al principio, Rod y Pernell enfrentaron  algunos desafíos. El primero era la categoría del producto, ya que el del café es
+un mercado sobresaturado con muchas marcas. En segundo lugar, iban en contramano de las tendencias de la industria que suele
+dirigir al café de calidad superior a un público exclusivo..Por último, lanzaban una marca nativa digital en un momento en
+que la mayoría de las personas no compraba café en línea, y a diferencia de las grandes cadenas de cafeterías, ellos no
+contaban con tiendas físicas que ayudarán a impulsar el reconocimiento de la marca y las ventas en línea. Además, ninguno de
+los dos tenía experiencia previa en la industria del café ni eran influencers de alto perfil para su consumo.
+
+**El enfoque**
+A pesar de estos desafíos, Rod y Pernell se propusieron construir su negocio. Mientras lo hacían, se convirtieron en
+colaboradores directos de la voz de marca de BLK & Bold generando una personalidad distintiva y reconocible solventada en
+estos principales elementos:
+
+    Nombre de la empresa
+
+    Inspiración
+
+    Valores
+
+    Tono
+
+    Actitud
+
+**Nombre de la empresa**
+El nombre de la empresa, BLK & Bold, es una poderosa declaración de marca. BLK (black) representa el café y el té negros,
+sus productos, pero también les define como empresarios de origen afroamericano. Bold diferencia su marca de los sabores
+insípidos, pero al mismo tiempo representa su audaz (una acepción de la palabra bold en inglés) participación en la
+industria del café.
+
+**Inspiración**
+Su historia personal es fuente de inspiración para otros. Rod y Pernell fueron graduados universitarios de primera
+generación y encontraron su propósito y misión como empresarios. Trabajaron duro para construir su negocio desde cero y a
+menudo se les considera modelos a seguir en su comunidad.
+
+Lo que los motiva es su sentido del propósito y la misión. Su  propósito es crear café de especialidad y unir fuerzas con
+impacto comunitario. Su misión es educar a las personas en el consumo de café y retribuir a la comunidad.
+
+**Valores**
+Para un individuo, no hay nada más poderoso que decir algo que refleje sus valores más profundos. Lo mismo puede decirse de
+la voz de una marca. Observa cómo las siguientes declaraciones de los fundadores reflejan la voz de su marca y los valores y
+prácticas empresariales relacionados con ella.
+
+    Voz de marca: “Hoy, la gente compra por sus valores”.
+
+    Valor subyacente: BLK & Bold respeta el derecho a elegir dónde comprar. Compra con nosotros porque apoyas nuestra misión.
+
+    Voz de marca: “Compra en una empresa que hace algo más que vender un producto”.
+
+    Valor subyacente: invierte en nuestra comunidad que utiliza el 5 % de los beneficios para apoyar programas comunitarios.
+
+    Voz de marca: “Conectamos el ritual cotidiano del café y el té con el bien común”.
+
+    Valor subyacente: las elecciones diarias marcan la diferencia e influyen en los demás.
+
+    Voz de marca: “El consumidor es lo primero”.
+
+    Valor subyacente: libérate de la complicada jerga del café y disfruta simplemente de una taza  increíble.
+
+**Tono**
+Otro elemento de la voz de la marca es el tono, que es cómo se aplica la voz de una marca. La voz de marca de BLK & Bold es
+informal, cercana, conversacional y educativa.
+
+**Actitud**
+La voz de marca de BLK & Bold también muestra una actitud de compromiso social. En particular, BLK & Bold busca
+oportunidades culturalmente relevantes para promover su marca y misión. Por ejemplo, para colaborar con Movement for Black
+Lives, se asoció con Ben & Jerry's para crear un sabor de helado hecho con una infusión fría distintiva de BLK & Bold
+llamada Change is Brewing (el cambio se está preparando). BLK & Bold también produce The Warm Up, un café de edición
+especial con licencia oficial de la Asociación Nacional de Baloncesto (NBA). Por cada bolsa de este café vendida, la NBA
+aporta un 5 % adicional a la iniciativa “Para nuestra juventud” de BLK & Bold.
+
+**Los resultados**
+Con su voz de su marca, BLK & Bold ha tenido mucho éxito con el uso de Instagram que se debe en gran parte a su capacidad
+para captar las sensaciones de la preparación y la degustación del café en sus videos. Un ejemplo es este video de Instagram
+en el que se puede escuchar el sonido de los cubitos de hielo al entrar en un vaso. Los anuncios tanto en Instagram como en
+Facebook se dirigen a consumidores de café de entre 25 y 45 años que son quienes tienen más probabilidades de disponer de
+ingresos suficientes para comprar el equipo necesario para preparar café en casa.. También son los más propensos a sentirse
+atraídos por empresas socialmente responsables como BLK & Bold, que generan un impacto en las comunidades invirtiendo parte
+de sus beneficios.
+
+Las siguientes son frases de algunas de las publicaciones de BLK & Bold con mejores resultados en Instagram. ¿Puedes
+detectar aquí su voz de marca?
+
+    Lo que empezó como una idea se convirtió en mucho más de lo que esperábamos.
+
+    Inspiración (Propósito): el café de especialidad une fuerzas para generar impacto en la comunidad.
+
+    Valor: invierte en nuestra comunidad el 5 % de los beneficios para apoyar programas comunitarios.
+
+    Lo que realmente nos importa es la experiencia del café.
+
+    Inspiración (Misión): educar a las y los consumidores de café y retribuir a la comunidad.
+
+    Valor: las elecciones diarias de bebidas marcan la diferencia e influyen en los demás.
+
+    Valor: libérate de la complicada jerga del café y disfruta simplemente de una taza increíble.
+
+    Descubre las diferentes características del sabor y la sensación en boca de nuestros cafés de tueste claro y oscuro
+    probándolos uno detrás del otro.
+
+    Valor: libérate de la complicada jerga del café y disfruta simplemente de una taza increíble.
+
+    Tono: casual, cercano, conversacional y educativo.
+
+A BLK & Bold le gustaría continuar con el éxito de su branding en Instagram y Facebook y, al mismo tiempo, hacer un mejor
+uso de Twitter para llegar a más clientes. Como los tuits se basan más en texto que en elementos visuales, buscarán que su
+voz de marca se escuche alto y claro en sus mensajes. Su tono y actitud de compromiso social desempeñarán un papel más
+importante cuando utilicen Twitter, y su capacidad para captar el interés  con mensajes oportunos sobre eventos y temas
+culturalmente relevantes será crucial.
+
+**Conclusión**
+Este caso práctico sobre BLK & Bold demuestra lo bien que una voz de marca puede transmitir los valores fundamentales de una
+empresa y sus negocios. Los elementos de la voz de marca difieren de una empresa a otra, pero deben tenerse muy en cuenta e
+incorporarse a la hora de crear contenidos para campañas en redes sociales.
+
+#### Diseña contenido atractivo para las redes sociales
+
+En el video sobre redacción para redes sociales de este curso, aprendiste sobre la voz, el lenguaje y el tono de marca para el contenido de las redes sociales. También vimos que incluir imágenes y elementos visuales ayuda a atraer a la gente para que te siga y consuma tus contenidos. Esta lección proporciona consejos adicionales sobre la creación de contenidos visualmente atractivos para las redes sociales y presenta las herramientas de software más utilizadas para el diseño y la edición.
+
+Nota: revisa el capítulo “Haz que las publicaciones de redes sociales sean accesibles” para obtener consejos de diseño adicionales para que tu contenido en redes sociales sea inclusivo y accesible.
+
+**Consejos de diseño para contenidos en redes sociales**
+Aquí hay diez consejos para diseñar contenidos para redes sociales:
+
+    Usa diseños simples. Los diseños con demasiados detalles no se entienden ni se aprecian en unos segundos. Un diseño
+    sencillo y elegante ayuda a transmitir el mensaje de forma clara.
+
+    Usa colores que fomenten la interacción. Aunque tu organización o agencia tenga una paleta de colores recomendada, a
+    veces puedes incluir un color o tono que contraste para captar la atención de la gente. Sin embargo, asegúrate de obtener
+    la aprobación cuando te desvíes de los colores aprobados por una marca. Si necesitas ayuda para elegir combinaciones,
+    consulta un recurso que ofrezca recomendaciones sobre el tema. Por ejemplo, la rueda de colores de Canva.
+
+    Utiliza el contraste para centrar la atención en los elementos clave. No siempre tiene que ser un contraste de color.
+    También puedes utilizar variaciones de tamaño, textura, forma, diseño y fuente.
+
+    Utiliza textos de fácil lectura. El texto debe ser fácil de leer para no disminuir el impacto de las imágenes.
+
+    Utiliza varios estilos. Aunque ciertos estilos hacen claramente reconocible a una empresa o marca, utilizar el mismo
+    para todo el contenido puede resultar aburrido. Dale un giro y sorprende a tu audiencia con una variedad de estilos.
+    Haz cosas atrevidas y ajusta el tamaño, el color y el peso del texto para conseguir el máximo efecto.
+
+    Usa un branding inteligente. Los usuarios deben saber qué marca estás destacando sin que esta se mencione repetidamente
+    ni tu logotipo esté visible en todo momento. Coloca el branding en las imágenes clave o cerca de ellas para que las
+    personas lo encuentren cuando lo necesiten.
+
+    Utiliza principios de jerarquía visual. La jerarquía visual permite que se observe el significado general antes de ver
+    los detalles de cada elemento. Una jerarquía visual estructurada puede agrupar elementos, colocar elementos en un patrón
+    natural o predecible (como la lectura de izquierda a derecha) o conducir a los elementos más importantes en los que
+    hacer clic.
+
+    Usa una llamada a la acción. Una llamada a la acción es una indicación que invita al cliente a realizar una acción
+    específica. Tanto si se trata de dar “Me gusta”, compartir o comentar, incluye siempre una llamada a la acción en el
+    contenido de tus redes sociales para llegar a más personas.
+
+    Utiliza elementos visuales en varias plataformas. Diseña, optimiza y reutiliza gráficos, fotos y videos en distintas
+    redes sociales. Por ejemplo, una foto en Instagram se puede reutilizar en Facebook.
+
+    Usa y crea plantillas. Utiliza y crea plantillas de diseño para que el contenido de las redes sociales mantenga una
+    línea visual. De este modo, podrás crear contenidos similares con una alta probabilidad de éxito.
+
+**Herramientas para los contenidos visuales**
+Si trabajas para una agencia de publicidad o una empresa, es posible que uses un conjunto de herramientas profesionales
+pagas, como  Adobe Creative Cloud, que es una colección de más de 20 apps para fotografía, video, diseño, páginas web, UX y
+redes sociales. Si trabajas en una empresa más pequeña o como freelancer, es más probable que tengas que utilizar
+herramientas gratuitas para minimizar costos, o una combinación de ellas. A continuación, te ofrecemos una muestra de
+herramientas, tanto gratuitas como pagas, para que te hagas una idea de lo que hay disponible.
+
+Nota: este programa de certificación no respalda ni recomienda específicamente ninguno de los productos.
+
+**Edición de fotos**
+*Software de pago para la edición de fotos:*
+
+ACDSee Photo Studio
+
+Adobe Lightroom
+
+Adobe Photoshop
+
+Adobe Photoshop Elements
+
+Affinity Photo
+
+Capture On
+
+Corel PaintShop Pro
+
+CyberLink PhotoDirector 365
+
+DxO PhotoLab
+
+Exposure Software
+
+ON1 Photo RAW
+
+Skylum Luminar AI
+
+Zoner Photo Studio
+
+*Programas gratuitos o de código abierto para editar fotos:*
+
+Canva
+
+darktable
+
+Fotor
+
+**Edición de videos**
+*Programas pagos de edición de videos:*
+
+Adobe Premiere Pro
+
+Apple Final Cut Pro
+
+Apple iMovie
+
+CyberLink PowerDirector 365
+
+Corel VideoStudio Ultimate
+
+DaVinci Resolve
+
+Movavi Video Editor Plus
+
+Pinnacle Studio Ultimate
+
+*Programas gratuitos o de código abierto para editar videos:*
+
+Blender
+
+Clipchamp
+
+FXhome HitFilm Express
+
+Lightworks
+
+OpenShot Video Editor
+
+Shotcut
+
+NCH Software VideoPad
+
+Vimeo Create
+
+VSDC Video Editor
+
+WeVideo
+
+**Diseño gráfico**
+Programas pagos de diseño gráfico:
+
+Adobe Illustrator
+
+Adobe Photoshop
+
+Affinity Designer
+
+CorelDraw Graphics Suite
+
+Gravit Designer PRO
+
+Xara Designer Pro+
+
+Opciones gratuitas de diseño gráfico:
+
+Inkscape
+
+Canva
+
+**Imágenes y gráficos para uso comercial**
+Crear imágenes, gráficos e ilustraciones originales requiere mucho tiempo y habilidad. Muchas empresas buscan bibliotecas de
+imágenes o fotos de archivo en línea cuando no pueden crear algo internamente. Si eliges buscar en internet, asegúrate de
+conocer la diferencia entre recursos gratuitos y con licencia. Las imágenes gratuitas son ofrecidas por los creadores con la
+condición de que se les reconozca el mérito por su trabajo. A veces, estas imágenes deben mostrarse con el logotipo del
+creador. Las imágenes con licencia para uso comercial suelen ser pagadas o con un requisito de suscripción que previo.
+
+**Conclusiones clave**
+Muchos programas conocidos ayudan a crear contenidos visuales atractivos en las computadoras personales. Algunos son
+gratuitos o de código abierto. Quienes se dedican al diseño gráfico utilizan herramientas que requieren cierta formación
+para utilizarlas a nivel profesional. Otras herramientas tienen plantillas y funciones de edición que facilitan la creación
+de gráficos o el trabajo con fotos y videos. Si no utilizas material gráfico original, asegúrate de cumplir todos los
+requisitos sobre derechos de autor y licencias.
+
+#### Haz que tus publicaciones en redes sociales sean accesibles
+
+Más de mil millones de personas en el mundo tienen alguna discapacidad. Eso es más que las poblaciones de Estados Unidos,
+Canadá, Francia, Italia, Japón, México y Brasil juntas. Una discapacidad puede afectar:
+
+    La visión
+
+    El movimiento
+
+    El razonamiento
+
+    La memoria
+
+    El aprendizaje
+
+    La comunicación
+
+    La audición
+
+    La salud mental
+
+    Las relaciones sociales
+
+Al crear contenidos para las redes sociales, es importante recordar que entre tu público hay personas con pérdida auditiva
+que dependen de los subtítulos y personas con discapacidad visual que dependen de textos especiales que describen las
+imágenes. Esta lección describe cómo puedes hacer para que tus publicaciones en redes sociales sean accesibles para estos
+públicos.
+
+**¿Qué es la accesibilidad?**
+Según una definición, la accesibilidad consiste en tener en cuenta las necesidades de las personas con discapacidad cuando
+se crean o modifican productos, servicios e instalaciones, de modo que puedan ser utilizados por todas las personas, ya sea
+que tengan o no alguna discapacidad. Hacer que las publicaciones en redes sociales sean accesibles Utiliza las siguientes
+directrices para que tus publicaciones sean más accesibles para todos.
+
+**Subtítulos de video**
+Los subtítulos ayudan a las personas sordas o con alguna pérdida auditiva. También ayudan a las personas que no conocen el
+idioma del video y a quienes por alguna razón no puedan reproducir el sonido.
+
+Los subtítulos opcionales se superponen al video y pueden ser activados y desactivados por los usuarios.
+
+Los subtítulos permanentes se incrustan directamente en el video y los usuarios no pueden ocultarlos ni desactivarlos.
+
+Comprueba qué tipo de subtítulos admiten las plataformas de redes sociales que vas a utilizar y diseña tus contenidos de
+acuerdo a esos requisitos.
+
+**Texto alternativo**
+El texto alternativo es una breve descripción escrita de una imagen con el propósito principal de ayudar a las personas con
+discapacidad visual. Muchas plataformas permiten enviar texto alternativo para las publicaciones en redes sociales. Algunas
+plataformas generan automáticamente texto alternativo para las imágenes utilizando capacidades de inteligencia artificial
+(IA). Si bien esta tecnología aún está emergiendo, puede ahorrarte tiempo si editas el texto generado automáticamente en
+lugar de crearlo.
+
+Aquí tienes dos consejos para escribir descripciones de texto alternativo:
+
+![alt text](image-73.png)
+
+Como los lectores de pantalla anuncian la presencia de imágenes con la palabra “imagen”, no es necesario incluir “imagen” en
+la descripción. Por ejemplo, en lugar de “imagen de una taza de café”, puedes usar “taza de café” e incluso agregar detalles
+más descriptivos como “taza de café con espuma en forma de corazón encima”.
+
+![alt text](image-74.png)
+
+Céntrate en el propósito de la imagen y no en cada detalle de la misma. Por ejemplo, si se usa una imagen de un reloj para
+ilustrar una oferta por tiempo limitado, no es necesario incluir la hora real del reloj en el texto alternativo. Puedes usar
+“reloj de pared con agujas de horas, minutos y segundos que muestran el paso del tiempo” sin siquiera mencionar que la hora
+mostrada son las 10:10.
+
+**Contraste del color**
+Las relaciones de contraste de color (L1/L2) miden la luminiscencia (o brillo) del color más claro (L1) frente a la
+luminiscencia del color más oscuro (L2). Las relaciones de contraste oscilan entre 1/1 o 1:1 hasta 21/1 o 21:1. Blanco sobre
+blanco tiene una relación de contraste de 1:1 y negro sobre blanco tiene una relación de contraste de 21:1. A efectos
+comparativos, rojo sobre blanco tiene una relación de contraste de 4:1, verde sobre blanco tiene una relación 1,4:1 y azul
+sobre blanco tiene 8,6:1.
+
+Para los gráficos en las redes sociales, usa un contraste de color de al menos 4,5:1 para el texto y el color de fondo para
+que el texto sea más legible. Siguiendo esta guía, elegirías usar azul sobre blanco con una relación de contraste de 8,6:1
+en lugar de rojo o verde sobre blanco con relaciones de contraste de 4:1 y 1,4:1 respectivamente.
+
+*Consejo profesional:* WebAIM es un sitio web muy útil donde puedes acceder a recursos para hacer más accesibles los
+contenidos. Mira su página interactiva de comprobación de contraste, donde puedes ingresar códigos hexadecimales de colores
+de primer plano y fondo para determinar la relación de contraste.
+
+**Fuentes**
+roblemas para identificar el texto. Presta atención porque esto puede pasar con el texto en cursiva y otros estilos comunes.
+
+**Hashtags**
+Los hashtags deben usar lo que se conoce como CamelCase, donde las letras iniciales de las palabras van en mayúscula. Por
+ejemplo, usa #ClaseVirtualClassroom, en lugar de #clasevirtual. Los lectores de pantalla reconocen el texto CamelCase como
+dos palabras y usan la pronunciación correcta.
+
+**Emojis**
+Los emojis son divertidos, pero úsalos con moderación en las publicaciones en redes sociales porque los lectores de pantalla
+utilizan varias palabras para describirlos. Imagina cinco emojis de cara sonriente traducidos por un lector de pantalla como
+“Cara sonriente con ojos grandes, Cara sonriente con ojos grandes, Cara sonriente con gafas de sol, Cara sonriente con ojos
+grandes, Cara sonriente con ojos grandes”. Los emojis tardan demasiado en describirse con los lectores de pantalla y las
+personas pueden perder la paciencia.
+
+**Idioma**
+Cuando crees contenidos para redes sociales, evita términos que infravaloren o deshumanicen a las personas por su
+discapacidad. Por ejemplo, en lugar de usar el término “los ciegos”, puedes usar “personas ciegas” o “personas con visión
+parcial”. Además, el hecho de que hayas oído utilizar ciertas frases con frecuencia no significa que sean inclusivas. A
+menudo es necesario reformular las frases de uso común teniendo en cuenta la accesibilidad. Por ejemplo, puedes reemplazar
+“salir a caminar” por “disfrutar del aire libre” porque las personas que utilizan sillas de ruedas no pueden caminar, pero
+sí disfrutar del aire libre. Utiliza un lenguaje inclusivo en tus publicaciones en las redes sociales.
+
+**Conclusiones clave**
+Los contenidos de las redes sociales se multiplican para aumentar el interés de las personas por una empresa, marca,
+producto o persona. Cuanto más accesibles e inclusivas sean las publicaciones, mayor será el público y el interés. Apunta a
+lograr el mayor alcance posible haciendo que tu contenido en las redes sociales sea accesible.
+
+#### ¿Qué es Canva?
+
+#### Reutilizar el contenido en redes sociales
+
+#### Catherine - Involucrar al público de redes sociales a través de la narración
+
 ### Revisión: Escucha e interacción en las redes sociales
 
 ## Analítica e informes de redes sociales
