@@ -914,6 +914,40 @@ sociales.
 
 #### Cómo adquirir medios ganados
 
+Recuerda que el término medios ganados se refiere a cualquier exposición digital positiva, generada a través de
+recomendaciones personales o públicas.
+
+**Ejemplos de medios ganados** Los medios ganados son importantes para las empresas porque se basan en la promoción boca a
+boca de amistades, familiares, publicaciones de influencers no pagadas, reseñas de productos y mucho más. Si alguien aprecia
+tanto tu producto como para publicar sobre él de forma gratuita, no solo estás obteniendo sin costo esa publicidad positiva,
+sino que tu audiencia está mostrando que cree en ti. Es, probablemente, la acción de marketing más difícil de lograr, porque
+no tienes control sobre ella. Algunos ejemplos de medios ganados son:
+
+    Reseñas de clientes
+
+    Publicaciones de blog sobre tu producto
+
+    Contenido compartido y/o republicado por otras personas
+
+    Menciones de tu producto en las redes sociales
+
+**Estrategia efectiva de medios ganados** Aunque no puedes controlar los medios ganados, hay acciones que pueden ayudar a
+conseguir que se publique, comparta, repostee, mencione y/o se hagan reseñas sobre tu producto o servicio. Lo más
+importante, cuando se trata de medios ganados, es crear contenido atractivo. Cuanto más atractivo sea tu contenido, más
+probable es que tu audiencia lo comparta. Luego, cultiva las relaciones que puedas tener con otras marcas, medios de
+comunicación y periodistas. Si lo haces con éxito, tu marca podría conseguir publicidad positiva como resultado. A
+continuación, asegúrate de proporcionar un servicio al cliente más que satisfactorio. Cuando logras generar una buena
+experiencia y una conexión significativa con tu audiencia, ya se trate de seguidores, clientes o usuarios, aumentan las
+posibilidades de que ésta difunda tu marca entre otras personas. Por último, incentiva a otras personas dentro de tu
+organización a compartir, compartir y compartir. Cuantas más lo hagan, más personas lo verán y es más probable que luego
+también lo compartan.
+
+**Conclusiones principales** Obtener medios ganados, que ya sabes que son cualquier exposición digital positiva, generada a
+través de recomendaciones personales o públicas, es la táctica de marketing más difícil, dado que tienes poco control sobre
+ella. Si quieres adquirir más medios ganados, genera contenido atractivo; cultiva las relaciones con marcas, medios de
+comunicación y periodistas; ofrece un servicio al cliente satisfactorio e incentiva a los miembros de tu organización a
+compartir contenido sobre tus productos.
+
 #### Caso práctico: Cómo Name Glo adquiere medios ganados
 
 ### Planifica cuándo publicar
