@@ -1718,11 +1718,112 @@ y las medidas que piensas adoptar.
 
 ### Interacción en las redes sociales
 
-#### Introcuccion a la Interacción en las redes sociales
+#### Introduccion a la Interacción en las redes sociales
+
+Antes aprendiste los beneficios de la escucha social y algunas tácticas para implementarla de manera efectiva. La escucha
+social no solo te ayuda a entender mejor a tu público objetivo, también aumenta su interacción con tu marca. En este video,
+hablaremos de cómo aumentar la interacción de tus clientes actuales y potenciales en las redes sociales. La interacción en
+redes sociales mide cómo las personas interactúan con tus redes y tu contenido. Interacción se refiere a las acciones que
+las personas toman en las redes sociales, como dar me gusta, marcar como favorito, comentar, compartir, retuitear, guardar,
+hacer clic, etiquetar y mencionar. Estudiar las interacciones te ayudará a determinar si el contenido que estás creando
+tiene impacto en tu público. Una forma de aumentar la interacción con tu público en redes es conectar con él. Las redes
+sociales son un canal ideal para hacer conexiones valiosas con clientes actuales y potenciales. Un informe de Sprout Social
+descubrió que cuando las personas sienten conexión con una marca, más de la mitad aumentarán su gasto en sus productos, y
+más de las tres cuartas partes le seguirán comprando en lugar de a la competencia. Hablemos de algunas formas de conectar
+con tus clientes y aumentar sus interacciones en redes sociales. Para interactuar con las personas en redes sociales debes
+socializar con ellas. Es decir, comunicarte con tus clientes y seguidores con frecuencia. Es como cuando das una fiesta. No
+siempre serás el centro de atención, pero quieres que la gente disfute el momento. Como especialista en marketing digital de
+nivel inicial, puede que no sea tu responsabilidad interactuar con clientes en las redes sociales. Pero hablemos de algunos
+consejos útiles para cuando necesites hacerlo en el futuro. Una de las mejores prácticas es responder a los comentarios y
+menciones o a las personas que hablan de tu marca. Esto abre dos vías de comunicación y te ayudará a establecer una relación
+saludable, y significativa con tus clientes y brindar un excelente servicio al cliente en tus plataformas de redes sociales.
+Prepárate para responder preguntas, proporciona recursos que puedan ayudar a resolver problemas, y muestra empatía ante
+cualquier inconveniente relacionado con tu marca. Cuando tus clientes se comunican contigo en redes sociales, asegúrate de
+responderles rápidamente. Escuchar y responderles a la brevedad, hace que se sientan escuchados y les muestra que te
+preocupas. Una respuesta rápida también puede generar mayor satisfacción y confianza del cliente en tu marca. Es importante
+desarrollar una voz personal y auténtica en las redes sociales. Las personas son más propensas a interactuar con tu marca
+cuando se sienten que alguien real lee y responde los comentarios. Puedes hacer que tu voz en redes sociales sea más
+personal al cerrar sesión en tus publicaciones, dirigirte a tus clientes por su nombre, y responder a los comentarios con
+simpatía y calidez. Mostrar imágenes o videos de tus empleados también pueden ayudar a que tu marca parezca más agradable y
+cercana. Como hablamos anteriormente, es importante conocer al público con el que quieres interactuar en redes sociales. El
+lenguaje que uses, el tono de tus publicaciones, y las imágenes que muestres diferirán según tu audiencia. El contenido que
+tiene impacto en el público de una empresa de videojuegos, por ejemplo, probablemente sea muy diferente al contenido de una
+empresa de acolchados. Conocer a tu público también significa crear el contenido que sea más valioso para él. ¿Qué puedes
+enseñarles? ¿Cómo puedes darles inspiración? ¿Qué recursos les puedes dar? Interactuar con tus clientes y brindarles
+contenido útil de acuerdo a sus necesidades y puntos débiles prueban que eres una fuente de información creíble en tu
+industria. Y compartir tu experiencia les genera confianza. Parte de tu contenido también debe hacer que tu público se
+imagine utilizando tus productos o servicios y lo que ganarían con esa experiencia. Dicho esto, no toda publicación o
+interacción que tengas con tu cliente debe ser acerca de tus productos. A veces, las redes sociales solo son una forma de
+conectar con tu público objetivo sobre los temas de su interes. Animar a las personas a interactuar con tu marca en las
+redes sociales implica que tus publicaciones deben ser creativas. Puedes incitar a la gente a interactuar organizando
+concursos, publicando encuestas y cuestionarios, haciendo preguntas, destacando a tus clientes y tus empleados mostrando
+contenido generado por el usuario, ofreciendo cupones, descuentos, y obsequios a cambio de que te sigan, te den me gusta, te
+retuiteen o etiqueten. Cuando tus clientes interactúan en redes sociales, puedes aprender más sobre cómo, satisfacer sus
+necesidades, y aumentar su confianza en tu marca. A continuación, hablaremos acerca cómo interactuar con tus clientes y
+ganar seguidores en redes sociales.
 
 #### Cómo usar Youtube para incrementar tu público
 
+Soy Olivia, Gerente de Marketing de Producto en YouTube. Ayudo a las marcas y agencias de publicidad a tener éxito en las
+campañas publicitarias en YouTube. No hay dos días iguales. Un día escribo un artículo o una publicación para el blog. Otro,
+me pierdo entre los datos que nos ayudan a entender cuál es el canal de marketing más exitoso para nuestras iniciativas. Así
+que realmente me gusta la combinación de creatividad y de analítica que requiere ser especialista en marketing. YouTube es
+un lugar increíble para conectar con las personas en todo el mundo que usan YouTube para educarse, entretenerse e informarse
+sobre lo que les gusta. Hay muchas maneras en las que puedes usar YouTube para aumentar tu audiencia. Puedes usar nuestras
+soluciones publicitarias para asegurarte de que tus historias lleguen a más personas en todo el mundo. Pero también puedes
+interactuar con otros canales, y crear una variedad de contenidos diferentes para ver qué sucede. Creo que mucha gente se
+sorprende con la forma en que su contenido puede llegar lejos incluso sin hacer publicidad. En realidad, no hay requisitos
+para que un contenido sea exitoso. Lo único que importa es que sea auténtico, que se base en una historia real de la marca o
+el producto. Y eso es lo que hace que la gente se involucre e interese. Ese tipo de historia es más relevante que el proceso
+o la calidad de la producción. Si quieres hacer crecer tu audiencia en YouTube por primera vez, lo primero que debes hacer
+es pasar mucho tiempo en la plataforma. Convertirte en fan, suscribirte a canales que te interesen. Es un sitio muy
+interesante y dinámico. Y hacerlo te ayudará a entender los tipos de historias que realmente resuenan en la plataforma.
+Luego, comienza a identificar un par de historias clave que como especialista, o como negocio o marca estás tratando de
+comunicar. ¿Deseas presentar un nuevo producto? ¿Quieres hacer crecer tu audiencia en un nuevo país? Identifica cinco o seis
+temas que sean importantes para tu negocio. Pero lo más importante es convertirte en un fan de la plataforma y entender con
+claridad el tipo de contenido que del que se habla.
+
 #### Responder a quienes usan las redes sociales
+
+Cuando un cliente se comunica contigo en las redes sociales, ya sea a través de un mensaje directo, un comentario en una
+publicación o cualquier otro tipo de interacción, suele ser necesaria una respuesta. A veces, sin embargo, una respuesta no
+es el mejor curso de acción. En este artículo aprenderás cuándo responder y qué tipo de respuesta es la mejor.
+
+¿Por qué deberías responder? En términos generales, responder a los comentarios, mensajes, menciones y etiquetas de las
+redes sociales es una excelente manera de interactuar con tus clientes. Cuando respondes, haces que se sientan escuchados.
+Además, las personas que lean las respuestas sentirán que eres accesible. Esto indica que tu marca se preocupa por la
+experiencia del cliente. Tanto si estás en Facebook, Instagram, Twitter u otra plataforma, interactuar con tu base de
+clientes suele ser una buena idea.
+
+**¿Cómo responderías?.**
+
+*Si respondes a un comentario positivo*, acusa recibo del comentario, agradece las amables palabras y considera la
+posibilidad de volver a publicarlo o retuitearlo. Dice mucho de tu marca que la gente haga comentarios positivos sobre ella
+en las redes sociales, así que es una buena estrategia asegurarse de que los vea el mayor número de personas posible.
+
+*Si respondes a preguntas o comentarios generales*, contesta brevemente y con entusiasmo. La interacción con tus clientes
+debe ser divertida e informativa para ambas partes, para que sepan que disfrutas de la interacción. No tengas miedo de
+utilizar un lenguaje creativo y signos de exclamación, si se alinea con la voz de tu marca.
+
+*Si respondes a comentarios negativos*, como cuando tienes que resolver un problema, lo mejor es mantener la calma y
+utilizar un lenguaje comprensivo, educado y cercano. Si hay un problema que puede convertirse en algo más grave, es posible
+que tengas que ofrecer reembolsos o códigos promocionales para arreglar las cosas. En estas situaciones, pídeles que te
+envíen un mensaje directo para resolver el problema de forma rápida y privada. Sin embargo, si la respuesta puede ser útil
+para otras personas que puedan tener las mismas preocupaciones, puedes optar por responder públicamente para que el público
+pueda beneficiarse de la interacción.
+
+*Si estás respondiendo a trols de Internet*, la respuesta corta es: no lo hagas. Un trol es una persona que se opone
+intencionadamente a otras en internet publicando comentarios incendiarios, innecesarios u ofensivos u otros contenidos
+perturbadores que no deben ser necesariamente respondidos. Este suele ser el único caso en el que se recomienda no responder
+en las redes sociales. Por desgracia, el trolling es una realidad muy común. Cuanto más crezca tu marca, tendrás más
+exposición a estas personas. Si sabes que tu marca no hizo nada malo, simplemente no respondas. Si el problema empeora,
+plantéate borrar los comentarios u ocultar las respuestas.
+
+**Conclusiones clave** Cuando se trata de interactuar con las personas en las redes sociales, cada respuesta requiere
+reflexión y consideración. Tanto si los comentarios son positivos, generales o negativos, deberás tener en cuenta cuándo,
+cómo y dónde responder. No dudes en tener en cuenta estos consejos a medida que avanzas en tu recorrido por el marketing
+digital, y aprovecha la ayuda de cualquier persona del equipo que pueda tener experiencia en responder a en las redes
+sociales..
 
 #### Camille - Responder a los comentarios en las redes sociales
 
