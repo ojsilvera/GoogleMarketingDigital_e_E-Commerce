@@ -736,7 +736,185 @@ puedas notar por qué crear una estrategia es esencial para el éxito de tus cam
 
 #### Construye tu identidad de marca en las redes sociales
 
+En el curso anterior, aprendiste a crear clientes tipo para elaborar contenido personalizado para tu audiencia. A medida que
+leas sobre la construcción de identidad de marca, recuerda los conceptos aprendidos acerca de tus clientes y sus
+características.
+
+Repasa conceptos aprendidos Cuando se trata de crear identidad de marca en las redes sociales, hay muchas consideraciones a
+tener en cuenta. Ya aprendiste varios de estos conceptos, así que utiliza esta parte del curso para repasar temas abordados,
+como:
+
+Objetivos de las redes sociales: Recuerda que tus objetivos deben ser SMART, lo que significa específicos, medibles,
+alcanzables, relevantes y temporales.
+
+Clientes tipo: Crear clientes ideales (customer persona) puede darte una idea de a quién estás tratando de llegar. Ponerles
+nombre y asociar una foto con cada cliente tipo es una práctica común.
+
+Prioriza tus plataformas de redes sociales: Elegir las plataformas adecuadas ayuda a optimizar el alcance de tu marca y
+garantiza que utilices los recursos de la manera correcta.
+
+Aunque estas consideraciones no son las únicas a tener en cuenta para conformar tu identidad de marca en las redes sociales,
+pueden resultar muy útiles.
+
+**¿Qué es una declaración de posicionamiento de marca?** Ahora que repasaste las tareas que completaste, estás en
+condiciones de aprender más sobre las declaraciones de posicionamiento de marca. Una declaración de posicionamiento de marca
+describe exactamente qué hace tu empresa, para quién y qué la diferencia de la competencia. A nivel interno, ayuda a
+orientar a tu equipo. A nivel externo, da a conocer tu marca y sus objetivos.
+
+*Crea una declaración de posición de marca* Para crear una declaración de posicionamiento de marca, es importante que
+conozcas:
+
+    Tu audiencia
+
+    Los retos o necesidades de tus clientes
+
+    El nombre de tu empresa
+
+    Los productos, servicios o diferenciador (lo que te distingue de otras marcas)
+
+    La misión de tu empresa
+
+Cuando reúnas toda esa información, obtendrás una plantilla que se verá así:
+
+Para [audiencia] que [desafío/necesidad del cliente], [Nombre de la empresa] proporciona [producto y diferenciador] porque
+[promesa o misión de la marca].
+
+**Escenario: EveryWay EveryWear** EveryWay EveryWear es un fabricante de ropa de trabajo cómoda, orientada a un público que
+trabaja muchas horas haciendo presentaciones y ventas. Sus clientes quieren mantener cierta formalidad en la vestimenta,
+pero sin sentirse atrapados en un traje todo el día.
+
+Con esta información, ¿cómo estructurarías una declaración de posicionamiento de marca? Podría leerse así:
+
+Para [los profesionales trabajadores] que necesitan un [armario elegante, profesional y funcional], [EveryWay EveryWear]
+proporciona [ropa de algodón y cómoda para trabajar], porque [cuando trabajas muchas horas, la comodidad debe ser lo
+primero].
+
+Ahora, que conoces a tu audiencia y sabes cómo encontrarla, cuáles son tus objetivos y cuál es tu declaración de
+posicionamiento de marca, querrás crear una imagen para tu marca.
+
+**Diseña una identidad de marca** El siguiente paso para construir una identidad de marca es asegurar que la paleta de
+colores, los logotipos y los elementos de diseño gráfico que vayas a usar tengan cierta coherencia con las páginas de tus
+redes sociales y sean visualmente atractivos para la audiencia. Otra parte importante de la identidad de marca es la voz de
+marca, que no se refiere a la voz física, sino a la personalidad distintiva que adopta una marca en sus comunicaciones. La
+creación de tu voz es una parte clave en la creación de la identidad de marca.
+
+Si tu negocio ya tiene pautas de marca, asegúrate de que tus publicaciones cumplan con ellas. Utiliza los colores, tamaños,
+fuentes y logotipos que se detallan en esas pautas. Si tu empresa aún no las tiene, puede ser el momento de crearlas. Para
+hacerlo, sigue estas recomendaciones:
+
+*Estandariza los colores de tu marca en las páginas de redes sociales* Quieres que la gente sepa de inmediato que una imagen
+específica pertenece a tu marca. Si alguien visita tus páginas o feeds de contenido, es importante que haya coherencia en
+todas las plataformas que utilizas para tu marca. Esto se logra mediante el uso de las mismas paletas de colores y filtros
+para todas las imágenes.
+
+![alt text](image-56.png)
+
+**Asóciate con influencers que reflejen la identidad de tu marca** El marketing de influencers puede ser una gran ayuda para
+aumentar el reconocimiento de marca, generar interés y generar ventas. A medida que tu marca se asocie con influencers,
+definirás gradualmente una identidad entre su audiencia y la tuya. Cuando colaboras con un/a influencer, ten presente que
+las marcas de ambos se alinean entre sí.
+
+**Crea una “voz” para tu marca** Es importante que las audiencias de las redes sociales puedan reconocer una publicación por
+la voz de la marca, de la misma manera que lo harían por los colores, logotipos y elementos de diseño gráfico. Asegúrate de
+crear una voz y atenerte a ella a lo largo del tiempo. Cambiar repentinamente de una voz humorística a una malhumorada, por
+ejemplo, puede resultar desagradable para tus seguidores. Además, es importante que la voz de marca se refleje no solo en
+los pies de fotos, sino que también en los textos que utilices en gráficos, videos, fotos y cualquier otro elemento visual.
+
 ### Ofrece variedad de contenido
+
+#### Tipos de contenido en redes sociales
+
+En la lección anterior, empezaste a aprender cómo desarrollar una estrategia para tus campañas de marketing en las redes
+sociales. Vimos cómo identificar objetivos, indentificar tu público objetivo y elegir las mejores plataformas para tu
+público y tus objetivos. En esta lección, llegaremos al siguiente pilar del marketing en redes sociales: cómo planificar y
+publicar tus contenidos en redes sociales. Empecemos con los diferentes tipos de contenido que puedes publicar. Para que tu
+estrategia de marketing en las redes sociales sea exitosa, necesitas producir contenido efectivo que genere interacción con
+tu público objetivo. Para lograrlo, tu plan de contenido debe incluir una variedad de tipos de contenido. Cuando estás
+desarrollando una publicación en las redes sociales, primero debes considerar a qué categoría de contenido se ajustará la
+publicación. Las categorías te permiten agrupar tu contenido de marketing. Son temas amplios, que se usan para lograr un
+objetivo en particular o para hacer que los y las clientes se sientan de una manera determinada. Estos temas abordan
+diferentes aspectos de tu empresa y tu público objetivo. Las categorías de contenido de redes sociales más comunes incluyen
+contenido de entretenimiento, educativo, inspirador, conversacional y promocional. Vamos a analizarlos en detalle. El
+contenido de entretenimiento atrae a las personas que están en la plataforma para divertirse. Puede ayudar a tu público a
+relacionarse con tu contenido y tu empresa. El contenido de entretenimiento para redes sociales incluye cosas como los
+videos virales, chistes, cómics, concursos o sorteos y memes. Un meme es un elemento divertido o interesante como una
+imagen, video o texto que se difunde ampliamente en línea, especialmente por las redes sociales. El contenido educativo
+puede generar confianza en tu marca y posicionarte como un líder de la industria, con información y contenido relevante para
+compartir: capacitaciones en video, infografías, investigación sectorial, casos prácticos, preguntas frecuentes, consejos y
+publicaciones sobre cómo hacer algo son algunos ejemplos de contenido educativo. El contenido inspiracional, en general,
+presenta personas reales que usan tus productos o servicios. Este contenido hace que tu marca parezca más auténtica y
+refuerza su mensaje, sus valores y su visión. Para crear contenido inspiracional, podrías crear casos prácticos, buscar
+reseñas y citas, compartir hechos y curiosidades, y contar historias personales. El contenido conversacional anima a tu
+público a interactuar contigo. Puedes iniciar conversaciones con tu público sugiriendo un tema o punto de vista, y luego
+invitarlo para unirse al diálogo. También puedes hacer una pregunta, invitar a las personas a completar una encuesta, a
+llenar un espacio en blanco, o incluso pedir un consejo. El contenido promocional habla de tu producto o servicio con la
+intención de promocionarlo frente a los clientes actuales y atraer nuevos seguidores. Dar cupones, descuentos o regalos
+puede impulsar las ventas e incentivar a la gente a comprar cosas que quizás de otra manera no habrían comprado. Además de
+elegir categorías de contenido para tu publicación, tienes que decidir su formato. Existen muchos formatos de contenido para
+elegir en las redes sociales. Imágenes, videos, publicaciones escritas, historias, GIFs, enlaces, encuestas y videos en vivo
+son algunos de los formatos de contenido que encontrarás en las redes sociales hoy. Veamos algunos de los más populares. Los
+videos pueden ser un gran formato para llamar la atención de tu audiencia y son más fáciles de consumir que una gran
+cantidad de texto. Con los teléfonos inteligentes, grabar videos es muy fácil y conveniente, además, resultan más atractivos
+que las fotos. Contenidos de video como guías prácticas, recorridos y demostraciones de producto pueden dirigir tráfico a tu
+sitio web y aumentar las ventas. Las fotos son los tipos de contenido que se publican con más frecuencia en las plataformas
+de redes sociales. A diferencia de la mayoría de los videos, las imágenes pueden asimilarse instantáneamente. Las imágenes
+dan a las y los usuarios de redes sociales una impresión inmediata de tu marca. Infografías, GIF animados, fotos de
+subtítulos, y las capturas de pantalla son algunas de las muchas formas efectivas de usar fotos en las redes sociales.
+Publicaciones escritas como artículos, blogs, y guías brindan al público información sobre tus productos, servicios y
+empresa. El contenido escrito también puede ser sumamente valioso para comenzar conversaciones que te ayuden a conocerte
+mejor con tus clientes. Las historias son imágenes y videos cortos que duran un periodo de tiempo relativamente breve, por
+lo general de 1 a 7 días, antes de desaparecer. Puedes agregar elementos como stickers, filtros, y sonido para ayudarte a
+expresar con creatividad la personalidad de tu marca. Usa historias para actualizar a tu audiencia sobre eventos, ofertas y
+otros anuncios. Los videos en vivo permiten a las empresas transmitir conversaciones, presentaciones, preguntas y
+respuestas, seminarios web y otros eventos virtuales. Estos eventos de transmisión en vivo le dan al público la oportunidad
+de hacer preguntas, comentar e interactuar inmediatamente frente a lo que están experimentando. La visualización en vivo
+también le da a la gente un sentido de comunidad. Ahora, ya aprendiste sobre algunas categorías de contenido comunes en las
+redes sociales, como entretenimiento, educativo, inspiracional, conversacional y promocional. También aprendiste algunos de
+los formatos que se usan con mayor frecuencia en las redes sociales, como videos, imágenes, publicaciones escritas,
+historias y videos en vivo. La clave para crear contenido efectivo es elegir el formato que mejor se adapta a tu categoría
+de contenido. A continuación, hablaremos más sobre cómo planificar y publicar contenido en las redes sociales.
+​
+
+#### Anna: Usa medios ganados, propios y pagados en campañas de marketing en redes sociales
+
+Hola, soy Anna. Soy Gerente de Programas Senior en Google. Trabajo en Google Developers Studio y superviso la estrategia
+social para todas nuestras cuentas orientadas a desarrolladores. Hay alrededor de 70 en Twitter, LinkedIn, Instagram,
+Facebook, YouTube y blogs. El propósito de nuestras cuentas de redes sociales apunta, realmente, a mejorar las relaciones
+con desarrolladores y simplificarles la vida. Por eso, a medida que cambiamos nuestra tecnología, hacemos actualizaciones o
+tenemos diferentes anuncios, nuestro trabajo en redes sociales es mantener a la gente actualizada, ayudar y responder a sus
+preguntas, y realmente asegurarnos de que tienen todos los recursos que necesitan para trabajar. Entonces, medios ganados,
+la definición está en el nombre. Son los medios de comunicación que "ganaste", es decir, piensa en el negocio que puedes
+crear, que sucede orgánicamente. Es una conversación que está sucediendo en el mundo real. Es algo similar a las relaciones
+públicas donde no creas ese contenido, pero haces que periodistas o bloggers escriban sobre ti. Estás tratando de hacer que
+la gente tenga una conversación sobre tu marca. Si puedes hacer que tu producto llegue al influencer adecuado y que
+orgánicamente empiece a hablar de ti, entonces eso puede ayudarte a crear un gran boca a boca y hacer que te conozca un
+nuevo público al que no hubieras podido llegar de otra manera. Así que en Google Developers Studio, parte de lo que hacemos
+es reunir a una comunidad de desarrolladores en eventos. Parte de mi trabajo es llegar a la mayor cantidad de
+desarrolladores relevantes posibles y hacerles saber acerca del evento y los anuncios que se harán en el mismo. Hacer que
+los desarrolladores observen nuestro contenido y conversen sobre lo que están viendo es exactamente lo que queremos,
+¿verdad? De esto estamos hablando, es ese negocio que está por surgir naturalmente. Con los medios propios, como los canales
+te pertenecen, tienes la ventaja de ser tan creativa/o como puedas, y puedes controlar la narrativa de lo que se está
+publicando en nombre de tu marca, sea tu marca personal o la empresa que estás dirigiendo. Puedes tener tus cuentas de
+Twitter, Facebook, Instagram, tus redes sociales. Todas estas son diferentes redes de distribución que posees y controlas lo
+que se publica en ellas. Con los medios pagados, estás garantizado que tienes un público específico al que quieres llegar y
+pagas para llegar a él. Lo bueno de los medios pagados es que con redes sociales como Facebook o Instagram, en especial para
+un negocio local, un presupuesto limitado puede realmente tener un gran impacto. Y algunas de las cosas que podemos hacer
+con los medios orgánicos, medios propios, es probar el mejor tipo de mensajes y recursos creativos. Cuando algo comienza a
+difundirse y generar tracción, podemos usar medios pagados para impulsar ese contenido. Y eso es realmente una gran ventaja
+de cómo puedes usar tus canales propios y tomar decisiones inteligentes sobre dónde poner tu dinero en medios pagados. Hay
+tantas redes sociales diferentes, y cada una de ellas ofrece diversos beneficios. Aun así, una vez que encontraste tu nicho
+y sabes dónde está tu público y realmente posees ese canal, la combinación de usar medios ganados, propios y pagados en ese
+canal te llevará mucho pero mucho más lejos que si solo estabas usando un tipo específico de táctica en ese canal. Mi mejor
+consejo para alguien que recién está comenzando en marketing en redes sociales es ir por ese lado y hacerlo. Y recuerda que
+tus canales propios son un reflejo de tu marca. Si estoy revisando el currículum de alguien, por supuesto que iré y miraré
+sus perfiles de redes sociales y observaré cómo los está gestionando, qué tipo de decisiones de contenido está tomando, qué
+mirada tiene para la fotografía y la creatividad. Así que no debes tener una gran experiencia de marca para impresionarme,
+pero sí me gusta ver qué tipo de decisiones tomas en tus propias cuentas y cómo ayudaste a otras organizaciones en las redes
+sociales.
+
+#### Cómo adquirir medios ganados
+
+#### Caso práctico: Cómo Name Glo adquiere medios ganados
 
 ### Planifica cuándo publicar
 
