@@ -1029,6 +1029,162 @@ que aumenten sus seguidores en las redes sociales, lo que puede resultar en mayo
 
 ### Planifica cuándo publicar
 
+#### Determina la frecuencia y el momento adecuados para las publicaciones
+
+Ya hablamos sobre la creación de una estrategia de redes sociales, incluimos la definición de tu público objetivo, la
+elección de las mejores plataformas para tu campaña, y los tipos de contenido multimedia que puedes publicar en redes
+sociales. Ahora, hablaremos sobre cómo planificar y hacer tus publicaciones. En este video, aprenderás a gestionar el
+horario y la frecuencia de tus publicaciones en las redes sociales. Tener una presencia consistente en las redes sociales te
+permite visibilizar tu marca y que la descubran las y los clientes potenciales. Aun así, "más" no necesariamente significa
+"mejor" cuando se trata de publicar en las redes sociales. Quieres que la audiencia tenga presente tu marca, pero a su vez
+no quieres publicar con tanta frecuencia que abrume tus feeds y ahuyente a tus seguidores. La frecuencia con que publicas en
+las redes sociales depende de una serie de factores. En particular, de cada plataforma en sí misma y de cómo funciona. Por
+ejemplo, Twitter ofrece a sus usuarios/as la opción ver sus publicaciones en un feed cronológico de contenido. Cuando los
+usuarios personalizan sus feeds de contenido de esta manera, el feed muestra el último contenido publicado. Para plataformas
+con feeds de contenido cronológicos, publicar varias veces por día te da la oportunidad de llegar a tu público objetivo con
+diferentes zonas horarias y en varios momentos a lo largo del día. Si Twitter es una plataforma relevante para tu marca,
+podrías apuntar a publicar varias veces al día. Deberás planificar la frecuencia de tus publicaciones de manera diferente en
+plataformas que se basan principalmente en los algoritmos. Los algoritmos de redes sociales son una forma de ordenar las
+publicaciones en el feed de contenido de un usuario basado en la relevancia, en vez del orden cronológico de publicación.
+Eso significa que estas plataformas priorizan el contenido que una persona ve primero en su feed de contenidos según la
+probabilidad de que en realidad lo quiera ver. Para las plataformas basadas en algoritmos, como Facebook e Instagram, es
+mejor publicar contenido de calidad con menos frecuencia, ya que demasiadas publicaciones pueden resultar en una caída de la
+interacción. En estas plataformas, tu ritmo de publicación variará dependiendo de tu marca. La frecuencia que funciona mejor
+para tu marca podría ser una vez al día, mientras que para otros podría ser varias veces a la semana. Estas son solo las
+pautas generales. Encontrar la mejor frecuencia para la publicación requerirá un poco de prueba y error. La frecuencia con
+la que publicas también debe decidirse mediante la prueba y el análisis de tus resultados y los recursos que tienes a
+disposición. Hablaremos acerca de pruebas y análisis en detalle más adelante en este curso. Además de considerar la
+frecuencia de tus publicaciones, debes pensar sobre el momento para publicar. El momento óptimo para publicar, en una
+plataforma dada, variará. Publicar a primera hora de la mañana por lo general resulta muy eficaz, ya que es cuando la gente
+se pone al día con el feed de contenido en sus redes sociales. También es bueno publicar a la hora del almuerzo, ya que la
+gente dispone de un receso en su agenda. Justo después del horario laboral, también es un momento efectivo para publicar,
+porque a la gente le gusta saber lo que se perdió durante el día. Para encontrar los mejores momentos y publicar para tu
+marca especialmente, deberás considerar una serie de factores. En primer lugar, tendrás que saber cuándo tu público objetivo
+está activo en línea. Al investigar cuándo tus seguidores están activos/as en determinada plataforma y luego publicar en
+esos momentos, maximizas las posibilidades de que tu contenido llegue a ellos y ellas. Considera la zona horaria de tu
+público objetivo y programa tus publicaciones en consecuencia. También puedes decidir cuándo publicar analizando aquellas de
+tus publicaciones que hayan tenido mejor desempeño. Revisa los horarios del día y los días de la semana en los que
+publicaste contenido exitoso para determinar si puedes identificar algún patrón. Puedes recopilar datos sobre tus
+publicaciones de mayor rendimiento y acerca de la actividad de tu público en línea con herramientas de analítica, que
+trataremos en otro curso más adelante. Al determinar cuándo publicar contenido, también debes considerar la temporada del
+año y los días festivos. Por ejemplo, es más probable que los consumidores reserven sus vacaciones en enero. Si eres una
+agencia de viajes, este es un buen momento para publicar imágenes atractivas de destinos turísticos. También debes
+considerar los eventos actuales al planificar tus publicaciones. Si, por ejemplo, ocurre un desastre natural o un conflicto
+nacional, deberás prepararte para descartar ciertas publicaciones y mostrarte sensible a estos eventos o agregar una
+publicación para mostrar tu apoyo. Recapitulemos lo que vimos acerca de la frecuencia y el tiempo de tus publicaciones en
+las redes sociales. Para determinar el mejor momento para publicar en las redes, deberás considerar aspectos como cuándo tu
+público objetivo está activo en línea, patrones en tus publicaciones y temporadas con mejor desempeño, días festivos y
+eventos actuales. Cuándo y con qué frecuencia publicar en las redes sociales difiere para cada empresa y cada plataforma,
+pero si se siguen las prácticas recomendadas que tratamos aquí y se analizan los datos, puedes optimizar tu calendario de
+publicación para lograr mejores resultados. Más adelante, veremos los calendarios de las redes sociales y cómo pueden
+ayudarte a organizar, programar y publicar todas tus publicaciones.
+
+#### Marketing en tiempo real
+
+En la era de las redes sociales, el ciclo de noticias es rápido y cambiante. A continuación, aprenderás cómo hacer marketing
+en tiempo real para que tu contenido permanezca fresco e interesante para tu audiencia, mientras el ciclo de noticias en las
+redes sociales cambia.
+
+**La importancia del marketing en tiempo real** El marketing en tiempo real (RTM) es una técnica de marketing que se realiza
+en el momento en el que ocurre un evento relevante . Este tipo de marketing se implementa principalmente en las redes
+sociales, debido a la rapidez con la que se generan los comentarios y las interacciones. Si millones de personas están
+hablando sobre una noticia importante en las redes sociales, las marcas desearán ser parte de la conversación para aumentar
+las interacciones. Aprovechar estos momentos puede tener un impacto positivo para las marcas y ser la oportunidad para que
+las empresas se conecten con sus audiencias y adopten una posición en diferentes discusiones. Ahora bien: ¿qué se necesita
+para que una marca haga un buen marketing en tiempo real?
+
+**RTM efectivo** Un RTM efectivo puede ser sumamente poderoso para tu marca. Para hacerlo de manera exitosa, tu contenido
+debe ser:
+
+Relevante: ¿Qué sucede en este momento? ¿Cuáles son los temas que más se hablan ahora mismo en las redes sociales?
+
+Inteligente: ¿Cómo puedes presentar el contenido de una manera que muestre la personalidad y el ingenio de tu marca?
+
+Fresco: Si el tema de tendencia ocurrió el miércoles y te pusiste al día el jueves, ¿sigue siendo lo suficientemente fresco
+como para generar interacciones?
+
+Orientado: ¿Es esta tendencia o evento actual de interés para tu audiencia?
+
+Llamativo: ¿Qué se necesita para que la gente vea tu publicación y se involucre con ella inmediatamente?
+
+**Estrategias de RTM** Ahora, que tienes una idea de lo que hace que una publicación en tiempo real sea atractiva, sigue
+estas tácticas para aprovechar las tendencias y hacer con éxito marketing en tiempo real:
+
+Escucha siempre. La persona responsable de las redes sociales de una empresa suele ser la primera en conocer las tendencias
+que resultan relevantes para un plan de marketing en tiempo real, por lo que es importante mantener contacto fluido con el
+equipo de redes sociales. Si trabajas dentro del área, intenta estar presente en las redes sociales con la mayor frecuencia
+posible para que puedas captar cualquier tendencia que valga la pena aprovechar.
+
+Utiliza los recursos de tu marca. Si tienes un equipo de diseño y un equipo de edición, solicita su ayuda para crear
+publicaciones rápidas e ingeniosas de la mejor calidad posible.
+
+Aprovecha a las y los influencers de las redes sociales. Si tu marca colabora con influencers en las redes sociales, pídeles
+que ayuden a amplificar tus piezas de RTM republicándolas o interactuando con ellas.
+
+Conoce dónde se está desarrollando la conversación. Puede haber momentos donde un tema de conversación suceda en una
+determinada red social, pero no en otra. Asegúrate de participar de la conversación en la plataforma en la que está
+ocurriendo.
+
+Promociona algunas de tus publicaciones. Dado que los algoritmos determinan cuándo y a quién se muestran tus publicaciones
+orgánicas en diferentes plataformas, tu publicación de RTM puede no llegar a una audiencia lo suficientemente grande a
+tiempo para seguir siendo relevante. Esta podría ser una buena oportunidad para promocionar la publicación y generar más
+engagement y potenciales nuevos seguidores. Una publicación promocionada es una publicación en la pagas a la plataforma para
+que sea más visible.
+
+**Conclusiones principales** En las redes sociales, la gente puede perder el interés en los temas rápidamente, debido a la
+naturaleza acelerada del ciclo de noticias. Para mantenerse relevante y aumentar el engagement es importante aprovechar
+estos momentos a través del marketing en tiempo real. La clave es crear contenido que sea relevante, inteligente, fresco,
+orientado y llamativo.
+
+#### Utiliza un calendario de redes sociales
+
+Como ya vimos, definir cuándo y con qué frecuencia publicar contenido es clave en tu estrategia para las redes. Una vez que
+determines el momento y la frecuencia con la que te gustaría publicar contenido en las diferentes plataformas, un calendario
+de redes puede ayudar a organizar y programar tus publicaciones. Un calendario de redes sociales contiene todas tus
+publicaciones en las redes. Esta herramienta te ayudará a gestionar y organizar tu agenda de publicaciones de diversas
+formas. Un calendario te permite programar las publicaciones con anticipación. Esto te ahorra tiempo y te permite ordenar
+las publicaciones. Además, al planificar tus publicaciones con anticipación, te permite evitar que queden lagunas en la
+cobertura. También te permite organizar todo el contenido para tus publicaciones desde una ubicación centralizada. Puede
+ayudarte a asegurar que todos tus recursos de contenido, como imágenes, videos o enlaces, se adjunten a las publicaciones
+correctas. También puedes compartir tu calendario de redes sociales con otras partes interesadas, para que revisen o
+aprueben tus contenidos antes de su publicación. Programar publicaciones con anticipación te permite planear en torno a los
+eventos nacionales y culturales, y días festivos que sean importantes para tus clientes. Por ejemplo, puedes planear
+publicar y celebrar el Mes de la Herencia Nacional Hispana, el Día de la Mujer o el Día de los Veteranos, según lo que sea
+relevante para tu organización. Este tipo de calendario te ayuda a evitar errores en tus publicaciones. Revisar tus
+publicaciones en el calendario de redes con anticipación te permite copiar, editar, revisar si hay errores de ortografía o
+tipeo, verificar hechos y corroborar que los enlaces e imágenes sean correctos. Puedes crear tu calendario en una hoja de
+cálculo o pegar una tabla en el documento. Puedes comenzar con una plantilla, incluso usar el software de gestión de redes
+sociales para crear tu calendario. Cada entrada en un calendario de redes sociales incluye la combinación de algunos de
+estos elementos: la fecha y hora en que se publicará, el tema de la publicación, la plataforma donde se harán las
+publicaciones, los textos publicitarios (copy), enlaces a recursos, como fotos o videos; y cualquier documento o información
+relacionada. Una vez que elijas una herramienta o plantilla de formato, puedes comenzar a desarrollar tu calendario. Usa
+estos pasos para guiarte, primero identifica las plataformas de redes en las que deseas publicar. Ya vimos algunas
+estrategias sobre cómo hacerlo. Saber dónde tu público pasa más tiempo en línea puede ayudarte a decidir sobre las
+plataformas y crear estrategias de contenido específicas. Luego, revisa tus plataformas de redes sociales y contenido
+actuales, evalúa factores como qué publicaciones reciben mayor interacción, cuándo tu público está más activo en línea y qué
+tácticas fueron las más exitosas en el pasado. Esto te ayudará a identificar áreas de mejora y nuevas oportunidades. Luego,
+decide qué datos deseas que tu calendario de contenido de redes registre. Estos pueden usarse para hacer un seguimiento de
+la información, como plataformas, fechas, horas, texto, recursos visuales y enlaces a posts. Podrás usar los datos
+recopilados para analizar tendencias, analizar lo que sirve y lo que no, y perfeccionar tus campañas en redes sociales.
+Luego, crea una biblioteca de contenido para todos tus recursos, como imágenes, videos y archivos de audio. Puedes organizar
+los recursos en sistemas de almacenamiento de archivos como Google Drive o Dropbox y agregar enlaces en una hoja de cálculo
+o documento. Podrás compartir fácilmente estos enlaces con otros miembros del equipo e insertarlos en tu calendario. También
+podrás establecer un proceso de trabajo y revisión. Piensa en cuándo y con qué frecuencia quieres publicar en cada
+plataforma, quién revisará y aprobará las publicaciones y cómo desarrollarás nuevos contenidos. Ahora, podrás comenzar a
+elaborar y programar tus publicaciones. Organizar y planificar proactivamente tu trabajo puede mejorar el resultado de tus
+campañas. Los calendarios de redes sociales son una excelente herramienta para ayudarte a alcanzar estos objetivos. Más
+adelante, practicarás crear tu propio calendario de redes sociales.
+
+#### Crea un calendario de redes sociales
+
+#### Ejemplo de actividad: Crea un calendario de redes sociales
+
+#### Herramientas de gestión de redes sociales
+
+#### Redacta y publica posteos a través de Hootsuite
+
+#### Ejemplo de actividad: Usa Hootsuite para crear y programar tuits
+
 ### Revisión: Estrategia, planificación y publicación en redes sociales
 
 ## Escucha e interacción en redes sociales
