@@ -1827,7 +1827,74 @@ sociales..
 
 #### Camille - Responder a los comentarios en las redes sociales
 
+Hola, mi nombre es Camille, y soy Gerente de Soporte de Producto. Trabajo en el equipo responsable de dar soporte a los
+teléfonos Pixel. En mi rol, dirijo de la estrategia de soporte a nuestros usuarios en los canales en línea, como las redes
+sociales o el sitio web de nuestra comunidad. Mi parte favorita del trabajo es poder colaborar con tantos equipos diferentes
+para lograr que las y los usuarios sientan que reciben el soporte que necesitan. Por ejemplo, trabajo con equipos de
+marketing, gestión de productos, legales, de relaciones públicas y de soporte a nivel mundial. Trabajar con diferentes
+equipos, es como armar un rompecabezas, y me encanta hacerlo, y ser la pieza que conecta y facilita que nuestros usuarios
+reciban la ayuda que necesitan. Sé que una colaboración ha tenido éxito cuando leo los mensajes de agradecimiento. Saber que
+el resultado de mi trabajo en equipo hace que las personas tengan un dispositivo que funciona, me hace muy feliz.
+Generalmente, veo esos agradecimientos en las redes sociales: Twitter, a veces en Facebook, también en Reddit, porque les
+damos soporte allí, y en nuestra comunidad en línea. El marketing en redes sociales y la escucha social son dos cosas muy
+diferentes. En realidad, el marketing es cuando te relacionas con las personas, y haces publicaciones proactivas. la escucha
+es, literalmente eso, escuchar. Y hay una variedad de herramientas disponibles, pero básicamente es leer los comentarios de
+las y los usuarios, ver cuál es su experiencia y cuáles son sus expectativas, y pasar esa información al equipo. Mi equipo y
+yo respondemos comentarios negativos a diario. Porque nos enfocamos en la asistencia, siempre buscamos conversaciones en las
+que podemos ayudar a solucionar problemas con el dispositivo o remediar una mala experiencia. Al acercarte con empatía,
+puedes mostrar tu predisposición para ayudar y tu preocupación por lo que sucede, y que las personas sientan que no son solo
+un número. Entonces, una vez que te acercas con empatía, debes ofrecer tu ayuda. Es posible que un caso requiera más
+detalles, tal vez necesites alguna información privada, siempre puedes pedirla con un mensaje directo. A veces iniciamos
+conversaciones pidiendo que nos envíen mensaje directos. Bien, eso puede ocurrir cuando, la solución supera el límite de
+caracteres que es algo usual en gran cantidad de redes sociales, o cuando pedimos información privada que no queremos
+arriesgar a que se haga pública. Sé que es tentador ignorar un comentario negativo. Sin embargo, trato de evitarlo porque
+queremos conocer todas las experiencias. Por lo general, mi equipo y yo nos enfocamos en las experiencias más negativas o
+neutrales que un usuario puede tener en línea, pero también nos gusta responder a las positivas. Cuando reconoces que un
+cliente ha tenido una experiencia positiva con tu marca, le agradeces por su fidelidad, y le felicitas, estableces una
+conexión y fomentas un sentido de comunidad entre clientes. Es importante para el equipo Pixel impulsar la comunidad y la
+conexión con las personas porque queremos que sigan siendo clientes de Pixel. Queremos que les digan a sus amistades, “Oye,
+Google es genial, y tú deberías tener este teléfono. O Tengo este teléfono, y me conecto con el equipo de Google, y me dan
+soporte siempre y donde sea que lo necesite”. Por eso es importante responder a todos los comentarios, sean negativos,
+neutrales o positivos. Si pudiera darme un consejo a mí misma cuando estaba empezando en el marketing en redes sociales, me
+diría que tuviera paciencia y que no me tomara las cosas como algo personal. Es muy fácil dejarse influenciar por los
+comentarios negativos que lees, y pensar que eres una mala persona o una pésima marca. Sin embargo, hay verdaderas
+enseñanzas en los comentarios de las personas. Nunca sabes lo que le está pasando a la persona que está al otro lado de la
+pantalla. Por ejemplo, podría tener un mal día, haberse dañado su dispositivo y que sea su medio de vida. Por lo tanto, es
+importante empatizar, actuar, y hacer lo que puedas para ayudarla.
+
 #### Ejemplo de actividad: Responder a los comentarios de tus clientes
+
+**Evaluación del modelo:**
+
+Compara las respuestas  a los comentarios de clientes del ejemplo con las tuyas,utilizando cada uno de los criterios del
+modelo. ¿Qué hiciste bien? ¿En qué aspectos puedes mejorar? Usa las respuestas a estas preguntas como guía a medida que
+avanzas en el curso.
+
+Tus respuestas a los comentarios positivos deben:
+
+    Agradecer al cliente sus amables palabras
+
+    Hacer saber al cliente que aprecias sus comentarios positivos
+
+    Incluir el nombre de pila de la persona e incorporar calidez o humor
+
+    Tus respuestas a las preguntas deben:
+
+    Proporcionar recursos que ayuden a responder a la pregunta
+
+    Involucrar al cliente, ya sea continuando la conversación o haciendo una pregunta relacionada
+
+    Utilizar un lenguaje creativo y/o signos de exclamación
+
+    Tus respuestas a los comentarios negativos deben:
+
+    Incluir información que explique la situación
+
+    Compartir un código promocional para ayudar a arreglar las cosas
+
+    Utilizar un lenguaje cortés y cercano
+
+    Mostrar empatía por la perspectiva del cliente
 
 #### Aumenta el número de personas que te siguen en Twitter
 
