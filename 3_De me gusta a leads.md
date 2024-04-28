@@ -1276,6 +1276,114 @@ campañas sean lo más efectivas posible.
 
 #### Herramientas de gestión de redes sociales
 
+Las herramientas de gestión de redes sociales te permiten organizar, programar y seguir tu contenido. Hootsuite, por
+ejemplo, es una herramienta “todo en uno” de gestión de redes sociales que te ayuda a planificar y crear contenido,
+programar publicaciones, escuchar e interactuar con clientes, publicitar y recopilar estadísticas. Una herramienta como
+Hootsuite, esencialmente, te permite abordar todos los pilares del marketing en redes sociales de forma centralizada.
+
+En esta lección, nos centraremos en cómo usar Hootsuite para generar y publicar contenido. Luego, en una próxima actividad,
+podrás practicar cómo crear y programar tuits vinculando una cuenta de Hootsuite a la cuenta de Twitter que creaste
+anteriormente.
+
+**Abre una cuenta de Hootsuite** El primer paso para comenzar a usar Hootsuite para gestionar redes sociales es abrir una
+cuenta gratuita para estudiantes en <https://education.hootsuite.com/>. Se te pedirá que ingreses tu nombre completo y
+dirección de correo electrónico, y que crees una contraseña. Luego, haz clic en Volver a Hootsuite.com.
+
+**Vincula tus cuentas de redes sociales a Hootsuite** Para publicar contenido en redes sociales usando Hootsuite, primero
+deberás vincular tus cuentas. Para eso, agrega tus cuentas a Hootsuite haciendo clic en el ícono Mi perfil, en la parte
+inferior izquierda, y luego en Administrar cuentas y equipos.
+
+Las instrucciones para agregar cuentas de redes sociales a Hootsuite varían según el tipo de cuenta (comercial o privada)
+que estés usando y el tipo de plataforma de redes sociales. Hootsuite permite vincular cuentas de Facebook, Twitter,
+Instagram, LinkedIn, YouTube y Pinterest.
+
+![alt text](image-62.png)
+
+**Selecciona las cuentas en las que deseas publicar** Una de las características clave de Hootsuite es que te ofrece la
+posibilidad de programar y publicar contenido en varias plataformas de redes sociales al mismo tiempo. En lugar de iniciar
+sesión en cada plataforma por separado, puedes usar Hootsuite para administrar la actividad de todas tus cuentas conectadas
+en un solo lugar, lo que significa un gran ahorro de tiempo.
+
+Para crear una nueva publicación, selecciona el ícono Crear en la barra lateral y luego Publicar.
+
+A continuación, selecciona las cuentas que deseas usar en la lista Publicar.
+
+![alt text](image-63.png)
+
+Redacta el contenido Una vez que hayas seleccionado las cuentas de redes sociales que deseas usar, puedes redactar el
+contenido .
+
+En el área Contenido, introduce el texto de la publicación. También puedes incluir:
+
+    Menciones: nombres de usuarios de empresas, marcas o personas, precedidos por el símbolo “@” (por ejemplo, @Google)
+
+    Enlaces
+
+    Emojis: pequeñas imágenes digitales o íconos, utilizados para expresar ideas o emociones
+
+    Hashtags: palabras o frases precedidas por el símbolo de numeral que indican que un contenido se relaciona con un tema
+    o categoría específica (por ejemplo, #MarketingDigital)
+
+![alt text](image-64.png)
+
+Hootsuite copia el contenido de tu publicación en pestañas para cada plataforma de redes sociales que hayas seleccionado, de
+modo que puedes personalizar el contenido para que esté optimizado según la audiencia de cada espacio. Por ejemplo, puedes
+hacer que la publicación sea más corta en Twitter, quitar los hashtags en Facebook o eliminar el enlace en Instagram.
+
+**Agrega contenido multimedia** Una vez redactado el texto de la publicación puedes agregar contenido multimedia, como
+imágenes, videos y GIFs. Añadir este tipo de material a las publicaciones aumenta la posibilidad de que tu audiencia
+interactúe con ellas.
+
+Hootsuite ofrece una biblioteca multimedia de imágenes y GIFs libres de derechos de autor que puedes usar en tus
+publicaciones. O bien, puedes subir tu propio contenido.
+
+Para buscarlos en la herramienta, haz clic en Explorar tu contenido multimedia. Luego, selecciona Imágenes gratuitas o GIF
+gratuitos en el menú, escribe una palabra clave en la barra de búsqueda y selecciona el contenido multimedia que deseas
+incluir en la publicación.
+
+Para cargar contenido propio desde tu dispositivo, arrástralo al área de contenido multimedia o haz clic en O selecciona
+archivos para subir.
+
+![alt text](image-65.png)
+
+Puedes editar las imágenes de tus publicaciones usando el editor de fotos de Hootsuite. Por ejemplo, puedes agregar efectos
+o recortarlas para ajustarlas a una plataforma específica. Cuando subes un video, Hootsuite lo formatea automáticamente para
+que se adapte a las plataformas en las que elegiste publicar.
+
+Para hacer que las imágenes y los videos sean más accesibles, puedes agregar subtítulos o texto alternativo, que es una
+breve descripción escrita de una foto con el fin de ayudar a las personas con discapacidad visual.
+
+**Previsualiza y publica contenido** Después de crear un contenido, puedes seleccionar una pestaña de la plataforma de redes
+sociales y previsualizar cómo se verá la publicación en esa plataforma.
+
+![alt text](image-66.png)
+
+Cuando estés conforme con tu publicación, puedes elegir entre las siguientes opciones:
+
+Publicar ahora: publica el contenido en las plataformas elegidas de inmediato.
+
+Programar para más tarde: selecciona una hora y fecha para hacer la publicación. Programar tus publicaciones con
+anticipación te ayuda a mantener activa tu presencia en las redes sociales y a compartir contenidos en momentos de alta
+interacción. Si tienes un plan pagado, Hootsuite proporciona horarios recomendados para publicar en función de tus datos
+históricos.
+
+Guardar borrador: guarda un borrador del posteo si aún no quieres publicarlo o programarlo. Tu contenido personalizado se
+guardará en las pestañas de cada  plataforma.
+
+**Visualiza tus publicaciones programadas:** Puedes ver y administrar tus publicaciones en redes sociales en un solo lugar
+haciendo clic en el ícono del Planificador, que es el calendario de redes sociales integrado de Hootsuite. Revisa tus
+publicaciones programadas y planifica nuevo contenido en función de lo que ya hayas programado. Puedes crear nuevas
+publicaciones en intervalos de tiempo vacíos y reprogramar, editar o eliminar publicaciones programadas.
+
+![alt text](image-67.png)
+
+**Conclusiones principales** Hootsuite es una poderosa herramienta de gestión de redes sociales, que puedes usar para
+ahorrar tiempo y organizar tu contenido de marketing en redes sociales. Con Hootsuite, puedes administrar todas tus cuentas
+de redes sociales desde un solo lugar. Hootsuite te permite programar y publicar posteos  en múltiples plataformas a la vez
+y personalizar el contenido para cada una. Al programar publicaciones con anticipación y luego verlas en el calendario de
+redes sociales de Hootsuite, puedes planificar y mantener una presencia constante en las redes sociales de manera más
+efectiva.
+
 #### Redacta y publica posteos a través de Hootsuite
 
 #### Ejemplo de actividad: Usa Hootsuite para crear y programar tuits
