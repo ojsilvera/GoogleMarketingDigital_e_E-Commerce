@@ -1898,9 +1898,179 @@ Tus respuestas a los comentarios positivos deben:
 
 #### Aumenta el número de personas que te siguen en Twitter
 
+Ya hablamos de algunas maneras de aumentar las interacciones en redes sociales. Ahora, hablaremos de cómo atraer a más
+personas que alcancen el máximo nivel de interacción con tu marca y se conviertan en seguidores. Un seguidor es alguien que
+opta por recibir actualizaciones de una empresa o marca en una plataforma de redes sociales. Los seguidores eligieron ver
+todas las publicaciones de otro usuario/a, como un amigo o un negocio en su feed de noticias. Como dijimos, la interacción
+mide cómo las personas se relacionan con tu contenido en las redes sociales, como cuando le dan Me gusta o lo comparten. Las
+personas le dan Me gusta, comparten o retuitean publicaciones que encuentran valiosas. Por otro lado, siguen a una marca o
+negocio cuando quieren recibir actualizaciones frecuentes de éstos. Ganar seguidores en redes sociales, a menudo se
+considera un indicador clave del éxito de una campaña en redes sociales. Aumentar tus seguidores indica que estás publicando
+contenido relevante y atractivo y que que tienes influencia en el entorno. Los seguidores son importantes porque puedes
+llegar a ellos y ellas con contenido orgánico cada vez que publicas. Puedes aplicar diferentes tácticas para aumentar tus
+seguidores en todas tus plataformas de redes sociales. Estas tácticas serán diferentes de una plataforma a otra de acuerdo a
+varios factores, como su funcionamiento o qué segmento de tu público visita esa plataforma con mayor frecuencia. Por
+ejemplo, veamos formas de aumentar tus seguidores en Twitter. Twitter está diseñada para alentar conversaciones con mensajes
+cortos y frecuentes. Estos se llaman tuits. Un tuit es cualquier mensaje publicado en Twitter y puede contener elementos
+como texto, fotos, videos, enlaces y audio. Es una plataforma útil para conectar y desarrollar relaciones con tu público.
+Para aumentar tus seguidores en Twitter como en cualquier plataforma de redes sociales, querrás interactuar frecuentemente
+con tu público. Puedes hacerlo vinculando, etiquetando, retuieando o respondiendo tuits de otras personas. Interactuar
+regularmente con tu público muestra a tus potenciales seguidores que eres humano y ayuda a que más personas descubran tu
+marca. A diferencia de otras plataformas, en Twitter es mejor publicar con frecuencia. Los feeds en Twitter se mueven
+rápido, así que debes tuitear con asiduidad. Publicar contenido nuevo con frecuencia te ayuda a maximizar las interacciones
+y aumentar tus seguidores. Como dijimos antes, un calendario de redes sociales te ayudará a planificar y publicar tuits
+regularmente. Otra táctica para aumentar tus seguidores en Twitter es usar de manera efectiva los hashtags. Un hashtag es
+una palabra o frase precedida por el símbolo numeral que indica que un contenido se relaciona con un tema o categoría. Los
+hashtags hacen que tus publicaciones se puedan buscar, algo así como SEO para tu cuenta de Twitter. Por lo tanto, agregar un
+par de hashtags para cada tuit ayudará a que más personas vean tu cuenta. Dicho esto, ten cuidado de no incluir demasiados
+hashtags en tus tuits ya que pueden distraer. También puedes agregar imágenes llamativas para atraer seguidores. Puedes
+incluir desde fotografías a infografías, y contenido generado por el usuario. Las imágenes son más efectivas que los textos
+para llamar la atención de las personas y que vean tu publicación. De hecho, es más probable que se retuiteen tuits con
+imágenes que los que no tienen. Una característica de Twitter que te ayudará a que las personas lleguen a tu perfil es la
+biografía. La biografía de Twitter te permite presentar tu marca. Te ayuda a compartir lo que haces, a describir tus
+productos o servicios y aquello que hace que tu marca sea especial en 160 caracteres o menos. Las biografías más efectivas
+de Twitter son creativas, originales y capturan la personalidad de la marca. Asegúrate de incluir palabras clave relevantes
+para que las personas te encuentren en su búsqueda. También puedes agregar un enlace a tu sitio web. Por último, otra manera
+de aumentar tus seguidores en Twitter es promover tu perfil en otros canales de marketing, como correos electrónicos, tu
+sitio web, o materiales de punto de venta. Hay muchas maneras de ganar seguidores en las redes sociales y las estrategias a
+utilizar serán diferentes en cada plataforma. Las mejores prácticas como las que describimos para Twitter, se pueden aplicar
+en otras plataformas para ayudarte a aumentar tus seguidores y las interacciones en tus redes sociales en general. A
+continuación, hablaremos sobre más estrategias para interactuar con tu público.
+
 #### Marketing de influencers
 
+Como especialista en marketing digital, es probable que escuches el término “influencer” a menudo. Un o una influencer es
+una persona con capacidad de influir en la decisión de compra de clientes potenciales de un producto o servicio mediante la
+promoción o recomendación de estos artículos en las redes sociales. Si compras un producto porque lo recomienda un
+influencer, éste ha “influenciado” en tu decisión.
+
+El marketing de influencers se produce cuando una marca recluta a un o una influencer en línea para que recomienden sus
+productos o servicios. Solo en 2021, se estima que las marcas gastaron $13,800 millones en marketing de influencers. En este
+artículo, aprenderás más sobre este tipo de marketing y las diversas estrategias que utilizan los especialistas para
+conseguir buenos resultados.
+
+Diferentes tipos de influencers Las y los influencers abarcan todos los sectores y temas:belleza, arte y diseño,
+alimentación y organización del hogar, entre muchos otros. Hoy en día, cualquiera puede ser influencer, basta con tener
+muchos seguidores en las redes sociales.
+
+El número de seguidores del influencer determina su categoría:
+
+    Nanoinfluencers: 10 mil seguidores o menos
+
+    Microinfluencers: entre 10 mil y 100 mil seguidores
+
+    Macroinfluencers: entre 100 mil y 1 millón de seguidores
+
+    Megainfluencers: 1 millón o más seguidores
+
+**Importancia del marketing de influencers** El marketing de influencers resulta muy eficaz y se ha convertido en una
+táctica importante para las marcas que intentan aprovechar las redes sociales para obtener ingresos. Según Influencer
+Marketing Hub, el 67 % de las marcas en Instagram utilizan el marketing de influencers, y en un reciente informe de
+referencia, encontró que su retorno medio de la inversión (ROI) es de $5,78 por cada cada dólar gastado.
+
+**Consejos para seleccionar influencers para tu campaña** Aunque parezca que asociarse con megainfluencers es lo más eficaz
+para tu marca, a menudo, los influencers con un número menor de seguidores tienen mayor interacción. Por ejemplo, se estima
+que la interacción de los microinfluencers es del 3,86 %, mientras que el de los megainfluencers es de tan solo el 1,21 %.
+
+Si estás llevando a cabo una campaña en la que tu objetivo es aumentar la interacción, las conversiones, las ventas o el
+número de personas que te siguen, considera el uso de influencers con un número menor de seguidores pero que estén alineados
+con tu público objetivo para impulsar mayores tasas de interacción. Sin embargo, si el objetivo de tu campaña es alcanzar un
+determinado número de visualizaciones o impresiones, es mejor que te dirijas a influencers con un gran número de seguidores.
+Independientemente de tus objetivos, asegúrate de haber investigado a cada posible influencer con auditorías en sus cuentas
+de redes sociales o pidiéndoles que te compartan las métricas que te interesen.
+
+**Consejos rápidos para un marketing de influencers eficaz** Como ocurre con todo el marketing, tendrás que organizarte  y
+ser detallista a la hora de crear un plan de marketing de influencers. Una vez que hayas investigado y seleccionado a tus
+influencers, crea una estrategia, un presupuesto y un calendario. A continuación, preséntales tu plan.
+
+*Consejo profesional:* recuerda que aunque tú y tu influencer representan a sus respectivos negocios, están hablando de
+persona a persona. Mantén una conversación abierta sobre las ventajas de asociarse y, cuando tengas dudas, actúa con
+diplomacia.
+
+Cuando te dispongas a crear tu plan de influencers, asegúrate de integrarlo con las relaciones públicas, los eventos o los
+lanzamientos de productos que puedas tener en un futuro próximo.
+
+**Conclusiones clave** El marketing de influencers demostró ser una herramienta inestimable para las marcas en las redes
+sociales. Estar al día sobre quienes son las y los principales influencers de tu sector y organizar y ejecutar una
+estrategia clara te permitirá llevar a cabo campañas de marketing de influencers exitosas.
+
 #### Marketing en redes sociales en dispositivos móviles
+
+![alt text](image-70.png)
+
+En esta lección, aprenderás cómo aumentar la interacción en las redes sociales. Para repasar, la interacción se refiere a
+las acciones que toman las personas en redes sociales, como me gusta, favoritos, comentarios, compartir, retweets,
+guardados, clics, hashtags y menciones. En este artículo hablaremos de una de las mejores formas de captar la atención del
+público en las redes sociales: el marketing móvil
+
+**Las redes sociales y el marketing en dispositivos móviles** El marketing móvil es una estrategia de marketing digital
+destinada a llegar al público objetivo en sus teléfonos inteligentes, tabletas y otros dispositivos móviles. El marketing
+móvil puede llegar a las personas a través de muchos canales, como sitios web, correos electrónicos y redes sociales. Las
+redes sociales y el marketing móvil van de la mano porque la gente accede cada vez más a estos contenidos desde sus
+dispositivos móviles. Por ejemplo, en julio de 2021, más del 98 % de las y los usuarios de todo el mundo accedieron a
+Facebook desde sus teléfonos móviles. Por eso, es importante que tu estrategia de marketing en redes sociales incorpore el
+marketing móvil.
+
+El marketing móvil en las redes sociales ofrece las siguientes ventajas:
+
+Alto compromiso
+
+Amplio alcance
+
+Aumento de las tasas de conversión
+
+Segmentación eficaz
+
+Oportunidades para establecer conexiones personales con cada cliente
+
+Tiempo de respuesta rápido
+
+Acceso a contenidos generados por las y los usuarios
+
+Resultados fáciles de seguir
+
+Como especialista en marketing digital, hay varias formas de utilizar el marketing móvil para aumentar el rendimiento de tus
+campañas en redes sociales.
+
+Consejos de marketing móvil en redes sociales Aquí hay algunos consejos para incorporar el marketing móvil en tu estrategia
+de marketing en redes sociales:
+
+**Crear publicaciones adaptadas a dispositivos móviles** Si creas una publicación que se ve bien en una computadora de
+escritorio, no significa necesariamente que se verá bien en un dispositivo móvil. Asegúrate de probar todos tus diseños e
+imágenes y de que los enlaces de tus publicaciones lleven a páginas de destino optimizadas para estos dispositivos. También
+debes tener en cuenta a los usuarios móviles cuando crees contenido escrito. Por lo general, la gente no quiere leer
+artículos largos en sus teléfonos, así que céntrate en crear publicaciones más cortas.
+
+**Utiliza videos** Las personas interactúan más con los videos que con otros tipos de contenido en sus dispositivos móviles,
+así que asegúrate de incluirlos en tus publicaciones a menudo. Sin embargo, las personas tienen poca capacidad de atención
+cuando están en sus teléfonos, por lo que es importante resaltar los puntos importantes o las características del producto
+al principio de los videos y que su duración no pase de 15 o 30 segundos. El video en tiempo real es otra opción atractiva
+para el marketing móvil. Puedes retransmitir en vivo desde tu negocio en Facebook, YouTube, Instagram Live u otra plataforma
+para generar interés e interacción.
+
+**Pedir a tus clientes que se registren** Incitar a tus clientes a que “se registren” en tu negocio en las redes sociales es
+una excelente manera de obtener medios ganados, ya que permite que “los amigos” y seguidores de estos sepan que les gusta e
+interesa tu negocio. Ofrecer incentivos como descuentos, cupones y programas de recompensas puede animar a tus clientes a
+registrarse.
+
+**Fomentar los contenidos generados por los usuarios** El contenido generado por el usuario, o CGU, es cualquier tipo de
+contenido creado por personas, en lugar de marcas. A la gente le gusta el contenido de clientes reales porque le parece
+auténtico y digno de confianza. Por eso, este tipo de contenido puede ayudarte a aumentar tus índices de interacción en las
+redes sociales. Además, es fácil de crear y publicar en las redes sociales desde dispositivos móviles. Para animar a las
+personas a compartir CGU, puedes organizar concursos invitando a tus clientes a publicar fotos o videos de sí mismos
+utilizando tu producto o servicio.
+
+**Aprovechar el marketing de influencers** El marketing de influencers se produce cuando una marca recluta a un influencer
+en línea para que recomiende uno de sus productos o servicios. El marketing móvil es útil para los influencers ya que les
+permite promocionar marcas a distancia. Para establecer una colaboración con influencers, encuentra uno que comparta tu
+público objetivo, use las mismas plataformas y tenga una gran conexión con sus seguidores.
+
+**Conclusiones clave** Una estrategia de marketing en redes sociales exitosa incluirá el marketing móvil. La integración de
+las redes sociales y el marketing móvil genera muchas ventajas, como un alcance amplio, una alta interacción y un aumento de
+las conversiones. Las tácticas discutidas en este módulo son solo algunas formas de aprovechar el marketing móvil para
+maximizar los resultados de tus campañas en redes sociales. A medida que los dispositivos móviles y las redes sociales sigan
+creciendo y evolucionando, deberás mantenerte al día sobre las últimas tendencias para que tus campañas sigan siendo
+relevantes y consigas los mejores resultados.
 
 ### Redactar contenido atractivo
 
