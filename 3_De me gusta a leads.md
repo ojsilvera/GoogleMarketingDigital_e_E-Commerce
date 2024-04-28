@@ -2567,9 +2567,156 @@ lograr el mayor alcance posible haciendo que tu contenido en las redes sociales 
 
 #### ¿Qué es Canva?
 
+A lo largo de este curso, aprendiste mucho sobre lo que el contenido puede hacer por tu presencia en las redes sociales. En este artículo, aprenderás cómo diseñar una publicación para tus páginas de redes sociales.
+
+**¿Qué es Canva?**
+Canva es una herramienta de diseño gráfico en línea que se utiliza para crear gráficos, presentaciones, carteles, documentos
+y otros contenidos visuales, incluidos videos, para las redes sociales. A diferencia de otras herramientas de diseño gráfico
+que requieren cierto nivel de experiencia, Canva está diseñada específicamente para facilitar su uso, lo que significa que
+cualquier persona puede sentirse cómoda al comenzar a usar la herramienta. Canva ofrece un gran número de plantillas
+prediseñadas para crear publicaciones de marca con un nivel de diseño experto.
+
+**Navegar por la interfaz de Canva**
+Para empezar a crear una publicación en Canva, tendrás que iniciar sesión o crear una nueva cuenta. Para empezar, accede a
+<Canva.com> y completa una de estas acciones. Para ello deberás proporcionar tu dirección de correo electrónico y crear una
+contraseña, o iniciar sesión a través de tu cuenta de Google, Facebook o Apple.
+
+![alt text](image-75.png)
+
+Una vez que ingresaste, selecciona crea un diseño, y el tipo de publicación que deseas crear. Las opciones son: video,
+presentación, publicación o historia de Instagram, póster, publicación de Facebook, logotipo, folleto, infografía, currículo
+y otros tipos de contenido. Como en este curso estamos tratando el tema de las redes sociales, por ahora selecciona un post
+de Instagram.
+
+Ahora, ponle un título en la barra de la parte superior de la página. Asegúrate que sea descriptivo. Por ejemplo puedes
+incluir el nombre del descuento que se ofrece o una próxima festividad.
+
+![alt text](image-76.png)
+
+Una vez que lo hayas titulado, explora las distintas plantillas de Canva ingresando palabras clave en la barra de búsqueda
+que impliquen el tema específico de tu publicación o negocio, como tienda de electrónica, o términos más vagos, como
+colorido.
+
+Nota: las plantillas gratuitas no tienen el ícono de la corona. Los elementos con corona requieren una cuenta Canva Pro de
+pago.
+
+![alt text](image-77.png)
+
+Cuando encuentres una plantilla que te guste, selecciónala para agregarla a tu publicación. Puedes ajustar y editar todos
+los elementos dentro de la plantilla seleccionando el que quieres ajustar. Aparecerá una barra de herramientas que te
+permitirá realizar los cambios que desees como colores, tamaños, fuentes, alineación del texto, espaciado y mucho más. Si
+quieres seleccionar más de un elemento, puedes hacer clic y arrastrar el cursor sobre los elementos y se seleccionarán
+juntos.
+
+![alt text](image-78.png)
+
+Cuando tengas todo listo para agregar el texto del título, ve al menú Texto y selecciona Agregar un título. Muévelo al lugar
+donde te gustaría colocarlo en la publicación. También puedes hacer clic en un elemento de texto existente en la plantilla
+para editarlo o eliminarlo.
+
+Nota: si estás en una computadora de escritorio, Canva tiene una serie de atajos de teclado que puedes usar para agilizar tu
+proceso de diseño. Estos atajos te permiten realizar fácilmente acciones como: crear un nuevo cuadro de texto, poner el
+texto en negrita, cambiar el tamaño de las imágenes, copiar los elementos y mucho más.
+
+![alt text](image-79.png)
+
+Para ajustar textos, selecciona el que deseas editar y elige un tipo de letra en el menú desplegable. Para asegurarte de que
+sea accesible, evita los tipos de letra complicados y las cursivas, negritas u otras letras especiales.
+
+![alt text](image-80.png)
+
+A continuación, haz clic en la pestaña Elementos para encontrar gráficos, fotos, videos y mucho más. Escribe una palabra
+clave en la barra de búsqueda para encontrar elementos relevantes para tu diseño. Al hacer clic en un elemento , éste se
+agregará automáticamente a tu lienzo. Luego puedes arrastrarlo y colocarlo donde desees.
+
+Es posible que quieras mostrar tu publicación a otras personas antes de publicarla en las redes sociales. Para hacerlo, haz
+clic en “Compartir”. Ahí puedes establecer los permisos para compartir, desde solo las personas agregadas a cualquiera con
+el enlace. También puedes elegir qué acceso permitir, desde edición hasta sólo visualización. Puedes hacer clic en Copiar
+enlace o agregar las direcciones de correo electrónico de las personas a las que quieres compartirles la publicación.
+
+Por último, asegúrate de guardar el trabajo que realizaste. Canva guarda automáticamente tu trabajo, pero también puedes
+guardarlo haciendo clic en Archivo y seleccionando Guardar. Después, puedes ir a la página de inicio, y en la pestaña
+Proyectos, encontrarás los elementos guardados.
+
+![alt text](image-81.png)
+
+Después de experimentar con la creación de una publicación para Instagram para este curso, te sugerimos que sigas  diseñando
+otros tipos de recursos en Canva. Las habilidades que estás aprendiendo en este curso las puedes aplicar a cualquier tipo de
+publicación para redes sociales.
+
+**Conclusiones clave**
+Canva puede ser una herramienta invaluable para facilitar tu presencia en las redes sociales como especialista en marketing
+digital o community manager. Asegúrate de dedicar tiempo a familiarizarte con sus diversas capacidades y funciones para
+prepararte para el éxito en futuros roles.
+
 #### Reutilizar el contenido en redes sociales
 
+Como especialista en marketing digital que publica en redes sociales, debes conocer las mejores prácticas para escribir y
+diseñar contenido. Ya sea que tú lo desarrolles o supervises el trabajo de otra persona. Sin embargo, lleva mucho tiempo
+crear continuamente contenido fresco para todas tus redes sociales. Por esta razón, es útil reutilizar los contenidos, ya
+que te permite aprovechar al máximo tus mejores recursos. Reutilizar es el proceso de recrear el contenido para volverlo a
+publicar en diferentes formatos. Por ejemplo, podrías tomar el contenido de un webinar y convertirlo en un video, un libro
+electrónico, una publicación de blog, un podcast y una lista de verificación. Además de ahorrarte tiempo, reutilizar el
+contenido en redes sociales tiene otros beneficios. Puede reforzar el mensaje de tu marca, dar a tu contenido un impulso de
+SEO, y llegar al público que no lo vio la primera vez que lo publicaste. Reutilizar el contenido también te permite crear
+algo completamente nuevo y original con tus imágenes, videos y textos existentes. Al considerar el contenido que vas a
+reutilizar, prioriza el haya tenido un mejor desempeño para ayudarte a cumplir los objetivos definidos en tu estrategia,
+como traer más tráfico a tu sitio web, generar más clientes potenciales, o aumentar el reconocimiento de marca. Otra cosa a
+considerar es si el contenido es o no perdurable, para entender si será relevante por un largo periodo o por tiempo
+limitado. Por ejemplo, el contenido específico de un evento no es ideal para ser reutilizado. Una vez que selecciones un
+contenido de alto rendimiento puedes definir cómo reutilizarlo. Hay un sinfín de enfoques para reutilizar contenido en las
+redes sociales, y estos varían según la plataforma que quieres usar. Un video tutorial de cinco minutos puede funcionar bien
+en YouTube, por ejemplo, pero es demasiado largo para Twitter. estas son algunas de las formas de reutilizar contenido en
+las redes sociales. Comencemos con listas o listículos. Los listículos son artículos escritos en formato de lista. Tal vez
+publicaste una guía práctica con viñetas o una lista de sugerencias. Puedes dividir esa lista en una serie de publicaciones.
+Por ejemplo, si tu empresa de mejoras para el hogar publica cinco formas de actualizar tu cocina con poco dinero, podrían
+ser cinco nuevas publicaciones, cada una hecha a partir de la lista original. Cada publicación brindaría información
+adicional y enlaces que aumenten el valor de las originales. También puedes transformar texto en imágenes. Las publicaciones
+que contienen datos o estadísticas funcionan bien en infografías, por ejemplo. Las imágenes ayudan a las personas a
+comprender conceptos complejos. Además, el contenido visual genera mayor engagement que el texto, así que reutilizar
+contenido escrito en formato de imagen te permite llegar a más personas. Otra forma creativa de reutilizar el contenido es
+tomar videos divertidos o animaciones y convertirlos en GIF. Un GIF es una imagen animada. Existen una serie de herramientas
+que pueden ayudarte a crear GIFs divertidos y atractivos para promocionar tu contenido. También puedes poner preguntas
+frecuentes en tus plataformas de redes sociales y responderlas con un artículo ya escrito. Al reutilizar tu contenido más
+relevante y vincularlo a tus respuestas, construyes relaciones y ayudas a quienes tienen la misma pregunta a que te
+encuentren. Hay muchas herramientas disponibles diseñadas para ayudarte a reutilizar el contenido. Las herramientas te
+ayudarán a hacer cosas como convertir un podcast en una entrada de blog, crear artículos desde videos cortos de YouTube, y
+convertir una publicación de blog en un episodio de podcast. Por ejemplo, WordPress, una herramienta que ayuda a
+especialistas en marketing digital a crear sitios web y blogs, ofrece una función que publica automáticamente la entrada del
+blog al igual que hilos en Twitter con dos clics adicionales. Hablamos de algunas de las muchas posibilidades de reutilizar
+tu contenido en redes sociales. Puedes investigar más formas de hacerlo o crear la tuya. Ya has aprendido mucho sobre cómo
+escuchar e interactuar con tu público. y pronto tendrás la oportunidad de poner en práctica estas lecciones.
+
 #### Catherine - Involucrar al público de redes sociales a través de la narración
+
+Mi nombre es Catherine, y estoy a cargo de las cuentas en redes sociales de Google a nivel mundial. Me ocupo de los canales
+de Google en Twitter, Facebook, Instagram y, ahora, TikTok en todo el mundo. Mi parte favorita del trabajo es que ningún día
+es igual a otro. Conocemos a un montón de gente. Tenemos la oportunidad de pensar todo el tiempo de forma creativa. Podemos
+escribir y tomar fotos, y aprender muchas cosas sobre lo que Google está haciendo en el mundo. Para atraer a la audiencia en
+las redes sociales debes interactuar con ella. Aprender sobre dónde está, qué le interesa, y cómo hablarle. Luego,
+escribimos textos reflexivos, divertidos e inteligentes. Tratamos de pensar en qué le interesa al público de cada
+plataforma. La audiencia en Instagram es distinta a la de Twitter, y la forma de llegar a ellas de manera efectiva es muy
+diferente. Contamos historias. Y les hablamos como si fueran personas reales. Incorporamos narrativas en todo lo que
+hacemos. Creemos que cada historia tiene introducción, nudo y desenlace. y tratamos de averiguar por qué le interesa a la
+gente. Presentamos cada historia como si la gente no supiera nada al respecto, porque en muchos casos hablamos de productos
+nuevos, y realmente no lo saben. Así que la presentamos y explicamos por qué es genial, por qué es importante, y por qué es
+relevante para ti como usuario actual o futuro Y, a partir de eso, construimos una historia. Cuando tengo que contar algo en
+las redes sociales, empiezo siempre de la misma manera. Trato de averiguar todo sobre el tema, y hablo con la gente con la
+que trabajo para comprender cuál es su objetivo. Un objetivo podría ser cómo “Queremos llegar a la Generación Z” o cómo
+“Queremos dar noticias”. Y una vez que sé cuál es, empiezo a hacer preguntas para conocer lo que queremos anunciar. Y una
+vez que averigüé todo lo que puedo al respecto, pregunto: “¿Qué recursos tenemos? ¿Tenemos videos o fotos? ¿No tenemos
+nada?” A veces es nada, y simplemente tenemos que dar una noticia de forma divertida. Entonces, a partir de ahí, después de
+haber aprendido y hecho la investigación para conocer cuál es la historia a contar, empiezo a escribir el guion. Para
+nosotros en Google, escribir el texto es quizás la cosa más importante para empezar. Pasamos mucho tiempo escribiéndolo y
+editándolo en equipo. Nada de lo que publicamos se vuelve visible sin antes pasar por varias etapas de aprobación. Entonces,
+una vez que tenemos el texto perfecto y lo enviamos a varios equipos para su aprobación, empezamos a buscar las imágenes y
+pensamos, “¿Cuál será la imagen que haga que la gente se detenga? ¿Por qué la gente se va a interesar, -luego de ver un feed
+repleto de noticias, memes divertidos, anuncios, etc.- y detenerse a escuchar lo que una corporación tiene que decir?” Por
+eso buscamos imágenes convincentes, y trabajaremos con la gente para volver a producir imágenes o para ofrecer mejores
+prácticas. Creo que lo que siempre hay que recordar sobre las redes sociales es que siguen siendo un campo muy divertido y
+creativo. Y aunque el marketing a veces se siente como algo muy serio e importante, lo que hacemos sigue siendo muy
+divertido, y es una oportunidad para probar cosas nuevas y desarrollar la creatividad. Mi mayor recomendación es: no pierdas
+de vista el hecho de que haces algo divertido, original y creativo a diario, así que disfrútalo.
 
 ### Revisión: Escucha e interacción en las redes sociales
 
