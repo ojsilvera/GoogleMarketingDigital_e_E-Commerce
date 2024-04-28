@@ -950,6 +950,83 @@ compartir contenido sobre tus productos.
 
 #### Caso práctico: Cómo Name Glo adquiere medios ganados
 
+Como recordarás, los medios ganados son cualquier exposición digital positiva, generada a través de recomendaciones
+personales o públicas. A continuación, conocerás el caso de una empresa real con sede en Nueva York llamada Name Glo, que
+es muy efectiva a la hora de obtener medios ganados en las redes sociales.
+
+![alt text](image-57.png)
+
+**Más información de la empresa.**
+
+![alt text](image-58.png)
+
+es un estudio ubicado en la ciudad de Nueva York que se dedica a la fabricación de luces de neón personalizadas. Con la
+misión de iluminar la vida de las personas con sus diseños únicos, Name Glo ofrece sus productos tanto a particulares como
+a empresas para celebrar eventos sociales, decorar hogares o ambientes de trabajo o mejorar la imagen de un negocio. Una
+de las especialidades de Name Glo son las luces de neón con texto personalizado, como nombres de personas o empresas y frases
+motivacionales o llamativas.
+
+Las fundadoras de Name Glo, Lena Imamura y Sas Simon, sostienen que parte del éxito de su empresa se debe a la difusión que
+sus diseños tienen en Instagram.
+
+**El desafío: Adquirir medios ganados** Al tratarse de una pequeña empresa, Name Glo no cuenta con los mismos recursos o el
+tiempo que tiene una gran organización para dedicar al marketing digital. Lena y Sas, las fundadoras, se encargan ellas
+mismas de administrar las redes sociales de la empresa y de planificar  estrategias de marketing. Actualmente, todo su
+contenido y crecimiento en redes sociales es orgánico, lo que significa que no han invertido en publicidad pagada. Esto
+implica que sus publicaciones no son patrocinadas y no se ejecutan como anuncios, lo que hace que su éxito sea aún más
+destacable. La estrategia de marketing de Name Glo se enfoca en adquirir medios ganados.
+
+**El enfoque: Crear un producto digno de publicar** Name Glo involucra a sus clientes en cada etapa del proceso de creación,
+desde la generación de ideas hasta la planificación y la producción. Esto hace que sus clientes sientan como si estuvieran
+formando parte de una experiencia, en lugar de simplemente adquirir un producto hermoso, y se sientan particularmente
+comprometidos con el proyecto.
+
+Dado que Lena y Sas saben no cuentan con dinero para invertir en campañas, su objetivo es crear un producto único y de alta
+calidad que las personas quieran fotografiar y publicar en las redes sociales. Muchas/os de quienes compraron una luz de
+neón personalizada de Name Glo quieren mostrarla de la mejor manera posible. Por eso, las fotos que  comparten en sus
+cuentas de redes sociales suelen ser de alta calidad. Y otra ventaja de esta estrategia: Lena y Sas no necesitan ambientar
+lugares para sacar fotos con accesorios e iluminación, lo que les ahorra tiempo y dinero.
+
+![alt text](image-59.png)
+
+Cuando un/a cliente publica una foto de la luz que compró a Name Glo, la empresa la reproduce en una historia de Instagram
+y, la mayoría de las veces, también en su feed de contenido.
+
+**Los resultados** La estrategia orgánica de redes sociales orgánica de Name Glo  dio como resultado altas conversiones y un
+aumento constante en clientes y ventas en los pocos años que llevan operando. Lena y Sas atribuyen esto al nivel de
+satisfacción de sus clientes con el producto.
+
+El crecimiento de Name Glo también se debe al tipo de clientes que tiene la empresa, que incluye a diseñadores/as de
+interiores con una gran cantidad de seguidores en las redes sociales. Muchos de ellos y ellas encargan piezas a Name Glo con
+la intención de hacer que un espacio se sienta realmente especial. Luego, publican las fotos del espacio en sus redes
+sociales, y Name Glo cosecha los beneficios.
+
+Además, cuando un/a cliente está muy satisfecho/a con un producto de Name Glo, es frecuente que luego se lo recomiende a sus
+amistades y familiares, en especial a quienes abren nuevos negocios. Así, los productos de Name Glo terminan en esos
+negocios como decoración.
+
+![alt text](image-60.png)
+
+**Colaboración para el éxito** En algunas ocasiones, trabajar de forma colaborativa con artistas y marcas resultó ser una
+estrategia efectiva para Name Glo. Por ejemplo, la compañía se asoció con la tienda de venta de plantas en línea The Sill
+para fabricar una serie de luces de neón inspirada en la planta tropical Monstera. Cada vez que alguien recibía una planta
+de The Sill hecha en luz de neón y publicaba una imagen en redes sociales etiquetaba a Name Glo. Como resultado, Name Glo
+tuvo un gran aumento en los seguidores de Instagram que, de otra manera, no habrían oído hablar de la marca.
+
+También tuvieron éxito con una acción de colaboración cuando les ofrecieron crear una experiencia de neón arcoiris en la
+tienda insignia de Bergdorf Goodman, en la ciudad de Nueva York. Debido a la experiencia que ayudaron a crear, los
+contenidos de Name Glo se compartieron entre 10 y 15% más que lo habitual.
+
+**Conclusión** Name Glo es un excelente ejemplo de cómo impulsar el crecimiento y el éxito de una empresa sin invertir en
+publicidad. En lugar de eso, la compañía logró un gran éxito, centrándose en adquirir medios ganados. Para ello, creó un
+producto atractivo, que permite a las personas sentirse involucradas en su creación desde el inicio. Como resultado, quedan
+tan satisfechas que quieren publicarlo y compartirlo con sus amistades y familiares.
+
+Todas las marcas quieren generar medios ganados, y estos son especialmente importantes para marcas con presupuestos
+limitados de publicidad y marketing. Para ser efectivas, las marcas deben intentar crear una impresión duradera en sus
+clientes, a través de una comunicación frecuente, la colaboración y un producto final memorable. Si hace esto, es probable
+que aumenten sus seguidores en las redes sociales, lo que puede resultar en mayores conversiones.
+
 ### Planifica cuándo publicar
 
 ### Revisión: Estrategia, planificación y publicación en redes sociales
