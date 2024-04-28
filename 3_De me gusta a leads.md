@@ -2720,6 +2720,71 @@ de vista el hecho de que haces algo divertido, original y creativo a diario, as�
 
 ### Revisión: Escucha e interacción en las redes sociales
 
+### Términos y definiciones del curso 3, semana 3
+
+Accesibilidad: Tener en cuenta las necesidades de las personas con discapacidad cuando se crean o modifican productos,
+servicios e instalaciones, de modo que puedan ser utilizados por todas las personas, ya sea que tengan o no alguna
+discapacidad.
+
+Contenido evergreen: Contenido que será relevante durante un largo periodo de tiempo.
+
+Directrices de voz de la marca: Describe la forma en que se debe presentar una marca por escrito.
+
+Escucha social: Seguimiento y análisis de las conversaciones y tendencias relacionadas con una marca.
+
+GIF: imagen animada.
+
+Hashtag: Palabra o frase precedida por el símbolo numeral (“#”) que indica que una pieza de contenido se relaciona con un
+tema o categoría específica.
+
+Herramienta de escucha social: Software que ayuda a rastrear menciones de una marca, palabras clave relevantes y comentarios
+directos de múltiples plataformas de redes sociales en un solo lugar.
+
+Interacción en redes sociales: Se refiere a las acciones que las personas toman en las redes sociales, como me gusta,
+favoritos, comentarios, retweets, guardados, clics, hashtags y menciones.
+
+Jerarquía visual: Organización estructurada de componentes visuales que agrupa elementos y los coloca en un patrón natural o
+predecible (como leer de izquierda a derecha) o los conduce a otros elementos más importantes para hacer clic.
+
+Llamada a la acción (call to action, CTA): Estímulo que busca inducir a las y los clientes qué hacer a continuación.
+
+Macroinfluencers: Influencers que tienen entre 100 mil y 1 millón de seguidores.
+
+Megainfluencers: influencers que tienen 1 millón o más de seguidores.
+
+Microinfluencers: Influencers que tienen entre 10 mil y 100 mil seguidores.
+
+Nanoinfluencers: Influencers que tienen 10 mil seguidores o menos.
+
+Publicación promocionada: Publicación en las redes sociales que un anunciante paga a la plataforma para hacerla más visible.
+
+Relaciones de contraste de color: Mide la luminiscencia (o brillo) de un color más claro contra la luminiscencia de uno más
+oscuro.
+
+Reutilización de contenido: Proceso de recrear y volver a publicar contenido en diferentes formatos.
+
+Seguidor/a: Persona que opta por recibir actualizaciones de una empresa o marca en una plataforma de redes sociales.
+
+Sentimiento en las redes sociales: La actitud y el afecto que las personas tienen hacia una marca en las redes sociales.
+
+Subtítulos opcionales: Subtítulos que se superponen en un video y pueden ser activados y desactivados por las personas.
+
+Subtítulos permanentes: Subtítulos que están incrustados directamente en el video y no pueden ser ocultados o desactivados
+por las personas.
+
+Texto alternativo: Breve descripción escrita de una imagen con el propósito principal de ayudar a las personas con
+discapacidad visual.
+
+Tono: Cómo se aplica la voz de una marca.
+
+Trol de Internet: Persona que antagoniza intencionalmente a otros en línea mediante la publicación de comentarios
+provocativos, innecesarios u ofensivos u otro contenido perturbador.
+
+Tui t(Tweet): Cualquier mensaje publicado en Twitter que puede contener elementos como texto, fotos, videos, enlaces y
+audio.: Mensaje publicado en Twitter que puede contener elementos como texto, fotos, videos, enlaces y audio.
+
+Voz de la marca: Personalidad distintiva que adquiere una marca en sus comunicaciones.
+
 ## Analítica e informes de redes sociales
 
 ## Redes sociales de pago
