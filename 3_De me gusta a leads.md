@@ -418,6 +418,330 @@ que visitaron un sitio web, app o perfil de redes sociales.
 
 ## Estrategia, planificación y publicación en redes sociales
 
+### Determina tu estrategia de marketing en redes sociales
+
+#### Te damos la bienvenida a la semana 2
+
+En un escenario de redes sociales con gran variedad de plataformas, contenido y competencia, desarrollar una estrategia
+cuidadosamente puede ayudarte a enfocar en los esfuerzos que mejor sirvan a tus objetivos. Esta parte del curso explorará
+estos dos primeros pilares del marketing en redes sociales: la estrategia y planificación, y la publicación. Primero,
+veremos cómo desarrollar una estrategia exitosa para tu campaña en redes sociales, incluyendo cómo definir tus metas,
+identificar a tu público objetivo, eligir las plataformas de redes sociales, construir tu identidad de marca en redes
+sociales y seleccionar tipos de contenido y formatos que refuercen tu marca. Luego veremos cómo planear y publicar con éxito
+tu contenido. Discutiremos cómo determinar la frecuencia y el momento de publicación, implementar marketing en tiempo real,
+crear y usar un calendario de redes sociales y utilizar herramientas de gestión de redes sociales. ¿Empezamos? Nos vemos en
+el próximo video
+
+#### Define los objetivos de tu estrategia en redes sociales
+
+Antes de empezar cualquier campaña de marketing en redes sociales, necesitas tener una estrategia. Tu estrategia en redes
+sociales es como una guía que te dice lo que quieres alcanzar cómo lo vas a hacer y cómo saber cuando lo lograste. El primer
+paso para desarrollar tu estrategia de redes sociales es definir objetivos. En este video, veremos por qué es útil
+establecer objetivos y cómo utilizar el método SMART para definirlos. Establecer objetivos para tu campaña es importante por
+varias razones. En primer lugar, los objetivos te exigen responsabilidad. Al definir los objetivos de tu campaña en redes
+sociales, te haces responsable de cumplirlos. Los objetivos también pueden guiar tu presupuesto. Cuando determines tus
+objetivos, puedes definir las acciones necesarias para alcanzarlos y determinar el costo de cada una. Además, los objetivos
+pueden ayudarte a medir el éxito. Analizar los datos relacionados con tus objetivos puede ayudarte a medir la efectividad de
+tus esfuerzos y a identificar posibles áreas de mejora. Algunos objetivos comunes del marketing en redes sociales son: crear
+reconocimiento de marca, gestionar la reputación de la marca, ventas y generación de leads, aumentar la interacción de la
+comunidad, incrementar el tráfico web y obtener información del cliente y de la competencia. Determinar cuál objetivo
+priorizar en tu estrategia depende de los objetivos de tu negocio. Los objetivos de redes sociales deben alinearse con los
+objetivos de marketing generales de la empresa. Esto te ayudará a demostrar el valor de tu trabajo y obtener el apoyo de las
+partes interesadas. Una vez que hayas establecido el objetivo general de tu estrategia de marketing en redes sociales, debes
+volverlo SMART. El método de establecimiento de objetivos SMART puede ayudarte a definir y medir el éxito. Como dijimos
+antes, SMART es un acrónimo de específico, medible, alcanzable, relevante y temporal. Analicemos cada palabra en términos de
+los objetivos de tu campaña en redes sociales. ¿Qué significa un objetivo específico? Especificar lo que deseas alcanzar te
+ayudará a determinar cuándo lo has logrado. Digamos que deseas mejorar el reconocimiento de tu marca en redes. Ese es un
+objetivo tan amplio que es difícil saber exactamente qué tratas de lograr. ¿Estás tratando de aumentar tu número de
+seguidores? o ¿quieres subir los "me gusta", compartidos y menciones? ¿Qué plataforma usas? Responder preguntas como éstas
+te ayuda a que tus objetivos sean más específicos. A continuación, tu objetivo debe ser medible. Un objetivo es medible
+cuando puedes determinar justamente que lo alcanzaste. Puedes saber si un objetivo es medible, si puedes responder cuánto,
+cuántos y cómo sabré cuándo se alcanzó. Para que tu objetivo sea medible, determina qué métricas vas a usar. En el objetivo
+del reconocimiento de marca, digamos que la métrica a usar es el número de seguidores en Instagram. Un ejemplo de un
+objetivo medible relacionado con eso podría ser aumentar los seguidores en Instagram un 15% con respecto al último
+trimestre. Una vez que hayas hecho tu objetivo específico y medible necesitas determinar si es alcanzable. Un objetivo
+alcanzable es realista frente a cualquier dificultad. ¿Hay algo que pueda obstaculizar el aumentar los seguidores un 15%,
+como la falta de tiempo, presupuesto u otros recursos? Recuerda que debes establecer objetivos desafiantes para impulsar el
+crecimiento. Luego, decide si tu objetivo es relevante. ¿Tiene sentido intentar alcanzar este objetivo? Piensa cómo el
+objetivo se alinea con otras metas de marketing, prioridades y valores de tu empresa. Un objetivo relevante beneficiará a tu
+negocio. Por ejemplo, si tu marca quiere atraer a un público más joven, entonces tiene sentido tratar de aumentar tus
+seguidores en plataformas como Instagram, cuya audiencia más grande está entre los 25 y 34 años. Por último, tu objetivo
+debe ser temporal. Esto significa que tendrá una duración limitada. Si tu objetivo es temporal, puedes planificar horarios y
+establecer hitos. Así que tu objetivo SMART final de reconocimiento de marca será algo como: Al final del trimestre,
+aumentar seguidores en Instagram en un 15% con respecto al último trimestre. ¡Genial! Has aprendido que el primer paso en el
+desarrollo de tu estrategia de redes sociales es definir tus objetivos. Discutimos la importancia de establecer metas en tus
+campañas en redes y aprendiste a hacer tus objetivos de campaña SMART. Próximamente, hablaremos de otros elementos
+relevantes de una estrategia de redes sociales.
+
+#### Identifica tu público objetivo en las redes sociales
+
+Una vez que establezcas los objetivos para tu campaña, el siguiente paso en la creación de tu estrategia de redes sociales
+es definir tu público objetivo. Aprendiste que tu público objetivo es un grupo de personas que tienen más probabilidades de
+comprar los productos de tu empresa. En este video, veremos cómo definir tu público objetivo en las redes sociales, es
+decir, el grupo específico de personas que deseas que tu empresa alcance en las plataformas de redes sociales. Tu público
+objetivo son las personas a las que más probablemente les interese el contenido, los productos y servicios que estás
+ofreciendo. Son personas a las que quieres resolverles los problemas. Entender exactamente quién es tu público objetivo
+orientará tu estrategia de marketing y te ayudará a decidir qué, dónde y cuándo vas a compartir contenido. Dirigirse a un
+público específico también te ayuda a determinar dónde será mejor invertir tu tiempo y dinero. Ahora, veamos cómo hacer para
+identificar a tu público objetivo. Es probable que tu público objetivo comparta algunas características comunes, como la
+edad y la ubicación. Para determinar quién es tu público objetivo en las redes, empieza por recopilar información acerca de
+tus clientes y seguidores actuales. Quizá puedas recopilar parte de esta información a través de otras personas en tu
+organización, como el departamento de investigación, analistas, o incluso otros especialistas en marketing. Considera los
+datos demográficos sobre tus clientes actuales, como su edad, ¿en qué década, generación o etapa de la vida se encuentran?
+¿Son adolescentes, adultos jóvenes, padres o jubilados? Ubicación: ¿dónde vive la mayoría de tus clientes? Esto te ayudará a
+entender a qué área geográfica orientarte y cuándo debes programar tus publicaciones en redes sociales y anuncios para
+garantizar la mejor visibilidad. Idioma: ¿qué idiomas deberías usar para comunicarte con tu público objetivo? Algunas
+personas podrían no hablar tu idioma o hablar en casa una lengua diferente al idioma dominante en su región geográfica.
+Intereses: ¿qué les gusta hacer? ¿Qué los emociona? ¿Qué es lo que les importa? Necesidades: ¿cuáles son los problemas que
+enfrentan tus clientes? ¿Qué problemas tienen que tu producto o servicio podría ayudar a resolver? Una vez que conozcas
+estas características sobre tus clientes actuales, evalúa cómo las personas interactúan con tu marca en las redes sociales.
+Piensa en preguntas como: ¿Qué opina la gente sobre tu marca, tus productos y servicios? ¿Qué le gusta y no le gusta de
+ellos? ¿Por qué tu público te sigue? ¿De qué más están hablando en línea? Comprender el tipo de información que la gente
+busca te ayudará a entender a tu público objetivo, identificar sus necesidades y determinar cómo interactuar con ellos en
+las redes sociales. Puedes usar herramientas de escucha social para ayudarte a encontrar conversaciones sobre tu marca en
+las redes sociales. Como mencioné anteriormente, la escucha social se refiere al seguimiento de tus plataformas de redes
+sociales para detectar menciones y conversaciones sobre tu marca. En el próximo curso, veremos en detalle cómo usar la
+escucha social para conocer a tu público objetivo. Ahora que tienes una idea de quién es tu público objetivo y cómo está
+hablando sobre tu marca en las redes sociales, investiga qué plataformas de redes sociales usa. Para lograr el mayor
+impacto, debes tratar de llegar a tu público objetivo donde esté más activo en las redes sociales. No tendría sentido
+publicar regularmente en Pinterest, por ejemplo, si tu público objetivo pasa la mayor parte del tiempo en LinkedIn. Por
+último, puedes aprender mucho sobre tu público objetivo observando lo que hace la competencia. Es probable que tu público
+objetivo tenga algunas similitudes con el suyo. Puedes beneficiarte de observar sus tácticas. Considera preguntas como: ¿A
+quiénes se dirige mi competencia? ¿Cómo está alcanzando a su público objetivo? ¿Qué está haciendo bien y no tan bien? ¿Con
+qué frecuencia publica? ¿Qué formatos de contenido está usando? Cuando apuntas a un público objetivo sumamente específico,
+puedes desarrollar contenido dirigido a él. Esto puede ayudarte a ganar su fidelidad. Seguiremos explorando cómo alcanzar a
+tu público objetivo a lo largo de este curso.
+
+#### Plataformas populares de redes sociales
+
+Existen diversas plataformas de redes sociales, cada una de las cuales es capaz de lograr diferentes objetivos. En esta
+lectura, aprenderás cómo es y para qué sirve cada tipo de plataforma y podrás revisar ejemplos concretos de cada una de
+ellas.
+
+**Common types of social media platforms(Plataformas populares de redes sociales)** Algunas plataformas de redes sociales
+serán más adecuadas y efectivas para tu marca que otras y, al decidir cuál usar, debes asegurarte de elegir aquellas que
+utilice tu público objetivo. Incluso si tu marca está presente en 20 redes sociales, deberás ofrecer contenido que se adapte
+a la preferencia de las audiencias de cada plataforma individual, manteniendo, al mismo tiempo, la autenticidad de la voz de
+tu marca.
+
+Cada canal de redes sociales (es decir, Facebook, Twitter, Instagram, etc.) tiene un cierto número de usuarios activos
+mensuales. Los usuarios activos mensuales son el número de clientes únicos que visitan una plataforma durante un mes. A
+medida que las redes sociales evolucionan y cambian, esta cifra puede variar significativamente. Es importante que te
+familiarices con los usuarios activos mensuales de cada canal, ya que esto  puede afectar la priorización y el enfoque de
+tus estrategias de marketing en redes sociales. Visita este enlace para obtener más información sobre el número de usuarios
+mensuales de cada plataforma de redes sociales.
+
+**Redes sociales** Plataformas como Facebook o LinkedIn son conocidas como “redes sociales” porque permiten a las personas
+interactuar entre sí. Las redes sociales se utilizan habitualmente  tanto por razones personales como profesionales.
+
+Por ejemplo, Facebook es una excelente herramienta para las pequeñas empresas que desean mantenerse en contacto y compartir
+actualizaciones con sus clientes. Es un buen lugar para que las marcas publiquen novedades acerca de nuevos productos o
+servicios, ventas, horarios de atención y mucho más.
+
+LinkedIn es una red social eficaz para quienes desean gestionar su identidad profesional y conectar con otras personas,
+especialmente, del ámbito laboral. Las empresas (grandes y pequeñas) también utilizan LinkedIn para compartir
+actualizaciones de sus negocios o proyectos nuevos, e incluso interactuar con y/o contratar a otros contactos profesionales.
+
+Consejo profesional: Lo bueno de las redes sociales es que están diseñadas para fomentar que las personas compartan
+distintos tipos de contenido, como imágenes, texto y enlaces externos. Si estás administrando una página de redes sociales
+para tu marca, mantén tu contenido fresco, publicando regularmente.
+
+![alt text](image-49.png)
+
+**Microblogging/Blogging** El blogging se refiere a la autopublicación de contenido en línea. Microblogging es una forma de
+blogging, pero en una escala más pequeña. Las plataformas de microblogging permiten a las y los usuarios de redes sociales
+distribuir contenido breve, rápidamente y con mayor frecuencia. Twitter y Reddit son buenos ejemplos de estas plataformas.
+Si bien con el blogging puedes escribir contenido extenso y detallado, el microblogging te permite presentar conceptos
+breves e invitar a las audiencias a interactuar.
+
+Debido a su formato, Twitter es una plataforma útil para optimizar el compromiso y la interacción con las personas, quienes
+pueden usar la función de búsqueda para encontrar tuits sobre cualquier tema que deseen discutir. Las marcas suelen utilizar
+la sección de “tendencias” estratégicamente, tuiteando contenido relevante basado en los temas sobre los que se está
+hablando.
+
+![alt text](image-50.png)
+
+Reddit es una plataforma que fomenta la conversación en línea y el intercambio de publicaciones para crear un sentido de
+comunidad. Dentro de Reddit, hay “subreddits”, que son comunidades especializadas que siguen un tema en particular. Existen
+subreddits para todo tipo de temas, como determinados programas de televisión, pasatiempos, afiliaciones políticas o
+religiosas, industrias y mucho más.
+
+**Compartir fotos** Las plataformas para compartir fotos como Instagram y Pinterest ofrecen feeds de contenido visualmente
+atractivos, donde es posible interactuar con el contenido publicado por otras personas o publicar el tuyo propio. Estas
+redes sociales ofrecen a las personas la posibilidad de interactuar con su propia comunidad, pero también incluyen funciones
+que les permiten interactuar con nuevos/as usuarios/as y contenidos.
+
+Instagram es una red social para compartir fotos y videos. Es un excelente lugar para los negocios, porque incluye una
+función que permite a las marcas publicar fotos y vincular el producto directamente a la imagen, para que las personas
+puedan realizar compras desde la aplicación. Incluso, si tu marca está creando contenido para vender en Instagram, las fotos
+son una excelente manera de mantener a las audiencias interesadas y comprometidas.
+
+Pinterest es una plataforma útil para las empresas porque, a diferencia de Instagram, las marcas pueden vincular
+directamente a sitios web o páginas de destino externas en los textos y respuestas. Las personas pueden guardar estas
+publicaciones, en espacios conocidos como “tableros”. Por lo tanto, por ejemplo, si trabajas para una empresa de diseño de
+interiores, puedes crear diseños de muestra, publicarlos en Pinterest y vincularlos a tu sitio web, donde las personas
+pueden solicitar tus servicios.
+
+Consejo profesional: Los servicios para compartir fotos ofrecen la posibilidad de guardar imágenes publicadas por otras
+cuentas dentro de las aplicaciones, de modo que las personas pueden consultar el contenido que les ha gustado. Todos esos
+datos se encuentran disponibles para quienes administran  las cuentas, así que asegúrate de revisar y ver qué está guardando
+tu audiencia para que puedas seguir mostrándole contenido personalizado.
+
+![alt text](image-51.png)
+
+**Compartir videos** Las plataformas para compartir videos permiten a las personas subir y compartir videos, así como
+transmitir en vivo sus propios videos por Internet. Las plataformas de intercambio de video se están volviendo cada vez más
+populares en la mayoría de las industrias, debido a su poder informativo y a su capacidad para crear comunidades. Espacios
+como YouTube, TikTok, Vimeo, Instagram Live y Facebook Live son excelentes ejemplos de plataformas para compartir videos.
+Algunas son más adecuadas para videos largos, mientras que otras lo son para formatos cortos. Pero todas presentan enormes
+ventajas para las empresas.
+
+YouTube y Vimeo son ideales para videos de formato largo. Por ejemplo, una instructora de fitness puede dar una clase
+completa de ejercicio en una plataforma como YouTube o Vimeo. Un carpintero puede mostrar sus habilidades con la madera y
+persuadir a las personas para que compren su trabajo a través de un video en alguna de estas plataformas. Las posibilidades
+son infinitas, pero ten en cuenta que la creación de video, especialmente de formato largo, es un tipo de contenido
+especializado y requiere tiempo, así que no es adecuado para todo el mundo.
+
+Si crees que el video de formato largo no es algo necesario para tu marca, quizás sea buena idea priorizar los videos cortos
+como los que se ven en TikTok. TikTok es una red social reciente, que se está convirtiendo rápidamente en un gran activo
+para el crecimiento de las marcas. Los videos de marca en TikTok pueden ser de contenido informativo, como videos cortos de
+“cómo hacer”, o también llamados “de servicio”, pero también pueden ser del tipo “detrás de escena”, o videos para crear
+comunidad, con canciones o bailes, y mucho más.
+
+Instagram Live y Facebook Live son diferentes a las otras plataformas de video porque el contenido es en vivo, en lugar de
+ser creado y luego subido. Estas plataformas se utilizan a menudo para videos de preguntas y respuestas, de modo que las
+audiencias puedan hacerse una idea de lo que representas como marca.
+
+![alt text](image-52.png)
+
+#### Crea un perfil profesional en las redes sociales
+
+Es posible que tengas una o más cuentas de redes sociales que uses para conectarte con familiares y amistades. Si bien estas
+cuentas probablemente muestren mucho acerca de quién y cómo eres , es posible que no aporten detalles sobre tus intereses,
+habilidades y experiencia laboral. Además, es probable que muestren contenido personal que quizás no quieras compartir con
+contactos profesionales. Por esta razón, lo recomendable es crear cuentas de redes sociales separadas para uso personal y
+profesional.
+
+Aquí, hablaremos sobre cómo crear un perfil de Twitter para presentarte profesionalmente ante posibles futuros empleadores,
+reclutadores y otros contactos laborales. Luego, en una próxima actividad, crearás tu propio perfil profesional de Twitter.
+
+**Abrir una cuenta** Comienza por abrir una nueva cuenta en Twitter.com. Puedes registrarte a través de tu cuenta de Google
+o Apple o mediante tu número de teléfono o dirección de correo electrónico. Se te guiará a través de una serie de pasos,
+para que proporciones tu nombre completo, dirección de correo electrónico, número de teléfono, fecha de nacimiento y país.
+Luego, deberás ingresar los códigos de verificación que te serán enviados por correo electrónico y teléfono, y se te pedirá
+que crees una contraseña única para tu cuenta.
+
+**Seleccionar una foto de perfil** La foto de perfil da a las personas una primera impresión de quién eres. Selecciona una
+foto profesional y de alta calidad en la que tu rostro se vea bien. Evita las fotos sugerentes, humorísticas o grupales.
+Asegúrate de elegir una imagen en la que vistas ropa profesional o con colores neutros. Además, procura que la foto refleje
+cómo te ves regularmente. De esta manera, las empresas te reconocerán al entrevistarte.
+
+![alt text](image-53.png)
+
+**Selecciona una imagen de encabezado** A continuación, selecciona una imagen de encabezado para tu perfil. El encabezado es
+la imagen de portada que aparece detrás de tu foto de perfil. Para lograr una imagen de encabezado de aspecto profesional,
+se recomienda usar un color sólido, es decir, uniforme y sin efectos adicionales, o una imagen que te represente en el mundo
+laboral. Es clave que la imagen de encabezado no llame tanto la atención como para opacar tu foto de perfil. Puedes subir tu
+propia imagen o descargar una gratuita de una página de dominio público como Wikimedia Commons.
+
+![alt text](image-54.png)
+
+**Crea un nombre de usuario (handle)** Un nombre de usuario (handle) de redes sociales se conoce también como identificador.
+En plataformas como Twitter, va después del símbolo “@”. Tu nombre de usuario es una forma en  que las personas pueden
+identificarte y comunicarse contigo.
+
+Cuando creas una cuenta con fines profesionales, es ideal que tu nombre de usuario en Twitter coincida con tu nombre real.
+Por ejemplo, si tu nombre es Jane Smith, el identificador podría ser @JaneSmith. Si no está disponible, elige otro que suene
+profesional y fácil de recordar. Evita usar números en el identificador; en su lugar, utiliza guiones bajos (por ejemplo,
+@Jane_Smith). También puedes incluir el nombre de tu emprendimiento o marca.
+
+**Escribe una biografía** La biografía en Twitter es una oportunidad para presentarte y resaltar tus logros en 280
+caracteres o menos. Describe quién eres y qué haces. Puedes detallar tu formación académica, incluir trabajos o pasantías
+actuales o anteriores, e incluso mencionar este programa de certificación. Ten presente que las biografías de Twitter se
+pueden buscar, por lo tanto incluir palabras clave puede ser de ayuda para que tu perfil aparezca en los resultados de
+búsqueda de posibles futuros empleadores, reclutadores y otros contactos laborales.
+
+**Agrega tu ubicación** Incluir tu ubicación en el perfil también puede ayudar a las personas a localizarte. Si un/a
+reclutador/a está buscando cubrir un puesto de marketing digital o comercio electrónico cerca de donde vives, mostrar tu
+ubicación en el perfil aumentará la probabilidad de que aparezcas en sus búsquedas.
+
+**Agrega enlaces** Agrega un enlace a tu sitio web, en caso de tener uno. También puedes incluir enlaces a tu blog,
+portafolio de trabajos u otra cuenta de redes sociales. Esto permite que tus seguidores vean más de tu trabajo y también
+aumenta el tráfico a tus otros sitios.
+
+**Explora, sigue y tuitea** Una vez que el perfil esté configurado, llega el momento de comenzar a usarlo. Podrás:
+
+Explorar temas que te interesen haciendo clic en el botón #Tendencias. Twitter selecciona hashtags populares, temas y
+actualizaciones de noticias para ti, según tu actividad.
+
+Elegir temas para seguir buscando en categorías relacionadas con tus intereses laborales, como “Negocios y Finanzas” y
+“Profesiones”. Esto puede ayudarte a estar al tanto sobre las noticias y tendencias de la industria. También puedes seguir a
+personas que te resultan interesantes o con quienes te gustaría ponerte en contacto y luego seguir a los perfiles de Twitter
+que estas personas, asimismo, siguen. Esto puede brindarte una ventaja en el área profesional al permitirte acceder a
+información valiosa.
+
+Tuitea con regularidad y publica contenido relacionado con tus intereses y objetivos profesionales. El contenido que
+funciona bien en Twitter incluye noticias de último momento, novedades sectoriales, GIFs y memes, contenido visual (como
+infografías, imágenes y videos) y temas de tendencias. Asegúrate de que todos tus tuits sean profesionales y evita abordar
+temas controversiales, como política y religión. No olvides que la importancia de las redes sociales es la interacción:
+anímate a participar de conversaciones relevantes.
+
+![alt text](image-55.png)
+
+**Conclusiones principales** Si bien aquí te contamos cómo crear un perfil para uso profesional en Twitter, muchos de estos
+conceptos se pueden utilizar para crear perfiles profesionales en otras plataformas de redes sociales. Si agregas enlaces a
+tus cuentas profesionales de redes sociales en tu currículum, reclutadores y posibles futuros empleadores  podrán conocer
+más acerca de ti. Además, las redes sociales te mantienen al tanto de las tendencias y noticias sectoriales y pueden
+ayudarte a establecer contactos para abrir nuevas oportunidades de desarrollo.
+
+#### Elige las plataformas de redes sociales para tu campaña
+
+Llegar a tu público objetivo implica crear el contenido adecuado y publicarlo en el momento y en la plataforma apropiadas.
+En este video abordaremos este último tema, de cómo elegir la mejor plataforma de redes sociales para tu campaña. Este es el
+siguiente paso para ejecutar tu estrategia de redes sociales. Es importante seleccionar las plataformas cuidadosamente por
+varios motivos. La plataforma adecuada te ayudará a a llegar a tu público objetivo. Publicar en una plataforma que atraiga a
+las personas que son más propensas a estar interesadas en tus productos o servicios, puede aumentar el tráfico a tu sitio
+web. Además, elegir plataformas estratégicamente tiene otra ventaja. Usarás tu tiempo y dinero en plataformas que son más
+propensas a impulsar las ventas o el tráfico. Así que tendrás mejores resultados. Pero con más de 100 redes sociales en todo
+el mundo, y las que surgen cada día, ¿cómo elegir la mejor para promocionar tu marca? Hablemos de algunas estrategias para
+elegir redes sociales para tu campaña. Puedes empezar aprendiendo sobre las distintas plataformas y cómo se usan.
+Anteriormente, hablamos de las redes sociales más populares hoy en día, por qué tipo de contenido son conocidas y a quién
+están dirigidas. Dedica tiempo a estudiar las distintas plataformas para comprender cómo funcionan y cómo las personas se
+comunican en ellas. Por ejemplo, Twitter se enfoca más en la información en tiempo real. También tiene un límite de 280
+caracteres para los mensajes, a diferencia de la mayoría de las otras redes, que tienen un límite más alto. Por lo tanto,
+Twitter es mejor para las noticias de último momento, publicar contenido muy breve, e interactuar directamente con personas
+en tiempo real. También debes considerar tu público objetivo. ¿En qué plataformas de redes sociales está más activo? La
+investigación que hiciste antes para definir tu público objetivo es útil aquí. Facebook puede tener más usuarios activos que
+cualquier otra plataforma. Pero si tu público objetivo tiene menos de 25 años, entonces debes enfocarte en plataformas como
+TikTok, que atraen a un público más joven. Luego, piensa en las objetivos de tus campañas de redes sociales. Deben alinearse
+con los objetivos generales de tu empresa. ¿Quieres aumentar el reconocimiento de marca? ¿Generar leads? ¿Aumentar la
+interacción de la comunidad? Cada plataforma ofrece diferentes ventajas y puede estar mejor preparada para ayudarte a
+alcanzar estos objetivos. LinkedIn, por ejemplo, es una red donde profesionales publican su currículum, buscan empleo,
+comparten su experiencia y establecen contactos entre sí. Podrías elegir LinkedIn si uno de tus objetivos es aumentar tu
+autoridad de marca. También deberías considerar a tu empresa al elegir la plataforma. Tu producto y servicios, identidad de
+marca, y tipo de negocio son factores a evaluar en tu decisión. Por ejemplo, un distribuidor de arte podría querer centrarse
+en un canal bastante visual, como Instagram. Mientras que una empresa que produce videos educativos podría elegir una
+plataforma basada en videos, como YouTube. Además, presta atención a las plataformas que están usando tus competidores.
+¿Dónde están publicando? ¿Qué les genera más interacción? Si a tus competidores les va bien en ciertos canales, es probable
+que a ti también te vaya bien. Del mismo modo, si tienen dificultades de interacción en ciertos canales, tú podrías
+enfrentar los mismos desafíos. Una cosa más a considerar al elegir plataformas para tus campañas de redes sociales: son tus
+recursos disponibles. Una campaña de marketing en redes sociales es un compromiso. Requiere de una inversión de tiempo,
+dinero y energía. ¿Cuántas personas están disponibles para gestionar las redes en las que quieres estar? ¿Cuánto tiempo
+puedes dedicar a cada plataforma? ¿Cuál es tu inversión publicitaria en todas las plataformas? Cada empresa puede tener
+presupuestos y equipos de marketing de diferentes tamaños. Por lo tanto, es clave tener claridad de tus recursos disponibles
+al elegir tus plataformas de redes sociales. Hablamos de la importancia de elegir las plataformas adecuadas para tus
+campañas de redes sociales y exploramos algunas consideraciones para elegirlas como tu público objetivo, objetivos y
+recursos. Estas consideraciones te ayudan a identificar las plataformas que mejor se adapten a tus necesidades. Espero que
+puedas notar por qué crear una estrategia es esencial para el éxito de tus campañas en redes sociales.
+
+#### Construye tu identidad de marca en las redes sociales
+
+### Ofrece variedad de contenido
+
+### Planifica cuándo publicar
+
+### Revisión: Estrategia, planificación y publicación en redes sociales
+
 ## Escucha e interacción en redes sociales
 
 ## Analítica e informes de redes sociales
