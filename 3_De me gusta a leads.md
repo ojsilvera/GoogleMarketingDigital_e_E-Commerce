@@ -1692,7 +1692,47 @@ herramienta para que identifiques cuál te resulta más cómoda.
 
 #### Ejemplo de actividad: Usar la escucha social para obtener
 
+Evaluación del ejemplo
+
+Compara el ejemplo con tu tabla de información sobre la escucha social. Revisa tu trabajo utilizando cada uno de los
+criterios del ejemplo. ¿Qué hiciste bien? ¿En qué aspectos puedes mejorar? Usa las respuestas a estas preguntas como guía
+a medida que avanzas en el curso.
+
+Tu tabla de información sobre la escucha social debe incluir:
+
+Las información que obtuviste sobre lo que le gusta a tu público sobre tu marca, productos, competencia y/u otras tendencias
+relacionadas a partir del filtrado de datos en busca de menciones positivas y su análisis.
+
+Las información que obtuviste sobre lo que no le gusta a tu público de tu marca, productos, competencia y/u otras tendencias
+relacionadas a partir del filtrado de datos para menciones negativas y su análisis.
+
+Una descripción de cualquier criterio adicional para el que hayas creado un filtro.
+
+Cualquier información nueva obtenida al filtrar los datos por criterios adicionales.
+
+Una descripción de las acciones que planeas emprender en función de tus conocimientos y análisis.
+
+Nota: el modelo representa una posible versión de la tabla de información sobre la escucha social. Es probable que la tuya
+difiera en algunos aspectos. Lo importante es que  contenga información específica basada en los datos de la hoja de cálculo
+y las medidas que piensas adoptar.
+
 ### Interacción en las redes sociales
+
+#### Introcuccion a la Interacción en las redes sociales
+
+#### Cómo usar Youtube para incrementar tu público
+
+#### Responder a quienes usan las redes sociales
+
+#### Camille - Responder a los comentarios en las redes sociales
+
+#### Ejemplo de actividad: Responder a los comentarios de tus clientes
+
+#### Aumenta el número de personas que te siguen en Twitter
+
+#### Marketing de influencers
+
+#### Marketing en redes sociales en dispositivos móviles
 
 ### Redactar contenido atractivo
 
