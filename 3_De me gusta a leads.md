@@ -1177,6 +1177,49 @@ adelante, practicarás crear tu propio calendario de redes sociales.
 
 #### Crea un calendario de redes sociales
 
+Si estás siguiendo este curso en el orden apropiado, es posible que ya hayas visto el video sobre cómo crear un calendario
+de redes sociales, donde se detalla cada paso que debes dar para crear y usar un calendario de redes sociales. En síntesis,
+estos pasos son:
+
+    Identificar plataformas de redes sociales
+
+    Revisar y monitorear las plataformas y el contenido actuales
+
+    Decidir a qué datos quieres darles seguimiento
+
+    Crear una biblioteca de contenido, que contenga todos los materiales publicables
+
+    Establecer un flujo de trabajo y proceso de revisión
+
+    Crear y programar las publicaciones
+
+Aquí, verás cuáles son algunos de los beneficios de usar Google Sheets como calendario de redes sociales. Luego, aprenderás
+a agregar contenido a un calendario utilizando plantillas.
+
+**Usa Google Sheets como calendario de redes sociales** Google Sheets es completamente personalizable y de uso gratuito.
+Puedes crear un calendario que se adapte a las necesidades de tu empresa, especialmente si no tienes un gran presupuesto.
+
+A continuación, verás un ejemplo de un calendario para la empresa de comida para perros Best for Dogs.
+
+![alt text](image-61.png)
+
+Este calendario de redes sociales incluye información detallada para que cualquier persona del equipo de Best for Dogs pueda
+entender fácilmente lo que se debe publicar ese día. Información como el concepto, el texto, el canal, el tema, la fecha de
+publicación, la ubicación de los recursos publicables y otros datos importantes ayudan a que el proceso de publicación sea
+lo más fluido posible. Para comprender mejor Google Sheets, debes practicar el uso de sus funciones. Puedes acceder a esta
+plantilla haciendo clic aquí. Después de abrirla, haz clic en “Usar plantilla” para hacer una copia. (Para descargar una
+versión de Excel de la plantilla, ve a la sección Recursos para obtener información adicional, a continuación).
+
+[text](1_Create-a-social-media-calendar.xlsx)
+
+Nota: Las pestañas de agosto y septiembre en la parte inferior indican diferentes meses, en caso de que desees planificar
+con anticipación. Para crear un nuevo mes, haz clic con el botón derecho en la pestaña Plantilla en blanco y luego en
+“duplicar”. Después, haz clic en el botón derecho de nuevo, selecciona “renombrar” y escribe el nombre del mes. ¡Ya tienes
+todo listo para completarlo!
+
+Consejo profesional: Hootsuite ofrece un planificador social interno que se integra directamente con Google Sheets. Puedes
+encontrar más información a continuación.
+
 #### Ejemplo de actividad: Crea un calendario de redes sociales
 
 #### Herramientas de gestión de redes sociales
