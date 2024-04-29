@@ -2005,7 +2005,83 @@ contingencia completo con anticipación.
 
 #### Actividad: escribe un correo electrónico de disculpa
 
+Compara el ejemplo con el correo electrónico de disculpa que completaste. Revisa tu trabajo usando cada uno de los criterios
+del ejemplo. ¿Qué hiciste bien? ¿En qué aspectos puedes mejorar? Usa las respuestas a estas preguntas como guía a medida que
+avanzas en el curso.
+
+Nota: El ejemplo representa una forma posible de completar la actividad. Es probable que tu correo electrónico de disculpa
+sea diferente en algunos aspectos. Lo importante es que, en el correo, admitas los errores, pidas disculpas a tus
+suscriptores/as e intentes corregir la situación.
+
+Revisemos cada parte del mensaje:
+
+**Asunto:**
+
+El asunto aclara que el correo electrónico se envía a modo de seguimiento de un mensaje anterior. También incluye la fecha
+de lanzamiento correcta, de manera que las/los clientes puedan obtener esa información incluso si no abren el mensaje.
+
+**Cuerpo del mensaje:**
+
+El cuerpo del mensaje inicia con una disculpa. Explica lo que sucedió, pero también describe acciones concretas que la
+empresa tomó para remediar la situación. Además, aclara la fecha de lanzamiento correcta e incluye el enlace a la página
+para hacer el pedido anticipado del juego. El formato dirige la atención hacia las correcciones (y la promoción con
+descuento) para asegurarse de que quienes lo reciban no dejen de leerlas.
+
+El tono del mensaje es tranquilo, pero sincero. Quien lo escribe usa el tema del juego (los viajes en el tiempo) para hacer
+autocrítica con un poco de humor. Es importante destacar, sin embargo, que el humor no eclipsa la disculpa.
+
+**Llamada a la acción:**
+
+La llamada a la acción es breve y describe una acción específica que la persona que lee puede tomar para canjear el
+descuento para el pedido anticipado.
+
+**Cierre:**
+
+El cierre expresa aprecio por quienes lo reciben y termina con la promesa de hacerlo mejor en el futuro.
+
 ### Revisión: Herramientas útiles para el marketing por correo electrónico
+
+#### Términos y definiciones del curso 4, semana 3
+
+Anuncios en redes sociales: Anuncios pagados en plataformas de redes sociales dirigidos a usuarios/as de redes sociales.
+
+Automatización de marketing: Práctica de usar software, programas y tecnología para crear e implementar aplicaciones para
+automatizar tareas de marketing.
+
+Aviso del sitio web: Banner digital que invita a quienes visitan un sitio web a realizar una determinada acción.
+
+Control de calidad: Proceso a través del cual una empresa busca garantizar que la calidad del producto se mantenga o mejore.
+
+Cuerpo del correo electrónico: Texto en el contenido principal de un correo electrónico.
+
+Datos de comportamiento: Información sobre las acciones que toma o no una persona al comprar en un sitio web.
+
+Datos demográficos: Información específica del/la cliente, como edad, identidad de género, ingresos, tamaño de la familia,
+ocupación, nivel de educación y ubicación.
+
+Datos psicográficos: Información basada en las actividades, intereses y opiniones de las personas.
+
+Enlace roto: Enlace que conduce a una página web que ya no existe.
+
+Etiqueta de combinación (merge tag): (Consultar la etiqueta de personalización)
+
+Etiqueta de personalización: Código que permite insertar datos de usuario únicos de una lista de correo en los correos
+electrónicos.
+
+Generación de leads: Práctica de recopilar la dirección de correo electrónico de un/a cliente potencial.
+
+Marketing de motores de búsqueda (SEM): Consiste en generar tráfico a un sitio web a través de anuncios de pago que aparecen
+en los resultados de los buscadores.
+
+Red de Display de Google: Grupo de sitios web, videos y aplicaciones donde pueden aparecer anuncios.
+
+Referencia de clientes: Una iniciativa boca a boca que anima a las personas a presentar a sus familiares, amigos y demás
+contactos para que se conviertan en clientes.
+
+Segmentación: Práctica de dividir una lista de suscriptores/as de correo electrónico en grupos más pequeños según criterios
+como intereses, ubicación o historial de compras.
+
+Tasa de apertura: Porcentaje de usuarios/as o clientes que abren un correo electrónico.
 
 ## Recopilar y analizar datos de campañas de correo electrónico
 
