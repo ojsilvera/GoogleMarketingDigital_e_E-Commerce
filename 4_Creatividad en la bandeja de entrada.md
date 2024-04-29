@@ -670,13 +670,471 @@ Spam: Correo basura no solicitado y no deseado enviado en bloque a una lista amp
 
 #### Te damos la bienvenida a la semana 2 curso 4
 
+¡Hola! Voy a enseñarte algo que te ayudará a sacar tu mejor versión como especialista en marketing por correo electrónico.
+En la próxima sección, te equiparemos para que puedas redactar correos efectivos. Explorarás lo que debes incorporar en
+estos correos, y te mostraré ejemplos de textos que llaman la atención. Recuerda que el contenido de tu correo cambiará
+según lo que esperas lograr para tu marca. Hay diferentes tipos de correos para alcanzar distintos objetivos. Empezaré por
+los tipos de correos comunes usados en campañas de marketing. Comencemos con los correos de adquisición, que se usan para
+conseguir nuevas/os clientes. Luego, están los correos de bienvenida, que envías para presentarte como marca y dar la
+bienvenida a nuevas/os clientes. Despúes, los boletines informativos, que son los correos que usas para contar historias o
+dar a conocer ofertas relevantes o anécdotas de la empresa. Luego, veremos los correos promocionales. Estos se envían cuando
+se desea informar sobre las ventas o promociones actuales. Por último, están los correos de retención, que son los que te
+ayudan a que las/los clientes regresen. Practicarás cómo elaborar correos electrónicos por si alguna vez debes crear
+campañas de marketing por correo. Las próximas lecciones implicarán mucho aprendizaje. ¿Todo listo? Nos vemos luego.
+
 #### Tipos de marketing por correo electrónico: Correos electrónicos de adquisición
+
+Antes comenté que cada tipo de correo electrónico ayudará a lograr una meta distinta para tu marca. Veamos uno de esos tipos
+de correo. Como marca, es muy probable que uno de tus objetivos sea ganar más clientes. ¿Cuál es la estrategia para ganar
+clientes? ¿Cómo logran las marcas captar el interés de la gente para que tome acción? ¿Cómo convierten las marcas a un/a
+cliente potencial en un/a cliente existente? En el marketing por correo, la respuesta es los correos electrónicos de
+adquisición. Como su nombre lo indica, son correos enviados para adquirir o atraer nuevas/os clientes y son esenciales para
+el crecimiento de una empresa. Para relacionar esto con el embudo de marketing, serían parte de la sección Conciencia. Es la
+parte del embudo en la que intentas generar entusiasmo en torno a tu marca, investigas tu mercado y haces crecer tu negocio
+con nuevas/os clientes. Un secreto para un buen correo de adquisición es dar a las/los clientes potenciales algo antes de
+que lo quieran. Y no significa que tenga que ser algo material. Puedes ofrecer guías descargables, catálogos de productos,
+documentos en PDF o pruebas gratuitas. Puedes felicitarlos indirectamente o decirles algo positivo, algo que los/las haga
+sentir bien. También puedes dar a conocer novedades o brindar información valiosa, o puedes ofrecer un vistazo a lo que tu
+producto proporcionará. Otro aspecto del marketing por correo basado en adquisición que puede hacer la diferencia entre una
+campaña exitosa y una campaña fallida es el texto. A veces, en los correos de adquisición, una empresa se dirige a alguien
+que muestra cierto interés en el producto, pero que aún no se decidió del todo a adquirirlo. Sin embargo, la mayoría de las
+veces, los correos se envían a nuevos destinatarios que nunca entraron en contacto con la marca. Usar un texto ingenioso,
+único e inclusivo puede marcar la diferencia. El texto del correo electrónico se refiere al cuerpo de tu correo electrónico
+y al asunto. Así que, teniendo en cuenta estos factores, ¿cómo es un correo de adquisición efectivo? Repasemos algunos
+ejemplos interesantes. Este correo, de una empresa de edición de videos y fotos en redes sociales, ofrece un tutorial sobre
+cómo llamar la atención con videos de redes. Es un buen ejemplo porque enseguida puedes ver que ofrece algo nuevo a sus
+clientes potenciales, incluye detalles específicos sobre cómo el público puede usar temas, como la época del año y el humor,
+para crear contenidos más atractivos. Es breve y directo. Su texto de correo es ágil y vibrante, y el uso de la línea
+"Spring into action with videos" es un juego de palabras. Insta a las/los clientes a aprovechar una nueva temporada y hacer
+algo de inmediato con sus posteos. A continuación, esta empresa de cosméticos ofrece un correo interactivo que invita a
+elegir productos que se ajusten a las necesidades de cuidado de la piel. Al hacer que el correo sea interactivo, la empresa
+proporciona información valiosa y personalizada a potenciales clientes, y les ofrece ayuda para poner en práctica lo que han
+aprendido al hacer la compra. Este correo es efectivo porque usa un llamado a la acción claro en todo el mensaje. El banner
+superior ofrece al/la cliente un 10% de descuento si compra uno de estos productos "ahora". Y hay un botón pequeño "Compra
+ahora" debajo de cada artículo. No solo recibe un descuento, también recibe un breve tutorial sobre el cuidado de la piel.
+Por último, el asunto que acompaña a este correo electrónico dice: "Nuestra principal pregunta más frecuente" y funciona
+como un anzuelo, que incentiva a las personas a hacer clic y ver si es una pregunta que ellas también se hicieron. Esta es
+una buena táctica para que la gente abra sus correos, algo que la acerca un paso más a convertirse en cliente. Ahí lo
+tienes. Esa es una breve introducción a los correos de adquisición, Y hay mucho más por explorar.
 
 #### Tipos de marketing por correo electrónico: Correos electrónicos de bienvenida
 
+Hasta el momento, nos familiarizamos con los correos de adquisición. Ahora, veremos un tipo diferente de correo, el de
+bienvenida. Los correos de bienvenida se envían a nuevas/os clientes o suscriptoras/es. Imagínalo como la primera impresión
+virtual que das a alguien. Si recibieras a alguien en tu casa por primera vez, ¿cómo lo harías? Podrías ofrecerle agua o un
+bocadillo. Si organizas tu primera reunión en tu lugar de trabajo, elegirías la sala de conferencias más adecuada para tus
+colegas. Te asegurarías de que fuera grande, cómoda y, quizá, hasta prepares algún tipo de presentación, ¿verdad? Con la
+misma consideración que pondrías al recibir a alguien en tu hogar, debes enviar tus correos de bienvenida. Estos entran en
+la etapa de Consideración del embudo de marketing. Recuerda que esta es la sección del embudo en la que las personas ya
+eligieron suscribirse a tus correos electrónicos. Así que están buscando más información. Al suscribirse, estas personas
+decidieron que quieren recibir más información sobre tu empresa. Es un buen momento para mostrar a tus clientes potenciales
+productos o o servicios que podrían ser de su interés. Así que, cuando redactes los correos de bienvenida, pregúntate qué
+quieres que la gente sepa de tu marca y qué aspectos de su identidad sientes que deben incluirse. Un buen correo de
+bienvenida incluye un tono coloquial y cálido. Y un breve resumen que explique lo que hace que tu marca sea única o cuente
+su historia. También debe incluir una llamada a la acción. Por si no lo sabes, es un estímulo que busca inducir a las/los
+clientes qué hacer a continuación. Puede ser cualquier cosa: frases para comprar un producto o incluso solo un botón en un
+correo que diga "Comienza" y que dirige a las personas a tu página para que se registren. Que tu llamada a la acción sea
+sutil o más directa dependerá de con qué interactúan tus suscriptores/as más habitualmente. Las empresas envían estos
+correos para agradecer a suscriptores y clientes por una compra. También los pueden enviar al descargar su app, incentivando
+a usarla por primera vez. A veces, las empresas los envían para promocionar la compra de un producto incluyendo un código de
+descuento. Veamos un correo de bienvenida efectivo para darte una idea. Este ejemplo de una empresa de utensilios de cocina
+muestra exactamente cómo debería ser. Para empezar, ofrece incentivos como un código de envío gratuito. Saben que es más
+probable que hagas clic en "Comprar vajilla" ahora que te han ofrecido un código de envío gratuito. Esta es una gran
+táctica. También incluye una carta sobre la historia de la empresa escrita por el fundador. Esto agrega un tono personal,
+que hace que se sienta coloquial y cálido, especialmente en la nota del fundador, donde se menciona la meta de la marca de
+hacer que todas las comidas sean especiales. El correo termina con llamadas a la acción ya que pide que los sigas en las
+redes sociales y compres en su tienda en línea. ¡Listo! Ya sabes que un buen correo de bienvenida incluye un tono coloquial
+y cálido, un resumen que dice lo que hace que tu marca sea única o cuenta su historia, y una llamada a la acción. Nos vemos
+luego. Veremos otro tipo de correo.
+
 ### Correos electrónicos que atraen suscriptores/as
 
+#### Tipos de marketing por correo electrónico: Boletines informativos
+
+Seguimos avanzando en nuestro recorrido por los diversos tipos de marketing por correo electrónico. Hasta ahora, aprendimos
+sobre correos de adquisición y de bienvenida. En este video, voy a compartir uno de los tipos más efectivos de correos
+electrónicos: el todopoderoso boletín informativo. Son correos que se envían a suscriptores/as de forma regular, incluyen
+noticias y contenido informativo relevantes para la empresa y de interés para sus suscriptores. Es un gran modo para
+promocionar tu producto, generar confianza, demostrar tu experiencia, informar, educar y entablar relaciones duraderas con
+tus clientes. Los boletines informativos entran en varias etapas del embudo de marketing porque se usan en muchas etapas de
+las campañas de marketing. Pueden entrar en la etapa de Consideración cuando tus suscriptores/as están recién conociendo tu
+marca. Y en la etapa de Conversión cuando ya decidieron que les gusta y quieren concretar una compra. Y la etapa de
+Fidelidad, cuando vuelven por más productos y contenidos. Son un elemento versátil del marketing por correo electrónico.
+Para usar los boletines informativos de manera eficaz, presta atención al crearlos. Incluye solo contenido relevante que
+creas que tu audiencia disfrutará. En este punto en tu campaña, ya investigaste quién es tu público así que ya tienes esta
+información. Los boletines informativos deben incluir menciones de temas de tendencias, cultura pop o situaciones de
+actualidad, para que el contenido se perciba actualizado y novedoso. Debe incluir texto llamativo e ingenioso para
+destacarse entre las docenas de correos que tus lectores/as reciben a diario. No profundizaremos en el diseño, aunque es un
+aspecto importante del boletín informativo efectivo. Quieres algo claro que se sea acorde con la imagen de tu marca.
+Ampliemos estos conceptos. Cuando se trata de incluir información pertinente, piensa si hay grandes noticias sobre tu
+empresa para contar. ¿Estás lanzando un nuevo producto o servicio? ¿Hay una actualización que tus suscriptores/as querrán
+conocer? Y claro, el contenido del boletín no siempre tiene que ser sobre tu marca. Por ejemplo, una empresa de bienestar
+que vende productos relacionados con la salud mental puede incluir recursos externos, como artículos con ejercicios de
+respiración para reducir la ansiedad de terapeutas reconocidos. Habrá casos en los que no necesariamente quieras dirigir el
+tráfico a otros sitios web. Solo asegúrate de seleccionar cuidadosamente lo que incluyes. Algunos de los mejores boletines
+contienen artículos que no tratan de vender un producto, sino de estilo de vida relevante para sus suscriptores/as. Al
+incluir esa información, asegúrate de cubrir temas de tendencias en tu boletín. A los/as consumidores/as les interesan las
+tendencias. Para mantenerte relevante en cuanto a lo que es importante para los/las consumidores/as, es clave mantener el
+contenido actualizado y fresco. Tu estilo de escritura y tono son una parte fundamental para que tus suscriptores/as se
+sienten conectados con tu marca. Asegura que el estilo de escritura y el tono que uses sea atractivo para la marca, y, sobre
+todo, sea genuino. Debe quedar claro que tu intención es agregar valor para tus suscriptores/as. Esto es fundamental para la
+construcción de relaciones entre tú y tu base de suscriptores/as. ¿Están escribien un boletín para un hospital? Querrás usar
+un estilo empático acorde con la imagen de tu marca para que la gente se sienta cómoda. Pero si el boletín es para una
+empresa de transporte compartido, podrías usar un estilo más informal y divertido. Quiero compartir un gran ejemplo de un
+boletín de noticias. Es de una empresa de muebles y el boletín se envía cada dos meses. Veamos lo que lo hace efectivo. Este
+boletín cumple con todo lo que ya mencioné: publicita los productos de la empresa, muestra su experiencia en muebles, y
+construye una relación duradera entre la marca y sus suscriptores/as porque se envía regularmente, comunica y entrega
+información valiosa a sus suscriptores/as. En este ejemplo, puedes ver un titular que dice "Elige una silla", que establece
+un tono atractivo. El texto debajo se refiere a un evento de actualidad que forzó a mucha gente en el mundo a quedarse en su
+casa por un período prolongado. Luego, ofrecen una silla para cada tipo de suscriptor/a. Debajo del título para el
+trabajador remoto, hay una imagen de una silla de oficina que conecta a una página donde puedes comprarla. Debajo del título
+de "nueva incorporación familiar", hay una silla mecedora suave para la habitación del bebé. Bajo el título de "camastro de
+piscina" hay un camastro para exteriores con un enlace para comprar. Hay otros tipos de sillas también, pero entiendes la
+idea. Hicieron un gran trabajo publicitando sus productos y estableciendo su experiencia con la mejor silla para cada
+persona. El texto debajo de las sillas comunica y brinda información valiosa sobre los niveles de comodidad, dimensiones, y
+más detalles del producto. En general, este boletín informativo es una manera divertida e interactiva de difundir
+información sobre las diversas sillas. Si algún día tienes que escribir un boletín informativo, tómate tu tiempo y piensa
+muy bien acerca de lo que esperas dar a tus lectores/as. Recuerda, el objetivo es publicitar tus productos, generar
+confianza y demostrar experiencia, construir relaciones duraderas, y comunicar y brindar información valiosa a tus clientes.
+Nos vemos en breve por aquí.
+
+#### Crea un texto publicitario (copy) atractivo para un boletín informativo
+
+Redactar correos electrónicos de marketing requiere de mucha práctica y paciencia. Este programa no te enseñará todas las
+habilidades necesarias para ser un/a profesional en el ámbito de la escritura, pero los consejos a continuación te ayudarán
+a prepararte y asegurarte de que tengas éxito  al crear tus correos electrónicos.
+
+**Escribe para agregar valor:**
+
+Como especialista en marketing digital, tu objetivo es persuadir a las personas para que abran, lean y hagan clic en los
+enlaces de tus correos electrónicos. Para lograr esto, debes crear contenido que resulte atractivo. Cada correo electrónico
+que envíes debe proporcionar algún tipo de valor agregado a tu base de suscriptores/as ya sea presentando nuevos productos o
+servicios, entreteniendo o enseñando algo nuevo. Cada elemento de tus correos electrónicos tiene que ser seleccionado
+cuidadosamente y tener una intención específica.
+
+*Asunto:*
+
+Un asunto es el primer texto que los destinatarios ven después de su nombre cuando aparece un correo electrónico en su
+bandeja de entrada. El asunto es la primera impresión que genera el correo electrónico, por lo que es importante que resulte
+convincente.
+
+Cuando escribas el asunto, ten en cuenta lo siguiente:
+
+Sé breve.Tu asunto debe contener entre 6 y 10 palabras en total. Si es demasiado largo, es posible que tus suscriptores/as
+no puedan verlo completo.
+
+Despierta la curiosidad de las personas. Escribe un asunto que invite a la gente a interesarse por el contenido del correo
+electrónico. Si estás enviando correos electrónicos a una lista de personas que agregaron productos a su carrito, pero lo
+abandonaron en algún momento durante el proceso de pago, puedes incluir un asunto como: “Estos artículos son demasiado
+buenos como para que se queden en tu carrito”.
+
+Si estás ofreciendo algo, comunícalo con claridad. Ya sea que se trate de una experiencia, una nueva información, un
+descuento u otra cosa, asegúrate de que tus suscriptoresas sepan que obtendrán un beneficio al abrir tu correo electrónico.
+
+Considera personalizarlo. Si utilizas una herramienta de marketing por correo electrónico, tendrás la posibilidad de
+personalizar los envíos al agregar los nombres de las personas a las que están dirigidos. Esta es una excelente manera para
+que los/las suscriptores/as sientan como si les estuvieras hablando directamente. Según el sistema que utilices, la forma en
+que lo hagas puede variar, así que infórmate sobre la herramienta específica que estás usando.
+
+*Texto de vista previa:*
+
+El texto de vista previa es otro aspecto importante de los correos electrónicos de marketing. El texto de vista previa se
+encuentra junto al asunto de un correo electrónico en la bandeja de entrada y proporciona información adicional sobre el
+contenido. Aunque es secundario al asunto, puede verse en la bandeja de entrada sin necesidad de abrir el correo. El texto
+de vista previa le dice a las personas exactamente qué esperar al abrir el correo electrónico.
+
+Cuando escribas el texto de vista previa:
+
+Asegúrate de incluir la información más importante del correo electrónico. ¿Cuál es la idea principal que estás buscando
+comunicar? Ese debería ser tu texto de vista previa.
+
+Asegúrate de que esté alineado con lo que transmite el asunto. Es importante que el asunto y el texto de vista previa sean
+coherentes y complementarios para llamar la atención de los/las suscriptores/as y motivarlas/os a abrir el correo
+electrónico.
+
+A veces, puede resultar efectivo mantener cierto misterio. Redactar un texto de vista previa que genere curiosidad sobre el
+contenido puede ser una forma efectiva de hacer que las personas abran un correo electrónico. Por ejemplo, un texto de vista
+previa como “La receta que no sabías que necesitabas…” podría ser una forma efectiva de despertar la curiosidad de tus
+suscriptores/as sobre el contenido del correo electrónico. Sin embargo, antes de hacerlo, recuerda cuáles son tus objetivos
+y evalúa si esto tiene sentido para tu marca.
+
+Mantenlo entre 35 y 50 caracteres. Tu texto de vista previa debe ser lo suficientemente breve como para que tus
+suscriptores/as lo lean rápidamente.
+
+![alt text](image-85.png)
+
+**Cuerpo del correo electrónico:**
+
+El cuerpo del correo electrónico es donde estará la mayor parte del contenido. Puedes experimentar con diferentes enfoques
+en el cuerpo del correo electrónico, ya que lo que funciona para otras empresas puede no ser adecuado para tu marca.
+
+Al redactar el cuerpo del correo electrónico:
+
+Utiliza la segunda persona. Esto significa escribir tus correos electrónicos como si estuvieras hablando con tu audiencia.
+De esta manera, el correo electrónico parecerá personal y específicamente diseñado para tus suscriptores/as. Usar la segunda
+persona, o tutear, ayuda a crear la sensación de que quien escribe te está hablando directamente a ti. Esto genera un
+sentido de conexión con quienes te leen, haciéndoles sentir que forman parte del mensaje y están involucrados con él. Una
+frase como “Aquí hay un descuento para ti” es más poderosa que “Aquí hay un descuento para nuestros/as lectores/as”.
+
+Siempre que sea posible, separa bloques de texto con espacios en blanco. De esta manera, tu correo electrónico no parecerá
+abrumador. Trata de ser breve, incluir párrafos cortos y elementos visuales entre el texto.
+
+Incluye una llamada a la acción convincente. Quienes te lean tendrán mayor predisposición a hacer lo que les pidas si lo
+haces de forma clara. Si quieres que compren un producto, incentívalos/as para que hagan exactamente eso. En ocasiones, los
+correos electrónicos pueden tener varias llamadas a la acción, especialmente en los boletines informativos, donde es
+probable que se compartan varios productos, servicios o enlaces.
+
+**Conclusiones principales:**
+
+Escribir contenido persuasivo es una gran parte del marketing por correo electrónico, y lleva tiempo perfeccionarlo. Si
+sigues los consejos proporcionados aquí, tendrás muchas más posibilidades de aumentar tus tasas de apertura. Al redactar el
+asunto, el texto de vista previa y el cuerpo de un correo electrónico, es importante ser cuidadoso y tener un enfoque
+intencional. También es recomendable probar diferentes textos de correo electrónico para ver a qué responde mejor tu
+audiencia.
+
+#### Tipos de marketing por correo electrónico: Correos electrónicos promocionales
+
+Hasta ahora, aprendimos mucho sobre el marketing por correo electrónico. Vimos los correos de adquisición, de bienvenida y
+boletines informativos. Pero queda mucho que aprender. En este video, hablaremos sobre otro tipo de correos electrónicos,
+los promocionales. Los correos promocionales se envían para informar a tus suscriptores/as sobre tus productos o servicios.
+Hay muchas razones para enviar correos promocionales. Tal vez porque tu marca está realizando una venta general en todo el
+sitio, quieres celebrar los cumpleaños de tus clientes ofreciéndoles 10% de descuento en su pedido, estás conmemorando el
+quinto aniversario de tu marca, estás lanzando un nuevo producto, concurso o sorteo o quizá estás ofreciendo contenido
+descargable gratuito para unas vacaciones. Independientemente del motivo para enviar tu correo electrónico, los objetivos
+siempre serán acelerar el proceso de compra, incentivar a los/las suscriptores/as a tomar acción o atraer nuevas/os clientes
+y existentes. Debido a estas metas, los correos electrónicos entran en las etapas de Consideración y Fidelidad del embudo.
+Las promociones dan a tus suscriptores/as y clientes una razón para regresar y volver a comprar algo. Como los correos
+promocionales pueden presentarse de diferentes maneras, no hay reglas estrictas sobre lo que deberían implicar o incluir.
+Aun así, he aquí algunos consejos para usar como guía al redactar un correo promocional. Mantén el enfoque del correo en la
+promoción, mantenlo conciso y anuncia la promoción en el asunto. Pon el foco de tu correo electrónico en la promoción en sí,
+en lugar centrarlo en las características o detalles del producto. Si hay más características o detalles que esperas
+incluir, vincúlalos a los productos para que tu audiencia haga clic a través de una página de destino y siga leyendo. El
+correo promocional debe ser breve, así que hazlo corto y conciso. El cuerpo se refiere al texto en el contenido principal de
+tu correo electrónico. Una persona debe poder leer tu correo promocional en apenas un par de minutos. Además, tu público no
+necesita leer mil palabras sobre tu marca y sus productos o servicios porque este ya tiene algún interés en los productos de
+tu marca, y el texto del cuerpo no es el único elemento a considerar. Los estudios de marketing muestran que el 47% de los
+correos se abren en función de solo su asunto, lo que significa que debes invertir un tiempo considerable en elaborar el
+asunto. Asegúrate de que comunique la promoción. Esto no significa que siempre tiene que decir "código de 20% de descuento
+en el interior", pero debería dar una pista de que hay algo único y relevante dentro, relacionado con la promoción. Incluir
+la promoción en tu asunto da una idea al público de qué esperar. Esto puede generar entusiasmo, crear anticipación, y, por
+último, hacer campañas más efectivas. ¿Cómo es un ejemplo de buen correo promocional? Este ejemplo de una app de entrega de
+comida a domicilio es un excelente correo promocional porque sigue las reglas que describí. No hay detalles innecesarios
+sobre los productos o la propia marca. El foco del correo es el banner de arriba, con un código para una entrega gratuita en
+una orden de scones frescos de la panadería de la cadena. Si decides tomar esta oferta, solo tienes que hacer clic en el
+botón "Ordenar ahora" para concretar la compra. El asunto, entrega gratuita de algo dulce, deja claro que hay algún tipo de
+promoción dentro del correo. Repasemos rápidamente: al crear un correo promocional, debes asegurar que tu correo electrónico
+se centre en la promoción en sí más que en el producto. Deberá ser breve y conciso, y tendrás que mencionar la promoción en
+el asunto. Ahora, que entiendes la importancia de un correo promocional efectivo, mantengamos el ritmo.
+
 ### Correos electrónicos que mantienen a las/los clientes
+
+#### Tipos de marketing por correo electrónico: Correos electrónicos de retención
+
+Hasta aquí exploramos los correos electrónicos de adquisición, de bienvenida, promocionales, y boletines informativos. ¿Cuál
+es el siguiente paso? Aquí exploraremos los correos de retención. Son aquellos que se envían a un cliente actual con la
+intención de mantenerlo como cliente. En los correos de retención es clave tener en cuenta el momento. Cuando se envían en
+el momento justo, son muy eficaces y, si te comprometes a enviarlos, puedes hacer que más clientes vuelvan una y otra vez.
+Por eso entran en la etapa de Fidelidad del embudo de marketing. En esta etapa tratas con clientes activos. El objetivo es
+mantener contentos a los clientes, porque, si lo están, tu marca también está contenta. Hay muchos tipos de correos que
+entran en la etapa de Fidelidad. Por ejemplo, si un cliente coloca un artículo en su carrito online pero no lo compra, esa
+empresa envía un correo de seguimiento. Este correo de retención se llama correo electrónico de carrito abandonado, e
+incentiva a comprar el artículo dejado. Si después de que un cliente hace una compra, una empresa envía un correo
+electrónico de seguimiento pidiendo su opinión sobre su experiencia de compra, también es una forma de correo de retención.
+Pedir la opinión de los clientes ayuda a que se sientan escuchados, y asegura que se hagan las mejoras necesarias. Si una
+empresa nota que los usuarios no interactúan con sus boletines o promociones, pueden enviarles una oferta especial para
+incentivarlos a interactuar un poco más. Eso también es un correo de retención. Sin importar qué tipo de correo de retención
+envíes, hay cosas a tener en cuenta al redactarlos. Recuerda, el objetivo es que los clientes actuales regresen. Hay cosas
+que puedes hacer para asegurar que vuelvan. El correo de retención debe incluir: personalización, una clara llamada a la
+acción, y un gran uso del lenguaje empático y coloquial. Tal vez te preguntes qué es personalización. En marketing por
+correo, significa que conoces a tus clientes y escribes tus correos electrónicos basándote en quiénes son. Muchas
+herramientas de marketing por correo electrónico te permiten segmentar tu lista, para que desarrolles contenido diseñado
+para ciertos grupos de personas. Lo veremos más adelante, pero, por ahora, la segmentación consiste en dividir una lista de
+contactos en grupos más pequeños según criterios para que el correo sea relevante para los suscriptores. Después de
+segmentar tu lista de contactos, ¿cómo desarrollas ese contenido personalizado? A veces, es tan simple como usar el nombre
+en los correos y en los asuntos, un truco que brindan las herramientas de automatización. Otra gran táctica es enviar un
+correo de seguimiento con consejos de uso del producto que se compró. Muestra que te preocupas por cada cliente, y que
+puedes anticipar sus desafíos y necesidades. Deja en claro lo que buscas en tus correos electrónicos, con una llamada a la
+acción obvia. ¿Esperas que tus clientes vuelvan a comprar? Puedes dejar un código de descuento. ¿Envías un correo a clientes
+existentes sobre el nuevo programa de fidelización? Pide que se registren. Una de las mejores formas de mantener a un
+cliente es escuchándolo y apoyándolo. Es igual para seres queridos, colegas y todos con los que tenemos contacto. La empatía
+es igual de importante para la relación de la marca con el cliente. Preguntar "¿Qué te pareció y cómo fue tu experiencia?"
+hace que el cliente sepa que su opinión importa, y eso podría hacer que regrese. Ahora bien, es posible usar este tipo de
+expresiones en un correo que puedes enviar para recibir feedback. Agregar "¿Qué te pareció?" al final del correo con una
+escala a elegir del 1 al 10 también funciona. Además de recibir comentarios, asegúrate de decir "gracias" para dejar en
+claro que estás agradecido. Ayúdalos a sentirse apreciados, porque tú estás agradecido por sus compras, y ellos deberían
+saberlo. Veamos un ejemplo de un buen correo de retención. Este correo de retención de un sitio de alquiler y alojamiento
+vacacional es muy bueno, e incluye lo visto. Para empezar, es personalizado, porque crearon aspectos destacados
+individualizados para todos los hospedajes. Cuando un cliente hace clic en el botón, "Get your host highlights", se lo
+enviará a su perfil para ver un aspecto destacado que es específico para él. Incluyen una llamada a la acción clara, que es
+para que el cliente haga clic en el botón, y vea lo destacado. Por último, el tono y estilo de escritura es increíblemente
+amigable, y muestra mucha gratitud. Con frases como, "no podemos agradecerte lo suficiente", demuestran que tu marca
+reconoce qué afortunada es al tener a cada uno de sus clientes. Ahí lo tienes. Personalizaron el correo, incluyeron una
+llamada a la acción clara, y usaron un lenguaje empático y amigable, todas las claves para un correo electrónico efectivo.
+
+#### Ejemplo de actividad: Escribe asuntos y texto de vista previa
+
+Evaluación del ejemplo
+
+Compara el ejemplo con los asuntos y textos de vista previa completados. Revisa tu trabajo utilizando cada uno de los
+criterios del ejemplo. ¿Qué hiciste bien? ¿En qué aspectos podrías mejorar? Las respuestas a estas preguntas te servirán de
+guía, a medida que avances en el curso.
+
+Nota: El ejemplo representa una posible forma de completar la actividad. Es probable que tus asuntos y textos de vista
+previa difieran en ciertos aspectos. Lo importante es que sean claros, concisos y atractivos para que las personas abran los
+correos electrónicos que les envías.
+
+Revisemos cada uno de los tres correos electrónicos:
+
+Correo 1: Boletín informativo de una clínica veterinaria
+
+Asunto: Qué saber sobre la enfermedad dental de las mascotas
+
+Al igual que el cuerpo del correo electrónico, el asunto es directo e informativo. Identifica de manera precisa el tema del
+boletín informativo y sugiere que la información que contiene es relevante para las personas que tienen una mascota y para
+quienes reciben el correo.
+
+Texto de vista previa: Además: Los mejores consejos para mantener los dientes de tu mascota saludables
+
+El texto de la vista previa se alinea con el asunto al indicar que existen formas de tratar o prevenir la enfermedad dental
+de las mascotas. Al prometer compartir información importante, incentiva a quien recibe el correo a abrir el mensaje.
+
+Correo 2: Correo electrónico promocional de masaje terapéuticof
+
+Asunto: Tómate un tiempo para ti, {{ fname }}
+
+El asunto coincide con el tono de conversación del mensaje. Al alentar a las personas a reservar tiempo para sí mismas, se
+las incentiva a aprovechar el descuento de masajes que se presenta en el mensaje. Además, la inclusión del nombre del/la
+suscriptor/a en el asunto agrega un toque personalizado que resulta apropiado para este tipo de negocio.
+
+Texto de vista previa: Obtén un 20% de descuento en masajes exclusivos en junio
+
+El texto de la vista previa explica una forma en que las personas pueden tomarse un momento para sí mismas, reservando un
+masaje exclusivo con descuento. También describe los detalles esenciales de la promoción (qué, cuándo y cuánto), para que
+quien recibe el mensaje sepa qué esperar al abrir el correo electrónico.
+
+Correo 3: Correo electrónico de retención de un taller de automóviles
+
+Asunto: Es hora de hacer la revisión de tu automóvil
+
+El asunto es conciso y coincide con el tono, algo formal, del mensaje. También es claro y directo al describir el propósito
+del correo electrónico.
+
+Texto de vista previa: Haz una cita hoy
+
+El texto de vista previa coincide con el tono del asunto. También les dice a quienes reciben el mensaje que pueden programar
+el servicio requerido a través del correo electrónico, lo que los/las incentiva a abrirlo.
+
+#### Crear correos electrónicos accesibles
+
+Los correos electrónicos son una herramienta de marketing efectiva, pero es esencial asegurarse de que el contenido sea
+accesible para todas las audiencias. Esto incluye a las personas con discapacidades sensoriales que afectan uno o más de los
+sentidos.
+
+En esta lectura, aprenderás sobre la accesibilidad y conocerás algunas de las prácticas recomendadas para diseñar correos
+electrónicos efectivos para todas las audiencias, especialmente para personas con discapacidades relacionadas con la
+audición, la visión o ambos sentidos.
+
+*¿Por qué es importante la accesibilidad?*
+
+El término accesibilidad se refiere al diseño de productos, dispositivos, servicios o entornos para personas con
+discapacidades. Los correos electrónicos con un diseño poco accesible pueden no transmitir información auditiva y visual.
+Por ejemplo, si envías correos electrónicos con videos con información narrada oralmente, podrías incluir una opción para
+mostrar subtítulos o una transcripción para garantizar que las personas con discapacidades auditivas puedan entender el
+contenido. Los subtítulos o las transcripciones también pueden ser útiles para cualquier persona que se encuentre en un
+entorno donde no pueda escuchar fácilmente el sonido, como en un autobús o en un café ruidoso y lleno de gente, o que no
+pueda reproducir sonido sin molestar a los demás, como en una biblioteca.
+
+Los correos electrónicos inaccesibles pueden ser confusos o difíciles de entender para muchas personas con discapacidades
+auditivas y visuales. Enviar constantemente correos electrónicos inaccesibles puede impactar negativamente en la imagen  de
+marca y, a largo plazo, disminuir la tasa de apertura y la tasa de clics. Esto puede traducirse en  una menor interacción y
+una oportunidad perdida para obtener ingresos.
+
+*Tecnologías de asistencia:*
+
+Las personas con discapacidades pueden usar tecnologías de asistencia para realizar tareas que, de otro modo, serían
+difíciles o imposibles para ellas. Algunos ejemplos de tecnologías de asistencia incluyen inventos conocidos como las sillas
+de ruedas, que ayudan a las personas con discapacidades motrices  a trasladarse, y los audífonos, que permiten o mejoran la
+audición de las personas.
+
+Existen tecnologías de asistencia menos conocidas para los medios digitales basados en texto e imágenes. Las aplicaciones de
+ampliación de pantalla y los lectores de pantalla son las formas más populares de tecnología de asistencia para acceder a
+los correos electrónicos. Una aplicación de ampliación de pantalla ayuda a las personas a ver el contenido más fácilmente al
+ampliar el texto y las imágenes en una pantalla de computadora o dispositivo digital. Un lector de pantalla es una
+aplicación que convierte texto, botones, imágenes y otros elementos de la pantalla en voz o Braille.
+
+Los lectores de pantalla pueden identificar el contenido de un correo electrónico y cualquier código invisible conectado a
+los elementos del correo electrónico, como encabezados, imágenes o enlaces. Cuando el lector de pantalla lee en voz alta el
+código invisible, identifica el tipo de elemento y la descripción del correo electrónico. Por ejemplo, en los correos
+electrónicos es posible agregar un código invisible a las imágenes,  conocido como texto alternativo. El texto alternativo
+es una breve descripción escrita de una imagen con el propósito principal de ayudar a las personas con discapacidad visual.
+El texto alternativo no se muestra visualmente en el correo electrónico, sino que es leído en voz alta por un lector de
+pantalla. Además, los elementos estructurales, como los encabezados, proporcionan a quienes usan el lector de pantalla
+información sobre la jerarquía del contenido en el correo electrónico.
+
+Prácticas recomendadas para diseñar correos electrónicos accesibles Los correos electrónicos accesibles proporcionan
+claridad y facilidad para que las personas naveguen el contenido del correo electrónico. A continuación, se presentan
+algunas prácticas recomendadas y consideraciones que se organizan en categorías  en función de estos elementos.
+
+*Formato:*
+
+Organiza los encabezados cuidadosamente. Los encabezados tienen un código invisible llamado etiquetas de encabezado. Cuando
+un lector de pantalla lee un encabezado, describe el tamaño del encabezado.
+
+Evita el uso de palabras en mayúsculas y el uso excesivo de cursiva o subrayado. Esto puede dificultar el procesamiento de
+la información por los lectores de pantalla, lo que significa que la información no se está comunicando con claridad.
+
+*Fuentes:*
+
+El tamaño de la fuente de texto debe ser de al menos 14. Las fuentes pequeñas pueden ser difíciles de leer para las personas
+con visión reducida. Las fuentes más grandes permiten identificar caracteres y palabras más fácilmente. Para los
+encabezados, considera agregar negrita o usar una fuente más grande.
+
+Usa fuentes simples. Las fuentes sin serifas o trazos decorativos al final del tallo de una letra se llaman fuentes sans
+serif. Estas tipografías tienen un estilo minimalista, suelen incorporar un espaciado de letras más amplio y son más fáciles
+de leer. Esto es útil para las personas con visión reducida u otros tipos de discapacidades de procesamiento visual, como la
+dislexia.
+
+Ten cuidado al usar emoticones. Un emoticón es una pequeña ilustración basada en texto utilizada en mensajes electrónicos y
+páginas web. Si bien pueden ser visualmente interesantes, pueden ser difíciles de entender y de ver para quienes tienen
+alguna discapacidad visual. Por esta razón, evita el uso de emoticones en los asuntos y para representar información
+importante.
+
+*Colores:*
+
+Utiliza colores contrastantes para el texto y el fondo. Tener un contraste significativo entre los colores del texto y del
+fondo ayuda a las personas con visión reducida a identificar las palabras. La combinación más efectiva es el texto negro
+sobre fondo blanco.
+
+No te apoyes únicamente en los colores para comunicar el significado. Apoyarte únicamente en colores específicos de texto o
+imagen para comunicar un mensaje puede ser confuso para las personas daltónicas.
+
+*Imágenes:*
+
+Utiliza texto en las imágenes solo si es necesario. Utilizar el texto en las imágenes como el único método para transmitir
+información importante puede ser confuso para las personas con visión reducida.
+
+Incluye texto alternativo en todas las imágenes que sean necesarias para transmitir tu mensaje. Si una imagen es
+informativa, procesable o necesaria para la experiencia del usuario/a, incluye texto alternativo preciso que describa la
+imagen.
+
+Omite el texto alternativo para las imágenes decorativas. Incluir texto alternativo para elementos decorativos como
+logotipos, imágenes de estilo de vida e íconos puede ser confuso para quienes utilizan lectores de pantalla.
+
+*Enlaces:*
+
+Asegúrate de que el propósito del texto con hipervínculo sea claro. En el texto con hipervínculo, declaraciones como “Haz
+clic aquí”, “Accede” y “Comienza ya” hacen que un correo electrónico sea difícil de entender cuando se usa un lector de
+pantalla. En su lugar, usa un lenguaje que denote acción. Por ejemplo, el texto con hipervínculo para una tienda minorista
+en línea podría ser “Más información sobre nuestros productos”, en lugar de “Haz clic aquí”.
+
+**Conclusiones principales:**
+
+Considerar las prácticas recomendadas para la accesibilidad es esencial para que puedas diseñar correos electrónicos que
+sean útiles para toda tu audiencia. Asegúrate siempre de tomarte el tiempo necesario para verificar que tu diseño de correo
+electrónico sea accesible. Es posible hacerlo probándolo con la herramienta de lector de pantalla, la cual se incluye en la
+mayoría de las computadoras en la pestaña de accesibilidad, o utilizando un verificador de accesibilidad en línea.
+
+#### Correo no deseado (spam): Cuándo no enviar correos electrónicos
 
 ### Resumen: Tipos de marketing por correo electrónico
 
