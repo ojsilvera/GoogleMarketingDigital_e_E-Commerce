@@ -2772,7 +2772,100 @@ De duración limitada: la fecha límite es seis meses después del lanzamiento.
 
 #### Lectura: LecturaActividad de ejemplo: Segmentar una lista de correo electrónico
 
+Compara el ejemplo con la actividad de segmentación de correo electrónico que completaste. Revisa tu trabajo utilizando cada
+uno de los criterios del ejemplo. ¿Qué hiciste bien? ¿En qué aspectos puedes mejorar? Usa las respuestas a estas preguntas
+de guía a medida que avanzas en el curso.
+
+Nota: Para facilitar la comparación de tu actividad con el ejemplo, selecciona Ordenar A → Z en ambos documentos para las
+siguientes columnas:
+
+Soluciones para cocinas pequeñas
+
+Los/las siguientes suscriptores/as seleccionaron “cocina/comedor” y “espacios pequeños”, por lo que deben recibir correos
+electrónicos sobre soluciones para cocinas pequeñas:
+
+Ava
+
+Deonte
+
+Emmett
+
+Leona
+
+Stefania
+
+Penny
+
+Min
+
+Ventas exclusivas en la tienda
+
+Los/las siguientes suscriptores/as seleccionaron “sí” en las opciones Eventos en la tienda y Promociones especiales, por lo
+que deben recibir correos electrónicos sobre ventas exclusivas en la tienda:
+
+Deonte
+
+Leona
+
+Min
+
+Felix
+
+Rosa
+
+Casey
+
+Tarit
+
+Shirin
+
+Ahmet
+
+Riley
+
+Kenji
+
+Contenido apto para mascotas
+
+Los/las siguientes suscriptores/as seleccionaron “apto para mascotas” y “dormitorio” o “sala de estar/estudio”, por lo que
+deben recibir correos electrónicos con contenido que sea apto para mascotas:
+
+Felix
+
+Rosa
+
+Casey
+
+Shirin
+
+Ahmet
+
+Jaya
+
+Saanvi
+
+Quinn
+
+Hector
+
 #### Lectura: Lectura¿Cómo te fue con la segmentación?
+
+¡Excelente trabajo en la última actividad! ¿Cómo crees que lo hiciste?
+
+Segmentar tu audiencia es importante porque te permite clasificar a tus contactos por un conjunto de categorías. La
+segmentación es una excelente herramienta para comunicarte de manera efectiva, lo que podría impulsar a que tu marca se
+destaque cuando se enfrenta a otras competidoras en línea.
+
+De hecho, las marcas de tiendas digitales que crean correos electrónicos promocionales personalizados experimentan un
+incremento de la tasa de apertura de un 46% y un aumento de la tasa de clics de un 27%, en comparación con los correos
+electrónicos de marketing simples.
+
+Como has notado, la segmentación puede ser una parte difícil del marketing por correo electrónico. Sin embargo, es una
+estrategia fundamental para mantener relaciones exitosas con los diferentes grupos de clientes de una empresa. También te
+permite entender los estilos de comunicación que prefieren y las necesidades específicas de las/los clientes.
+
+Pasemos a la siguiente actividad, en la que deberás crear una estrategia de marketing por correo electrónico, incluyendo la
+gestión y segmentación de contactos.
 
 #### Lectura: LecturaActividad de ejemplo: completar una serie de correos electrónicos
 
