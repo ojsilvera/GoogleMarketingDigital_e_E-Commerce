@@ -2636,4 +2636,4 @@ clic en el botón “reenviar” para enviar a otras.
 
 ### Revisión: Ejecuta tu propia campaña de marketing por correo electrónico
 
-### Revisión del curso: Creatividad en la bandeja de entrada: marketing por correo electrónico.
+### Revisión del curso: Creatividad en la bandeja de entrada: marketing por correo electrónico
