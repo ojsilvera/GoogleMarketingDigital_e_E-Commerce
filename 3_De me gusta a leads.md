@@ -3123,33 +3123,50 @@ de redes sociales antes las partes interesadas.
 
 La presentación de informes sobre el avance y/o los resultados de una campaña de redes sociales es un aspecto importante del marketing en redes sociales. Cuando informas adecuadamente los resultados, los miembros de tu equipo y las partes interesadas comprenden el valor que tu campaña aportó a la marca. En esta lectura, aprenderás sobre los diferentes tipos de informes de redes sociales.
 
-**Tipos de informes**
+**Tipos de informes:**
 
-Para garantizar que todas las partes interesadas obtengan la información que necesitan, existen tres tipos de informes que debes conocer. La mejor manera de proporcionar datos completos sobre cada aspecto de la campaña es presentar todos los tipos de informes a las partes interesadas. Pero, ¿cómo sabes cuándo usar cada tipo de informe? A continuación,  conocerás en qué se diferencian los reportes operativos, de insights e informativos.
+Para garantizar que todas las partes interesadas obtengan la información que necesitan, existen tres tipos de informes que
+debes conocer. La mejor manera de proporcionar datos completos sobre cada aspecto de la campaña es presentar todos los tipos
+de informes a las partes interesadas. Pero, ¿cómo sabes cuándo usar cada tipo de informe? A continuación,  conocerás en qué
+se diferencian los reportes operativos, de insights e informativos.
 
-**Informes operativos**
+**Informes operativos:**
 
-Los informes operativos brindan a los miembros del equipo actualizaciones e información en tiempo real sobre métricas como las tasas de crecimiento de audiencia, las impresiones, la tasa de clics y más. Estos informes proporcionan los datos que necesitas para medir el éxito de una campaña y te permiten que rápidamente puedas ajustar la estrategia si fuera necesario.
+Los informes operativos brindan a los miembros del equipo actualizaciones e información en tiempo real sobre métricas como
+las tasas de crecimiento de audiencia, las impresiones, la tasa de clics y más. Estos informes proporcionan los datos que
+necesitas para medir el éxito de una campaña y te permiten que rápidamente puedas ajustar la estrategia si fuera necesario.
 
 ![alt text](image-82.png)
 
-**Informes de insights**
+**Informes de insights:**
 
-Los informes de de insights ofrecen más que solo datos sin procesar: proporcionan historias que ayudan a explicar la campaña. El propósito de estos informes es encontrar significados en los insights y comunicarlos a las partes interesadas. Estos informes responden a preguntas como: ¿Por qué tus tasas de clics son altas? ¿Qué plataformas de redes sociales generan más oportunidades? ¿Tu audiencia prefiere ver contenido en videos o en imágenes? ¿Cómo impacta eso en tu presupuesto? ¿Qué tendencias identificas en los insights y por qué?
+Los informes de de insights ofrecen más que solo datos sin procesar: proporcionan historias que ayudan a explicar la
+campaña. El propósito de estos informes es encontrar significados en los insights y comunicarlos a las partes interesadas.
+Estos informes responden a preguntas como: ¿Por qué tus tasas de clics son altas? ¿Qué plataformas de redes sociales generan
+más oportunidades? ¿Tu audiencia prefiere ver contenido en videos o en imágenes? ¿Cómo impacta eso en tu presupuesto? ¿Qué
+tendencias identificas en los insights y por qué?
 
 ![alt text](image-83.png)
 
-**Reportes informativos**
+**Reportes informativos:**
 
-Estos informes se utilizan principalmente para proporcionar al equipo directivo de la empresa una comprensión más clara del rendimiento de la campaña. Las métricas más grandes, como el retorno de inversión (ROI) y otros indicadores clave de rendimiento (KPI), se presentan en estos informes ya que muestran el valor de las campañas a un alto nivel. Estos informes deben ser muy claros y concisos, debido a que  el equipo directivo de la empresa no suele tener mucho tiempo para analizar información detallada.
+Estos informes se utilizan principalmente para proporcionar al equipo directivo de la empresa una comprensión más clara del
+rendimiento de la campaña. Las métricas más grandes, como el retorno de inversión (ROI) y otros indicadores clave de
+rendimiento (KPI), se presentan en estos informes ya que muestran el valor de las campañas a un alto nivel. Estos informes
+deben ser muy claros y concisos, debido a que  el equipo directivo de la empresa no suele tener mucho tiempo para analizar
+información detallada.
 
 ![alt text](image-84.png)
 
-**Google Data Studio**
+**Google Data Studio:**
 
-Si no sabes por dónde empezar en lo que respecta a los informes, existen herramientas que pueden ayudarte. Google Data Studio te ayuda a aprovechar los datos para contar historias mediante el uso de herramientas de visualización como gráficos y tablas, compartiendo tus ideas con los miembros del equipo y acelerando el proceso de creación de informes. También ofrece funciones de colaboración para que tu equipo pueda trabajar en conjunto para crear informes. 
+Si no sabes por dónde empezar en lo que respecta a los informes, existen herramientas que pueden ayudarte. Google Data
+Studio te ayuda a aprovechar los datos para contar historias mediante el uso de herramientas de visualización como gráficos
+y tablas, compartiendo tus ideas con los miembros del equipo y acelerando el proceso de creación de informes. También ofrece
+funciones de colaboración para que tu equipo pueda trabajar en conjunto para crear informes.
 
-Una vez que tengas acceso a esta herramienta, todo lo que tienes que hacer es buscar los diferentes tipos de informes. Para conocer más sobre cómo usar plantillas para informes, <https://datastudio.google.com/gallery?category=marketing>
+Una vez que tengas acceso a esta herramienta, todo lo que tienes que hacer es buscar los diferentes tipos de informes. Para
+conocer más sobre cómo usar plantillas para informes, <https://datastudio.google.com/gallery?category=marketing>
 
 #### Ejemplo de actividad: Crea un informe sobre el rendimiento de redes sociales
 
