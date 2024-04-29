@@ -1425,7 +1425,256 @@ Personas que cumplen años en abril
 
 ### Cómo escribir un correo electrónico eficaz
 
+#### Escribe correos electrónicos efectivos
+
+Si bien ahora los correos de marketing se enfocan más en el diseño, lo más importante sigue siendo el contenido. Si creas el
+mejor diseño, pero el texto publicitario no es convincente, informativo o no agrega valor, no será útil para quien lo lea.
+Si no sabes por dónde empezar, no te preocupes. Escribir correos requiere de práctica. En esta sección verás algunas de las
+mejores prácticas y sugerencias que te ayudarán a mejorar. Hablemos de la línea de asunto. Es lo primero que se leerá antes
+de entrar al correo electrónico. Entonces, lo más importante es que responda a la pregunta: ¿qué ofreces? Al tratarse de tu
+línea de asunto, prioriza la claridad y no el atractivo. Y si crees que es clara, puedes agregar un poco de emoción. Por
+ejemplo, si tengo una empresa de audiolibros y podcast, el propósito de su correo es presentar el negocio al público.
+Entonces me pregunto, ¿qué ofrezco y cómo puedo contarlo con claridad? La línea de asunto puede decir algo como: Libros para
+tus oídos, que explica la misión de la empresa de forma concisa. O, Amantes de los libros, acá estamos para que quede claro
+cuál es el público objetivo de la empresa. Pasemos al cuerpo del mensaje. El cuerpo del mensaje es el texto con el contenido
+principal del correo. Debes considerar lo siguiente. ¿Cómo ayudará el contenido a quien lo lee? ¿Qué historias puedes
+contarles? Después de responder esas preguntas prioriza escribir en segunda persona, personaliza el correo electrónico,
+habla de los beneficios en lugar de las características y sé breve. Asegúrate de dirigirte directamente a tus lectores/as
+usando la segunda persona. La segunda persona se usa para dar instrucciones, ofrecer consejos o brindar una explicación.
+Significa que siempre usarás los pronombres, tú, tu, y tuyo, como yo lo estoy haciendo ahora. La única vez en la que no te
+referirás a tu público con tú, tu o tuyo, será cuando uses su nombre. Las herramientas de automatización te permiten una
+etiqueta de combinación o personalizada para que los correos electrónicos sean más personales. Una etiqueta de combinación
+(merge) o de personalización es un código para insertar datos únicos del/a usuario/a de su lista de correo en correos. Estas
+etiquetas variarán en función de qué programas uses. Sin entrar en detalles, es tan simple como escribir dos corchetes, F,
+el nombre y dos corchetes más para que el programa incluya el nombre del/a lector/a. Si hablamos del cuerpo del mensaje de
+mi empresa, Escribiría: Hola, dos corchetes, espacio, F, nombre, espacio, dos corchetes, ¿Cuál es tu libro favorito? Lo
+tenemos. Y si la persona se llama Angélica, verá, Hola, Angélica, ¿cuál es tu libro favorito? Lo tenemos. Después de crear
+un título claro e ingenioso y de personalizar el primer mensaje, debo explicarle quien lee por qué le puede interesar mi
+empresa. Puedo hacerlo hablando de los beneficios en lugar de las características del producto o servicio. Así, el cuerpo
+del mensaje podría decir Hola, Angélica. ¿Cuál es tu libro favorito? Lo tenemos. Si te gustaría escuchar tus libros, cuenta
+con nosotros. Escúchalos camino al trabajo o en el gimnasio, o cuando quieras, te lo mereces. Por último, debes ser breve.
+No tienes que dar detalles específicos sobre tu empresa, producto o servicio. Un correo electrónico corto y conciso
+mantendrá el interés de quien lo recibe sin que sienta que debe leer mucho. Después del cuerpo, incluye una llamada a la
+acción. Puede ser un botón para probar un producto o visitar tu sitio web. Para generar confianza, al final del correo
+electrónico incluye un botón que diga: Pruébalo gratis ahora. Tenemos actividades para que puedas practicar, pero te sugiero
+que lo hagas por tu cuenta. Es divertido. Mientras, recuerda que para tu línea de asunto, pregúntate qué ofreces a los/as
+lectores/as. Mientras escribes, pregúntate ¿Cómo ayuda esto a tus lectores/as? ¿Qué historias puedes contarles? Y concluye
+con una llamada a la acción clara de lo que quieres que hagan. Nos vemos aquí más tarde.
+
+#### Más consejos para escribir correos electrónicos efectivos
+
+Redactar un correo electrónico perfecto puede ser una tarea difícil, por mucha experiencia que tengas en marketing digital.
+Es una habilidad que requiere mucha práctica, y pruebas hasta llegar a descubrir qué le gusta a tu público. A medida que
+aprendas sobre la creación de correos electrónicos eficaces en esta lección, ten en cuenta que te llevará tiempo llegar a
+dominar la redacción de correos electrónicos de marketing. Si crees que ya tienes lo que hay que tener para escribir un buen
+correo electrónico, utiliza estos contenidos para perfeccionar aún más tus habilidades.
+
+**El propósito de tu correo electrónico:**
+
+Cuando te prepares para enviar correos electrónicos a tus suscriptores/as, debes tener un propósito en mente. Para empezar,
+pregúntate por qué estás enviando un correo electrónico. Quizás es para anunciar el lanzamiento de un producto nuevo, educar
+a las personas mediante consejos y trucos relevantes, ofrecer un código de descuento o anunciar una promoción, entre muchas
+otras razones. Asegúrate de que haya una motivación detrás de cada correo electrónico. Hacerlo te permitirá darle más
+contexto. Si sabes por qué quieres enviarlo, te resultará más fácil decidir qué vas a escribir.
+
+**La narrativa en tu correo electrónico:**
+
+Ahora que conoces la importancia de tener un propósito detrás de tu correo electrónico, puedes decidir cómo debería ser la
+narrativa. No hay problema si no tienes mucha experiencia en redacción, narración o marketing. Lo que deberás hacer es
+pensar cada correo desde la perspectiva de tus lectores/as. Pregúntate: “¿Qué tipo de narrativa quieren leer?”.
+
+Si estás enviando un correo electrónico para anunciar el lanzamiento de un producto, una buena opción será contar la
+historia de cómo surgió la idea. ¿A quién se le ocurrió la idea del producto? ¿Qué motivó su creación? ¿Cuánto tiempo llevó
+hacerlo? ¿Qué problema viene a resolver? Considera agregar todos estos detalles en el correo, de modo que a quien lo lea le
+interese la narrativa y se identifique con ella de alguna manera.
+
+Si tu objetivo es educar mediante un boletín informativo semanal que incluya consejos, trucos, usos de productos, artículos
+y más, trata de desarrollar un tema para cada semana. Este tema le dará a tu correo electrónico una narrativa general.
+Utiliza recursos y enlaces internos y externos relacionados, para que el boletín informativo sea coherente.
+
+Si estás anunciando una promoción en tu sitio web, quizás te convenga explicar a qué se debe la promoción y en qué
+beneficiará a quien lo lee. ¿Estás celebrando el cumpleaños de la empresa u otro día festivo? ¿Estás tratando de liquidar el
+inventario actual para poder traer productos nuevos? ¿Es una promoción de fin de temporada? Crear una narrativa sobre los
+motivos de la promoción puede ayudarte a convertir clientes potenciales en clientes fieles.
+
+**El tono de tu correo electrónico:**
+
+El tono de tu correo electrónico variará según el propósito y la narrativa. A medida que reflexiones sobre ello, piensa cuál
+es el tono que se adapta mejor a estos dos factores. El tono siempre debe ser cortés y el contenido útil, pero no dudes en
+agregar algunas otras cualidades en función de tu objetivo.
+
+Volviendo a los ejemplos anteriores, si está anunciando el lanzamiento de un nuevo producto, considera usar un tono
+divertido y entusiasta, e incluye un lenguaje que entusiasme a quien lo lea.
+
+Para tu boletín informativo semanal educativo, considera usar un tono profesional y simple. Para comunicar que eres
+especialista en este tema, puedes usar un lenguaje que te confiera autoridad y credibilidad.
+
+Si estás anunciando una promoción o el cumpleaños de tu marca, tal vez tu tono sea animado y agradecido. Puedes usar un
+lenguaje que muestre gratitud hacia tus clientes.
+
+Consejo: Leer tus correos electrónicos en voz alta te ayudará a entender lo que sienten las personas al leerlo. Además,
+podrás decidir si te gusta el tono que estás usando.
+
+Nota: Independientemente de tu propósito y tu narrativa, tienes que asegurarte de que el tono se adapte a la voz de tu marca
+para que a quien lo lea le resulte familiar y se sienta a gusto.
+
+**Conclusiones clave:**
+
+Determinar el propósito, la narrativa y el tono del correo electrónico antes de comenzar a escribir te ayudará a mantener el
+rumbo mientras lo haces. A medida que lo redactes, debes volver al propósito, la narrativa y el tono con los que empezaste y
+asegurarte de que el texto siga alineado con ellos.
+
+#### Actividad: escribe un correo electrónico de retención efectivo
+
+Evaluación del ejemplo
+
+Compara el ejemplo con el correo electrónico de retención que completaste. Revisa tu trabajo usando cada uno de los
+criterios del ejemplo. ¿Qué hiciste bien? ¿En qué aspectos puedes mejorar? Usa las respuestas a estas preguntas como guía a
+medida que avanzas en el curso.
+
+Revisa cada sección del correo electrónico:
+
+El asunto dice qué ofreces y capta la atención.
+
+El cuerpo incluye un lenguaje personalizado y atractivo que presenta la aplicación. Describe sus características, incluye la
+prueba gratuita que se ofrece y sus beneficios. Es claro, conciso, coloquial y se dirige a quien lo lee en segunda persona.
+
+La llamada a la acción dice qué hacer a continuación, según el objetivo de la campaña. Tiene una longitud de dos a cinco
+palabras y está formateada de modo que destaque.
+
+El cierre es sincero y expresa tu gratitud por el interés demostrado.
+
 ### Herramientas para marketing por correo electrónico
+
+#### Herramientas útiles para el marketing por correo electrónico curso 4
+
+En marketing digital, la automatización es la clave para el éxito de una campaña. La automatización te ayuda a llegar a tu
+público y mostrarle solo el contenido que le gusta. Las herramientas de automatización ayudan a generar leads o a convertir
+a extraños en clientes. Con la automatización, se pueden enviar mensajes personalizados a cada persona. La automatización en
+el marketing de correos usa software, programas y tecnología para gestionar los procesos automáticamente. La automatización
+hace que el proceso de marketing de correo sea más simple. Asegura que tu campaña esté organizada y funcionando, y permanece
+en segundo plano para que puedas enfocarte en otras tareas. La automatización impactó en nuestra vida de muchas maneras.
+Cuando conduces un auto en lugar de caminar, administras tu dinero con un software en vez de manualmente, lavas ropa en una
+máquina y no a mano, o haces cualquier otra cosa de tu vida cotidiana. La automatización simplifica la vida, es igual con el
+marketing por correo. Como especialista, debes familiarizarte con las herramientas, porque son básicas para el éxito de tu
+campaña. Esto se debe en parte a que se encargan de que tus correos electrónicos no pierdan tu toque personal. Con la
+automatización, puedes rastrear tus correos fácilmente. Y la clave para el éxito es qué tan específicos pueden ser tus
+correos. Con la automatización, puedes crear eficazmente tu lista, segmentarla, enviar correo de bienvenida y de adquisición
+a nuevos/as suscriptores/as, hacer un seguimiento con boletines informativos, correos promocionales y de retención usando
+plantillas, y seguir las interacciones y el comportamiento de cada suscriptor/a. Y según la herramienta que use tu
+organización, todas esas capacidades, acciones, ideas y más estarán en el mismo lugar: tu herramienta de automatización. Más
+adelante, aprenderás sobre herramientas de automatización específicas como Hubspot, Mailchimp y Salesforce, pero hay muchas
+más opciones para automatizar el marketing. Sin importar cuál uses, todas las herramientas son importantes y te ayudarán en
+tu marketing por correo electrónico.
+
+#### Cómo elegir una herramienta de marketing por correo electrónico
+
+Como en otros trabajos, en el marketing por correo hay desafíos que resolver. ¿Qué plantillas usar para tu campaña? ¿Qué
+diseño? ¿Qué tono usar en los correos electrónicos? ¿Cómo tratar cada aspecto de tu campaña de marketing por correo, enviar
+un gran volumen de correos y dar seguimiento a todo? Por suerte, hay herramientas que agilizan el proceso. Herramientas de
+automatización como HubSpot, Mailchimp y Salesforce son opciones para enviar correos. Aunque aún debes profundizar en el
+proceso de automatización, estas herramientas harán mucho por ti manteniéndose en segundo plano, y te permitirán
+concentrarte en otros aspectos, como la planificación y los textos publicitarios. En este video, verás una introducción a
+algunas herramientas líderes en la industria. Hablaré de HubSpot, Mailchimp y Salesforce Marketing Cloud. Vamos. HubSpot es
+una de las herramientas más comunes para la automatización debido a su versión sin costo que ofrece funciones robustas. A
+través de la personalización, puedes ofrecer diferentes experiencias con base en tu cliente tipo y público clave. Al ser
+personalizable, HubSpot permite pruebas A/B efectivas y marketing por correo electrónico, invaluables al momento de
+descubrir con qué correos electrónicos interactúan los/las clientes. Otra herramienta de automatización es Mailchimp por su
+interfaz de usuario y editor de plantillas de correo, hace de la automatización un proceso eficaz. Sus herramientas incluyen
+recorridos preconstruidos, que ofrecen flujos de trabajo personalizables para los casos más comunes de automatización.
+Salesforce Marketing Cloud es líder en la industria de muchas maneras. Cuando se trata de automatización, la plataforma
+Salesforce es elegida porque ofrece una personalización avanzada. Es un poco más compleja que las demás, pero tiene más
+capacidades como la personalización de la interfaz. Esta es una mirada general de algunas herramientas de automatización de
+marketing de correo electrónico. Profundizaremos en las siguientes lecturas. Espero que ya tengas las bases para entender
+los pros y los contras de cada una. Y si te unes a un organización que usa una herramienta que no conozcas, no te preocupes,
+podrás aplicar lo que aprendas aquí en muchas otras herramientas de automatización. La forma en que funcionan y el desempeño
+son similares. Solo debes conocer sus funciones específicas, y puedes hacerlo visitando sus sitios web.
+
+#### Enviar correos electrónicos en HubSpot
+
+Esta lectura proporciona una comprensión general sobre cómo elaborar un correo electrónico en una herramienta de marketing
+digital líder. Su objetivo no es guiarte hasta crear una  campaña de marketing por correo electrónico, sino brindarte una
+descripción general de la herramienta. En la parte inferior de esta lectura, hay enlaces a recursos donde podrás obtener más
+información sobre ella.
+
+**Funciones de HubSpot:**
+
+HubSpot permite administrar toda la actividad de marketing en un solo lugar. Puedes usar HubSpot para numerosas tareas de
+marketing por correo electrónico.
+
+La siguiente imagen ilustra los pasos a seguir para crear una campaña de marketing por correo electrónico con HubSpot. En
+primer lugar, estableces un objetivo para tu negocio. A continuación, debes gestionar tu base de datos de contactos y
+segmentarla. Luego, creas correos electrónicos personalizados y específicos y decides cuándo cada persona debe recibirlos,
+seleccionando el tiempo de espera entre cada correo. Después, pruebas tus correos y analizas el rendimiento.
+
+![alt text](image-89.png)
+
+HubSpot ofrece sus herramientas de marketing por correo electrónico sin costo alguno. Crea una cuenta y comienza a
+investigar. Luego, sigue leyendo para aprender a crear un correo electrónico en HubSpot.
+
+**Redacción de un correo electrónico:**
+
+Crear un correo electrónico que atraiga a tus suscriptores/as es una parte importante de una campaña exitosa. Herramientas
+como HubSpot ayudan a facilitar ese proceso. A continuación, aprenderás sobre las funciones de HubSpot que pueden ayudarte a
+redactar un correo electrónico efectivo.
+
+Creación del correo electrónico
+
+Una vez que hayas creado una cuenta en HubSpot y hayas iniciado sesión, ve a Marketing > Correo electrónico.
+
+![alt text](image-90.png)
+
+A continuación, haz clic en Crear correo electrónico y selecciona una plantilla. El uso de una plantilla te permite tener un
+aspecto uniforme y un diseño profesional en cada uno de tus correos electrónicos. Si optas por usar una plantilla, puedes
+personalizarla agregando elementos desde el panel Contenido en el lado izquierdo de la página. Arrastra y suelta imágenes,
+botones, íconos de redes sociales, texto, videos y más.
+
+![alt text](image-91.png)
+
+Una vez colocados en la herramienta de editor, cada elemento puede personalizarse y adaptarse para que se vea como tú
+quieras. Para mover elementos después de que se hayan colocado en el panel, desplaza el cursor sobre ellos y haz clic en el
+borde azul. Luego, arrástralos a nuevas posiciones.
+
+Prueba y explora estas funciones para comprender los elementos personalizables. Por ejemplo, si quieres agregar un botón que
+dice “Comprar ahora”, puedes ajustar el texto publicitario, la longitud del botón, el espacio alrededor del botón y mucho
+más.
+
+![alt text](image-92.png)
+
+A continuación, haz clic en el panel Diseño y cambia los esquemas de color, las fuentes, los encabezados, el espaciado y
+otros elementos. Para que aparezca el panel Configuración de sección, haz clic en el área gris que se encuentra justo fuera
+del contenido del correo electrónico. Esto te permitirá agregar varias columnas y personalizar el espaciado y los patrones
+para esa sección del correo electrónico.
+
+Mientras que varios elementos se personalizan en el panel izquierdo, el texto se puede personalizar a través de la barra de
+herramientas en la parte superior de la página.
+
+Para deshacer cualquier error que hayas cometido, usa el ícono de deshacer en la esquina superior izquierda del editor de
+correo electrónico.
+
+Para leer sobre personalización, edición de pies de página de correo electrónico, configuración avanzada y más,
+<https://knowledge.hubspot.com/email/create-marketing-emails-in-the-drag-and-drop-email-editor>
+
+**Vista previa y envío del correo electrónico:**
+
+Antes de enviar el correo electrónico, obtén una vista previa haciendo clic en el menú desplegable Acciones y selecciona
+Vista previa. En la pestaña Dispositivos, puedes obtener una vista previa del correo electrónico en dispositivos móviles y
+de escritorio. Incluso puedes optar por verlo como lo haría cada contacto. Para ello, haz clic en el menú desplegable Vista
+previa como contacto específico.
+
+Para leer más acerca del envío de correos electrónicos de prueba y la configuración de pruebas A/B, visita
+<https://knowledge.hubspot.com/email/run-an-a/b-test-on-your-marketing-email> Una vez que hayas probado tu correo
+electrónico, estará todo listo para enviarlo. En la parte superior de la pantalla, haz clic en el botón Enviar o programar.
+Haz clic en el menú desplegable “Enviar a” y agrega las listas a las que quieras enviarlo. Para asegurarte de excluir a las
+personas a las que no quieres que se les envíe el correo electrónico, agrégalas en el menú desplegable “No enviar a”.
+
+Puedes enviar tu correo electrónico en el momento, o bien programarlo para más tarde.
+
+#### Actividad: crear un correo electrónico en HubSpot
+
+#### Enviar correos electrónicos en Mailchimp
+
+#### Actividad: Opcional - Configura una campaña en Mailchimp
 
 ### Errores del marketing por correo electrónico
 
