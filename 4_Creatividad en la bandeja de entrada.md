@@ -3022,4 +3022,136 @@ correo electrónico con más anticipación.
 
 ### Revisión: Ejecuta tu propia campaña de marketing por correo electrónico
 
+Términos y definiciones del curso 4, semana 5
+
+A
+
+Accesibilidad: Tener en cuenta las diferentes necesidades cuando se crean o modifican productos, servicios o instalaciones, de modo que puedan ser utilizados por cualquier persona, tenga o no una discapacidad.  
+
+Análisis FODA: Auditoría que identifica las fortalezas, debilidades, oportunidades y amenazas de un negocio o proyecto.
+
+Análisis PESTEL: Auditoría que identifica los factores políticos, económicos, sociales, tecnológicos, ecológicos y legales que pueden afectar una estrategia de marketing.
+
+Anuncios en redes sociales: Anuncios pagados en plataformas de redes sociales dirigidos a usuarios/as de redes sociales.
+
+Aplicación de ampliación de pantalla: Tecnología que ayuda a ver el contenido más fácilmente al ampliar el texto y las imágenes en una pantalla de computadora o dispositivo digital.
+
+Asunto: El primer texto que los/las destinatarios/as ven después del nombre del remitente cuando un correo electrónico llega a su bandeja de entrada.
+
+Automatización de marketing: Práctica de usar software, programas y tecnología para automatizar tareas de marketing.
+
+Aviso del sitio web: Banner digital que invita a quienes visitan un sitio web a realizar cierta acción.
+
+B
+
+Boletín informativo: Correo electrónico enviado a un grupo de suscriptores/as de forma regular, que contiene noticias y contenido informativo relevante para la empresa y de interés para la audiencia.
+
+C
+
+Control de calidad: Proceso a través del cual una empresa busca garantizar que la calidad del producto se mantenga o mejore.
+
+Correo electrónico de adquisición: Correo electrónico enviado para conseguir nuevos/as clientes.
+
+Correo electrónico de bienvenida: Correo electrónico enviado a nuevos/as clientes o suscriptores/as.
+
+Correo electrónico de retención: Correo electrónico enviado a un/a cliente actual con la intención de mantener la relación comercial.
+
+Correo electrónico promocional: Correo electrónico enviado para informar a los/as suscriptores/as acerca de productos o servicios nuevos o existentes.
+
+Cuerpo del correo electrónico: Texto en el contenido principal de un correo electrónico.
+
+D
+
+Datos de comportamiento: Información sobre las acciones que toma o no una persona al comprar en un sitio web.
+
+Datos demográficos: Información específica del/la cliente, como edad, identidad de género, ingresos, tamaño de la familia, ocupación, nivel de educación y ubicación.
+
+Datos psicográficos: Información basada en las actividades, intereses y opiniones de las personas.
+
+Datos: Una colección de hechos o información.
+
+E
+
+Enlace roto: Enlace que conduce a una página web que ya no existe.
+
+Estrategia de marketing por correo electrónico: Conjunto de procedimientos que un/a anunciante identifica y sigue para lograr sus objetivos de marketing a través de la publicidad por correo electrónico.
+
+Etiqueta de combinación (merge tag) : (consultar etiqueta de personalización).
+
+Etiqueta de personalización: Código que permite insertar datos de usuarios/as únicos/as en los correos electrónicos.
+
+G
+
+Generación de leads: Práctica de recopilar la dirección de correo electrónico de un/a cliente potencial.
+
+I
+
+Indicador clave de rendimiento (Key Performance Indicator, KPI): Medida que se usa para analizar el éxito de una empresa, en su esfuerzo por alcanzar un objetivo de negocio o marketing.
+
+Informe de marketing por correo electrónico: Colección de KPIs presentados al equipo y a las partes interesadas para informarles sobre el progreso de una campaña.
+
+Insight: Información que se descubre a través de la investigación o el análisis de datos y sobre la que se puede actuar en beneficio de una estrategia de marketing.
+
+L
+
+Lector de pantalla: Aplicación que convierte texto, botones, imágenes y otros elementos de la pantalla en voz o Braille.
+
+Llamada a la acción (Call to action o CTA): Estímulo que busca inducir a las/los clientes sobre qué hacer a continuación.
+
+M
+
+Marketing de motores de búsqueda (SEM): Consiste en generar tráfico a un sitio web a través de anuncios de pago que aparecen en los resultados de los buscadores.
+
+Marketing por correo electrónico: Proceso de enviar mensajes a una lista de suscriptores/as existentes para compartir información, impulsar las ventas o crear una comunidad.
+
+Métricas: Mediciones cuantificables que se utilizan para rastrear y evaluar un objetivo de negocio.
+
+P
+
+Parte interesada: Alguien con un interés o una preocupación por un proyecto y sus resultados.
+
+Proveedor de marketing por correo electrónico: Empresa que ofrece servicios de marketing por correo electrónico o de correo electrónico masivo.
+
+Prueba A/B: Método de prueba en el que se comparan dos versiones de contenido con una sola variable diferente para determinar cuál produce mejores resultados.
+
+R
+
+Red de Display de Google: Grupo de sitios web, videos y apps donde pueden aparecer anuncios.
+
+Referencia de clientes: Iniciativa boca a boca que alienta a las personas  a presentar a sus familiares, amistades y contactos para que se conviertan en clientes
+
+Retorno de la inversión (ROI): Relación entre los ingresos netos (dinero ganado) y la inversión (dinero gastado).
+
+S
+
+Segmentación: Práctica de dividir una lista de suscriptores/as de correo electrónico en grupos más pequeños según criterios como intereses, ubicación o historial de compras.
+
+SMART: Método de definición de objetivos que puede ayudar a establecer y medir el éxito de los objetivos de una campaña. Es el acrónimo en inglés de “specific” (específico), “measurable” (medible), “attainable” (alcanzable), “relevant” (relevante) y “time-bound” (de duración limitada).
+
+Spam: Correo basura no solicitado y no deseado enviado en bloque a una lista amplia de destinatarios.
+
+T
+
+Tasa de apertura: El porcentaje de usuarios/as o clientes que abren un correo electrónico.
+
+Tasa de baja de suscripción: Porcentaje de destinatarios/as de correo electrónico que se dan de baja de una lista de envío después de abrir un correo electrónico.
+
+Tasa de clics por apertura: Porcentaje de destinatarios/as de correo electrónico que hicieron clic en uno o más enlaces en un correo electrónico.
+
+Tasa de conversión: Porcentaje de usuarios/as o visitantes del sitio web que completaron una acción deseada, como hacer clic en el enlace en un correo electrónico o comprar un producto.
+
+Tasa de crecimiento de la lista: Tasa a la que crece una lista de suscriptores/as de correo electrónico.
+
+Tasa de quejas: Porcentaje de quejas que las/los destinatarios envían a los proveedores de correo electrónico por haber recibido un correo electrónico.
+
+Tasa de rebote de correo electrónico: Porcentaje de correos electrónicos enviados que no ingresaron en la bandeja de entrada.
+
+Tasa de reenvío: Porcentaje de personas que hacen clic en el botón “compartir” para publicar en redes sociales o que hacen clic en el botón “reenviar” para enviar a otras.
+
+Texto alternativo: Breve descripción escrita de una imagen con el propósito principal de ayudar a las personas con discapacidad visual.
+
+Texto de correo electrónico (copy de correo electrónico): Texto en el asunto, texto de vista previa y correo electrónico.
+
+Texto de vista previa: Texto junto a la línea de asunto de un correo electrónico en la bandeja de entrada que proporciona información adicional sobre lo que hay dentro del correo electrónico.
+
 ### Revisión del curso: Creatividad en la bandeja de entrada: marketing por correo electrónico
