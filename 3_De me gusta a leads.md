@@ -2787,4 +2787,10 @@ Voz de la marca: Personalidad distintiva que adquiere una marca en sus comunicac
 
 ## Analítica e informes de redes sociales
 
+### Analítica de redes sociales
+
+### Informes de marketing en redes sociales
+
+### Revisión: Analítica e informes de redes sociales
+
 ## Redes sociales de pago
