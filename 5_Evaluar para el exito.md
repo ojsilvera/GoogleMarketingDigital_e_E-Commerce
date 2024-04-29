@@ -40,9 +40,98 @@ saber más.
 
 #### Planificación de medios y objetivos de rendimiento
 
+Hola, es genial verte aquí para aprender. Aprender nuevas habilidades es como un proyecto de construcción: se hace un
+progreso continuo al construir un edificio alto. Aprenderás sobre planificación de medios y objetivos de rendimiento. Al
+construir, los planos ayudan a ver el edificio antes de empezar la obra. En marketing, la planificación de medios explica
+una campaña antes de ejecutarla. Los planos arquitectónicos presentan dimensiones como alto y ancho que se utilizan al
+construir; los planos de medios requieren valores, como número de clics e impresiones, que deben alcanzarse al ejecutar la
+campaña. El número de impresiones indica las veces que se muestra un anuncio; el número de clics mide las respuestas. Estos
+son objetivos de rendimiento. Los objetivos de rendimiento tienen un valor numérico medible. Pueden aplicarse a objetivos de
+marketing o campañas específicas en una planificación de medios. En esos casos, suelen llamarse objetivos de marketing. Un
+ejemplo del poder de la planificación de medios con un objetivo de marketing claro: Google tenía como objetivo llegar al
+público negro y latino de Estados Unidos. Su planificación de medios requería destinar 15% del presupuesto a medios
+culturales. Ese fue el objetivo de rendimiento, que generó campañas más inclusivas. Una campaña se dirigió a eventos con
+gran audiencia entre el público negro. La defensa de marca aumentó en un 13% entre adultos negros de 35 a 49 años. Otra
+campaña para patrocinar los Grammy Latinos generó un aumento del 14% en adultos de habla hispana de 18 a 49 años, que podían
+considerar comprar un teléfono Pixel 5. El plan fue el inicio para lograr estos resultados. En thinkwithgoogle.com puedes
+leer el artículo completo llamado Inside Google Marketing: Our Approach to Inclusive Media Planning and Buying. Hablemos de
+objetivos de rendimiento de campañas específicas. El más importante de una campaña es el retorno de la inversión
+publicitaria (ROAS). El ROAS es la relación entre los ingresos generados y el gasto en publicidad. Es un objetivo de
+rendimiento que está en la planificación de medios. Ya sabes por qué la planificación de medios es importante para una
+campaña exitosa, ahora elegirás los medios según el presupuesto y objetivo de rendimiento. Para obtener mejores resultados,
+crea un plan de medios y tendrás además conocimientos y habilidades.
+
 #### ¿Qué es la planificación de medios?
 
+Aquí verás más sobre las planificaciones de medios. Pero antes debes saber qué contienen. Un plan de medios contiene
+detalles sobre dónde, cuándo y con qué frecuencia aparecerá un anuncio en los diferentes canales, como radio, televisión,
+periódicos, revistas, búsqueda pagada y redes sociales. Como este programa es para marketing digital, tu planificación de
+medios se enfocará en medios digitales. Para recordarlo, las llamaremos planificaciones de medios digitales. Al crear una
+planificación de medios digitales, debes considerar el público objetivo. Pregúntate: ¿A quién debo llegar? Considera también
+cuánto puedes gastar o cuál es el presupuesto, cuánto se destina a qué medios, o el mix de medios, y la duración de la
+campaña. Finalmente, averigua cuáles son los indicadores clave de rendimiento (KPI), los objetivos de rendimiento y las
+métricas que usarás para medir el rendimiento deseado. Repasemos las definiciones de objetivos de negocio y marketing y KPI,
+ya que son la base. Un objetivo de negocio es una meta, logro o resultado que se desea. Por ejemplo: aumentar ingresos o
+ganancias, ganar cuota de mercado y mejorar el servicio al cliente. Un objetivo de marketing es una meta del plan o
+estrategia de marketing que apoya un objetivo de negocio. Por ejemplo: aumentar el reconocimiento de marca y el tráfico
+hacia el sitio web, generar leads y aumentar el valor del cliente. Un indicador clave de rendimiento (KPI) sirve para
+evaluar cuán exitoso es un negocio en sus esfuerzos por alcanzar un objetivo de negocio o marketing. Como los KPI son
+numéricos, se usan como metas de rendimiento para los objetivos de marketing. Pero, como no son suficientemente específicos
+para campañas individuales, es probable que debas crear un objetivo de rendimiento más para cada campaña. Estos objetivos de
+campaña se incluyen en la planificación de medios digitales. Al crear objetivos de rendimiento para campañas, considera
+medir el rendimiento a nivel de marketing general. Si están bien alineados, los objetivos de rendimiento de la campaña
+deberían coincidir con una meta de marketing e incluso con una meta de negocio relevante. El retorno de la inversión
+publicitaria (ROAS) es un objetivo de rendimiento que suele estar en la planificación de medios digitales. Veamos un
+ejemplo. Si el objetivo de negocio de hacer crecer los ingresos es prioritario, la empresa puede aprobar planes para
+aumentar estos ingresos. Un objetivo de marketing que apoye esta meta de negocio podría ser un esfuerzo de marketing
+específico a través de un mix de medios. Aquí puede fijarse un objetivo de rendimiento de ROAS. Si estás trabajando en tres
+campañas de publicidad digital, podrías establecer una meta de rendimiento para cada campaña. Al monitorear el ROAS de cada
+canal, tus mediciones ayudarán a lograr el ROAS establecido para el esfuerzo de marketing en general. Hasta ahora, hemos
+hablado del ROAS como un número sin ningún valor asignado. Te explico cómo calcular el ROAS. Pondré un ejemplo simple de un
+negocio que vende un solo producto. El ROAS sería el número de productos vendidos por el costo por unidad, dividido por la
+inversión publicitaria. Si cuesta US$80 de publicidad para vender US$100 de producto, el ROAS es 3.75. Por cada dólar
+gastado en publicidad, la ganancia es de $3.75. El ROAS se informa como una proporción. En este caso, el ROAS es de 3.75:1.
+También puede presentarse como porcentaje. En este caso, es del 375%. En resumen, el ROAS puede expresarse como número,
+proporción o porcentaje. Agreguemos números al ejemplo anterior. Si el objetivo de negocio es aumentar los ingresos en un
+10% y el ROAS del objetivo de marketing es de 5:1, puedes asignar metas de ROAS individuales a cada canal. Por ejemplo,
+empieza con un ROAS de 3:1 para anuncios de búsqueda, ROAS de 4:1 para anuncios de display, y un ROAS de 2:1 para anuncios
+en redes sociales. Se usan los resultados de campañas anteriores para fijar metas de ROAS de nuevas campañas. Es común fijar
+el mismo ROAS o uno ligeramente inferior al valor logrado en campañas anteriores. Si no hay datos históricos, puedes hacer
+una estimación y ajustar los objetivos después de ver las métricas iniciales de la campaña. Se permiten cambios dinámicos.
+La relación entre métricas de rendimiento y objetivos de marketing muestra la importancia de los objetivos de rendimiento en
+la planificación de medios. El camino entre ellos debería estar claramente delineado. En el ejemplo, los objetivos
+individuales de ROAS funcionarían juntos para lograr un ROAS general de 5:1. Más tarde podrás practicar crear una
+planificación de medios digitales que con público objetivo, presupuesto, mix de marketing, duración, KPI y objetivos de
+rendimiento.
+
 #### Michael - Comprender a través del análisis y la medición
+
+Me llamo Michael, soy Ejecutivo de Cuentas Senior en Google en nuestro comercio electrónico y director del equipo de
+consumidores. Y mi función se diseñó para asociarnos con ejecutivos del nivel C que trabajan en su comercio electrónico y
+estrategia de marketing digital. Encontré mi camino en el marketing digital y tuve la oportunidad de trabajar con pequeñas y
+medianas empresas, especialmente cuando yo era un estudiante de pregrado en la universidad de Nueva Orleans. En mi último
+año, me preguntaba qué haría después de la universidad y recuerdo que, en una clase de negocios, nuestro profesor señaló que
+había una pasantía en Google que sería en la ciudad. Así es como nos lo plantearon. Me pareció una oportunidad increíble y
+me inscribí y tuve la suerte de trabajar con pequeñas y medianas empresas y ayudarlas a incorporarse. En especial, en la
+configuración de Gmail, además de nuestras soluciones gratuitas, y tener la oportunidad de ver un mundo nuevo para estas
+empresas fue revelador y sorprendente, en particular porque fue unos años después de Katrina. Así que ver a estas empresas
+encontrar una voz en línea con la cual pudieran contar su historia al mundo fue gratificante para mí, algo a lo que me
+aferré de inmediato y me di cuenta de que este sería el camino a seguir en el futuro. Mi especie de lema es "escucha". Se
+trata de escuchar y hacer preguntas más profundas, impactantes, reflexivas en lugar de profundizar o ir directamente a
+vender. Sucede muy rápido. Se lo digo a los/las colegas todo el tiempo. A menudo me cuesta creer que hayan pasado casi nueve
+años, pero cuando comencé en Google como asociado de estrategia de cuentas, tuve la oportunidad, que ya es mucho, de
+comenzar desde cero. Tuve suerte de trabajar con negocios y dueños/as que eran nuevos/as en Google y, en especial, nuevos/as
+en usar Google Ads y nuestras soluciones de marketing digital. Fue una experiencia increíble porque pude apreciar lo
+importante que era el dinero que los/las dueños/as de estos negocios aportaban a Google. Para un/a dueño/a que gastaba US$5
+al día con nosotros, eso significaba tanto o más que lo que significaba para algunas de las empresas que gastaban más de
+5000. En este curso, aprenderás sobre medición de marketing y analítica y puede ser bastante desalentador al principio. Sé
+que dudé de mí mismo cuando comencé a aprender más acerca de este tema, pero es muy importante y y algo que, sin duda,
+usarás a diario en tu trabajo. Una de las partes más valiosas del marketing digital y del comercio electrónico es comprender
+realmente los números y poder identificar lo que ayuda a que tu negocio crezca. Eso va a venir del poder mirar las
+analíticas, específicamente las de Google Analytics, comprendiendo su estrategia de medición a medida que más
+consumidores/as compran en línea y pasan por diferentes puntos de contacto en su recorrido general como consumidores/as. Ser
+capaz de utilizar y tener una estrategia clave como la analítica o la medición, te ayudará a avanzar y comprender a tu
+consumidor/a en general y a saber cómo está llegando a tu negocio y a comprar en él.
 
 #### Pasos a seguir en la planificación de medios
 
