@@ -3591,6 +3591,255 @@ cinco y siete palabras, como máximo)
 
 ### Cómo gestionar un presupuesto de publicidad en redes sociales
 
+#### Componentes de un presupuesto de redes sociales de pago
+
+Los objetivos que fijaste en tu estrategia de redes sociales de pago, como generar reconocimiento de marca o ganar más
+seguidores, te ayudarán a armar tu presupuesto. Cuando sabes lo que quieres, puedes definir la financiación que necesitas
+para lograrlo. Cuando recién comienzas en el marketing digital, quizás no seas quien decida sobre el presupuesto para las
+redes sociales. Aun así, es bueno entender qué componentes se incluyen en un presupuesto de redes sociales de pago. Esto
+puede ayudarte a considerar cómo asignar mejor los recursos al trabajar en tus campañas. El presupuesto publicitario para
+las redes sociales variará según cada empresa. En general, los ingresos anuales determinan los presupuestos de redes
+sociales de pago de las empresas. Según una encuesta realizada por Gartner, las empresas gastan, en promedio, entre el 10% y
+13% de sus ingresos anuales en marketing. Y cerca del 25% del presupuesto va a los medios de pago, como Search y redes
+sociales. Tu empresa puede invertir más o menos en las redes sociales, según el rendimiento de la última inversión en las
+redes sociales y otros canales de marketing. Hablemos de lo que generalmente está incluido dentro de un presupuesto de redes
+sociales de pago. Primero, está tu inversión publicitaria. Esto representa cuánto gasta tu empresa directamente en
+publicidad. Es lo que pagas en plataformas como Twitter, Facebook, Instagram o LinkedIn para publicar tus anuncios. También
+incluye lo que le pagas a influencers para que promocionen tu contenido. Aun así, tu inversión es solo una parte de todo tu
+presupuesto de redes sociales de pago. También están los gastos asociados a las herramientas y tecnologías necesarias para
+lanzar, gestionar y optimizar tu campaña publicitaria en las redes sociales. Las herramientas en las que podrías invertir
+incluyen software de gestión de redes sociales, escucha social y software de estadísticas, programas de edición de fotos y
+videos, suscripciones de videos e imágenes de archivo, y plataformas de marketing para influencers. Esta última es un
+software que proporciona herramientas para descubrir influencers como grandes bases de datos de búsqueda de influencers
+potenciales. También es útil experimentar con herramientas gratuitas antes de invertir en las de pago. Incluso si no planeas
+gastar dinero en ellas, es bueno apartar algo del presupuesto para gastos inesperados. Al considerar los costos de las redes
+sociales de pago, también deberás pensar en cómo crearás el contenido. Incluso si estás gestionando parte del desarrollo del
+contenido internamente, quizás aún tengas que pagar por cosas como fotografías, diseño gráfico, desarrollo de videos (con
+los costos de talentos y producción incluidos), y redacción. Luego está el costo de la gestión. Las tareas de gestión
+incluyen estrategia, planificación y publicación de contenidos, escucha social, interacción, informes y estadísticas. En
+algunos casos, una empresa puede asociarse con una agencia de marketing digital para que colabore con estas tareas. Recuerda
+que, aunque muchas de estas tareas las puede realizar tu equipo interno, puede haber costos asociados que se apliquen a tu
+presupuesto publicitario para las redes sociales. Los presupuestos para las redes sociales de pago generalmente incluyen el
+gasto publicitario y también el costo de las herramientas, la creación de contenido, y los gastos de gestión. Cuando tengas
+claro qué debe incluirse en un presupuesto de redes sociales de pago, podrás tomar decisiones que te permitirán ampliar ese
+presupuesto. A continuación, veremos cómo funciona la puja en los anuncios en redes sociales.
+
+#### El costo de la publicidad en redes sociales
+
+Una vez que defines el presupuesto para una campaña publicitaria en las redes sociales, puedes determinar cuánto dinero
+ofertar por un anuncio de esa campaña. Como ya lo analizamos, la mayoría de los anuncios en redes se venden con un formato
+de subasta. Debes establecer una puja máxima para un resultado específico, como un clic o una cantidad de impresiones, o un
+presupuesto máximo por día. El resultado de la subasta le dice a la plataforma cuánto pagarás para que tu anuncio sea
+mostrado a tu público objetivo. Cuando creas una campaña en una plataforma determinada, seleccionarás una estrategia de
+puja. La estrategia de puja determina cuánto pagarás por cada acción relacionada con tu anuncio. Tu estrategia de puja
+dependerá del objetivo de tu campaña publicitaria, tu presupuesto y otros factores como la investigación de mercado. Existen
+docenas de estrategias de puja para anuncios en las redes, que varían según cada plataforma. Aquí veremos algunas de las más
+comunes, cómo funcionan y sus ventajas. CPC, o costo por clic, es la cantidad de dinero que pagas cuando alguien hace clic
+en tu anuncio. Un clic significa que alguien leyó tu anuncio, lo consideró interesante, e hizo clic para obtener más
+información. Una de las principales ventajas del costo por clic es que es rentable. Pagas sólo cuando alguien hace clic en
+tu anuncio o enlace. El CPC es una gran estrategia cuando quieres dirigir el tráfico a tu sitio web. Luego, está el CPA, o
+costo por acción. Es el monto que pagas cuando alguien completa una acción deseada. También se conoce a veces como costo por
+adquisición. Con CPA, el enfoque está puesto en lo que alguien hace después de hacer clic en tu anuncio, como registrarse a
+un boletín informativo, mirar un video, pedir que lo llamen por teléfono, hacer una compra, o realizar otra acción
+específica. Pagas cada vez que se completa una acción. A diferencia de otros métodos de marketing en los que pagas por
+anuncios sin asegurarte las ventas, el CPA no cuesta nada por adelantado. Tus anuncios se mostrarán, sin importar tu puja de
+CPA, y solo pagarás cuando alguien complete una acción específica. La plataforma le mostrará tus anuncios a la gente con
+mayor probabilidad de completar la acción establecida. CPA es una estrategia ideal si tus principales objetivos son aumentar
+las conversiones y generar ingresos. CPA también te permite comparar el rendimiento de tu anuncio en las distintas
+plataformas. Y luego está el CPM, o costo por cada mil impresiones, que es el monto que pagas por cada mil impresiones que
+recibe un anuncio. Recordemos que una impresión es cuando se muestra una parte de tu contenido a tu público objetivo. El CPM
+te cobra cada vez que tu anuncio se ve 1000 veces. CPM es ideal para campañas de redes sociales que se enfocan en aumentar
+el reconocimiento de marca, enviar mensajes específicos, y aumentar la interacción. Cuando quieres maximizar tu visibilidad,
+los porcentajes de clics y las tasas de conversión no importan. Al igual que con muchas otras decisiones estratégicas que
+tomarás con respecto a tus campañas de marketing en redes sociales, tu elección de estrategia de puja dependerá de tus
+objetivos. Afortunadamente, cuando creas tu anuncio, la mayoría de las plataformas te darán una oferta recomendada basada en
+el objetivo que planteaste. Y al analizar los datos relacionados al rendimiento del anuncio específico, podrás adaptar tus
+estrategias de puja en campañas futuras. Ya casi terminas esta sección. En breve, repasaremos lo aprendido sobre las
+campañas de redes sociales de pago.
+
+#### Puja por anuncios en redes sociales
+
+En el video sobre los costos de publicidad en las redes sociales de este curso, se presentaron las estrategias de puja. En esta lectura se describe además el proceso de subasta de anuncios, los términos relacionados con las subastas y las estrategias de puja.
+
+**Cómo funcionan las subastas de anuncios en las plataformas de redes sociales**
+Cuando publiques un anuncio en una plataforma de redes sociales, tienes que contar con un presupuesto, un mercado objetivo y una estrategia de puja. Las plataformas de redes sociales determinan qué anuncios publicar en función de una subasta de anuncios interna, que es el proceso de puja que las marcas anunciantes utilizan para comprar anuncios. Tu estrategia de puja determina cuánto estás dispuesto a pagar por los resultados que deseas de tus anuncios. Antes de pujar, investiga los puntos de referencia y costos promedio de publicidad en redes sociales. Es importante también prestar atención a los datos de la categoría empresarial en la que te encuentras y las plataformas que quieres utilizar. Esto puede ayudarte a posicionar tus pujas en un rango apropiado para comenzar a competir por tus anuncios. Quizás pienses que la puja más alta en una subasta de anuncios siempre gana; sin embargo, las plataformas de redes sociales también tienen algoritmos que tienen en cuenta la relevancia, la calidad y el potencial de interacción de las personas con un anuncio al momento de decidir quién “gana” una subasta. Las pujas para la publicación de anuncios son competitivas cuando se toma en consideración el rendimiento potencial de un anuncio durante la selección. Las pujas se comparan con las señales del público que ayudan a predecir la tasa de interacción para cada anuncio.
+
+**Terminología relacionada con la subasta de anuncios**
+Esta es una lista de términos que puedes encontrar con sus definiciones:
+
+Puja automática basada en la inversión: Establece un presupuesto diario para maximizar tu objetivo publicitario.
+
+Puja automática basada en objetivos: Establece un retorno de la inversión publicitaria (ROAS) o un costo por acción para maximizar tu objetivo publicitario con una eficacia determinada.
+
+Puja manual: Administra las pujas en función de los criterios que selecciones.
+
+Segmentación demográfica: Mostrar un anuncio con base en la información de las personas, como por ejemplo, la edad.
+
+Segmentación por ubicación: Mostrar un anuncio basado en la ubicación de los y las usuarios/as.
+
+Segmentación por intereses: Mostrar un anuncio basado en las preferencias de los y las usuarios/as.
+
+Puja máxima: El monto máximo por el que estás dispuesto a pujar en una plataforma, también conocido como límite máximo.
+
+Puja mínima: El monto más bajo por el que puedes pujar en una plataforma, también conocido como límite.
+
+Puja sugerida:  Es un rango de puja recomendado para la puja manual.
+
+Modificación de la puja: Ofrecer un porcentaje mayor o menor con respecto a tu puja inicial.
+
+**Estrategias de puja comunes**
+Repasa las definiciones de cuatro estrategias de puja comunes.
+
+*Costo por clic (CPC)*
+Con el costo por clic, debes pagar cuando alguien hace clic en tu anuncio. Por lo general, las pujas de CPC tienen un monto máximo que establece un monto máximo que se puede cobrar por cada clic.
+
+*Costo por acción (CPA)*
+Con el costo por acción, debes pagar cuando alguien realiza una acción a raíz del anuncio. Por ejemplo, alguien podría solicitar un presupuesto, unirse como miembro, proporcionar su información de contacto o realizar una compra. Para que esta estrategia de puja funcione, también debes implementar un seguimiento de conversiones en el sitio web donde se llevan a cabo las acciones de los y las usuarios/as.
+
+Nota: Los términos costo por acción y costo por adquisición (ambos abreviados como CPA) se usan de forma indistinta, pero no significan lo mismo. El costo por adquisición es el costo basado solo en las conversiones y no toma en consideración a todas las demás acciones que no se hayan definido como una conversión. Una conversión no se limita a una compra, sino que puede ser cualquier acción que el anunciante haya definido como tal. El costo por adquisición también es diferente al costo de adquisición de clientes (CAC), que es el costo total de llevar a una persona a realizar una compra.
+
+*Costo por mil (CPM) o costo por cada 1000 impresiones*
+Con el costo por mil, lo que debes pagar se basa en la frecuencia con la que se le muestra un anuncio al público objetivo. La unidad de costo es por cada mil impresiones (vistas) de un anuncio.
+
+*Costo por vista (CPV)*
+Con CPV, solo debes pagar si un/a espectador/a reproduce un anuncio de video durante un tiempo mínimo o interactúa con él, como al hacer clic en un enlace dentro del video.
+
+**Puja en diversas plataformas**
+La disponibilidad de las estrategias de puja variará según la plataforma.
+
+Facebook ofrece pujas automatizadas, ROAS mínimo, límite de costos y límite de pujas.
+
+Twitter ofrece pujas automáticas, pujas máximas y opciones de puja objetivo.
+
+LinkedIn ofrece máxima difusión, costo objetivo y pujas manuales.
+
+YouTube ofrece maximizar conversiones, CPA objetivo, CPV máximo y pujas de CPM objetivo.
+
+**Conclusiones clave**
+A la hora de publicar anuncios en las plataformas de redes sociales, tienes que comprender y controlar tu presupuesto, el público objetivo y las estrategias de puja. Conocer a tu público objetivo te permitirá alcanzar a los y las usuarios/as más adecuados/as. Tu estrategia de puja te permitirá utilizar todo tu presupuesto para pagar por los resultados más deseables para tus anuncios.
+
+#### Sabrina: resolución de conflictos y respuesta a las críticas
+
+Hola, soy Sabrina, y soy VP y Country Manager de Google Canadá. El equipo en el que trabajo está formado por especialistas
+en marketing digital, como tú, que realmente han aprendido las habilidades del oficio y están trabajando con clientes
+canadienses para ayudarlos a que saquen el máximo provecho de sus inversiones en Google y a cumplir efectivamente con sus
+objetivos comerciales. Hay muchas cosas de este trabajo que me gustan. Creo que primero y, ante todo, siento cariño por la
+gente que trabaja conmigo. Pero creo que la segunda cosa es que esta es una industria, en la que el marketing digital, la
+tecnología, e incluso los negocios, están en constante cambio. No hay un día en el que no aprenda algo ni tampoco hay un día
+en el que sienta que no genero un impacto de cierta escala. Como especialista en marketing digital de nivel inicial vas a
+trabajar con una variedad de colaboradores/as. Vas a trabajar con personas de tu equipo, con las agencias y si estás dentro
+de una empresa de comunicación, vas a estar trabajando con clientes. Habrá malentendidos, habrá momentos que se podrían
+percibir como un conflicto. El conflicto es algo que sucede a diario. Todos estamos tratando de comunicarnos. Estamos
+tratando de hacer las cosas. A veces la comprensión de eso puede ser diferente. Existen diferentes tipos de conflictos que
+pueden experimentar las personas en el ambiente de trabajo. Creo que parte de ellos son solo por la comunicación y los
+malentendidos. Tal vez la forma de comunicarse de alguien o lo que dice no refleja su intención. Otro tipo de conflicto
+podría ser que realmente tienes diferentes ideas sobre cómo hacer algo. A veces este es un conflicto muy productivo, porque
+la tensión te ayuda a descubrir cuál es el mejor camino a seguir. Un tercer tipo de conflicto depende de las relaciones
+interpersonales, donde a veces es más una cuestión de personalidades, y eso es más complicado, sobre todo cuando conlleva
+una gran carga emotiva. Pero creo que los tres casos que acabo de describir son una oportunidad para entablar un diálogo
+honesto, son una oportunidad para basar los comentarios en la confianza. Estas interacciones siempre van a dar resultado y
+hacer que seas mejor. Hace poco, estaba en una reunión cuando vi cómo se desarrollaba una conversación, y me hizo sentir
+incómoda, y parecía como si pudiera haber algo de conflicto. Así que llamé a la persona, le pregunté: “¿Podríamos hablar
+esto a solas?” Y compartí con él mi experiencia sobre el conflicto. Hay un libro muy bueno llamado Conversaciones difíciles,
+que recuerdo haber leído hace mucho. La fórmula es: esto es lo que experimenté que sucedió. Este es el impacto que tuvo en
+mí. ¿Puedes ayudarme a entender, desde tu perspectiva, cómo lo ves tú? En este diálogo, lo que descubrí fue que la intención
+no era la misma que yo había entendido. Creo que el conflicto es siempre una oportunidad, sobre todo si te sientes mal al
+respecto. Es la ocasión perfecta para brindarle a la persona con la que estás tratando la posibilidad de tener una
+conversación abierta, para explicar lo que sentiste que sucedió e invitarla a explicar su perspectiva para encontrar una
+solución de común acuerdo. De hecho, puedes descubrir que las personas no te ven de la manera que tú crees que podrían estar
+viéndote, y te ven de una forma mucho más positiva de lo que opinas sobre ti mismo en ese momento. Conflicto, experimentar
+conflictos, conversaciones difíciles, personas que quizás las consideres difíciles, realmente son parte de la vida, y creo
+que una buena oportunidad se da cuando sientes que algo se quedó sin decir o hubo un mal entendido, es ahí cuando se crea
+una oportunidad para crear ese momento de invitar a la persona a tener una conversación basada en un diálogo abierto y de
+confianza, dentro del marco de: “Esto es lo que experimenté. Este es el impacto que tuvo sobre mí. ¿Puedes contarme tu
+perspectiva? Y luego entender cuál es el mejor camino a seguir”.
+
 ### Revisión: redes sociales de pago
 
-### Revisión del curso: De Me gusta a Leads: interactúa con tus clientes en línea
+#### Términos y definiciones del Curso 3, semana 5
+
+Audiencia (público) similar: personas con características demográficas y comportamientos similares que aún no han conocido
+una marca
+
+Audiencias personalizadas: función que permite a los y las especialistas en marketing crear campañas de remarketing
+relevantes para llegar a grupos de personas altamente específicos, mediante la carga de listas de correo electrónico de
+clientes y seguidores.
+
+Cliente tipo (customer persona): representación de un grupo de personas similares en una audiencia deseable.
+
+Contenido de marca: cualquier publicación que incluya un producto, marca o sponsor de terceros.
+
+Contenido generado por influencers: cualquier publicación creada por un influencer que promociona los productos y servicios
+de una marca.
+
+Cookie: pequeño archivo almacenado en dispositivos que rastrea el comportamiento de quienes navegan en Internet y analiza
+el tráfico.
+
+Costo por acción (Cost per action, CPA): lo que paga un anunciante digital cuando alguien completa una acción deseada.
+
+Costo por adquisición (cost per acquisition, CPA): costo promedio de adquirir un cliente potencial.
+
+Costo por mil impresiones (Cost per thousand impressions, CPM): lo que paga un anunciante por cada 1000 impresiones que
+recibe un anuncio.
+
+Costo por clic (cost per click, CPC):  lo que paga un anunciante cuando alguien hace clic en un anuncio de PPC.
+
+Costo por vista (cost per view, CPV): lo que paga un anunciante cuando una persona ve un video publicitario durante un
+tiempo mínimo o interactúa con él al hacer clic en un enlace.
+
+Creativos: cualquier contenido que se pueda promocionar en una campaña, como texto, imágenes, GIF o videos.
+
+Estrategia de puja: dice a un anunciante cuánto pagar por cada acción del usuario relacionada con un anuncio.
+
+Hashing (Generación de hashes): método de seguridad que convierte la información personal en listas de correo electrónico en
+código aleatorio.
+
+Impresión: cuando una pieza de contenido se muestra a un público objetivo.
+
+Inversión publicitaria: cuánto invierte una empresa directamente en anuncios.
+
+Modificación de la puja: ofrecer un porcentaje mayor o menor respecto de la oferta inicial.
+
+Plataforma de marketing de influencers: software que proporciona herramientas de descubrimiento de influencers, como grandes
+bases de datos de búsqueda de influencers potenciales.
+
+Prueba A/B: método de prueba donde se comparan dos versiones de contenido con una sola variable diferente para determinar
+cuál produce mejores resultados.
+
+Publicidad de pago por clic: tipo de publicidad que permite que el anunciante pague solo cuando alguien hace clic en un
+enlace de anuncio.
+
+Puja automática basada en objetivos: estrategia de puja automatizada en la que se establece un ROAS o costo por acción para
+maximizar el objetivo publicitario con una eficacia determinada.
+
+Puja automatizada basada en la inversión: estrategia de puja automatizada en la que se establece un presupuesto diario para
+maximizar un objetivo publicitario.
+
+Puja manual: administrar pujas en función de los criterios que seleccione el anunciante.
+
+Puja máxima: cantidad máxima que un anunciante está dispuesto a pujar en una plataforma. También se conoce como límite
+máximo.
+
+Puja mínima: cantidad más baja que un anunciante puede pujar en una plataforma. También se conoce como límite.
+
+Puja sugerida: rango recomendado de puja.
+
+Redes sociales de pago: mostrar anuncios pagados o mensajes de marketing patrocinados en plataformas de redes sociales para
+dirigirse a un público específico.
+
+Remarketing basado en listas: utiliza listas de clientes o visitantes que proporcionaron su dirección de correo electrónico
+para mostrarles anuncios específicos.
+
+Remarketing basado en píxeles: proceso que envía anuncios automáticamente a las personas después de colocar una cookie en su
+navegador web que rastrea las páginas que visitan y los productos que ven.
+
+Remarketing: una estrategia en la que un especialista en marketing utiliza anuncios pagados para dirigirse a los clientes
+que visitaron un sitio web, app o perfil de redes sociales.
+
+Segmentación demográfica: mostrar un anuncio basado en la información de las y los usuarios/as, como la edad.
+
+Segmentación por intereses: mostrar un anuncio basado en las preferencias de las y los usuarios/as.
+
+Segmentación por ubicación: mostrar un anuncio basado en la ubicación de las y los usuarios/as.
+
+Subasta de anuncios: proceso que determina el mejor anuncio para mostrarle a una persona en un momento determinado.
