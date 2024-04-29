@@ -2628,9 +2628,153 @@ clic en el botón “reenviar” para enviar a otras.
 
 ### Configurar una campaña de marketing por correo electrónico
 
+#### Vídeo: VídeoTe damos la bienvenida a la semana 5 curso 4
+
+¡Hola! Te doy la bienvenida a una nueva sección que será más interactiva. En las siguientes actividades, verás cómo es crear
+y ejecutar una campaña de marketing por correo electrónico. Te plantearé un escenario ficticio en el cual serás especialista
+de marketing por correo electrónico de una tienda de muebles en línea. Tendrás actividades como crear objetivos SMART, crear
+diferentes tipos de correos, segmentar listas de correo, analizar datos y métricas, y presentarles los datos a las partes
+interesadas. Algún día, tendrás que ejecutar campañas por correo electrónico, así que esta práctica te ayudará cuando te
+encuentres en tu nuevo rol como especialista en marketing. ¿Comenzamos? Nos vemos en el siguiente video.
+
+#### Vídeo: VídeoPrepara el terreno para tu campaña de marketing por correo electrónico
+
+En este video, te presentaré una empresa ficticia donde trabajarás como su nuevo/a coordinador/a de marketing por correo
+electrónico. Deberás hacer varias actividades de marketing por correo electrónico para que te sientas en total confianza con
+tus habilidades de marketing. Esto te ayudará a tener más seguridad en tu rol como especialista de marketing. Comencemos.
+“Feels Like Home” es una tienda de muebles de lujo que opera principalmente en línea, tiene una tienda física en Nueva York
+y una fábrica en Oslo, Noruega. Te acaban de contratar como su nuevo/a coordinador/a de marketing por correo electrónico, y
+tienes un equipo con otros cinco coordinadores/as. Te encargarás de la próxima campaña de correo electrónico mientras los
+demás gestionan otras tareas. “Feels Like Home” ya tiene buena presencia en línea, porque allí es de donde surgen la mayoría
+de sus pedidos. Tienen anuncios en la Red de Display de Google, en las redes sociales, y en los motores de búsqueda. Te
+contrataron porque lanzarán una nueva línea de muebles para otro tipo de público. La línea “For All” tiene muebles con
+precios mucho más bajos, pero con la misma calidad. Al lanzar esta línea, esperan dirigirse a clientes con ingresos más
+bajos y aumentar su base de clientes. “Feels Like Home” ya envía campañas de correo a su base actual de clientes. Tu
+objetivo será aprovechar esos suscriptores/as actuales y otros nuevos para promocionar la línea For All. Para que sea más
+fácil, no tendrás que crear elementos de diseño o imágenes de marca en tus correos. Tendrás plantillas para crear correos,
+segmentar listas de correo, presentar los datos a las partes interesadas y más. Considerando estos detalles, realizarás
+varias autoevaluaciones que te serán de gran ayuda. Al final, podrás reflexionar sobre tu trabajo. Solo tú verás estas
+actividades y serás responsable de dar lo mejor de ti. En cada actividad, te brindaremos los detalles necesarios para que la
+realices con seguridad. Puedes volver a ver este video si necesitas un repaso de “Feels Like Home” como empresa.
+
+#### Lectura: LecturaPrepárate para completar una campaña de marketing por correo electrónico
+
+Escenario
+
+Para esta parte del curso, deberás consultar el escenario presentado en un video anterior. Feels Like Home es una empresa
+minorista de muebles de primer nivel, con una fuerte presencia en línea, una tienda física en la ciudad de Nueva York y una
+fábrica en Oslo, Noruega. Te contrataron como la nueva persona que se ocupará de coordinar el marketing por correo
+electrónico, y tu equipo está formado por otros cinco coordinadores/as de marketing digital. Eres el responsable de la
+próxima campaña de correo electrónico, mientras que los miembros de tu equipo trabajan en otras tareas de marketing digital.
+
+Feels Like Home está lanzando una nueva línea de muebles que tendrá piezas con artesanías de calidad a un precio mucho más
+bajo que el de la competencia. Intentará dirigirse a las/los clientes que normalmente no gastan tanto dinero en muebles para
+hacer crecer su base de clientes.
+
+Durante este curso de marketing por correo electrónico, deberás aplicar los conceptos adquiridos para completar varias
+actividades. A continuación, encontrarás una breve descripción de cada una de ellas.
+
+Crear objetivos SMART
+
+Para esta actividad, deberás usar los conceptos aprendidos sobre los objetivos SMART, a fin de crear tus propios objetivos
+para la campaña Feels Like Home. Te daremos dos objetivos de ejemplo generados por el equipo de Feels Like Home que deberás
+transformar en objetivos SMART.
+
+Segmentar una lista de correo electrónico
+
+Ya has aprendido mucho sobre la segmentación de listas de correo electrónico. En esta actividad, deberás segmentar una parte
+de una lista de suscriptores/as de correo electrónico. Tus suscriptores/as han respondido a una lista de preguntas. Deberás
+utilizar esa información para segmentarlos/as en tres temas diferentes.
+
+Completar una serie de correos electrónicos
+
+En esta actividad, deberás analizar y aplicar lo que has aprendido sobre los diferentes tipos de correos electrónicos para
+completar una serie de correos que le darán la bienvenida a nuevos/as suscriptores/as a tu lista. Estarás a cargo de
+redactar un correo de bienvenida, un boletín informativo y un correo promocional, en los que deberás incluir líneas de
+asunto, el cuerpo de texto del correo y llamadas a la acción bien definidas.
+
+Analizar las métricas de la campaña de correo electrónico
+
+En la actividad sobre el análisis de métricas de la campaña de correo electrónico, deberás revisar un panel con los
+resultados de tu campaña de marketing. Luego, tendrás que responder algunas preguntas basadas en los resultados.
+
+Crear una presentación para las partes interesadas
+
+En esta actividad, que deberás presentar a las partes interesadas, utilizarás el escenario y los conocimientos incorporados
+para aprender a resumir los resultados de tu campaña utilizando la herramienta Presentaciones de Google. Te proporcionaremos
+el contenido de cada diapositiva y deberás crear notas para un/a presentador/a, que ayuden a acompañar las imágenes.
+
+Conclusiones clave
+
+Al final de este curso, habrás creado una campaña completa de marketing por correo electrónico de principio a fin. No dudes
+en consultar los videos, las lecturas y las actividades anteriores para orientarte durante este proceso.
+
 ### Objetivos SMART en campañas de marketing por correo electrónico
 
+#### Actividad de ejemplo: crear objetivos SMART para una campaña de correo electrónico
+
+Compara el ejemplo con tus objetivos SMART terminados. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo.
+¿Qué hiciste bien? ¿En qué aspectos puedes mejorar? Usa las respuestas a estas preguntas de guía a medida que avanzas en el
+curso.
+
+Nota: El ejemplo representa dos objetivos SMART posibles para el escenario de Feels Like Home. Es probable que tus objetivos
+no coincidan en todos los casos. Lo importante es que cumplan con la mayor cantidad posible de criterios SMART.
+
+Repasemos cada objetivo SMART:
+
+Objetivo SMART 1:
+
+El objetivo original indica que Feels Like Home aumentará su lista de suscriptores/as de correo electrónico a finales de
+septiembre. Sin embargo, no se indica cómo lo harán, si es posible, o por qué es importante. El objetivo SMART aborda todas
+estas preguntas, lo que aumentará las posibilidades de que Feels Like Home pueda alcanzar su objetivo:
+
+“Aumentar la lista de suscriptores/as de correo electrónico en 12,000 personas a fines de septiembre al asociarse con
+especialistas en redes sociales y medios pagados y lanzar un programa de referencias por correo electrónico que ofrezca
+descuentos a los/las suscriptores/as existentes”.
+
+Específico: Feels Like Home creará un programa de referencias por correo electrónico que ofrece descuentos a los/las
+suscriptores/as existentes.
+
+Medible: el objetivo indica cuánto quieren incrementar la lista, por lo que está claro cómo medirán el éxito.
+
+Alcanzable: tienen un plazo de seis meses para alcanzar este objetivo y la cantidad de potenciales suscriptores/as nuevos/as
+es razonable ya que lanzarán una línea de productos completamente nueva. Sin embargo, es posible que se necesite más
+información para determinar su viabilidad.
+
+Relevante: agregar suscriptores/as nuevos/as a su lista de correo electrónico significa poder tener más conversiones
+potenciales, lo que respalda el objetivo de incorporar clientes nuevos/as.
+
+De duración limitada: la fecha límite es en septiembre.
+
+Objetivo SMART 2:
+
+El objetivo original indica que Feels Like Home aumentará la tasa de conversión mensual. Sin embargo, no se indica cómo lo
+hará, si es posible, por qué es importante o cuándo lo hará. El objetivo SMART aborda todas estas preguntas, lo que
+aumentará las posibilidades de que Feels Like Home pueda alcanzar su objetivo:
+
+“Incrementar la tasa de conversión mensual de correo electrónico en un 2% en los seis meses posteriores a su lanzamiento,
+segmentando la lista de correo electrónico para la línea de productos For All”.
+
+Específico: Feels Like Home segmentará su lista de correo electrónico para la nueva línea de productos For All.
+
+Medible: el objetivo indica cuánto quieren incrementar la lista, por lo que está claro cómo medirán el éxito.
+
+Alcanzable: el objetivo es alcanzable porque tienen un plazo de seis meses luego del lanzamiento para lograrlo y la cifra de
+2% está alineada con los puntos comparativos de la industria. Sin embargo, es posible que se necesite más información para
+determinar su viabilidad.
+
+Relevante: incrementar la tasa de conversión de los/las suscriptores/as de correo electrónico existentes respalda
+directamente el objetivo de negocio de expandir la base de clientes en un 30% en el plazo de un año.
+
+De duración limitada: la fecha límite es seis meses después del lanzamiento.
+
 ### Embudos de venta y segmentación
+
+#### Lectura: LecturaActividad de ejemplo: Segmentar una lista de correo electrónico
+
+#### Lectura: Lectura¿Cómo te fue con la segmentación?
+
+#### Lectura: LecturaActividad de ejemplo: completar una serie de correos electrónicos
 
 ### Análisis y presentación
 
