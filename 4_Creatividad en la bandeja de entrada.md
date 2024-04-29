@@ -2173,7 +2173,82 @@ que aprendiste para optimizar tus futuras campañas.
 
 #### Utiliza las métricas en el marketing por correo electrónico
 
-### Las métricas más comunes del marketing por correo electrónico
+Las métricas son una parte integral de cada campaña de marketing por correo electrónico. En esta lectura, encontrarás
+ejemplos de cómo las empresas utilizan las métricas para aprender sobre los comportamientos y preferencias de su audiencia,
+lo que las ayuda a ajustar sus estrategias, en función de sus necesidades.
+
+**Baja en la tasa de apertura:**
+
+To Your Health es un fabricante de vitaminas personalizadas. Las personas completan una encuesta en la que responden cuáles
+son sus objetivos y necesidades de salud y bienestar, y la marca desarrolla un producto a medida y se los entrega.
+
+Además, envía un boletín informativo a quienes estén suscritos a su lista de correo electrónico. Después de algunos meses,
+desde To Your Health notaron que las tasas de apertura del boletín fueron disminuyendo de manera constante, semana a semana.
+Al revisar sus análisis, encontraron que la tasa de apertura pasó de un aceptable 25% a un número mucho menor: 18%. Luego de
+discutirlo con el equipo, determinaron que necesitaban tomar medidas para abordar el problema.
+
+En primer lugar, la empresa decidió dedicar más tiempo a investigar y redactar asuntos que fueran más efectivos. En este
+sentido, optó por utilizar frases más atractivas e ingeniosas para entusiasmar a las/los clientes con sus correos
+electrónicos. Luego, la empresa decidió enviar dos boletines informativos diferentes: uno para clientes actuales y otro para
+los/las nuevos/as. De esa manera, el contenido se ajusta a las necesidades específicas de cada grupo de suscriptores/as.
+
+La estrategia de cambiar los asuntos incentiva a las personas a hacer clic para abrir el correo electrónico, mientras que la
+táctica de enviar correos electrónicos más específicos asegura que sigan abriéndolos y disfrutando del contenido
+semanalmente.
+
+**Altas tasas de clics por apertura:**
+
+FoodNow es una firma que ofrece servicio de entrega de alimentos a domicilio. Las personas llenan una caja de compras
+personalizada en línea. que se entrega durante la semana en la que se hizo el pedido. Tras elegir los productos que van en
+sus cajas, las/los clientes reciben un correo electrónico de confirmación. En él, FoodNow invita a sus clientes a hacer clic
+en un enlace que redirige a su sitio web. Desde ahí, las personas pueden agregar los mismos productos para la próxima
+semana, de manera de no tener que editar nuevamente la caja. Recientemente, luego de notar que la tasa de clics por apertura
+pasó del 3% al 6% en las últimas seis semanas, decidieron incluir algunas sugerencias adicionales en los correos
+electrónicos.
+
+Debido a que en FoodNow notaron que sus clientes estaban interactuando más con sus correos electrónicos y haciendo clic en
+sus enlaces, la empresa decidió aprovechar esta oportunidad para incrementar sus ventas.
+
+Para eso, FoodNow agregó un enlace de “artículos sugeridos para ti” en los correos electrónicos de confirmación, que permite
+a las/los usuarios agregar no solo los artículos que ya hayan comprado, sino también otros productos que podrían ser de
+interés.
+
+**Aumento en la cancelación de suscripciones:**
+
+Blake's Beans es una importante empresa de café que tiene varias sucursales. Como parte de su campaña de marketing por
+correo electrónico, envía todo tipo de correos electrónicos a su lista de suscriptores/as. Tras analizar las métricas del
+último mes, notaron un aumento en la cancelación de suscripciones y una disminución en el crecimiento de la lista. Esto
+supone un problema, porque significa que sus lectores/as no están leyendo ni disfrutando de sus correos electrónicos. En la
+compañía observaron que, cada vez que enviaban correos electrónicos, cerca del 3% de las personas cancelaba la suscripción.
+En el último mes, su lista apenas creció un 1%.
+
+Para entender cuáles eran los motivos, incluyeron una encuesta muy breve en su página de cancelación de suscripción,
+solicitando comentarios sobre cómo podrían prestar un mejor servicio. Esto no recuperará a sus antiguos/as suscriptores/as,
+pero responderá a las preguntas sobre por qué se fueron en primer lugar. También, decidieron iniciar un programa de
+referidos con el que incentivan a sus clientes actuales a invitar a sus amistades a registrarse para recibir correos
+electrónicos. Si uno/a de sus referidos/as se suscribe, ambos/as, la/el cliente actual y su referido/a, reciben un cupón con
+un 10% de descuento. De esta manera, verán un crecimiento en la lista.
+
+**Conclusiones principales:**
+
+Ahora sabes cómo se ve cuando las empresas ajustan sus campañas en función de las métricas. Como se mencionó, analizar las
+métricas es una forma efectiva de entender la manera en que la audiencia quiere interactuar con tu marca. A veces, como en
+los ejemplos de baja tasa de apertura y aumento de cancelación de suscripciones, tendrás que modificar tu estrategia para
+solucionar un problema. En otras situaciones, como se demostró en el ejemplo de alta tasa de clics por apertura, notarás que
+tu audiencia disfruta interactuar contigo y puedes capitalizarlo.
+
+Independientemente de lo que digan las métricas, es importante agregar un enfoque personal a tu estrategia. Tener en claro
+que deseas aumentar tus tasas de apertura en un 5% es genial, pero debes planificar cómo alcanzar ese objetivo.
+
+### Las métricas más comunes del marketing para correo electrónico
+
+#### Las métricas más comunes del marketing por correo electrónico
+
+#### Las métricas más comunes del marketing por correo electrónico: Parte 2
+
+#### Las métricas más comunes del marketing por correo electrónico: Parte 3
+
+#### Conoce más sobre las métricas más comunes del marketing por correo electrónico
 
 ### Resultados de marketing por correo electrónico
 
