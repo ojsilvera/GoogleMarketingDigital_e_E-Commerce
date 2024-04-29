@@ -2854,17 +2854,144 @@ y objetivos. A continuación, hablaremos sobre métricas comunes de redes social
 
 #### Métricas a seguir a través de la analítica de redes sociales
 
-
+Desde el alcance potencial hasta la tasa de aplausos, hay decenas de indicadores de redes sociales que puedes medir para
+hacer un seguimiento del progreso hacia los objetivos de tu campaña. Aquí, exploraremos algunas métricas comunes de redes
+sociales, cómo encajan en el embudo de marketing de redes sociales y por qué es útil medirlas. Repasemos. Una métrica es una
+medición cuantificable que se usa para rastrear y evaluar un objetivo del negocio. Tu objetivo en las redes sociales
+determinará en qué métricas te enfocarás y buscarás optimizar. Como comentamos antes, al desarrollar tu estrategia de redes
+sociales, definirás tus objetivos, que seleccionarás de acuerdo a las metas generales de la campaña de marketing en la que
+estás trabajando, que suelen determinarse en función de los objetivos del negocio. Cada meta de tu campaña de marketing en
+redes estará orientada a guiar al público por las etapas del embudo de marketing: Conciencia, Consideración, Conversión y
+Fidelidad. En consecuencia, cada meta tendrá métricas relacionadas que te ayudarán a medir el progreso hacia ese objetivo.
+Analicemos algunas métricas comunes relacionadas con las metas en cada una de las etapas del embudo de marketing. Repasemos.
+La primera etapa del embudo de marketing es la Conciencia, cuya meta es captar la atención del público. En esta etapa,
+evaluarás las métricas relacionadas con el reconocimiento de marca. Al medir el reconocimiento de marca, analizas la
+atención que tu marca recibe en todas tus redes sociales durante el periodo que abarca el informe, ya sea una semana, un mes
+o un trimestre. Las métricas relacionadas incluyen el número de acciones, menciones, enlaces a tu contenido e impresiones
+que recibió tu marca en un periodo determinado. Impresión es cuando se muestra una pieza de contenido a un público objetivo.
+Otra métrica relacionada es el alcance potencial, que mide cuántas personas potencialmente vieron un contenido desde que lo
+publicaste. Por ejemplo, si una persona retuitea una publicación en Twitter, puedes asumir que cierto porcentaje de sus
+seguidores también verán esa publicación. Estas métricas ayudan a evaluar el progreso hacia la expansión de tu público. Una
+vez que tus clientes potenciales reconocen tu marca, pasan a la siguiente etapa del embudo de marketing: Consideración. En
+esta etapa, tus clientes ya están considerando hacer negocios contigo. En este punto, ya puedes medir indicadores de
+interacción como la tasas de aplausos, el total de acciones de aprobación, como "me gusta", menciones, retuits o favoritos,
+que recibe una publicación en relación con el total de seguidores. Una tasa de aplausos alta significa que a tu público le
+resulta valiosa esa pieza de contenido. Indica cierto nivel de interés en tu marca, que podría resultar en una compra.
+Además, saber con qué tipo de contenido interactúa tu público puede ayudarte a decidir qué crear a continuación. Una vez que
+los clientes potenciales deciden hacer una compra, entran en la etapa de Conversión. En este punto, puedes medir indicadores
+como las referencias, que indican cómo llegó una persona a tu sitio web. Puedes medir cuántas personas fueron referidas
+desde todas tus redes sociales, así como las referencias que recibes desde plataformas específicas. También puedes medir las
+conversiones, o sea, la finalización de una actividad que contribuye al éxito de un negocio. Estas actividades pueden
+incluir desde un clic en un enlace hasta una compra. Las conversiones sociales son acciones que una persona realiza en tu
+sitio web porque vio tus campañas en las redes. Cuando alguien se convierte en cliente, tu meta será generar fidelidad. En
+esta etapa del embudo, puedes analizar métricas como la cantidad de reseñas de clientes que recibes. Las reseñas de clientes
+son críticas, evaluaciones comentarios, muestras de apoyo o entrevistas relacionadas con tu marca. Si a las personas les
+gusta tu marca, es más probable que compartan su percepción positiva con los demás. Las reseñas de clientes en redes
+sociales ayudan a generar confianza y credibilidad en tu marca y, a la vez, aumentan su presencia en las redes. Otra forma
+de medir la fidelidad es mediante una métrica llamada puntuación neta de promotor o NPS. Esta métrica ayuda a predecir
+futuras interacciones al preguntarles a los clientes qué tan probable es que le recomienden el producto a sus amistades en
+una escala del 1 al 10. Según el número que elijan, se los considera clientes insatisfechos, clientes satisfechos, pero poco
+entusiastas, o clientes entusiastas y fieles. La NPS te ayuda a medir la satisfacción y predecir posibles ventas futuras.
+Las métricas ayudan porque muestran si tu estrategia de redes sociales tiene éxito a lo largo del tiempo. El análisis de las
+métricas en cada etapa te ayuda a entender mejor el rendimiento de las redes de tu marca. A medida que ajustas tu
+estrategia, puedes evaluar otras métricas que sean pertinentes para tu empresa.
 
 #### LecturaLas herramientas más comunes de analítica de redes sociales
 
-#### LecturaPruebas sociales
+Así como existen herramientas para realizar escucha social, también hay soluciones para el análisis de datos. Las
+herramientas de analítica de redes sociales permiten a las marcas identificar tendencias y obtener información concreta para
+optimizar el rendimiento general. Con tanta información de las audiencias publicada diariamente en las redes sociales, las
+herramientas de analítica se han convertido en un componente esencial para el análisis del público, de la competencia y de
+los productos. Recopilar datos e información puede ayudar a las empresas a tomar mejores decisiones comerciales. En esta
+lectura, descubrirás algunas herramientas efectivas para el análisis de redes sociales.
+
+**Sprout Social**
+Sprout Social  es una herramienta de analítica de redes sociales multicanal, es decir, te permite comparar el rendimiento en
+todos los canales de redes sociales de tu marca. Gracias a ello, te ayuda a identificar en qué debes focalizar los esfuerzos
+y a qué dedicar un mayor presupuesto, así como a determinar en qué plataformas estás teniendo mejores resultados.
+
+Con Sprout Social, es posible recopilar datos y generar informes, lo que simplifica la tarea de mantener a las y los
+miembros del equipo actualizadas/os sobre el progreso.
+
+**Google Analytics**
+Es probable que, para este momento del curso, ya hayas oído hablar sobre Google Analytics . Eso se debe a que Google
+Analytics no es únicamente una herramienta de analítica de redes sociales, ya que se puede usar para diversas cuestiones,
+como medir cuánto tráfico recibe un sitio web desde las redes sociales, entre otras cosas.
+
+Nota: Si al iniciar sesión no puedes acceder a la cuenta de demostración, abre el enlace en una ventana de incógnito y
+prueba nuevamente. Para abrir una ventana de incógnito en Chrome, haz clic en el ícono Más (botón de tres puntos verticales)
+y selecciona la opción “Nueva ventana de incógnito”.
+
+**Keyhole**
+A medida que publicas en varias redes sociales, puede que el uso de hashtags sea qimportante para tu estrategia. Si ese es
+el caso, una herramienta como Keyhole  te será útil porque proporciona informes del rendimiento en tiempo real sobre
+cualquier hashtag relevante para tu campaña.
+
+**TapInfluence**
+TapInfluence ofrece características únicas que ayudan a las marcas a hacer un seguimiento de las campañas de marketing con
+influencers. Con TapInfluence, puedes medir las interacciones, el alcance y el retorno de la inversión para cada influencer
+individual. También, puedes ver el alcance y las interacciones que genera cada influencer para ayudarte a decidir si deseas
+contactarlo/a para llevar adelante una acción en conjunto.
+
+**Conclusiones principales**
+Hay una gran cantidad de herramientas disponibles que te ayudarán a optimizar tu estrategia de marketing en redes sociales.
+A medida que investigues más sobre ellas, no olvides tener en cuenta cuáles son los objetivos y prioridades de tu negocio,
+para asegurarte de estar utilizando las herramientas más adecuadas para tu marca.
+
+#### Puebas sociales
+
+Las pruebas sociales son procesos que proporcionan información basada en datos sobre el rendimiento de las redes sociales de
+una marca y las preferencias de la audiencia. En esta lectura, aprenderás sobre los diferentes tipos de pruebas sociales y
+cómo cada uno puede aportar para mejorar el rendimiento de una marca en redes sociales.
+
+**Introducción a las pruebas sociales:**
+
+Las pruebas sociales son importantes porque, al igual que cualquier tipo de análisis  de marketing, brindan información
+basada en datos sobre el rendimiento de redes sociales y las preferencias de la audiencia. Como especialista en marketing de
+redes sociales, utilizarás las pruebas sociales para determinar qué contenido es efectivo, qué tipos de publicaciones atraen
+más a la audiencia y cómo asignar el presupuesto.
+
+Existen varios tipos de pruebas sociales. Los que vayas a utilizar dependerán de los objetivos comerciales de la marca. Una
+vez que hayas delineado los objetivos, podrás determinar qué tipo de pruebas sociales te ayudarán a encontrar la información
+necesaria para que tu campaña sea más efectiva. Algunos de los tipos más comunes de pruebas en redes sociales son las A/B y
+las multivariadas.
+
+**Pruebas A/B:**
+
+Las pruebas A/B comparan dos versiones de una publicación con una sola variable. Por ejemplo, para probar cómo aumentar el
+tráfico de un sitio web, podrías ejecutar dos anuncios pagados que dirijan al público a tu página de inicio. Los anuncios
+pueden ser exactamente iguales, excepto por una variable. Quizá tu anuncio, por ejemplo, pueda incluir un titular con una
+referencia a una canción muy conocida, mientras que el otro no. Si la audiencia hace clic con más frecuencia en la primera
+versión, es posible que sea bueno utilizar referencias de la cultura pop en otros anuncios.
+
+**Pruebas multivariadas:**
+
+Las pruebas multivariadas comparan dos o más versiones de una publicación que incluyen,al menos, dos variables diferentes.
+Por ejemplo, para analizar cómo funcionan diferentes variaciones de un anuncio que creaste, podrías generar cuatro
+versiones. La versión uno incluiría una imagen con un título. La versión dos incluiría un GIF, en lugar de una imagen, y un
+título diferente. La versión tres, un texto publicitario (copy) y colores diferentes, y en la cuarta versión podrías cambiar
+el color e incluir también el GIF usado en la segunda variación
+
+**Resultados de las pruebas sociales:**
+
+La evaluación de los resultados y la obtención de conclusiones basadas en datos es una parte muy importante de las pruebas
+sociales. Es clave evaluar correctamente los resultados y sacar conclusiones con base en los datos estadísticos para futuras
+campañas y estrategias en las redes sociales. Para obtener resultados adecuados, es recomendable realizar varias pruebas y
+observar lo que le gustó, o no, a tu audiencia. Puedes realizar estas pruebas durante una semana, un mes o más tiempo.
+Cuantas más realices, más seguridad podrás tener sobre los resultados. También, es importante considerar atentamente qué
+variables deseas cambiar para obtener resultados valiosos, que te permitan optimizar tu estrategia.
+
+**Conclusiones principales:**
+
+Las pruebas sociales son una parte esencial del marketing en redes sociales porque, para decirlo de un modo sencillo: solo
+sabes lo que sabes. Si no has probado lo que le gusta a tu audiencia, es posible que nunca sepas qué le agrada. Asegúrate de
+tener un objetivo específico antes de realizar las pruebas. ¡Y no tengas miedo de probar cosas nuevas!
 
 #### Utiliza los datos de las redes sociales para impulsar las estrategias de marketing
 
 #### Jon: Cómo usar los datos y la analítica de redes sociales para la toma de decisiones y la creación de estrategias
 
-#### LecturaEjemplo de actividad: Analiza el rendimiento de las redes sociales
+#### Ejemplo de actividad: Analiza el rendimiento de las redes sociales
 
 ### Informes de marketing en redes sociales
 
