@@ -3065,6 +3065,116 @@ contenido.
 
 ### Informes de marketing en redes sociales
 
+#### Comprende los informes de redes sociales
+
+Imagina que estás trabajando en una campaña en las redes sociales. Usaste la analítica para medir tu progreso hacia tus
+objetivos en cada etapa del embudo de marketing y analizaste los datos que recopilaste para tomar decisiones informadas
+sobre el futuro de tu estrategia de redes sociales. Ahora, llegó el momento de compartir esos hallazgos y decisiones a
+través de un informe de redes sociales. Un informe de redes sociales es un documento que presenta y mide datos pertinentes
+sobre tus actividades en las redes sociales. Los informes de redes sociales permiten a los especialistas en marketing
+visualizar y presentar sus datos de redes sociales de una manera fácil de entender. Ayudan a justificar su estrategia y las
+decisiones que han tomado a partir de los datos ante colegas o clientes y les ofrecen conocimientos valiosos. Dependiendo de
+tu rol, el tamaño de tu empresa y los recursos que tengas a disposición, puede que debas agregar datos a un informe que otra
+persona haya creado, crear tu propio informe o, simplemente, leer uno para obtener conocimientos. Además, el modo de
+presentar un informe de redes sociales puede variar, desde un correo electrónico breve con algunos puntos de datos clave,
+una síntesis sobre el rendimiento de una publicación específica en una plataforma en particular, una planilla con detalles
+sobre todas tus plataformas de redes sociales o una presentación de diapositivas con hallazgos clave y análisis.
+Independientemente de tu contribuación al informe o de cómo se presente la información, es importante entender qué
+componentes suelen incluirse. Para empezar, hay ciertos aspectos que los especialistas en marketing deben tener en cuenta al
+elaborar un informe. Los informes de redes sociales deben adaptarse al público al que están dirigidos, sean miembros del
+equipo de Marketing, partes interesadas o clientes con necesidades diversas a quienes les interesan diferentes aspectos. Los
+informes pueden incluir datos más o menos detallados sobre determinados puntos según quién sea la audiencia. Por ejemplo, un
+informe creado para el equipo de Marketing podría incluir datos detallados sobre una campaña de redes sociales en
+particular, mientras que uno creado para la gerencia probablemente se enfocará más en los puntos destacados de la campaña.
+Además, un informe debe incluir los datos más relevantes para el público y para los KPI de las redes de la empresa. Un
+indicador clave de rendimiento o KPI es una medida que se utiliza para medir el éxito de una empresa en sus esfuerzos por
+alcanzar un objetivo de marketing o de negocios. Los KPI de redes sociales se utilizan para evaluar la efectividad de una
+estrategia de marketing en redes sociales. Están determinados por los objetivos de una campaña, como el reconocimiento o la
+interacción. Un informe de redes sociales útil se centrará en los KPI y los indicadores más pertinentes para la empresa. Por
+ejemplo, si una empresa tiene un KPI de redes sociales relacionado con el alcance, el informe podría destacar datos sobre
+impresiones, tasa de crecimiento del público o cantidad de seguidores. La frecuencia de los informes también varía y puede
+personalizarse en función de qué datos se informarán y cómo se utilizarán los hallazgos obtenidos. La mayoría de las
+plataformas de redes sociales permiten extraer datos de las herramientas de análisis para rangos de datos o periodos
+específicos. Entonces, por ejemplo, podríamos generar informes semanales, mensuales o cuatrimestrales. Ahora que sabes qué
+deben tener en cuenta los especialistas en marketing al elaborar un informe de redes sociales, analicemos algunos elementos
+específicos que pueden incluir estos informes. Supongamos que un informe se enfoca en el desempeño de una campaña en
+Instagram en una semana determinada y que el objetivo principal de la campaña era generar interacción. El informe debería
+incluir información pertinente de la campaña para esa semana, como el rango de fechas y la cantidad de publicaciones, la
+cantidad de seguidores ganados perdidos, los "me gusta", los comentarios, los clics, las reproducciones, entre otros. Muchos
+informes de redes sociales también incluyen tablas o gráficos. Visualizar los datos a través de gráficos puede ayudar al
+público a entender el contenido del informe. Estos gráficos pueden crearse mediante herramientas de analítica como Google
+Analytics o HubSpot o herramientas de informes en plataformas individuales. Un informe de redes sociales efectivo también
+ofrece contexto que ayuda al público a entender el informe y conectarse con la historia que cuentan los datos. Los informes
+deben indicar cómo los datos se relacionan con KPI específicos. Por ejemplo, nuestros informes pueden incluir una
+comparación entre datos actuales y datos de un periodo previo. Un informe puede comparar el número actual de “me gusta” con
+la cantidad del mismo periodo en el mes anterior y destacar si esa cantidad aumentó. Esto permite al público detectar
+tendencias, observar el progreso e identificar problemas. Esto nos lleva al análisis. Esta es la parte del informe que
+explica el significado real de los datos. Por ejemplo, analizar la cantidad de interacciones por publicación podría ayudar a
+identificar los tipos de contenido que resuenan mejor con un público objetivo. Esta sección debe incluir una evaluación y
+una explicación de las posibles razones por las que la campaña pudo haber obtenido los resultados que logró. Las razones
+detrás de los datos pueden ayudar a los especialistas en marketing a determinar y justificar ante el público la mejor manera
+de ajustar su estrategia. Los informes de redes sociales ayudan a los especialistas en marketing a transmitir a otras
+personas información clave sobre su estrategia, sus actividades y el progreso hacia sus objetivos. Comprender qué se debe
+incluir en un informe de redes sociales te ayuda a prepararte para contribuir en la elaboración del informe y detectar las
+ideas clave que ayudarán a mejorar tu estrategia de redes sociales. A continuación, hablaremos de cómo presentar un informe
+de redes sociales antes las partes interesadas.
+
+#### Informes de redes sociales
+
+La presentación de informes sobre el avance y/o los resultados de una campaña de redes sociales es un aspecto importante del marketing en redes sociales. Cuando informas adecuadamente los resultados, los miembros de tu equipo y las partes interesadas comprenden el valor que tu campaña aportó a la marca. En esta lectura, aprenderás sobre los diferentes tipos de informes de redes sociales.
+
+**Tipos de informes**
+
+Para garantizar que todas las partes interesadas obtengan la información que necesitan, existen tres tipos de informes que debes conocer. La mejor manera de proporcionar datos completos sobre cada aspecto de la campaña es presentar todos los tipos de informes a las partes interesadas. Pero, ¿cómo sabes cuándo usar cada tipo de informe? A continuación,  conocerás en qué se diferencian los reportes operativos, de insights e informativos.
+
+**Informes operativos**
+
+Los informes operativos brindan a los miembros del equipo actualizaciones e información en tiempo real sobre métricas como las tasas de crecimiento de audiencia, las impresiones, la tasa de clics y más. Estos informes proporcionan los datos que necesitas para medir el éxito de una campaña y te permiten que rápidamente puedas ajustar la estrategia si fuera necesario.
+
+![alt text](image-82.png)
+
+**Informes de insights**
+
+Los informes de de insights ofrecen más que solo datos sin procesar: proporcionan historias que ayudan a explicar la campaña. El propósito de estos informes es encontrar significados en los insights y comunicarlos a las partes interesadas. Estos informes responden a preguntas como: ¿Por qué tus tasas de clics son altas? ¿Qué plataformas de redes sociales generan más oportunidades? ¿Tu audiencia prefiere ver contenido en videos o en imágenes? ¿Cómo impacta eso en tu presupuesto? ¿Qué tendencias identificas en los insights y por qué?
+
+![alt text](image-83.png)
+
+**Reportes informativos**
+
+Estos informes se utilizan principalmente para proporcionar al equipo directivo de la empresa una comprensión más clara del rendimiento de la campaña. Las métricas más grandes, como el retorno de inversión (ROI) y otros indicadores clave de rendimiento (KPI), se presentan en estos informes ya que muestran el valor de las campañas a un alto nivel. Estos informes deben ser muy claros y concisos, debido a que  el equipo directivo de la empresa no suele tener mucho tiempo para analizar información detallada.
+
+![alt text](image-84.png)
+
+**Google Data Studio**
+
+Si no sabes por dónde empezar en lo que respecta a los informes, existen herramientas que pueden ayudarte. Google Data Studio te ayuda a aprovechar los datos para contar historias mediante el uso de herramientas de visualización como gráficos y tablas, compartiendo tus ideas con los miembros del equipo y acelerando el proceso de creación de informes. También ofrece funciones de colaboración para que tu equipo pueda trabajar en conjunto para crear informes. 
+
+Una vez que tengas acceso a esta herramienta, todo lo que tienes que hacer es buscar los diferentes tipos de informes. Para conocer más sobre cómo usar plantillas para informes, <https://datastudio.google.com/gallery?category=marketing>
+
+#### Ejemplo de actividad: Crea un informe sobre el rendimiento de redes sociales
+
+Compara el ejemplo con tu informe de redes sociales finalizado. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué hiciste bien? ¿En qué aspectos podrías mejorar? Las respuestas a estas preguntas te servirán de guía a medida que avances en el curso.
+
+Revisa cada sección del informe por correo electrónico:
+
+El asunto debe contener una descripción del propósito del informe, precedido por la palabra “Actualización,” “Informe” o similar.
+
+El saludo debe ser breve y conciso.
+
+La introducción tiene que incluir una descripción de los datos que analizarás y el objetivo de la campaña.
+
+El resumen de resultados clave incluye la información importante más relevante, organizada en una lista con viñetas.
+
+La tabla ilustra los datos relevantes y contiene un título descriptivo.
+
+El detalle de las decisiones tomadas describe cómo el análisis de los datos aportará información valiosa para futuras estrategias.
+
+En el cierre, debes indicar que te encuentras a disposición para analizar la información más en detalle o responder consultas que puedan surgir.
+
+
+
+#### Presenta un informe de redes sociales
+
 ### Revisión: Analítica e informes de redes sociales
 
 ## Redes sociales de pago
