@@ -2327,54 +2327,301 @@ estrategias y crecer con las métricas y KPI que aprendiste.
 
 #### Conoce más sobre las métricas más comunes del marketing por correo electrónico
 
-Las y los especialistas en marketing digital pueden querer realizar un seguimiento y analizar diferentes tipos de métricas por correo electrónico para hacer una presentación a miembros de su equipo y a las partes interesadas. La elección de las métricas a rastrear dependerá tanto de los objetivos generales de la marca así como de los objetivos específicos de la campaña. Una vez que tengas esa información, podrás decidir qué métricas son las más relevantes. En videos anteriores, se presentaron cuáles son las métricas más comunes del marketing por correo electrónico. En esta lectura, repasaremos esos indicadores para que tengas un recurso de referencia.
+Las y los especialistas en marketing digital pueden querer realizar un seguimiento y analizar diferentes tipos de métricas
+por correo electrónico para hacer una presentación a miembros de su equipo y a las partes interesadas. La elección de las
+métricas a rastrear dependerá tanto de los objetivos generales de la marca así como de los objetivos específicos de la
+campaña. Una vez que tengas esa información, podrás decidir qué métricas son las más relevantes. En videos anteriores, se
+presentaron cuáles son las métricas más comunes del marketing por correo electrónico. En esta lectura, repasaremos esos
+indicadores para que tengas un recurso de referencia.
 
 Las métricas más comunes
 
-Las y los especialistas en marketing digital confían en las herramientas para hacer un seguimiento de las métricas y crear informes que les ayuden a obtener insights de sus campañas. Sin embargo, es posible calcular estas métricas por tu cuenta, si alguna vez necesitas hacerlo. A continuación, repasarás cuáles son las métricas más comunes, junto con la forma para calcularlas.
+Las y los especialistas en marketing digital confían en las herramientas para hacer un seguimiento de las métricas y crear
+informes que les ayuden a obtener insights de sus campañas. Sin embargo, es posible calcular estas métricas por tu cuenta,
+si alguna vez necesitas hacerlo. A continuación, repasarás cuáles son las métricas más comunes, junto con la forma para
+calcularlas.
 
-La tasa de apertura es el porcentaje de personas que abren tu correo electrónico. Conocer cuál es tu tasa de apertura es importante, porque indica qué tan involucrados/as o comprometidos/as están tus suscriptores/as. Una tasa de apertura alta puede significar que estás escribiendo asuntos efectivos, mientras que una tasa de apertura baja puede sugerir que necesites repensar tus asuntos.
+La tasa de apertura es el porcentaje de personas que abren tu correo electrónico. Conocer cuál es tu tasa de apertura es
+importante, porque indica qué tan involucrados/as o comprometidos/as están tus suscriptores/as. Una tasa de apertura alta
+puede significar que estás escribiendo asuntos efectivos, mientras que una tasa de apertura baja puede sugerir que necesites
+repensar tus asuntos.
 
-Porcentaje de personas que abrieron el correo electrónico de entre el total que recibieron el correo electrónico
+    Porcentaje de personas que abrieron el correo electrónico de entre el total que recibieron el correo electrónico
 
-La tasa de clics por apertura es el porcentaje de destinatarios/as de correo electrónico que hicieron clic en uno o más enlaces enviados. Esta métrica se usa con frecuencia en las pruebas A/B, en las que se envían dos versiones de un correo electrónico al mismo tiempo para determinar qué versión funciona mejor. Las y los especialistas en marketing digital generalmente prestan mucha atención a la tasa de clics por apertura.
+La tasa de clics por apertura es el porcentaje de destinatarios/as de correo electrónico que hicieron clic en uno o más
+enlaces enviados. Esta métrica se usa con frecuencia en las pruebas A/B, en las que se envían dos versiones de un correo
+electrónico al mismo tiempo para determinar qué versión funciona mejor. Las y los especialistas en marketing digital
+generalmente prestan mucha atención a la tasa de clics por apertura.
 
-Porcentaje de clics totales entre el total de aperturas únicas
+    Porcentaje de clics totales entre el total de aperturas únicas
 
-La tasa de cancelación de suscripciones es el porcentaje de destinatarios/as de correo electrónico que se dan de baja de una lista de envío después de abrir un correo electrónico. Esta métrica es útil porque indica si estás enviando contenido que tu audiencia disfruta.
+La tasa de cancelación de suscripciones es el porcentaje de destinatarios/as de correo electrónico que se dan de baja de una
+lista de envío después de abrir un correo electrónico. Esta métrica es útil porque indica si estás enviando contenido que tu
+audiencia disfruta.
 
-Porcentaje de cancelaciones de suscripción entre el total de correos electrónicos entregados
+    Porcentaje de cancelaciones de suscripción entre el total de correos electrónicos entregados
 
-La tasa de quejas es el porcentaje de quejas que las y los destinatarios envían a los proveedores de correo electrónico sobre tu correo electrónico. Esta métrica puede ayudarte a medir qué tan satisfechos/as están tus suscriptores/as. Es importante asegurarte de que no te estás ganando quejas o críticas negativas.
+La tasa de quejas es el porcentaje de quejas que las y los destinatarios envían a los proveedores de correo electrónico
+sobre tu correo electrónico. Esta métrica puede ayudarte a medir qué tan satisfechos/as están tus suscriptores/as. Es
+importante asegurarte de que no te estás ganando quejas o críticas negativas.
 
-Porcentaje de quejas de entre el total de correos electrónicos entregados a la lista de suscriptores/as
+    Porcentaje de quejas de entre el total de correos electrónicos entregados a la lista de suscriptores/as
 
-La tasa de conversión es el porcentaje de destinatarios/as de correo electrónico que hicieron clic en un enlace en tu correo electrónico y completaron una acción deseada, como hacer una compra.
+La tasa de conversión es el porcentaje de destinatarios/as de correo electrónico que hicieron clic en un enlace en tu correo
+electrónico y completaron una acción deseada, como hacer una compra.
 
-Porcentaje de conversiones de entre el total de clics
+    Porcentaje de conversiones de entre el total de clics
 
-La tasa de reenvío es el porcentaje de destinatarios/as que hacen clic en el botón “share” (“compartir”) para publicar en las redes sociales o que hacen clic en el botón “forward” (“reenviar”) para enviar a otras personas. Una tasa de reenvío es una métrica muy valorada cuando se reenvía un correo electrónico, significa que estás generando nuevos leads.
+La tasa de reenvío es el porcentaje de destinatarios/as que hacen clic en el botón “share” (“compartir”) para publicar en
+las redes sociales o que hacen clic en el botón “forward” (“reenviar”) para enviar a otras personas. Una tasa de reenvío es
+una métrica muy valorada cuando se reenvía un correo electrónico, significa que estás generando nuevos leads.
 
-Porcentaje de reenvíos entre el total de correos electrónicos entregados
+    Porcentaje de reenvíos entre el total de correos electrónicos entregados
 
-La tasa de crecimiento de la lista es la velocidad a la que crece tu lista de suscriptores/as. Es útil hacer un seguimiento de este indicador, dado que una alta tasa de crecimiento de la lista puede traducirse en un mayor volumen de ventas.
+La tasa de crecimiento de la lista es la velocidad a la que crece tu lista de suscriptores/as. Es útil hacer un seguimiento
+de este indicador, dado que una alta tasa de crecimiento de la lista puede traducirse en un mayor volumen de ventas.
 
-(Número de suscriptores/as nuevos/as menos el número de cancelaciones de suscripciones) dividido por el total de direcciones de correo electrónico, multiplicado por 100.
+    (Número de suscriptores/as nuevos/as menos el número de cancelaciones de suscripciones) dividido por el total de
+    direcciones de correo electrónico, multiplicado por 100.
 
-La tasa de rebote es el porcentaje de correos electrónicos enviados que no se pudieron entregar en la bandeja de entrada del/a destinatario/a. Si encuentras que tu tasa de rebote es más alta que el promedio de la industria, es posible que debas investigar un poco. Un correo electrónico rebotado es causado por direcciones de correo electrónico incorrectas o inactivas o por un error de importación con tu lista de correo electrónico.
+La tasa de rebote es el porcentaje de correos electrónicos enviados que no se pudieron entregar en la bandeja de entrada
+del/a destinatario/a. Si encuentras que tu tasa de rebote es más alta que el promedio de la industria, es posible que debas
+investigar un poco. Un correo electrónico rebotado es causado por direcciones de correo electrónico incorrectas o inactivas
+o por un error de importación con tu lista de correo electrónico.
 
-(Número total de correos electrónicos rebotados dividido por los correos electrónicos enviados) multiplicado por 100
+    (Número total de correos electrónicos rebotados dividido por los correos electrónicos enviados) multiplicado por 100
 
-El retorno de la inversión (ROI) de la campaña es la relación entre la ganancia neta (dinero ganado) y la inversión realizada (dinero gastado). Esta métrica es importante, dado que te indica si tu estrategia de marketing por correo electrónico es productiva.
+El retorno de la inversión (ROI) de la campaña es la relación entre la ganancia neta (dinero ganado) y la inversión
+realizada (dinero gastado). Esta métrica es importante, dado que te indica si tu estrategia de marketing por correo
+electrónico es productiva.
 
-(Ingresos totales dividido por el gasto total) multiplicado por 100
+    (Ingresos totales dividido por el gasto total) multiplicado por 100
 
-Conclusiones principales
+**Conclusiones principales:**
 
-Existen diversas métricas para utilizar en el marketing por correo electrónico. Según la campaña que estés llevando adelante, puede que algunas sean más relevantes que otras. Lo importante es que entiendas que extraer insights a partir de tus métricas es clave para lograr tus objetivos de marketing.
+Existen diversas métricas para utilizar en el marketing por correo electrónico. Según la campaña que estés llevando
+adelante, puede que algunas sean más relevantes que otras. Lo importante es que entiendas que extraer insights a partir de
+tus métricas es clave para lograr tus objetivos de marketing.
 
 ### Resultados de marketing por correo electrónico
 
+#### Crea un informe de marketing por correo electrónico
+
+Después de analizar tus métricas y evaluar el éxito de la campaña, querrás compartir los datos con el equipo de marketing y
+las partes interesadas. Ellos/as estarán interesados en saber qué tan efectivas son tus campañas de correo electrónico y si
+estás usando tu tiempo sabiamente. Este es el momento para comunicarles esa información. Para ello, crearás un informe de
+marketing por correo electrónico. Este informe es esencialmente una colección de los KPI que presentas a tu equipo y partes
+interesadas para informarles sobre tu campaña. En este video, aprenderás cómo crear un informe efectivo. Este informe les
+muestra a las partes interesadas qué hace tu campaña por la empresa. El informe responde preguntas como: ¿En qué beneficia
+tu campaña a la empresa? ¿Nuestra estrategia de marketing está fallando en algo? ¿Cómo podemos mejorarla? ¿Podemos destinar
+más dinero a ciertos aspectos de nuestra campaña ahora? Y muchas más. Al presentar informes a las partes interesadas,
+conviene que estos sean concisos, gráficos, atractivos y que muestren el crecimiento. Ser conciso demuestra que valoras el
+tiempo de las partes interesadas. Solo incluye los detalles necesarios para contar la historia de tu campaña. Evita la jerga
+y el lenguaje técnico para que todos entiendan tu informe, aunque no estén familiarizados con las métricas. Usar gráficos es
+una forma efectiva de contar tu historia. Los gráficos muestran lo que las palabras no siempre logran, y representan lo que
+dices visualmente, para que la gente lo entienda. Por ejemplo, mostrar un gráfico de barras con muchos saltos y caídas, es
+más eficaz que mostrar un texto que explique estos movimientos. Puedes utilizar el informe del software de automatización,
+pero, si quieres adaptar la presentación a tu gusto, puedes usar programas como Google Slides, PowerPoint o Canva. Utilizar
+imágenes, diagramas, y gráficos también lo hace más interesante y atractivo. Ser atractivo/a es importante si buscas captar
+el interés y la atención de las partes interesadas. Mantén la atención de tu público presentando los datos de diversas
+formas. Usa videos, testimonios o estudios de caso. Cuenta una historia o anécdota relacionada con los datos del informe, y
+pide al público que participe mediante preguntas o encuestas. Pero no solo debes entretener al público, tienes que mostrarle
+que estás agregando valor a la empresa gracias a tu campaña. Incluye las áreas clave de rendimiento. Te ayudarán a demostrar
+los resultados que lograste. Describe los objetivos que fijaste para el proyecto y lo que esperas lograr al terminar. Si
+estás presentando un informe a un/a socio/a o colega sobre tu empresa de limpieza, y sabes que el objetivo general era
+aumentar la lista de suscriptores/as durante la campaña, explica cómo lo hiciste. Luego, describe cómo lograste esos
+objetivos frente a tus KPI. Revisa cómo definiste el éxito de tu proyecto al principio y resalta los resultados que lograste
+y que demuestran este éxito. Digamos que tu objetivo era aumentar la tasa de crecimiento un 400% en cuatro meses. La tasa de
+crecimiento de la lista es tu KPI. Incluye si lograste esa meta o no. Agrega todo en una lista con viñetas para que esté
+organizado, y sea claro y conciso. Quizá también aprendiste algunas lecciones difíciles. Analiza lo aprendido durante el
+proyecto y lo que se puede mejorar. Puedes tener habilidades como orador/a, pero, con estos consejos, tendrás mejores
+herramientas. Nos vemos más tarde.
+
+#### Karan - Consejos para realizar presentaciones efectivas a las partes interesadas
+
+Mi nombre es Karan y soy líder en Estrategia Digital del Equipo de Crecimiento Acelerado en Google. Básicamente, describo
+nuestro programa de Crecimiento Acelerado como la incubadora interna de Google o el programa de aceleración de startups para
+clientes con alto potencial. Cada vez que encontramos a alguien que acaba de recibir una ronda de inversión, está entrando
+en la temporada alta, expandiéndose a nuevas ubicaciones, contratando nuevos representantes de ventas o algo similar y
+quiera crecer con Google, lo seleccionamos, lo incorporamos a nuestro programa y le damos acceso a versiones beta, recursos
+y consultores para ayudar al negocio a crecer rentable y exitosamente con los productos de Google. Hacer una presentación
+ante las partes interesadas puede ser desafiante. Yo también pasé por la experiencia de estar sudando antes de entrar a una
+reunión para conversar con estas personas. Pero, muchas veces, lo que me ayudó a superarlo fue entrar a la sala y tener una
+conversación real con estas personas antes de pasar a la acción y a todos los temas geniales que preparé para ese día. ¿Cómo
+va todo? ¿Cómo les está yendo? ¿Qué es lo más emocionante que les pasó hoy? Se trata de iniciar un poco de charla. Eso quita
+algo de presión al hecho de hablar con las partes interesadas porque, recuerda, a fin de cuentas, también son personas
+reales. Sentir que te preparaste bien es la clave a la hora de entrar a la sala para hacer una presentación frente a las
+partes interesadas. Te hace sentir a gusto, te ayuda a relajarte y te hace sentir que todo va por buen camino porque sabes
+de qué vas a hablar, has pensado en las objeciones que podrías recibir a algunas de las ideas que estás presentando, y
+puedes trabajar con todas las personas presentes para establecer acciones claras y los próximos pasos a seguir. Me encanta
+preparar una agenda para saber cuáles son exactamente los temas específicos que quiero cubrir en cada reunión. Y me gusta
+saber quién está en la sala para asegurarme de que puedo personalizar el contenido para las personas con las que voy a
+hablar de modo que sea relevante para ellas. Es muy importante preparar a las partes interesadas antes de entrar a la sala.
+Una de mis tácticas favoritas es, antes de la presentación, reunirme individualmente de antemano con cada una de esas
+personas y decirle: “Voy a hablar de esto. ¿Te gusta la presentación? Quiero saber qué opinas antes de presentárselo al
+resto del equipo”. De esta manera, pruebo la predisposición de las personas antes de entrar a la sala, me aseguro de que
+estén de acuerdo con mis ideas y sé si van a respaldar lo que voy a decir antes de empezar la presentación. El seguimiento
+que viene después es tan importante como la propia presentación. En general, me gusta enviar un correo de seguimiento
+detallado con todo lo que hablamos y saber si quedó claro cuáles son los ejes de acción de la presentación, a quién le
+corresponde cada tarea, para qué fecha debe completarla y cuándo haremos el seguimiento de cada acción. Y dejo todo lo que
+hablamos por escrito, de manera que todo el mundo esté al tanto y que no haya dudas sobre qué hay que hacer después de la
+presentación. Presentar resultados inesperados o poco satisfactorios a las partes interesadas puede ser un tema complicado.
+Mi mayor consejo es que abordes el problema de frente, que seas tú quien saque el tema y reconozcas el mal rendimiento antes
+de que otros lo señalen. Y que aportes medidas y soluciones tangibles para compensar el mal rendimiento. Así, no parecerás
+una persona reactiva, sino una proactiva que dice: “Sé lo que pasó, ocurrió por estos motivos y tomaremos estas tres medidas
+para lograr nuestros objetivos”. Además, así dejas en claro que eres parte del equipo y que, por más que no esté saliendo
+todo como estaba planeado, tienes un plan de acción para remediarlo. Otro consejo que le daría a un especialista en
+marketing digital al preparar su primera presentación es que no intente abarcar demasiado. Menos es más. Piensa en los
+puntos clave que quieres que los demás conozcan al terminar esta presentación. Ya sea que se trate de que las personas
+comprendan cierta información, se les asigne alguna tarea o, simplemente, sepan cómo va todo en este momento. Debes tener en
+claro cuál es tu objetivo final para la presentación, saber qué quieres que la gente sepa al finalizar y, a partir de ahí,
+trabajar en retrospectiva y asegurarte de que todo sea claro y explícito en tu presentación.
+
+#### Consejos para realizar presentaciones efectivas
+
+Si te intimida hacer presentaciones, no estás solo/a. Hablar en público puede poner nerviosas a muchas personas. Pero, como
+ocurre con la mayoría de las cosas, cuanto más lo hagas, más natural te resultará. Con el tiempo y la práctica, ganarás
+seguridad para hablar en público. En esta lectura, aprenderás algunos consejos para liderar presentaciones efectivas que
+mantengan la atención de tu audiencia.
+
+Consejo 1: Habla con claridad y lentitud
+
+Si sientes nervios al hacer la presentación, es posible que hables demasiado rápido. Querrás que tu audiencia pueda entender
+todo lo que dices. Por lo tanto, es de ayuda mantener un ritmo constante, claro y lento mientras hablas. También puedes
+considerar usar algún tipo de técnica de ritmo o pausa para ayudarte a mantener una velocidad constante mientras hablas,
+como tomar una pausa corta después de cada oración.
+
+Consejo 2: Haz pausas
+
+Las pausas demuestran seguridad y ayudan a marcar el ritmo de tu presentación. Entre los momentos ideales para hacer una
+pausa están los que se dan al plantear una pregunta a la audiencia o cuando se va a pasar a una nueva sección o eje
+temático. Agregar una pausa significativa también es una forma de asegurarse de no estar hablando demasiado rápido.
+
+Consejo 3: Haz contacto visual
+
+Mientras realizas la presentación, trata de hacer contacto visual con tu audiencia. Puede ser de utilidad hacer contacto
+visual con una persona durante tres a cinco segundos antes de pasar a otra persona. Esto te ayudará a conectar con tu
+público y a este, a mantener la atención.
+
+Si mirar a alguien a los ojos te incomoda, aquí hay otra recomendación que puedes probar: mira la frente de una persona, en
+lugar de mirarla directamente a sus ojos. O bien, trata de mirar a cada persona a la altura de los ojos, pero mira
+directamente a la pared detrás de esta, mientras escaneas a la audiencia. Esto hará que parezca que estás haciendo contacto
+visual con la audiencia sin hacerlo realmente.
+
+Al realizar una presentación de forma virtual, asegúrate de mirar directamente a tu cámara web. Esto ayudará a que la
+audiencia sienta como si la estuvieras mirando a los ojos. Otro punto a tener en cuenta: en lo posible, ubica tus notas a un
+lado de la pantalla de tu computadora para que no estés mirando hacia abajo durante la presentación.
+
+Consejo 4: Cuenta una historia
+
+Si estás utilizando herramientas digitales para crear una presentación, como Google Slides o PowerPoint de Microsoft, piensa
+en tu presentación como una historia con un principio, un desarrollo y un desenlace. Cada diapositiva debe ayudar a avanzar
+la historia que estás contando. Para contar una historia efectiva y atractiva es útil incluir ejemplos reales, como reseñas,
+fotografías o videos cortos de interacciones de clientes. La narración de historias es más poderosa que compartir una lista
+de insights de la investigación, porque tu audiencia puede observar las emociones, los puntos débiles y las bondades de tu
+producto desde el punto de vista de un usuario real.
+
+Consejo 5: Sé conciso/a
+
+Si bien es útil usar historias y datos para mantener a tu audiencia atenta, asegúrate de que todo lo que compartas agregue
+valor. Presenta la información de manera concisa y ve al grano. Según un estudio, la capacidad del ser humano para prestar
+atención es, en promedio, de ocho segundos. Esto significa que tienes muy poco tiempo para enganchar a tu audiencia y
+mantener su atención.
+
+Consejo 6: Conoce a tu audiencia
+
+El tono y el contenido de tu presentación deben ser adecuados para la audiencia a la que te estás dirigiendo. Por ejemplo,
+tu presentación podrá ser más informal cuando estés frente a un grupo de colegas que cuando estés con clientes externos/as.
+Del mismo modo, deja que tu audiencia te conozca. Sé quien eres y deja que tu personalidad brille. Esto te ayudará a
+transmitir más autenticidad y a fortalecer la confianza generada con tu audiencia.
+
+#### Ejemplo de actividad: Presenta datos del marketing por correo electrónico a las partes interesadas
+
+Compara el ejemplo con tu presentación terminada. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué
+hiciste bien? ¿En qué aspectos podrías mejorar? Las respuestas a estas preguntas te servirán como guía a medida que avances
+en el curso.
+
+Nota: El ejemplo representa una posible versión de la presentación. Es probable que la tuya difiera en algunos aspectos. Lo
+importante es que tu presentación explique los datos claramente y los interprete de una manera que sea relevante para la
+audiencia.
+
+Repasemos las diapositivas 5–8, una a la vez:
+
+Diapositiva 5: Tasas de apertura por categoría de correo electrónico
+
+Resumen: Las notas de quien presenta resumen los datos de la tabla y explican por qué son relevantes: entre las tres
+categorías de correo electrónico (boletines informativos, anuncios de nuevos espectáculos y promociones), los correos
+electrónicos promocionales tienen un mejor rendimiento en los tres segmentos de suscriptores/as (asistentes recientes,
+anteriores y quienes nunca asistieron). Examinar los datos de correos electrónicos promocionales en mayor profundidad podría
+proporcionar una respuesta más específica a la pregunta de qué tipo de contenido tiene un mejor rendimiento en cada
+segmento.
+
+Diapositiva 6: Tasas de apertura por tipo de promoción
+
+Resumen: Las notas de quien presenta explican lo que los datos de correo electrónico promocional significa para cada
+segmento de suscriptores/as: las/los asistentes recientes muestran una ligera preferencia por los descuentos por pedido
+anticipado, las/los asistentes anteriores están divididos entre promociones de última hora y dos por uno (BOGO), y las
+personas que nunca han asistido a un espectáculo se involucran más con los correos electrónicos BOGO. Esta información da
+una respuesta parcial a la pregunta de qué tipo de contenido de correo electrónico tiene mejor rendimiento en cada segmento.
+
+Diapositiva 7: Tasas de clic por apertura por tipo de promoción
+
+Resumen: Las notas de quien presenta explican por qué los datos de la tasa de clics por apertura son importantes: indica el
+porcentaje de suscriptores/as que abren correos electrónicos y están haciendo clic en los enlaces enviados. También
+consideran cómo se comparan los datos de la diapositiva 7 con los datos de la diapositiva 6.
+
+Entre la lista de suscriptores/as que nunca han asistido a un espectáculo, las tasas de clic por apertura son más altas para
+las promociones BOGO. Este resultado es consistente con los datos de tasa de apertura. Del mismo modo, las/los asistentes
+recientes tienen más probabilidades de abrir y participar con descuentos de preventa. Mientras que las/ los asistentes
+recientes abren correos electrónicos de promociones de última hora y los correos electrónicos BOGO a una tasa similar, es
+ligeramente más probable que utilicen  las promociones de última hora.
+
+Diapositiva 8: Conclusión y recomendaciones
+
+Resumen: La diapositiva de conclusión se basa en el análisis de las diapositivas 5–7 a fin de recomendar el contenido del
+correo electrónico al que se le debe dar prioridad para cada grupo.
+
 ### Revisión: Recopila y analiza los datos de las campañas de marketing por correo electrónico
+
+#### Términos y definiciones del curso 4, semana 4
+
+Datos: Una colección de hechos o información.
+
+Indicador clave de rendimiento (KPI): Medida que se usa para analizar el éxito de una empresa, en su esfuerzo por alcanzar
+un objetivo de negocio o marketing.
+
+Informe de marketing por correo electrónico: Colección de KPIs presentados al equipo y a las partes interesadas para
+informarles sobre el progreso de una campaña.
+
+Métricas: Mediciones cuantificables que se utilizan para rastrear y evaluar un objetivo de negocio.
+
+Parte interesada: Alguien con un interés o una preocupación por un proyecto y sus resultados.
+
+Prueba A/B: Método de prueba en el que se comparan dos versiones de contenido con una sola variable diferente para
+determinar cuál produce mejores resultados.
+
+Retorno de la inversión (ROI): Relación entre los ingresos netos (dinero ganado) y la inversión (dinero gastado).
+
+Tasa de apertura: El porcentaje de usuarios/as o clientes que abren un correo electrónico.
+
+Tasa de cancelación de suscripciones: Porcentaje de destinatarios/as de correo electrónico que se dan de baja de una lista
+de envío después de abrir un correo electrónico.
+
+Tasa de clics por apertura: Porcentaje de destinatarios/as de correo electrónico que hicieron clic en uno o más enlaces en
+un correo electrónico.
+
+Tasa de conversión: Porcentaje de usuarios/as o visitantes del sitio web que completaron una acción deseada, como hacer clic
+en el enlace en un correo electrónico o comprar un producto.
+
+Tasa de crecimiento de la lista: Tasa a la que crece una lista de suscriptores/as de correo electrónico.
+
+Tasa de quejas: Porcentaje de quejas que las/los destinatarios envían a los proveedores de correo electrónico por haber
+recibido un correo electrónico.
+
+Tasa de rebote de correo electrónico: Porcentaje de correos electrónicos enviados que no ingresaron en la bandeja de
+entrada.
+
+Tasa de reenvío: Porcentaje de personas que hacen clic en el botón “compartir” para publicar en redes sociales o que hacen
+clic en el botón “reenviar” para enviar a otras.
 
 ## Ejecuta tu propia campaña de marketing por correo electrónico
