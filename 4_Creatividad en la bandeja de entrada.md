@@ -2976,6 +2976,50 @@ entregársela a las partes interesadas.
 
 #### Actividad de ejemplo: crear una presentación para las partes interesadas
 
+Compara el ejemplo con tu presentación finalizada. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué
+hiciste bien? ¿En qué aspectos puedes mejorar? Usa las respuestas a estas preguntas de guía a medida que avanzas en el
+curso.
+
+Nota: El ejemplo representa una posible versión de la presentación. Es probable que tu trabajo sea diferente en algunos
+aspectos. Lo importante es que tu presentación explique claramente los datos de la campaña y haga recomendaciones concretas.
+
+Repasemos las diapositivas 4 a 7 una por una:
+
+Diapositiva 4: nuevos/as suscriptores/as agregados/as
+
+Resumen: Las anotaciones resumen la información más relevante de la diapositiva: la cantidad de suscriptores/as nuevos/as ha
+aumentado todos los meses, pero no lo suficiente como para alcanzar el objetivo de 12,000 suscriptores/as a tiempo. También
+sugieren que el lanzamiento de la línea nueva podría haber tenido un mayor impacto en estas cifras que las actividades de
+marketing realizadas previas al lanzamiento.
+
+Recomendaciones: Debido a que la campaña tiene apenas algunas semanas de retraso con respecto al objetivo de
+suscriptores/as, las anotaciones recomiendan seguir monitoreando la situación.
+
+Diapositiva 5: tasa de conversión
+
+Resumen: Las anotaciones indican que la campaña también estará tanto en julio como en agosto, pero se proyecta que no
+alcanzará el objetivo final.
+
+Recomendaciones: Al igual que el objetivo de suscriptores/as, el objetivo de conversión tiene aproximadamente un mes de
+retraso. Sin embargo, como se demostrará en la siguiente diapositiva, la optimización de ciertas métricas podría tener un
+impacto significativo en la tasa de conversión. Las anotaciones también sugieren continuar monitoreando los resultados para
+determinar si esta tasa de crecimiento es sostenible.
+
+Diapositiva 6: tasa de apertura semanal vs tasa de clics sobre aperturas semanal
+
+Resumen: Las anotaciones explican que la brecha entre la tasa de apertura y la tasa de clics sobre aperturas se ha
+incrementado en las ocho semanas posteriores al lanzamiento.
+
+Recomendaciones: Como la tasa de clics sobre aperturas es inusualmente baja, las anotaciones recomiendan realizar pruebas
+A/B con llamadas a la acción (CTA) y uso de hipervínculos. La optimización de la tasa de clics sobre aperturas podría ayudar
+a aumentar la tasa de conversión.
+
+Diapositiva 7: Conclusión y próximos pasos
+
+La conclusión resume los aspectos más importantes de la presentación y vuelve a plantear los próximos pasos sugeridos.
+También ofrece recomendaciones para futuras campañas, como la ejecución de más pruebas A/B y la construcción de la lista de
+correo electrónico con más anticipación.
+
 ### Revisión: Ejecuta tu propia campaña de marketing por correo electrónico
 
 ### Revisión del curso: Creatividad en la bandeja de entrada: marketing por correo electrónico
