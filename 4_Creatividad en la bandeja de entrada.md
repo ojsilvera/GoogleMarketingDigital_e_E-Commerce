@@ -2244,11 +2244,134 @@ que deseas aumentar tus tasas de apertura en un 5% es genial, pero debes planifi
 
 #### Las métricas más comunes del marketing por correo electrónico
 
+Recuerda que las métricas son medidas cuantificables usadas para hacer seguimiento y evaluar un objetivo de negocio. Debes
+recordarlo mientras vemos cuáles son las métricas más comunes del marketing por correo electrónico. Así seas tú quien
+determina los KPI en tu empresa, o bien ya estén establecidos para ti, necesitarás conocer la importancia de cada métrica.
+En este video veremos la tasa de apertura, de clic por apertura y de cancelación de suscripciones. Comencemos. La tasa de
+apertura es el porcentaje de usuarios/as que abren el correo electrónico. Probablemente no la calcules tú porque utilizas
+una herramienta automatizada. Pero puedes calcularla al dividir el número de personas que abren el correo electrónico entre
+el número de personas que lo recibieron. Esta tasa es importante porque indica el interés de tus suscriptores/as. Una tasa
+alta podría indicar que el asunto de tus correos es efectivo y una tasa baja podría indicar lo contrario. Si tu organización
+no se enfoca en lograr altas tasas de apertura, no es la única. A algunas empresas les interesa más saber cómo los
+suscriptores/as interactúan con el correo. Aquí entra la tasa de clic por apertura. Es el porcentaje de destinatarios/as que
+hicieron clic en enlaces del correo comparado con el total de aperturas únicas. Para calcular la tasa de clics por apertura,
+divide el total de clics entre las aperturas únicas. Esta métrica se suele usar en las pruebas A/B, en la que se envían dos
+versiones de un correo simultáneamente para ver cuál tiene mejor respuesta. Gran cantidad de especialistas prestan mucha
+atención a la tasa de clics por apertura. Digamos que quieres crear interés en tu empresa de limpieza mediante correos
+electrónicos. Envías dos versiones de un correo con diferentes imágenes hipervinculadas. El que tenga una tasa de clics por
+apertura más alta determinará tus decisiones futuras sobre qué imágenes agregar. Cuanto más interactúe el público con tu
+contenido, más prosperará tu campaña. Y si no interactúa, quizá pueda darse de baja. Aquí aparece la tasa de cancelación de
+suscripciones. que, como su nombre lo indica, es el porcentaje de destinatarios/as que se dan de baja de tu lista después de
+abrir un correo. Esta métrica te dice si estás enviando contenido que tu público disfruta. Pero, a veces, los/as usuarios/as
+optan por no abrir tus correos, en lugar de cancelar la suscripción. Si no abren los correos, es un problema diferente de si
+se dan de baja. Para calcular esta tasa divide el número de bajas entre el número de correos entregados. Las tasas de
+apertura, de clic por apertura y cancelación de suscripciones son buenos indicadores en tu campaña. Tú y tu equipo deciden
+si estas son las métricas que deben priorizar como KPI.
+
 #### Las métricas más comunes del marketing por correo electrónico: Parte 2
+
+En esta sección aprenderás sobre las métricas que las empresas analizan para ver si una campaña es exitosa o no. Estamos
+abordando las tasas de apertura, clic por apertura, cancelación de suscripciones, conversión, rebote, quejas y más. En este
+video nos enfocaremos en las últimas tres: tasa de conversión, tasa de rebote y tasa de quejas. La tasa de conversión es el
+porcentaje de destinatarios/as que hicieron clic en un enlace y realizaron la acción deseada, como hacer una compra. La tasa
+de conversión responde la pregunta: ¿El público respondió como querías? Lograr una conversión alta es importante para las
+empresas porque significa que venden más productos o servicios sin aumentar el presupuesto. La tasa se calcula al dividir el
+número de conversiones entre el número de clics. Normalmente, las herramientas analíticas te dan este número. Google
+Analytics, del que aprenderás más en otros videos, proporciona estadísticas de marketing y perspectivas analíticas. Es una
+gran herramienta para entender a tus clientes mediante métricas como la tasa de conversión. Por ejemplo, si quieres saber la
+tasa de conversión de una campaña de correo electrónico para tu empresa de limpieza debes comprobar cuántas personas
+reservaron el servicio desde tus correos. Es más probable que un/a suscriptor/a realice la acción deseada si recibe tu
+correo. Allí entra en juego la tasa de rebote: es el porcentaje de correos enviados que no se pudieron entregar a los
+destinatarios. Se puede calcular tomando el total de correos rebotados y dividiéndolo por el número de correos enviados,
+multiplicado por 100. Las tasas de rebote pueden variar y sufrir cambios. Para saber cómo te está yendo, verifica los
+estándares de tu industria. Si tu tasa de rebote es mayor que el promedio, quizá debas investigar un poco. Los correos
+pueden rebotar porque la dirección es incorrecta o está inactiva o porque hay un error de importación en tu lista. Para
+evitar altas tasas de rebote, verifica tu dominio. Controla que tu herramienta de automatización esté actualizada y funcione
+bien con tu lista para eliminar los correos inactivos y asegúrate de tener el permiso de tus suscriptores/as para enviar
+correos. La tasa de quejas es el porcentaje de destinatarios/as que se quejan por recibir tus correos. Puedes calcularla al
+dividir el número de quejas entre el total de correos enviados a los suscriptores/as. Los/as expertos/as suelen considerar
+0.01% como el estándar de la industria. Dado que tu empresa de limpieza es pequeña, quizá monitorees esta métrica porque
+probablemente no recibas muchas quejas. Esta métrica te ayuda a evaluar si tus suscriptores/as están contentos/as y es bueno
+asegurarte de no estar molestándolos/as o haciendo algo mal. Si fuera así, podrías perder suscriptores/as. Las tasas de
+conversión, de rebote y de quejas son información importante para el éxito general de tu campaña.
 
 #### Las métricas más comunes del marketing por correo electrónico: Parte 3
 
+En el marketing por correo, el crecimiento se mide de muchas formas. La definición de una organización puede ser diferente
+de la de otra. Una empresa puede analizar la tasa de crecimiento de su lista; otra, la tasa de reenvío; y otra puede hacer
+un seguimiento del retorno de la inversión o ROI para saber si el trabajo que realiza genera un aumento en las ventas. Para
+saber qué indicadores tienes que analizar, debes conocer las métricas más comunes del marketing por correo electrónico. En
+este video, hablaremos del ROI, de la tasa de crecimiento de la lista y de la tasa de reenvío. Empecemos por el ROI.
+Recuerda que es la proporción de dinero ganado y dinero gastado. Puedes calcularlo al dividir los ingresos totales entre la
+cantidad total de dinero gastado y multiplicarlo por 100. Digamos que tu empresa de limpieza ganó $800 (USD) desde la
+primera campaña de correo electrónico, y crees que gastó cerca de $200 (USD) en ella, tu ROI será del 400%. Esta importante
+métrica te indica si tu estrategia de marketing por correo electrónico es productiva. El ROI del marketing por correo
+electrónico suele ser alto porque el gasto total es muy bajo. Siempre es útil conocer este número, especialmente al crear
+informes y presentaciones para las partes interesadas. Un monto en dólares demuestra a tu organización la efectividad de tu
+campaña. Es importante tener en cuenta que quizá no revises el ROI tan frecuentemente. Puedes hacer un seguimiento de las
+otras métricas cada día o semana, pero el ROI se revisa mensual, trimestral o anualmente. En el video anterior, mencioné que
+el marketing por correo electrónico tiene un ROI promedio de 42:1. Así que por cada US$ 1 gastado, recupero US$ 42. ¡Un
+retorno de la inversión bastante alto! Pero no te desanimes si tu ROI no es tan alto. Cada situación es diferente y quizá
+estés enfocado en otras métricas. El retorno depende de varios factores, como el volumen de ventas, el valor promedio del
+pedido, la tasa de conversión de sitio web, etcétera. Por eso, las empresas y diferentes industrias tienen distintos
+márgenes de retorno de las campañas. Para la tasa de crecimiento de la lista, el cálculo es un poco más avanzado. Se toma el
+número de nuevos/as suscriptores/as menos el los/las que se dieron de baja se divide eso entre el total de direcciones de
+correo en tu lista y se multiplica por 100. Si ganas seis suscriptores/as y pierdes dos, la tasa de crecimiento de tu lista
+es del 4%. Es útil monitorear este número porque si tus correos son de calidad, una alta tasa de crecimiento puede generar
+mayores ventas y un mayor ROI. Otra forma de hacer crecer la audiencia de tu marca es mediante reenvíos. La tasa de reenvío
+es el porcentaje de destinatarios/as que hacen clic en “Compartir” para publicar en redes sociales o reenvían el correo a
+otras personas. Se calcula al dividir el número de reenvíos o publicaciones entre el total de correos entregados. Una tasa
+de reenvío es una métrica muy valiosa porque cuando un correo se reenvía, se generan nuevos leads. ¿Y qué mayor elogio para
+tu marca que tus suscriptores/as quieran compartirte con otros/as? Espero que ayudes a tu empresa, o futura empresa, a crear
+estrategias y crecer con las métricas y KPI que aprendiste.
+
 #### Conoce más sobre las métricas más comunes del marketing por correo electrónico
+
+Las y los especialistas en marketing digital pueden querer realizar un seguimiento y analizar diferentes tipos de métricas por correo electrónico para hacer una presentación a miembros de su equipo y a las partes interesadas. La elección de las métricas a rastrear dependerá tanto de los objetivos generales de la marca así como de los objetivos específicos de la campaña. Una vez que tengas esa información, podrás decidir qué métricas son las más relevantes. En videos anteriores, se presentaron cuáles son las métricas más comunes del marketing por correo electrónico. En esta lectura, repasaremos esos indicadores para que tengas un recurso de referencia.
+
+Las métricas más comunes
+
+Las y los especialistas en marketing digital confían en las herramientas para hacer un seguimiento de las métricas y crear informes que les ayuden a obtener insights de sus campañas. Sin embargo, es posible calcular estas métricas por tu cuenta, si alguna vez necesitas hacerlo. A continuación, repasarás cuáles son las métricas más comunes, junto con la forma para calcularlas.
+
+La tasa de apertura es el porcentaje de personas que abren tu correo electrónico. Conocer cuál es tu tasa de apertura es importante, porque indica qué tan involucrados/as o comprometidos/as están tus suscriptores/as. Una tasa de apertura alta puede significar que estás escribiendo asuntos efectivos, mientras que una tasa de apertura baja puede sugerir que necesites repensar tus asuntos.
+
+Porcentaje de personas que abrieron el correo electrónico de entre el total que recibieron el correo electrónico
+
+La tasa de clics por apertura es el porcentaje de destinatarios/as de correo electrónico que hicieron clic en uno o más enlaces enviados. Esta métrica se usa con frecuencia en las pruebas A/B, en las que se envían dos versiones de un correo electrónico al mismo tiempo para determinar qué versión funciona mejor. Las y los especialistas en marketing digital generalmente prestan mucha atención a la tasa de clics por apertura.
+
+Porcentaje de clics totales entre el total de aperturas únicas
+
+La tasa de cancelación de suscripciones es el porcentaje de destinatarios/as de correo electrónico que se dan de baja de una lista de envío después de abrir un correo electrónico. Esta métrica es útil porque indica si estás enviando contenido que tu audiencia disfruta.
+
+Porcentaje de cancelaciones de suscripción entre el total de correos electrónicos entregados
+
+La tasa de quejas es el porcentaje de quejas que las y los destinatarios envían a los proveedores de correo electrónico sobre tu correo electrónico. Esta métrica puede ayudarte a medir qué tan satisfechos/as están tus suscriptores/as. Es importante asegurarte de que no te estás ganando quejas o críticas negativas.
+
+Porcentaje de quejas de entre el total de correos electrónicos entregados a la lista de suscriptores/as
+
+La tasa de conversión es el porcentaje de destinatarios/as de correo electrónico que hicieron clic en un enlace en tu correo electrónico y completaron una acción deseada, como hacer una compra.
+
+Porcentaje de conversiones de entre el total de clics
+
+La tasa de reenvío es el porcentaje de destinatarios/as que hacen clic en el botón “share” (“compartir”) para publicar en las redes sociales o que hacen clic en el botón “forward” (“reenviar”) para enviar a otras personas. Una tasa de reenvío es una métrica muy valorada cuando se reenvía un correo electrónico, significa que estás generando nuevos leads.
+
+Porcentaje de reenvíos entre el total de correos electrónicos entregados
+
+La tasa de crecimiento de la lista es la velocidad a la que crece tu lista de suscriptores/as. Es útil hacer un seguimiento de este indicador, dado que una alta tasa de crecimiento de la lista puede traducirse en un mayor volumen de ventas.
+
+(Número de suscriptores/as nuevos/as menos el número de cancelaciones de suscripciones) dividido por el total de direcciones de correo electrónico, multiplicado por 100.
+
+La tasa de rebote es el porcentaje de correos electrónicos enviados que no se pudieron entregar en la bandeja de entrada del/a destinatario/a. Si encuentras que tu tasa de rebote es más alta que el promedio de la industria, es posible que debas investigar un poco. Un correo electrónico rebotado es causado por direcciones de correo electrónico incorrectas o inactivas o por un error de importación con tu lista de correo electrónico.
+
+(Número total de correos electrónicos rebotados dividido por los correos electrónicos enviados) multiplicado por 100
+
+El retorno de la inversión (ROI) de la campaña es la relación entre la ganancia neta (dinero ganado) y la inversión realizada (dinero gastado). Esta métrica es importante, dado que te indica si tu estrategia de marketing por correo electrónico es productiva.
+
+(Ingresos totales dividido por el gasto total) multiplicado por 100
+
+Conclusiones principales
+
+Existen diversas métricas para utilizar en el marketing por correo electrónico. Según la campaña que estés llevando adelante, puede que algunas sean más relevantes que otras. Lo importante es que entiendas que extraer insights a partir de tus métricas es clave para lograr tus objetivos de marketing.
 
 ### Resultados de marketing por correo electrónico
 
