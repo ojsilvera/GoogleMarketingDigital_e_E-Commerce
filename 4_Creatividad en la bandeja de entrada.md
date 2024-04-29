@@ -2625,3 +2625,15 @@ Tasa de reenvío: Porcentaje de personas que hacen clic en el botón “comparti
 clic en el botón “reenviar” para enviar a otras.
 
 ## Ejecuta tu propia campaña de marketing por correo electrónico
+
+### Configurar una campaña de marketing por correo electrónico
+
+### Objetivos SMART en campañas de marketing por correo electrónico
+
+### Embudos de venta y segmentación
+
+### Análisis y presentación
+
+### Revisión: Ejecuta tu propia campaña de marketing por correo electrónico
+
+### Revisión del curso: Creatividad en la bandeja de entrada: marketing por correo electrónico.
