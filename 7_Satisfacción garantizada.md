@@ -471,7 +471,7 @@ Define los objetivos
 Antes de comenzar a medir la satisfacción de sus clientes, la empresa debe definir qué debe mejorar. La experiencia de
 los/las compradores/as en una tienda en línea está compuesta por muchos pasos: la selección del artículo, el proceso de pago
 y la entrega del producto. En cada uno de estos pasos algo puede salir mal, por lo que es importante ser específico/a al
-pensar en el objetivo de la investigación. 
+pensar en el objetivo de la investigación.
 
 En un curso anterior, aprendiste que los objetivos deben ser específicos, medibles, alcanzables, relevantes y de tiempo
 limitado. Ten en cuenta esto cuando desarrolles tus objetivos.
@@ -515,7 +515,7 @@ Las encuestas de puntuación neta de promotor (NPS) consisten en una sola pregun
 encuestados/as que califiquen la probabilidad de que le recomienden una empresa, producto o servicio a un amigo/a o colega
 mediante una escala que va de 0, para nada probable, a 10, extremadamente probable. A diferencia de las encuestas CSAT
 generales, que tienen como objetivo medir la satisfacción de clientes con un servicio o marca en particular, las encuestas
-NPS pretenden medir la fidelidad hacia una empresa. Las puntuaciones se dividen en tres categorías: 
+NPS pretenden medir la fidelidad hacia una empresa. Las puntuaciones se dividen en tres categorías:
 
 Promotores/as: las personas que responden con una puntuación de 9 o 10. Se las considera entusiastas de la marca.
 
@@ -523,11 +523,11 @@ Pasivos/as: las personas que responden con una puntuación de 7 u 8. Están sati
 promocionar la marca.
 
 Detractores/as: las personas que responden con una puntuación de 6  inferior. No están satisfechas y es poco probable que
-vuelvan a comprarle a la empresa. 
+vuelvan a comprarle a la empresa.
 
-Para calcular la puntuación NPS, las empresas restan el porcentaje de detractores del porcentaje de promotores. 
+Para calcular la puntuación NPS, las empresas restan el porcentaje de detractores del porcentaje de promotores.
 
-Por ejemplo, si el 15% de las personas son detractoras y el 60% promotoras, la puntuación global de NPS es del 45%. 
+Por ejemplo, si el 15% de las personas son detractoras y el 60% promotoras, la puntuación global de NPS es del 45%.
 
 Encuesta de usabilidad
 
@@ -539,7 +539,7 @@ cualquier problema que hayan tenido a lo largo de su proceso de compra.
 
 Selecciona un medio de encuesta
 
-Una vez que seleccionas un tipo de encuesta, tendrás que elegir un medio. Los diferentes medios de encuesta pueden incluir: 
+Una vez que seleccionas un tipo de encuesta, tendrás que elegir un medio. Los diferentes medios de encuesta pueden incluir:
 
 Encuestas realizadas desde la aplicación o el sitio.
 
