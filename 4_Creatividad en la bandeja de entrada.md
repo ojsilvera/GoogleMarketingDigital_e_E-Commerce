@@ -1672,11 +1672,338 @@ Puedes enviar tu correo electrónico en el momento, o bien programarlo para más
 
 #### Actividad: crear un correo electrónico en HubSpot
 
+Evaluación del ejemplo
+
+Compara los ejemplos con las visualizaciones de datos que completaste. Revisa tu trabajo usando cada uno de los criterios
+del ejemplo. ¿Qué hiciste bien? ¿En qué aspectos puedes mejorar? Usa las respuestas a estas preguntas como guía a medida que
+avanzas en el curso.
+
+Nota: Los ejemplos representan tres versiones posibles del correo electrónico de bienvenida de Odos. Usan algunas de las
+opciones de diseño y formato disponibles en el editor de correo electrónico de HubSpot. Es probable que tu correo
+electrónico sea diferente en algunos aspectos. Lo importante es que hayas adquirido experiencia en el uso de una herramienta
+de marketing por correo electrónico estándar de la industria.
+
+Cada ejemplo incluye el logotipo de Odos, el texto completo del correo electrónico de bienvenida y una o dos imágenes de
+archivo que se relacionan con el contenido del mensaje. Los diseños de página son muy similares, pero usan distintas
+opciones de formato y diseño gráfico para crear resultados diversos.
+
+Versión 1
+
+Diseño de página
+
+El logo, la primera imagen de archivo y la sección “Odos + Tú = la pareja perfecta” se apilan verticalmente.
+
+El botón de ancho completo “Explorar marcos” actúa como un divisor entre las dos secciones principales del correo
+electrónico.
+
+La sección “Más formas de probar Odos” usa el diseño número 2, con dos elementos de texto apilados a la derecha y un solo
+elemento de imagen a la izquierda.
+
+Diseño gráfico y formato
+
+La línea de asunto usa un token de personalización (“¡Te damos la bienvenida, Brian!)”.
+
+El correo electrónico utiliza una fuente con serif (Georgia) tanto para los encabezados como para el texto del párrafo.
+
+La paleta de colores audaces se ajusta a la personalidad de la marca y complementa la primera imagen de archivo.
+
+El color del cuerpo es rosa claro, lo que permite que el texto se destaque.
+
+El fondo enmarca el cuerpo del mensaje con un color frambuesa más oscuro.
+
+El patrón de fondo a lunares anima el diseño y coincide con el tono lúdico del mensaje.
+
+Versión 2
+
+Diseño de página
+
+El logo, la única imagen de archivo y la sección “Odos + Tú = la pareja perfecta” se apilan verticalmente.
+
+El botón “Examinar marcos” es de ancho completo y actúa como un divisor entre las dos secciones principales del correo
+electrónico.
+
+Un divisor sólido (50% de ancho) crea una separación adicional.
+
+La sección “Más formas de probar Odos” utiliza el diseño número 2, con un solo elemento de texto en cada sección.
+
+Diseño gráfico y formato
+
+La línea de asunto usa un token de personalización y un emoji de gafas (“¡Te damos la bienvenida, Brian! [emoji]”).
+
+El correo electrónico utiliza una fuente sin serif (Trebuchet MS) tanto para los encabezados como para el texto del párrafo.
+
+La paleta de colores complementa el fondo de la imagen de archivo.
+
+El color del cuerpo es blanco, lo que permite que el texto se destaque.
+
+El fondo enmarca el cuerpo del mensaje con un azul grisáceo medio.
+
+El patrón de fondo de confeti anima el diseño y coincide con el tono lúdico del mensaje.
+
+Versión 3
+
+Diseño
+
+El logo, la única imagen de archivo y la sección “Odos + Tú = la pareja perfecta” se apilan verticalmente.
+
+El botón “Examinar marcos” no es de ancho completo.
+
+La sección “Más formas de probar Odos” utiliza el diseño número 2, con un solo elemento de imagen a la derecha y dos
+elementos de texto apilados a la izquierda.
+
+Diseño y formato
+
+La línea de asunto usa un token de personalización y un emoji de gafas (“¡Te damos la bienvenida, Brian! [emoji]”).
+
+El correo electrónico utiliza una fuente serif (Merriweather) para los encabezados y una fuente sans serif (Tahoma) para el
+texto del párrafo.
+
+La paleta de colores complementa las gafas plegadas en la imagen de archivo.
+
+El color del cuerpo es blanco hacia la parte superior del mensaje y naranja pálido hacia la parte inferior. El cambio de
+color divide las dos secciones principales del correo electrónico.
+
+El fondo es de un tono de naranja ligeramente más oscuro.
+
+El patrón de fondo de líneas anima el diseño y coincide con el tono lúdico del mensaje.
+
 #### Enviar correos electrónicos en Mailchimp
+
+En esta lectura, obtendrás una comprensión general sobre cómo elaborar un correo electrónico en una herramienta de marketing digital líder. El objetivo de esta lectura no es guiarte hasta crear una campaña de marketing por correo electrónico. En la parte inferior de esta lectura, hay enlaces a recursos donde podrás obtener más información sobre esta herramienta.
+
+Funciones de Mailchimp
+
+Mailchimp es una plataforma de automatización de marketing que permite a las empresas llegar a su público objetivo a través de campañas de correo electrónico. Mailchimp es líder en la industria por muchas razones. Permite a las/los especialistas en marketing administrar, segmentar y maximizar el público para una mayorpersonalización. También ofrece una herramienta de creación de correos electrónicos personalizables que viene con una gran variedad de plantillas y herramientas de diseño. Por último, contiene herramientas avanzadas de generación de informes que ayudan a realizar un seguimiento del rendimiento y los resultados de la campaña.
+
+Redacción de un correo electrónico
+
+Crear un correo electrónico para interactuar con tus suscriptores/as es una parte importante de una campaña exitosa, y herramientas como Mailchimp ayudan a facilitar ese proceso. En Mailchimp, puedes crear un correo electrónico regular y, luego, mediante una lista de verificación de creación de campañas, agregar destinatarios, ajustar la configuración y elegir tu plantilla. Pero, primero, tendrás que registrarte para obtener una cuenta gratuita <https://login.mailchimp.com/signup/>
+
+Creación del correo electrónico
+
+Una vez que hayas configurado tu cuenta de Mailchimp, haz clic en el botón Crear. Luego, selecciona Correo electrónico. Elige entre Regular, Texto plano o Plantilla. Después, ingresa el nombre de tu campaña.
+
+![alt text](image-93.png)
+
+Este nombre solo aparecerá en Mailchimp y ninguno de tus contactos podrá verlo. Haz clic en Comenzar para empezar a crear y completa los pasos. Aparecerá una marca de verificación verde a medida que lo vayas haciendo.
+
+![alt text](image-94.png)
+
+Haz clic en Agregar destinatarios para seleccionar el público al que deseas enviar este correo electrónico. Selecciona tu Público elegido en el menú desplegable y, si quieres agregar un determinado segmento o etiqueta, no dudes en hacerlo desde el menú “Segmento o Etiqueta”. Personaliza este correo electrónico haciendo clic en Personalizar el campo “para”.
+
+Para ajustar el correo electrónico del remitente que aparecerá en las bandejas de entrada, haz clic en Editar el campo “de”. Puedes cambiar el nombre y la dirección de correo electrónico que aparece en los campos Nombre y dirección de correo electrónico si es necesario. Guarda esos ajustes y ve a la sección Asunto.
+
+![alt text](image-95.png)
+
+En la sección Asunto, puedes configurar el asunto y previsualizar el texto. Haz clic en Guardar.
+
+A continuación, tendrás que diseñar tu correo electrónico. Haz clic en Diseñar correo electrónico. Mailchimp tiene varias plantillas prediseñadas entre las que puedes elegir haciendo clic en el panel Diseños. Cuando elijas una, podrás personalizar la plantilla para tu marca y tu mensaje. Agrega una nueva imagen haciendo clic en el botón Imagen en el panel de diseño en el lado izquierdo y agrega también elementos como cuadros de texto, videos, imágenes, botones nuevos y más, desplazando el cursor sobre los signos más en la plantilla.
+
+![alt text](image-96.png)
+
+Previsualización y envío del correo electrónico
+
+Para previsualizar tu correo electrónico, haz clic en Vista previa. Mira las imágenes del monitor de la computadora y del teléfono para obtener una vista previa en dispositivos móviles y de escritorio.
+
+Haz clic en Continuar y volverás a la pantalla de la lista de verificación. Controla que haya una verificación verde junto a cada paso para asegurarte de que esté todo listo para enviar el correo. Puedes desplazarte hacia abajo y examinar cualquier otra configuración que quieras cambiar.
+
+Una vez que hayas completado las secciones Para, De, Asunto y Contenido del correo electrónico, puedes optar por programar el envío o enviarlo enseguida. Haz clic en el botón Programar o Enviar. Ten en cuenta que la función de programación solo se incluye con el plan Essentials de Mailchimp o superior.
+
+Para obtener más información sobre las funciones de correo electrónico de Mailchimp, visita los siguientes recursos adicionales.
 
 #### Actividad: Opcional - Configura una campaña en Mailchimp
 
+Compara los ejemplos con las visualizaciones de datos que completaste. Revisa tu trabajo usando cada uno de los criterios
+del ejemplo. ¿Qué hiciste bien? ¿En qué aspectos puedes mejorar? Usa las respuestas a estas preguntas como guía a medida que
+avanzas en el curso.
+
+Nota: Los ejemplos representan tres versiones posibles del correo electrónico de Homework Helpers. Usan algunas de las
+opciones de diseño, formato y diagramación disponibles en el creador de correo electrónico de Mailchimp. Es probable que tu
+correo electrónico sea diferente en algunos aspectos. Lo importante es que hayas adquirido experiencia en el uso de una
+herramienta de marketing por correo electrónico estándar de la industria.
+
+Cada ejemplo incluye el logotipo de Homework Helpers, el texto completo del correo electrónico y una o dos de las imágenes
+proporcionadas. Los diseños de los mensajes son muy similares, pero usan distintas opciones de formato y diseño para crear
+resultados diversos.
+
+Versión 1
+
+Diseño de página
+
+El logo, el primer bloque de texto y el botón se apilan verticalmente (usando un diseño de texto).
+
+Para las secciones “Quiénes somos” y “Qué hacemos”, se usa un diseño de texto e imagen.
+
+Las imágenes se recortan en formato cuadrado de modo que se ajusten al diseño.
+
+La sección “Comentarios de los padres” está apilada verticalmente.
+
+Los divisores separan las secciones del mensaje.
+
+Diseño gráfico y formato
+
+El asunto utiliza un emoji (pila de libros).
+
+El correo electrónico usa una fuente sans serif (Lato) tanto para los encabezados como para el texto del párrafo.
+
+Para llamar la atención, el primer botón es más grande que los demás. Los otros botones usan un estilo de contorno, pero
+todos tienen forma de píldora.
+
+La paleta de colores audaces se ajusta a la personalidad de la marca y complementa el logo:
+
+El color del cuerpo es verde claro, lo que permite que el texto se destaque.
+
+El fondo enmarca el cuerpo del mensaje con un verde más oscuro.
+
+Versión 2
+
+Diseño de página
+
+A excepción de la última sección, todo el texto y las imágenes se apilan verticalmente (usando tanto texto como diseños de
+texto e imagen).
+
+Las imágenes no están recortadas.
+
+La sección “Comentarios de los padres” utiliza un bloque de texto sin formato para el encabezado y un diseño de texto de
+columna para los testimonios.
+
+Los divisores separan las secciones del mensaje.
+
+Diseño gráfico y formato
+
+El asunto utiliza un emoji (pila de libros).
+
+El correo electrónico utiliza una fuente sans serif (Arimo) tanto para los encabezados como para el texto del párrafo.
+
+El texto del párrafo tiene un espaciado doble a lo largo del mensaje y usa negritas en las secciones con colores de cuerpo
+azules.
+
+Todos los botones son cuadrados y usan un estilo de relleno. Para llamar la atención, el primer botón es más grande que los
+demás.
+
+El cuerpo blanco permite que el texto y las imágenes coloridas se destaquen. El fondo enmarca el cuerpo del mensaje con un
+gris neutro.
+
+Versión 3
+
+Diseño
+
+Todo el texto y las imágenes se apilan verticalmente (usando texto y diseños de texto e imagen).
+
+Además del logo, en el mensaje se utiliza una imagen sin recortar.
+
+La sección “Comentarios de los padres” utiliza un bloque de texto sin formato para el encabezado y un diseño de texto de
+columna para los testimonios.
+
+Un divisor separa las secciones “Quiénes somos” y “Qué hacemos”.
+
+Diseño y formato
+
+En el asunto, se usa un emoji (cuaderno).
+
+El correo electrónico usa una fuente sans serif (Raleway) tanto para los encabezados como para el texto del párrafo.
+
+El primer botón es blanco con texto azul, lo que lo ayuda a destacarse contra el fondo más oscuro. Los otros dos botones son
+azules con texto blanco. Todos los botones son redondeados y usan un estilo de relleno.
+
+Los colores de fondo audaces (tonos de cian y azul) separan la sección del cuerpo y se adaptan a la personalidad de la
+marca. El fondo es un gris neutro, lo que permite que el cuerpo del mensaje se destaque.
+
 ### Errores del marketing por correo electrónico
+
+#### Errores del marketing por correo electrónico curso 4
+
+Aunque el marketing por correo electrónico funciona para mantener actualizados a tus clientes, es importante tener en cuenta
+que a veces hay errores. Te daremos algunos consejos para que cuando eso ocurra no afecte la relación con tus
+suscriptores/as. Cuando envías correos a tus destinatarios/as, no puedes editarlos en tiempo real. Una vez enviados, están
+fuera de tus manos. Algunos errores más comunes son enviar enlaces rotos, un correo a la lista incorrecta un correo
+desactualizado, o con errores en la personalización, tipográficos o en el copy. Lo bueno es que puedes prevenir e
+identificar errores antes de enviar los correos. Primero hablemos de los enlaces rotos. Es un hipervínculo dirigido a un
+sitio web que no existe por alguna razón. Si envías un correo de marketing con enlace a un sitio web, archivos PDF o algo
+más y se recibe un mensaje de error, tu enlace está roto. Y para asegurarte de que no suceda verifica dos veces el
+hipervínculo antes de enviar el correo. Siempre ayuda tener otra mirada sobre tu correo electrónico. Pide ayuda a colegas
+para asegurar que esté bien. Supongamos que envías un enlace a un blog en un correo, pero la URL tenía un error, ¿cómo se
+corrige? Puedes redirigir a los/as suscriptores/as para que el enlace con el error los lleve a la URL correcta. O dejarlo y
+triplicar la verificación la próxima, porque aún las y los especialistas cometen errores. Otro error común es enviar un
+correo a la lista incorrecta Tus listas se segmentarán en función de datos demográficos, de comportamiento, características
+psicográficas y geografía. Si quieres enviar un correo a tu lista de personas de 18 a 25 años porque es probable que compren
+un artículo determinado, pero sin querer lo enviaste al grupo de 40 a 55 enviaste el correo equivocado. Para evitar que esto
+ocurra en el futuro, debes crear algún tipo de control de calidad o proceso de control de calidad (CC) para tus correos de
+marketing. El CC es un proceso con el que un negocio busca que la calidad del producto se mantenga o mejore. Crea una lista
+de verificación para chequear que usas el formato, contenido y etiquetas correctos y todo lo que quieras controlar. Si
+cometes el error de enviar el correo electrónico errado o desactualizado, no te asustes, puedes seguir unos pasos para
+arreglarlo. Por supuesto, lo mejor es evitar que ocurra. Para ello debes manejar con fluidez tus herramientas de sistemas
+automatizados y software. Sin importar la herramienta que uses, debes conocerla al detalle, para disminuir la probabilidad
+de enviar un correo incorrecto. Pero si sucede, para arreglarlo, necesitas enviar un correo electrónico de seguimiento. Tal
+vez puedas crear una plantilla de disculpa con la herramienta de automatización, para enviarlo lo antes posible. Deberás
+hacerlo relevante para cada situación específica. Digamos que enviaste un correo con una oferta especial de un producto, que
+ya estaba agotado porque la oferta había sido la semana anterior. Este error amenaza tu credibilidad, y debes disculparte
+con tus clientes. En el correo electrónico de disculpa, tendrás que admitir el error, disculparte y ofrecer algo para
+solucionar las cosas. Tu correo de seguimiento puede decir algo como, lo sentimos, nos equivocamos. Enviamos un correo
+electrónico sobre un producto en oferta, pero está agotado. Para compensarte, te ofrecemos 10% de descuento en toda la
+tienda solo por hoy. Tus suscriptores/as probablemente perdonarán el error y van a apreciar el descuento. Quizás el error
+más común de todos es enviar un correo con errores tipográficos. Como otros errores comunes, estos ponen en duda tu
+credibilidad, y te perjudican especialmente si se producen en las etiquetas de personalización. Decir: Aquí hay un regalo
+para ti, Juan, es mucho más efectivo que escribir mal la etiqueta y que diga, aquí hay un regalo para ti, corchete, nombre,
+corchete. Para evitar errores tipográficos, gramaticales o de personalización haz una revisión con un corrector ortográfico
+en línea como Grammarly. Lee tus correos varias veces y envíalos a tu casilla para verificar que escribiste bien las
+etiquetas de personalización. A veces los correos automatizados terminan en la carpets de spam en lugar de en la bandeja de
+entrada. Puede ser porque no te adheriste a las leyes relativas al spam de tu país o porque tu correo electrónico parece
+spam. Los correos se pueden marcar como spam si tienen muchas imágenes grandes. Toma nota de esto y primero y envíate un
+correo electrónico de prueba y revisa que no tenga demasiadas imágenes. Ya conoces los errores más comunes en el marketing
+por correo electrónico Espero que los puedas evitar en tu carrera de especialista en marketing digital.
+
+#### Cómo corregir los errores en el marketing por correo electrónico
+
+Como especialista en marketing digital, cometerás algunos errores como todo el mundo. Pero lo que importa es cómo reaccionas
+ante ellos. En esta lectura, aprenderás cómo recuperar la confianza de los/as usuarios/as después de cometer un error.
+
+**Errores en el marketing por correo electrónico:**
+
+En algún momento, como especialista en marketing digital, es probable que envíes correos electrónicos a una gran cantidad de
+personas. Esto significa que, si hay un error en tu correo electrónico, varias personas lo perciban. Eso está bien, siempre
+y cuando sigas los siguientes pasos para corregir y abordar el error. Luego, cuando obtengas tu primer empleo como
+especialista en marketing digital, puedes tener este material a mano y usarlo para resolver algún error.
+
+**Plan de contingencia:**
+
+Aprovecha el conocimiento de especialistas de la empresa.
+
+¿Alguna de las personas del equipo cometieron el mismo error? En ese caso, ¿qué hicieron? Estas personas podrán ofrecerte
+valiosos consejos que te ayudarán a resolver el problema.
+
+Considera si debes enviar una versión corregida del correo electrónico.
+
+Un pequeño error de ortografía o un error tipográfico en el correo electrónico quizás no justifican un seguimiento o una
+explicación; sin embargo, un error más grave, como una fecha de lanzamiento de producto incorrecta o una fecha de promoción,
+sí podría justificarlo.
+
+Si envías un correo electrónico de seguimiento, aclara cuál es el cambio mediante el uso de negritas u otro color de texto.
+
+Si el error fue muy grave, ofrece un incentivo.
+
+Algunos ejemplos de incentivos pueden ser envíos gratuitos, extensión de una promoción, un código de descuento, entre otros.
+
+Si el error es un enlace roto, redirige el enlace incorrecto al correcto lo antes posible.
+
+Esto puede no ser beneficioso para las personas que ya hayan hecho clic en el enlace, pero sí beneficiará a aquellas que aún
+no lo hayan hecho.
+
+Si existe la posibilidad de que alguien se haya enojado u ofendido por el mensaje que enviaste, es posible que tengas que
+pedir disculpas en las redes sociales o a través de una declaración pública.
+
+Todo dependerá del tamaño de la empresa, la gravedad del error y el protocolo interno si existiera. Piensa si la empresa es
+lo suficientemente grande como para tener un plan de acción para situaciones como esta o si es más bien pequeña y, por lo
+tanto, la tarea de manejar el problema recae en ti. Una vez que lo determines, puedes tomar las medidas necesarias.
+
+**Conclusiones clave:**
+
+En caso de que envíes un correo electrónico con un error, tendrás que decidir cómo repararlo. La acción que tomes variará
+según la situación: la forma en que reacciones a un error tipográfico en tu correo electrónico frente a la forma en que
+actúes ante un enlace roto será diferente. Por lo tanto, cuando envíes un correo electrónico, asegúrate de tener un plan de
+contingencia completo con anticipación.
+
+#### Actividad: escribe un correo electrónico de disculpa
 
 ### Revisión: Herramientas útiles para el marketing por correo electrónico
 
