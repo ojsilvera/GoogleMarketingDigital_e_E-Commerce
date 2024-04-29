@@ -2789,6 +2789,83 @@ Voz de la marca: Personalidad distintiva que adquiere una marca en sus comunicac
 
 ### Analítica de redes sociales
 
+#### Te damos la bienvenida a la semana 4 curso 3
+
+Supongamos que implementaste varias estrategias de escucha social y obtuviste conocimientos valiosos sobre tus clientes,
+clientes potenciales y la competencia. Controlar y analizar los datos recopilados de tus redes sociales puede darte aún más
+conocimientos sobre el desempeño de tus campañas, que puedes usar para adaptar tu estrategia de redes sociales y hacer que
+tu campaña sea más exitosa. Por ejemplo, quizás notas que una publicación específica está generando muchas interacciones,
+así que decides crear publicaciones similares a esa. Una vez que hayas recopilado los datos, puedes informar acerca de las
+decisiones estratégicas que tomaste a partir del análisis a miembros del equipo, partes interesadas y clientes. Esto nos
+lleva al cuarto pilar del marketing en redes sociales: analíticas e informes. En un curso posterior, exploraremos cómo usar
+la analítica para todos tus canales de marketing. En esta sección, aprenderás qué es la analítica de redes sociales y por
+qué es tan beneficiosa para tus campañas de marketing. Analizaremos métricas comunes que debes analizar en tus campañas de
+redes sociales y cómo las diferentes plataformas definen sus métricas de forma distinta. Conocerás las herramientas más
+comunes de analítica de redes sociales y aprenderás a usarlas. También aprenderás a realizar pruebas en redes sociales.
+Además, hablaremos sobre cómo analizar los datos que recopilaste para orientar la toma de decisiones y la estrategia de
+marketing en general. Por último, veremos cómo compartir los análisis y hallazgos mediante informes de redes sociales.
+Hablaremos sobre qué información deben incluir los informes de redes sociales y cómo deben presentarse. También te
+mostraremos algunas herramientas y plantillas que pueden ayudarte a crear informes de redes sociales. Nos vemos en el
+siguiente video.
+
+#### Comprende la analítica de redes sociales
+
+La analítica de redes sociales puede ser una herramienta poderosa para encaminar tus campañas actuales y futuras en la
+dirección correcta. Al igual que la escucha social, la analítica te ayudará a tomar mejores decisiones, resolver problemas,
+mejorar el rendimiento y conocer a tu público. Con la escucha social, la información que recopilas es cualitativa. Los datos
+cualitativos describen cualidades o características. Son datos recopilados a través de la observación, como escuchar el tipo
+de lenguaje que la gente usa al hablar de tu negocio. La analítica, por otro lado, toma datos cuantitativos. Los datos
+cuantitativos son información que se puede contar o comparar en una escala numérica. Son datos que puedes medir con números,
+como la cantidad de clics en una plataforma a lo largo de un periodo determinado. La analítica será un componente clave de
+todos sus esfuerzos de marketing. Imagina que desarrollaste y lanzaste una campaña en las redes sociales para el último
+producto de tu empresa. Para saber cómo tu público está recibiendo la campaña, es posible que tengas que averiguar algunos
+detalles. ¿Qué porcentaje de tus seguidores interactuaron con tu publicación? ¿Cuántas personas reprodujeron tus videos? La
+analítica de redes sociales puede ayudarte a responder estas preguntas. La analítica de redes sociales es el proceso de
+seguimiento, recopilación y análisis de datos de plataformas de redes sociales para mejorar las decisiones estratégicas de
+negocios de una empresa. Analicemos las diferentes formas en que la analítica de redes sociales puede ayudar en tus
+campañas. Para empezar, la analítica de redes sociales puede ayudarte a comprender mejor a tu audiencia. A través de la
+analítica, puedes descubrir qué tipos de contenido generan más interacción del público. Y analizar la interacción del
+público con las publicaciones te muestra en qué momentos tu público está más activo en línea. Esto puede ayudarte a
+determinar el mejor momento para publicar en diferentes plataformas. También puedes basarte en datos para orientar tus
+decisiones en relación con cada plataforma. Como comentamos antes, tu contenido puede tener un mejor rendimiento en algunas
+plataformas que en otras. Mediante la analítica, puedes medir las interacciones, el tráfico y las ventas en diferentes
+plataformas. Luego, puedes usar esa información para decidir en qué plataformas publicar y determinar cuánto tiempo
+dedicarle a cada una. Puedes destinar más tiempo a las plataformas que están teniendo un mejor rendimiento. Mediante la
+analítica, puedes descubrir qué contenido genera mejores resultados. Por ejemplo, puedes evaluar si las imágenes, videos o
+enlaces tienen un mejor rendimiento en plataformas específicas, así como qué tipos de imágenes generan mejores resultados.
+Algunas plataformas, como Facebook y Twitter, tienen herramientas de analítica que te muestran qué tipo de contenido genera
+un mayor nivel de interacción. La analítica también puede ayudarte a aprender de tu competencia. Twitter, por ejemplo, te
+permite analizar todas las conversaciones públicas en la plataforma. Analizar los datos de la competencia te permite evaluar
+qué hace bien y qué errores comete. Esto puede orientarte acerca de cómo adaptar y mejorar tu propio contenido y estrategia.
+La analítica de redes sociales también te permite medir el retorno de la inversión en redes sociales para tus clientes. Si
+tu meta es aumentar el reconocimiento de marca, por ejemplo, puedes usar herramientas de analíticas para medir cuántos
+seguidores ganaste en diferentes plataformas en un periodo determinado. Presentar estos datos a las partes interesadas ayuda
+a probar la efectividad de tus campañas en las redes sociales. Los conocimientos que obtienes a partir de la analítica
+pueden ayudarte a mejorar tu estrategia de redes sociales. La analítica te ayuda a entender qué está funcionando bien y qué
+no es tan efectivo en tu estrategia de redes sociales. Esto te permite distribuir mejor tus tiempos, esfuerzos y
+presupuesto. Por ejemplo, puedes usar analíticas para recopilar información demográfica sobre tu público objetivo en las
+redes sociales. Esto puede ayudarte a ajustar tus tácticas de marketing para ese público específico. Varias plataformas de
+redes sociales tienen herramientas de analítica que te permiten recopilar y evaluar los datos desde el sitio. También hay
+muchas herramientas de analítica de redes sociales disponibles que te ayudan a medir el rendimiento en múltiples plataformas
+y crear informes. Algunos ejemplos son Google Analytics, Sprout Social, Hootsuite Analytics y Buffer Analyze. Hablaremos más
+sobre herramientas como estas más adelante. La analítica de redes sociales te ayuda a entender mejor tu marca, tu público y
+tu competencia. Al analizar los datos, puedes refinar tus estrategias de redes sociales de modo que puedas lograr tus metas
+y objetivos. A continuación, hablaremos sobre métricas comunes de redes sociales que puedes analizar.
+
+#### Métricas a seguir a través de la analítica de redes sociales
+
+
+
+#### LecturaLas herramientas más comunes de analítica de redes sociales
+
+#### LecturaPruebas sociales
+
+#### Utiliza los datos de las redes sociales para impulsar las estrategias de marketing
+
+#### Jon: Cómo usar los datos y la analítica de redes sociales para la toma de decisiones y la creación de estrategias
+
+#### LecturaEjemplo de actividad: Analiza el rendimiento de las redes sociales
+
 ### Informes de marketing en redes sociales
 
 ### Revisión: Analítica e informes de redes sociales
