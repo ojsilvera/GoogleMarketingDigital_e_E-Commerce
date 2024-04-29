@@ -3344,7 +3344,226 @@ público específico. Hablaremos más sobre cómo usar bien las redes de pago en
 
 #### Incorpora las redes sociales de pago a tu estrategia
 
+Hasta aquí, nos concentramos en cómo trabajar con redes sociales orgánicas. Aunque puedes combinar publicaciones orgánicas
+con redes sociales de pago para cumplir mejor con los objetivos de marketing. En este video, veremos cómo usar las redes de
+pago para lograr objetivos específicos. Las redes de pago y orgánicas trabajan juntas, y ambas son importantes para una
+estrategia sólida de redes sociales. Ya vimos que puedes usar las redes orgánicas para ganar clientes y seguidores,
+promocionar tu marca y realizar una investigación del público. También puedes usar las redes de pago para lograr estos
+objetivos. Las redes de pago también se pueden usar para lograr objetivos diferentes. Vimos cómo las redes sociales
+orgánicas son ideales para fortalecer las conexiones mediante la comunicación y la creación de relaciones. Las redes de pago
+son mejores para aumentar el reconocimiento de marca, llegar a públicos específicos e impulsar conversiones. Veamos cómo
+usar las redes de pago para lograr estos objetivos. Ya sabes que puedes recopilar datos sobre el rendimiento de tu contenido
+con herramientas de estadísticas. Al analizar estos datos, puedes identificar el contenido que tenga más repercusión entre
+tu público objetivo. Luego, puedes usar los fondos de tu presupuesto de redes de pago para impulsar el contenido orgánico de
+mayor rendimiento y así llegar a más gente. Por ejemplo, puedes usar la herramienta de promoción de Hootsuite para
+seleccionar tus mejores publicaciones e impulsarlas. O puedes configurar activadores automáticos para promocionar
+publicaciones según los criterios que tú elijas. Yo promocioné un video sobre la importancia de centrar el enfoque de
+marketing en la gente. Promocionarlo nos ayudó a llegar a muchos más usuarios/as y aumentar el impacto de nuestro contenido.
+También puedes usar las redes de pago para llegar a tu cliente ideal con más precisión. Al usar los datos recopilados de tus
+clientes actuales, puedes crear audiencias similares. Una audiencia similar está compuesta por gente con características
+demográficas y y conductas similares que aún no conocen tu marca. Por ejemplo, podrías crear una audiencia similar a las y
+los clientes que te compraron en los últimos seis meses. Luego, puedes crear anuncios que sean relevantes para ese público.
+Antes de publicar un anuncio, puedes usar pruebas A/B para optimizarlo. Ya vimos el uso de la prueba A/B para comparar dos
+versiones de la misma página web. En las redes sociales, la prueba A/B consiste en comparar dos versiones de un anuncio y
+determinar cuál tiene una mayor tasa de conversión. Los anuncios en redes cuestan dinero, y querrás invertir bien el dinero.
+Antes de dedicarle una gran parte de tu presupuesto a un anuncio, pruébalo con un público pequeño para ver qué tan bien
+funciona. Con la prueba A/B, puedes evaluar la fuerza del mensaje de tu anuncio, las llamadas a la acción, el texto, los
+elementos visuales, la ubicación y los formatos. También puedes probar tu anuncio en diferentes grupos demográficos. Según
+los resultados de tus pruebas, puedes adaptar tu anuncio y mejorar su desempeño. Las pruebas A/B en tus publicaciones
+orgánicas dan información importante sobre qué contenido tendrá mejor desempeño. Esto te ayudará a decidir en qué contenido
+invertir para promocionarlo y qué elementos incluir en tus anuncios. Por último, puedes hacer remarketing y generar más
+conversiones. Con el remarketing, puedes llegar a gente que ya conoce tu negocio. Por ejemplo, una persona agrega unos
+pantalones a su carrito de compras en tu sitio web, pero no continúa con la compra. Al incentivarla con un anuncio de
+remarketing sobre esos pantalones o elementos similares en sus redes sociales, puedes llevarla a la etapa de conversión. Si
+se usan estratégicamente para lograr objetivos específicos, las redes sociales de pago pueden ser muy efectivas para guiar a
+tus clientes a través del embudo de marketing. A continuación, hablaremos sobre cómo desarrollar tu estrategia de redes
+sociales de pago.
+
 ### Cómo segmentar tu publicidad en redes sociales
+
+#### Desarrollar una estrategia de redes sociales de pago
+
+Ahora que aprendiste por qué las redes sociales de pago pueden ser un componente muy útil del marketing en redes sociales,
+debes planificar tu estrategia de pago y crear una campaña publicitaria. Aquí te mostraremos cómo crear una campaña para
+Twitter, pero en la mayoría de las plataformas las campañas funcionan de forma similar. Empieza con tu objetivo. Para
+obtener los resultados deseados, es importante definir con claridad el propósito de tu campaña de pago. ¿Quieres obtener más
+seguidores? ¿Mayor interacción en tus publicaciones? ¿Aumentar el reconocimiento de marca? Incentiva a tus clientes a
+suscribirse a algo o a que aprovechen una oferta en particular. Establecer el objetivo de tu estrategia de redes sociales de
+pago guía a tu público hacia tu objetivo final, ya sea una oferta en tu sitio web, un formulario de suscripción por correo
+electrónico, o tu propio perfil de redes sociales. Establecer objetivos también garantiza que sigas las métricas correctas y
+los indicadores asociados a tu campaña. Cuando comiences a crear un anuncio para una plataforma, selecciona tu objetivo.
+Entonces podrás crear tu campaña alrededor de él. Luego, determina cuál será tu público. Tu campaña de redes sociales de
+pago debe crearse pensando en llegar a uno de tus clientes tipo. Recuerda, un cliente tipo representa un grupo de personas
+similares dentro de un público deseado. A diferencia de las redes sociales orgánicas, puede ser costoso llegar a un público
+amplio a través de los anuncios. Reducir tu público objetivo puede ayudarte a asignar tu presupuesto de manera más efectiva.
+Puedes usar filtros y otros criterios para reducir tu público al crear un anuncio. Puedes dirigirte a las personas por
+género, edad, y ubicación. Incluso puedes dirigirte a personas según palabras clave, intereses, y eventos. Una vez que ya
+definiste tu objetivo y público, considera qué plataformas de redes será más útil para tu campaña. Invierte en las
+plataformas que ya conoces y en las que ya tengas una audiencia establecida. Si esta es tu primera campaña, es posible que
+solo quieras enfocarte en la plataforma que actualmente es tu mayor fuente de clientes potenciales. Veremos cómo elegir las
+plataformas para tus anuncios más adelante. Luego, define la duración de tu campaña. ¿Quieres que tu campaña dure una
+semana, dos, o un mes? Define las fechas de inicio y fin de tu campaña. También tendrás que establecer un presupuesto.
+Puedes comenzar por investigar el costo de publicidad promedio en esa plataforma. Algunas plataformas requieren un
+presupuesto mínimo para cada grupo de anuncios. Si gastas un cierto monto en algunas plataformas, quizás puedas tener acceso
+a funciones especiales y a la oportunidad de trabajar con los administradores de las plataformas para optimizar tu campaña y
+refinar tu contenido creativo y tu mensaje. Pagas por los anuncios en las redes mediante un formato de subasta, pujando por
+la mejor posición en cada plataforma. Si ganas la subasta, entonces pagas el monto acordado por acciones como dar clic,
+vistas, Me gusta, o impresión en esa plataforma que recibe tu anuncio. Vamos a analizar cómo presupuestar y pujar por
+anuncios en redes sociales un poco más adelante. Y, por supuesto, deberás desarrollar y cargar el contenido de tu campaña y
+los elementos creativos. Los elementos creativos son todo los contenidos de una campaña, como textos, imágenes, GIFs o
+videos. Para desarrollarlos, primero debes familiarizarte con las especificaciones de los anuncios, como dimensiones,
+tamaños y formatos para las diferentes plataformas. Crea con mucho cuidado tus frases de llamada a la acción y mensajes de
+marketing para que tus anuncios lleguen a tu público objetivo. Y como ya vimos, quizás quieras realizar algunas pruebas
+orgánicas para asegurar la optimización de tus recursos. Una vez que tus elementos creativos estén listos, súbelos a la
+plataforma. Por último, después de que la plataforma apruebe tu anuncio, podrás lanzar tu campaña. Una vez lanzada, tus
+anuncios se publicarán automáticamente en la fecha y hora de inicio establecidas. Al igual que con el contenido orgánico,
+puedes usar un calendario de redes para planificar y publicar tus anuncios. Y a medida que avances en la campaña, quizás
+debas adaptar tus anuncios para optimizar su rendimiento. Veremos más sobre la mejor forma de segmentar tus redes sociales
+de pago en la próxima sección.
+
+#### Formatos de anuncios en redes sociales
+
+En este curso, el video sobre estrategias de redes sociales de pago recomienda que te familiarices con los requisitos y las especificaciones de los anuncios en cada plataforma de redes sociales. En esta lectura, conocerás con mayor detalle los distintos formatos de anuncios en redes sociales.
+
+Formatos según el objetivo publicitario
+Una buena práctica publicitaria es escoger los formatos de anuncios en función de tus objetivos publicitarios. A continuación, podrás ver el formato de anuncio que mejor funciona para cada objetivo.
+
+    Objetivo: Maximizar el reconocimiento
+
+    Mejor formato: Video
+
+    Ventaja: Transmite la mayor cantidad de información en un poco tiempo
+
+    Objetivo: Maximizar los clics
+
+    Mejor formato: Imagen estática
+
+    Ventaja: Combínalo con una llamada a la acción convincente
+
+    Objetivo: Maximizar las conversiones
+
+    Mejor formato: Imagen estática
+
+    Ventaja: Combínalo con una llamada a la acción para hacer clic y comprar
+
+    Objetivo: Maximizar las descargas de una aplicación
+
+    Mejor formato: Video
+
+    Ventaja: Ofrece instrucciones sobre cómo usar la aplicación
+
+    Objetivo: Maximizar las descargas de una aplicación
+
+    Mejor formato (si está disponible): Formatos personalizados específicos de la plataforma
+
+    Ventaja: Impulsa un mayor número de descargas de la aplicación con un formato específico para es objetivo
+
+    Objetivo: Maximizar la interacción
+
+    Mejor formato: Video
+
+    Ventaja: Permite contar historias que atraigan a la gente
+
+**Especificaciones según el formato del anuncio:**
+Una vez que hayas definido los formatos de anuncios que quieres usar, elige las plataformas de redes sociales e infórmate sobre los requisitos específicos de cada una de ellas. Busca las especificaciones para cada formato elegido.
+
+Por ejemplo, si vas a publicar un anuncio de imagen estática en LinkedIn, primero consulta la guía de anuncios y luego las especificaciones.
+
+<https://business.linkedin.com/marketing-solutions/success/ads-guide>
+
+<https://business.linkedin.com/marketing-solutions/success/ads-guide/single-image-ads>
+
+**Conclusiones clave**
+En general, el tipo de anuncio que selecciones dependerá de tu presupuesto y tus objetivos publicitarios. Algunos anuncios son más caros que otros. Así que, si no cuentas con un presupuesto amplio, posiblemente no te convenga elegir los tipos de anuncios más caros. Ciertos anuncios son más adecuados para determinados objetivos publicitarios. Siempre es útil identificar primero tus objetivos y luego elegir los formatos de anuncios que mejor se adapten a ellos. Una vez que hayas seleccionado los formatos de anuncios, consulta y sigue las especificaciones de las plataformas que vas a utilizar.
+
+#### Elige las plataformas de redes sociales para tus anuncios
+
+A medida que desarrolles tu estrategia de redes sociales de pago, deberás publicar anuncios en algunas plataformas. Para elegir correctamente cuáles utilizar, tienes que saber dónde se encuentra tu público objetivo. En esta lectura, descubrirás cómo elegir la plataforma más adecuada para tus anuncios.
+
+**Conoce a tu público**
+Las personas usan las plataformas de redes sociales para fines específicos. No todas las plataformas son iguales: una, por ejemplo, puede servir para socializar con amigos/as y familiares, mientras que otra puede estar destinada a conseguir contactos laborales y profesionales. Dado que cada plataforma de redes sociales tiene un uso específico, es importante que elijas con cuidado la plataforma en la que publicarás tus anuncios. Si no lo haces, podrías incluso perjudicar la relación con tu público objetivo. Sin embargo, como sucede con cualquier tipo de marketing en redes sociales, puedes hacer pruebas para ver en cuáles plataformas tu audiencia interactúa más con los anuncios.
+
+**Facebook**
+Con más de 1400 millones de usuarios/as diarios promedio, no es ningún secreto que Facebook es una de las redes sociales más populares. Por lo tanto, si tu marca tiene presencia en Facebook, úsala a tu favor. Puedes aprovechar los anuncios publicando GIFs, videos, imágenes estáticas y carruseles para impulsar el tráfico al sitio web, aumentar el reconocimiento de marca, incrementar la tasa de conversión y mucho más.
+
+**Instagram**
+Hay muchas formas distintas de crear un anuncio en Instagram. Pero sin importar qué camino elijas, tu contenido debe basarse en imágenes. Instagram se convirtió en un espacio muy efectivo para generar conversiones, ya sea mediante el marketing de influencers pagando para que alguien publique reels con el hashtag “#publicidad”, o mediante la publicación de anuncios en las historias de Instagram.
+
+**Twitter**
+Si tu marca está dirigida a un público más especializado, considera la posibilidad de publicar anuncios en Twitter. Twitter ofrece una conexión basada en la comunidad que no todas las plataformas tienen, ya que ofrece más interacciones y actualizaciones oportunas. Al fomentarse tanto la conversación y la interacción en la aplicación, Twitter ayuda a las personas a sentir que tienen una conexión con las marcas.
+
+**YouTube**
+YouTube es un espacio efectivo para publicar contenido en formato de video si tu audiencia tiene entre 18 y 49 años. YouTube ahora llega a más personas de este rango de edad que todas las cadenas de televisión por cable juntas. YouTube se enorgullece de ser una plataforma basada en la comunidad y, por ese motivo, prioriza el contenido de video original y fomenta la interacción en la sección de comentarios.
+
+**LinkedIn**
+Si tu marca está orientada a empresas y profesionales, en lugar de a consumidores finales, Linkedin podría ser el lugar perfecto para tus anuncios: se la suele considerar como la plataforma para que profesionales y líderes empresariales interactúen.
+
+**Conclusiones clave**
+Como siempre, probar las distintas plataformas es la mejor manera de aprender qué funciona mejor para tu público; sin embargo, ten en cuenta estos consejos cuando estés pensando en qué plataformas probar. Y recuerda que las redes sociales cambian constantemente: lo que funcionó para tu marca el año pasado puede no funcionar igual hoy, así que no tengas miedo de modificar tu estrategia de redes sociales si es necesario.
+
+Lo más importante que debes recordar es que tu estrategia de anuncios en redes sociales debe basarse en las preferencias de tu público. Esto significa que tienes que priorizar la recopilación de datos y cultivar las relaciones con tu público para saber cómo brindarle un mejor servicio. Una vez que hayas descubierto eso, puedes comenzar a publicar anuncios en las distintas plataformas.
+
+#### Remarketing en redes sociales
+
+Piensa en alguna vez que hayas visitado el sitio web de un negocio, y visto un producto para irte sin comprarlo. Quizás
+estabas pensando si querías comprarlo o no, o te distrajo otra cosa. Luego, más tarde, viste un anuncio del mismo producto
+en uno de tus perfiles de redes sociales. Eso es el remarketing en la práctica. Repasemos: El remarketing (o retargeting)
+muestra anuncios de pago dirigidos a clientes que ya visitaron tu sitio web, aplicación o perfil de redes sociales. El
+remarketing te da otra oportunidad para llegar a clientes potenciales o existentes. Al aumentar la cantidad de veces que una
+persona ve tus anuncios, garantizas que tu marca se mantenga en su mente cuando evalúe sus opciones de compra. El
+remarketing también ayuda a las empresas a personalizar su marketing. En vez de mostrar anuncios para un público aleatorio,
+el remarketing apunta a visitantes anteriores y les ofrece un experiencia personalizada. Esto puede llevar a más
+conversiones. Hablemos sobre cómo funciona el remarketing. Como ya hablamos en el programa, el remarketing puede usarse en
+varios canales de marketing digital, incluso en la Búsqueda de pago, Display, correos electrónicos y redes sociales. Existen
+dos tipos principales de remarketing: el basado en píxeles y en listas. El remarketing basado en píxeles envía anuncios de
+forma automática al visitante luego de poner una cookie en su navegador web que rastrea las páginas y productos que vio. Una
+cookie es un archivo pequeño que se guarda en los dispositivos y permite rastrear la conducta de las personas y analizar el
+tráfico. Cuando una persona deja tu sitio web y recorre sus perfiles en las redes u otros sitios web, redes publicitarias
+como Google Ads o Facebook Ad Manager le muestran anuncios específicos, relacionados con lo que estuvo mirando antes. Si
+tienes los correos electrónicos de clientes potenciales, puedes usar el remarketing basado en listas para personalizar los
+anuncios que envías. El remarketing basado en listas usa listas de clientes existentes o visitantes que te brindaron sus
+correos y envía anuncios específicos para ellos. Maneja todos los datos recopilados con cuidado para proteger la privacidad
+de datos. Plataformas como Google y Facebook usan datos con codificación hash cuando se suben para este propósito. Hashing
+es un método de seguridad que convierte la información personal de tu listas de correo electrónico en un código aleatorio.
+Para el remarketing basado en listas, subirás tu lista de contactos de correo electrónico a la plataforma que elijas. Tu
+público comenzará a ver tus anuncios mientras navegan por esa plataforma. Estas son algunas de las mejores prácticas para un
+remarketing efectivo en las redes sociales. Personaliza tus anuncios para una audiencia específica. En vez de mostrarles
+anuncios a todos los y las usuarios/as que visitaron tu perfil anteriormente, segmenta al público en distintos grupos según
+sus intereses. Esto te permite personalizar los anuncios que apuntan específicamente a cada grupo. Para ello, puedes crear
+una audiencia personalizada en la plataforma de tu elección, como este ejemplo de Twitter. Las audiencias personalizadas te
+permiten crear campañas de remarketing relevantes para llegar a grupos muy específicos al cargar tus propias listas de
+correos de clientes y seguidores. También puedes hacer remarketing con la gente que ya te compró previamente. Casi la mitad
+de las ganancias totales de tiendas minoristas en línea de EE.UU. son de clientes repetidos. Por ejemplo, si alguien compró
+un juguete de tu empresa, podrías volver a ofrecerlo con ofertas adicionales en productos infantiles. Asegúrate de limitar
+la frecuencia en que un público específico ve tus anuncios. Esto te ayuda a evitar el riesgo de que una persona se sienta
+abrumada. También se recomienda desvincular a las personas que ya has logrado que realicen una compra. Esto ayuda a que la
+gente no vea demasiados anuncios tuyos una vez que ya convirtieron. El remarketing en las redes es una forma valiosa de usar
+el presupuesto de tu campaña. Cuando está alineado con tu organización, público y objetivos de marketing, el remarketing
+puede mejorar tu alcance y aumentar tus tasas de conversión. A continuación, veremos en detalle cómo crear un anuncio de
+redes sociales efectivo.
+
+#### Crea una llamada a la acción efectiva en tus anuncios en las redes sociales
+
+Una llamada a la acción (call to action, CTA) es una instrucción proporcionada a las y los clientes que les dice qué hacer a continuación. Las llamadas a la acción pueden encontrarse en todo tipo de marketing y pueden ser estrategias muy persuasivas y efectivas para que tus clientes lleven a cabo la acción que deseas. Por lo general, son botones, imágenes o enlaces en los que se les indica a las personas que hagan clic. En esta lectura, aprenderás todo sobre cómo escribir una llamada a la acción efectiva.
+
+**Cómo escribir una llamada a la acción**
+Lo primero y principal que debes tener en cuenta al escribir tu llamada a la acción son los objetivos de tu marca. ¿Qué esperas lograr con cada publicación en redes sociales y cómo te ayudará tu llamada a la acción? Por ejemplo, si tu objetivo es generar un mayor tráfico hacia el sitio web, tal vez quieras que las personas hagan clic en un enlace que hayas publicado que los dirija a tu página de inicio.
+
+Después de haber considerado eso, asegúrate de darles una razón para hacer clic. Pregúntate: ¿por qué deberían hacer clic? ¿Qué obtendrán a cambio?
+
+**Exprésate con claridad**
+Es importante priorizar la claridad en tu llamada a la acción, ya que las personas tienen que entender con facilidad qué beneficios les traerá hacer clic en ella. Esto no significa que no debas usar un lenguaje entusiasta, ingenioso o animado, sino que la prioridad principal es que se entienda lo que estás pidiendo.
+
+**Usa palabras de acción**
+El objetivo al usar una llamada a la acción es hacer que las personas actúen de determinada manera. Usa un vocabulario claro y directo para que sepan que les estás dando instrucciones para que hagan algo. Los verbos o palabras de acción como regístrate, visita, haz clic, descarga, compra y síguenos son formas efectivas de comunicar la acción que deseas que las personas realicen.
+
+**Transmite un sentido de urgencia**
+Transmitir un sentido de urgencia puede ser efectivo para hacer que las personas sientan que tienen que actuar ahora. Tu objetivo no es engañar ni obligar a tus clientes a hacer algo. Sin embargo, si lo que estás ofreciendo estará disponible por tiempo limitado, eso tiene que quedar claro en tu CTA. El uso de frases como “solo por hoy” comunica que la oferta tiene una fecha de vencimiento y, por lo tanto, podría hacer que actúen.
+
+**Usa siempre la voz de tu marca**
+El tono que elegiste usar en las descripciones de tus publicaciones y textos publicitarios debe verse reflejado en tus llamadas a la acción. La voz de tu marca tiene que ser coherente en todos los canales de marketing. ¿Tu marca es cálida y sugerente? ¿Tranquila y de pocas palabras? ¿Informal y divertida? Asegúrate de que tu llamada a la acción transmita la misma sensación.
+
+#### Actividad de ejemplo: desarrolla una campaña publicitaria en redes sociales
 
 ### Cómo gestionar un presupuesto de publicidad en redes sociales
 
