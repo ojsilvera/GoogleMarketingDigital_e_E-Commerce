@@ -2869,7 +2869,112 @@ gestión y segmentación de contactos.
 
 #### Lectura: LecturaActividad de ejemplo: completar una serie de correos electrónicos
 
+Compara el ejemplo con la serie de correos electrónicos que completaste. Revisa tu trabajo utilizando cada uno de los
+criterios del ejemplo. ¿Qué hiciste bien? ¿En qué aspectos puedes mejorar? Usa las respuestas a estas preguntas de guía a
+medida que avanzas en el curso.
+
+Nota: El ejemplo representa una forma posible de completar la actividad. Es probable que tus correos electrónicos sean
+diferentes en algunos casos. Lo importante es que sean claros, estén orientados a la acción y le aporten cierto valor a
+los/las suscriptores/as.
+
+Repasemos cada uno de los tres correos electrónicos:
+
+Correo electrónico de bienvenida de Feels Like Home
+
+El cuerpo del correo electrónico de bienvenida debe ser amigable y mantener un tono de conversación. Debe hacer que los/las
+lectores/as se sientan cómodos/as y describir algunos de los beneficios que pueden obtener. También tiene que expresar
+agradecimiento de manera concreta al ofrecer un 10% de descuento a los/las suscriptores/as.
+
+Asunto: Te damos la bienvenida a casa, {{ fname }}.
+
+El asunto es concreto, personalizado y coincide con el tono amigable del cuerpo del correo. La frase “Te damos la bienvenida
+a casa” saluda a las/los clientes y hace referencia al nombre del negocio (Feels Like Home). El asunto también incluye el
+nombre de la persona ({{ fname }}), que le agrega un toque personal.
+
+Boletín informativo de lanzamiento de la línea de productos For All
+
+El asunto del boletín informativo deja en claro que en el mensaje se presentará una nueva línea de productos, mientras que
+la llamada a la acción invita a los/las lectores/as a consultar los artículos de la colección.
+
+Cuerpo: Te presentamos nuestra nueva línea For All, elaborada con el mismo trabajo artesanal y cuidado de siempre, que ahora
+cuesta menos. La línea For All ofrece piezas clásicas para usar por mucho tiempo, que complacerá incluso a los/las
+críticos/as de sillones más exigentes.
+
+Crear muebles de alta calidad y accesibles con nuestro estilo distintivo no fue una tarea fácil, pero tenemos la
+satisfacción de afirmar que lo hemos logrado. Con nuevos muebles para la cocina y el comedor, sofás, alfombras y más, no hay
+un mejor momento para tener el hogar que siempre has soñado.
+
+El cuerpo del correo electrónico presenta la nueva línea y destaca sus características principales, lo que también puede ser
+un beneficio potencial para los/ las lectores/as: muebles elegantes, de alta calidad y económicos. El significado es claro y
+el tono es amigable. También usa todas las palabras clave: clásico, accesible, de alta calidad, trabajo artesanal y estilo
+distintivo de la marca.
+
+Correo electrónico promocional
+
+El asunto y el cuerpo de un correo electrónico promocional le recomiendan a los/las lectores/as un producto que ya
+consultaron en el sitio web de la empresa y les ofrecen un código de descuento que pueden utilizar para comprarlo.
+
+Llamada a la acción: Canjea un 10% de descuento ahora
+
+La llamada a la acción es breve y está orientada a la acción. También describe una acción específica que el/la lector/a
+puede tomar para aprovechar su descuento y realizar una compra.
+
 ### Análisis y presentación
+
+#### Revisión de las presentaciones
+
+Acabas de completar una actividad en la que creaste una estrategia de marketing por correo electrónico, con la gestión y
+segmentación de contactos incluida. En la siguiente actividad, deberás crear una presentación para las partes interesadas.
+
+Esta lectura te dará consejos para que tengas en cuenta a la hora de crear una presentación para las partes interesadas.
+
+Como recordatorio: las presentaciones son una excelente manera de compartir los resultados de una investigación con otros/as
+colegas de la empresa y gente externa que pueda estar interesada. Existen muchas herramientas digitales que puedes usar para
+crear una presentación, como Presentaciones de Google, Microsoft PowerPoint y Apple Keynote.
+
+Incluye una descripción general
+
+Incluye una breve hoja de ruta o índice al comienzo de la presentación, para que tu público sepa qué esperar. Tu hoja de
+ruta debería ser casi como una lista que el público pueda seguir, para tener una visión de cuánto contenido queda por
+cubrir.
+
+Además, una diapositiva debe incluir una descripción general del contenido que estás presentando, también conocido como
+resumen ejecutivo. Sirve para compartir tu conclusión o las conclusiones más importantes al comienzo de la presentación.
+Asegúrate de analizar de qué forma afecta tu investigación al panorama general, por ejemplo, cómo el producto respalda las
+metas y los objetivos de la empresa. Si tu público comprende el objetivo general de la presentación y de tu producto desde
+el principio, tendrá un mejor contexto para los detalles específicos y las historias que contarás más adelante.
+
+Utiliza cifras
+
+Una imagen poderosa suele comunicar la información con mayor claridad que las palabras. Usa datos, gráficos y tablas para
+ilustrar tus conclusiones más importantes. Tu objetivo es mantener la atención del público, así que deja que las imágenes y
+los datos que muestras comuniquen el mensaje y refuercen la historia que estás contando.
+
+Menos es más cuando se trata de un texto
+
+Mantén la información de la presentación breve y concisa. Tus diapositivas solo deben incluir detalles muy importantes que
+respondan preguntas como: por qué, qué y cómo. Intenta incluir poco texto en tus diapositivas para que el público no pierda
+tiempo leyendo mientras das tu presentación. Si es necesario, puedes agregar recursos adicionales en las referencias de tu
+presentación para que el público los consulte más adelante.
+
+Incluye recomendaciones para los próximos pasos
+
+Finaliza la presentación con una lista de los próximos pasos recomendados a seguir en función de las ideas que presentaste.
+Tus recomendaciones pueden incluir: realizar cambios en los diseños de los productos, llevar a cabo investigaciones
+adicionales o programar futuras reuniones. Este paso te ayudará a conseguir el apoyo de las personas interesadas y acomodará
+las cosas para poder avanzar en el proceso de diseño. Se recomienda que expongas tus recomendaciones con claridad y en una
+sola diapositiva.
+
+Deja tiempo para las preguntas
+
+Al final de tu presentación, asegúrate de dejar unos minutos para que tu público pueda hacer preguntas sobre el material que
+presentaste y para aclarar cualquier tema. Esta también es una gran oportunidad para que brindes más detalles sobre las
+áreas en las que tu público quiere obtener más información.
+
+¡Y eso es todo! Con estos consejos en mente, tendrás todo listo para crear tu propia presentación de investigación y
+entregársela a las partes interesadas.
+
+#### Actividad de ejemplo: crear una presentación para las partes interesadas
 
 ### Revisión: Ejecuta tu propia campaña de marketing por correo electrónico
 
