@@ -337,6 +337,51 @@ especializadas. El formato organizativo de un plan de medios puede variar, y hay
 
 ### Objetivos de rendimiento
 
+#### Establece objetivos de rendimiento
+
+Viste que un objetivo de rendimiento es un objetivo con un valor numérico medible. Los objetivos de rendimiento y sus
+métricas definen el éxito. Sin ellos, el beneficio de una campaña es solo una corazonada o conjetura. Aquí hay tres ejemplos
+de objetivos de rendimiento basados en objetivos de negocio y marketing. Supón que un objetivo de negocio de una empresa de
+comercio electrónico es aumentar la adquisición de clientes en un 20% en tres meses. La adquisición de clientes es el
+proceso de ganar nuevos/as clientes. Para una empresa de comercio electrónico, esta depende del tráfico del sitio. Cuanto
+más tráfico haya, más probabilidad habrá de ganar clientes. Se hace una campaña para crear más tráfico y aumentar la
+adquisición de clientes. En la campaña se fija un objetivo de rendimiento del 20% de aumento de nuevas visitas semanales que
+coincide con el objetivo de negocio. Para ver si cumples con el objetivo de rendimiento, analizas las métricas de nuevas
+visitas y comparas los números de referencia anteriores. Al llegar al 20%, logras tu objetivo de rendimiento, pero puede
+necesitarse más de uno para lograr el objetivo de negocio. En el caso anterior, ¿qué pasa si hay nuevos/as visitantes, pero
+se van? Eso se llama rebote. La tasa de rebote es el número de rebotes entre el total de sesiones. Si aumentan los/las
+visitantes nuevos/as, pero la tasa de rebote es alta, quizá no se logre aumentar la adquisición en un 20%. Intenta fijar
+otro objetivo de rendimiento para reducir la tasa de rebote en un 50%. Supervisa las métricas de rendimiento de nuevos/as
+visitantes y tasa de rebote. Los aumentos semanales de nuevos/as visitantes no se compensan con la tasa de rebote alta, y
+los/las visitantes recurrentes se mantienen o aumentan junto con los/las nuevos/as visitantes. En el segundo ejemplo, se
+fija un objetivo de negocio para obtener US$50,000 en ventas incrementales. Se crea un objetivo de marketing para más
+retorno de la inversión de marketing (ROI) por dos veces su valor actual. Para establecer un objetivo de rendimiento con
+presupuesto adicional de campaña, haz un par de cálculos. Primero indica cuántos pedidos más necesitas para obtener
+US$50,000 más en ventas incrementales. Para este cálculo, se puede usar el valor promedio de pedido (AOV), que es la suma de
+los importes de pedidos individuales, dividida por el número de pedidos. Si asumimos que el AOV es US$148, divide el
+objetivo de ventas incrementales de 50,000 por el valor promedio del pedido de 148, que da los pedidos adicionales (338). El
+objetivo de rendimiento es entonces de 338 pedidos adicionales. Si el ROI de marketing es de 2 y quieres duplicarlo, el ROAS
+deberá ser de 4:1 para que coincida. Puedes calcular el presupuesto incremental necesario al dividir la cantidad de ventas
+incrementales entre el ROAS. Divide las 50,000 ventas incrementales entre el ROAS objetivo, 4. Deberás pedir US$12,500 de
+presupuesto adicional para impulsar ventas adicionales. En el ejemplo, el objetivo de marketing es aumentar el volumen de
+conversión en redes sociales en un 25% en seis meses. El volumen de conversión es el total de conversiones o valor monetario
+total de ellas durante un tiempo. Una conversión ocurre cuando un/a cliente potencial concreta una acción deseada. Si mides
+el volumen de conversiones por el total de ellas, fija un objetivo de rendimiento de canal. Por ejemplo, en seis meses
+puedes intentar aumentar en un 10% las conversiones y sesiones referidas de Instagram. Si mides el volumen de conversión
+como valor monetario, deberás asignar valores monetarios a distintos tipos de conversiones, como leads o compras. Se puede
+fijar y ver en herramientas como Google Ads. Aquí, un objetivo de rendimiento sería una cantidad monetaria tras seis meses.
+Por ejemplo: US$100,000 de conversiones y sesiones referidas desde Instagram. ¡Felicidades! Aprendiste a crear objetivos de
+rendimiento a partir de objetivos de negocio y de marketing. Los ejemplos son detallados, así que míralos de nuevo para
+repasar o hacer otras actividades del curso. Pondrás en práctica cómo crear objetivos de rendimiento. También podrás
+trabajar en la dirección inversa: a partir de un informe de una campaña finalizada podrás ver las métricas de rendimiento e
+identificar objetivos de negocio o marketing.
+
+#### Angela - Integrar y utilizar de manera conjunta los datos, las analíticas y las métricas para mejorar el rendimiento
+
+#### Objetivos de rendimiento relacionados con el costo
+
+#### Ejemplo de actividad: Establece objetivos de rendimiento
+
 ### Introducción a las herramientas para las analíticas de marketing
 
 ### Repaso: Introducción a “Evaluar para tener éxito: analítica y medición de marketing”
