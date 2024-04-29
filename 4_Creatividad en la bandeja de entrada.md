@@ -1401,6 +1401,28 @@ Para obtener más información sobre otras funciones, como la segmentación por 
 
 #### Actividad: Segmenta una lista de correo electrónico con Constant Contact
 
+Compara el ejemplo con tu lista de correo electrónico segmentada. Revisa tu trabajo usando cada uno de los criterios del
+ejemplo. ¿Qué hiciste bien? ¿Qué puedes mejorar? Usa las respuestas a estas preguntas como guía a medida que avanzas en el
+curso.
+
+Tu cuenta de Constant Contact debe contener lo siguiente:
+
+Una lista de contactos cargados desde la hoja de cálculo “Lista de contactos”
+
+Un nuevo campo personalizado creado para el rango de edad elegido, de modo que los títulos de todos los encabezados de
+columna en la hoja de cálculo coincidan con los nombres de campo correspondientes
+
+Una lista de correo electrónico a la que hayas asignado un nombre para facilitar la identificación de los contactos que
+contiene la lista
+
+Tres segmentos de lista que contengan los siguientes datos de contacto:
+
+Personas que viven en estados del suroeste de Estado Unidos (California, Nuevo México, Arizona, Nevada, Texas o Utah)
+
+Personas que tienen entre 36 y 55 años (36–45 o 46–55)
+
+Personas que cumplen años en abril
+
 ### Cómo escribir un correo electrónico eficaz
 
 ### Herramientas para marketing por correo electrónico
