@@ -1222,6 +1222,193 @@ Texto de vista previa: Texto junto al asunto de un correo electrónico en la ban
 
 ## Herramientas útiles para el marketing por correo electrónico
 
+### Listas de correo electrónico
+
+#### Te damos la bienvenida a la semana 3 curso 4
+
+Hola de nuevo. Ya comprendes en general el marketing por correo electrónico y el tipo de correos que se utilizan en las
+campañas. Ahora, veremos todos lo relacionado con la automatización y cómo escribir correos eficaces. Primero, repasaremos
+las mejores prácticas para crear listas de correo electrónico. Conocerás cómo obtener nuevas suscripciones utilizando la Red
+de Display de Google, anuncios en Facebook y SEO. Una vez que hayas creado tu lista, la vas a querer segmentar. Lo explicaré
+más adelante. En un video anterior vimos que la segmentación es dividir una lista de suscriptores/as en grupos más pequeños
+según intereses, ubicación o historial de compras. Hay cuatro formas para categorizar tus listas: geográficas, demográficas,
+psicográficas y de comportamiento. Al segmentar tus listas, tendrás los conocimientos y recursos para escribir correos
+eficaces y podrás practicar. Te mostraré herramientas de automatización como HubSpot y Mailchimp que facilitarán tu trabajo,
+y te ayudarán a evitar errores en tu marketing por correo electrónico y arreglarlos si es necesario. Será una lección con
+mucho material para practicar tus nuevas habilidades. Debes familiarizarte con estos conceptos porque como especialista
+posiblemente usarás todo esto a diario. ¿Todo listo? Nos vemos en el siguiente video.
+
+#### Crea tu lista de correo
+
+Lo más importante en el marketing por correo electrónico son los/as destinatarios/as. Después de todo, sin una lista, tus
+correos no tienen a dónde ir. En este video, descubriremos las tácticas que usan las empresas para crear sus listas. Este
+tipo de marketing es más que nada de generación de leads, y su objetivo es recopilar direcciones de correo de clientes
+potenciales. Cuando obtienes una dirección, generas un lead que puede convertirse en una venta. Y como el propósito del
+marketing por correo es convertir posibles suscriptores/as en clientes, los leads son importantes. Cuando empiezas a generar
+leads, construyes tu lista de correo. ¿Qué puedes hacer para obtener leads? Estas son algunas estrategias: avisos en el
+sitio web, anuncios de Display en la Red de Display de Google o a través de Creatio, SEMrush y Taboola. Anuncios en redes
+como Facebook, SEM, referencias y marketing por correo electrónico. Una forma de crear tu lista gratis es pedir a tus
+clientes su correo electrónico en tu sitio web. A las y los especialistas les gusta porque no requiere más presupuesto y
+puede marcar la diferencia. Las personas visitan sitios web por alguna razón, y si visitan el tuyo, significa que les
+interesa tu marca. Así que es bueno agregar un mensaje en tu página de inicio para que den su correo electrónico. Puedes
+ofrecerles algo a cambio, como un código de descuento o contenido gratuito. Un aviso en el sitio web es un banner que pide a
+quien lo visita que haga algo. Otra forma es mediante anuncios de Display. Son anuncios en sitios y aplicaciones en forma de
+banner compuestos por fotos, texto o videos. En el marketing por correo, deberá incluir el correo electrónico, o un vínculo
+a una página de destino para registrarse. Al ingresar un correo, se genera un lead que se agrega a la lista automáticamente.
+Los anuncios de Display ayudan a crear listas, pero recuerda que tienen un costo. Hay organizaciones que no tienen
+presupuesto para crear listas. En esos casos es mejor usar tácticas que no generan gastos. Puede que trabajes en una empresa
+con presupuesto para crear listas. Recuerda que cuando alguien crea un sitio o un blog, puede optar por la Red de Display de
+Google, y, de ser así, los anuncios aparecerán en su sitio. Esos son anuncios de Display. Otra forma de conseguir
+direcciones de correo para tu lista es con anuncios en redes sociales. Si usas redes sociales, probablemente ya los conoces.
+Si no las utilizas, puedes volver al curso anterior para conocer más al respecto. “Anuncios en redes sociales” es un
+publicidad de pago en plataformas de redes sociales dirigidas a los/as usuarios/as. Algunos redes ofrecen formatos de
+anuncios para generar leads. Por ejemplo, Facebook. Son similares a anuncios de Display con texto, imágenes y una URL que
+dirige a un sitio con información o para comprar productos. Sin embargo, tienen un formulario para que las personas envíen
+su nombre, correo electrónico, o lo que se elija pedir. Y, en lugar de mostrarse en un sitio web o blog, lo hacen en las
+redes sociales. Por ejemplo, si una editorial busca crear una lista de correos con anuncios de Facebook puede dar un
+incentivo a quienes se registren, por ejemplo, permitir descargar un capítulo de su libro más reciente sin costo. Para ello,
+solo deben registrarse con un correo y aceptar los Términos y condiciones. Ya aprendiste de marketing en buscadores. Pero
+veamos cómo se relaciona con tu campaña de marketing por correo. SEM es el aumento de la visibilidad de un sitio en un motor
+de búsqueda por medio de anuncios pagados. Si usas google.com para buscar, verás anuncios pagados antes de los resultados
+orgánicos. Es un ejemplo de marketing de buscadores. Una forma de crear tu lista con SEM, es incluir un descuento o un
+incentivo en tu anuncio, para atraer a quienes se suscriban de inmediato. Otra forma es utilizar SEM para generar leads de
+marketing por correo. Así, cada cliente que navegue por un sitio web, podrá ver tu anuncio con el formulario incluido,
+completarlo ahí y suscribirse a tu lista. Otra forma de obtener más correos sin costo es confiar en las referencias y
+reenvíos de tus clientes. Se trata de información de boca a boca que anima a tus clientes a invitar a familiares, amistades
+y contactos a hacerse clientes. Piensa en lo mucho que confías en tu mejor amigo o amiga o en un tu familia. Si te dijeran
+que hay algo que te va a gustar les creerías. Las referencias son muy valiosas ya que hay una probabilidad cuatro veces
+mayor de que las personas compren algo cuando se lo recomiendan. Si tienes un programa de fidelidad o referencias, puedes
+ofrecer puntos, descuentos, o créditos en la próxima compra, a cambio de que compartan un enlace de referencia, o reenvíen
+un correo a sus amistades. El objetivo es conseguir nuevas suscripciones y clientes, y las referencias y reenvíos te
+ayudarán a lograrlo. Mientras hablamos de cómo crear tu lista, es importante analizar la ética en torno al manejo de la
+información de identificación personal de PII. PII es cualquier dato que pueda ayudar a identificar a una persona
+específica. Cuando las personas comparten información, es importante generar confianza y usarla solo para el propósito
+informado. Cuando comparten información, confían en que tu empresa la usará correctamente. Como especialista en marketing,
+debes actualizarte sobre las leyes de tu país relativas a la PII. Ahora, repasemos. Para generar leads o crear tu lista
+aplica estas tácticas. Usa avisos de sitio web, anuncios de Display en la Red de Display de Google o por Creatio, SEMrush y
+Taboola, anuncios en redes sociales como Facebook, marketing de buscadores, referencias y marketing por correo electrónico.
+Veremos más sobre listas en esta sección, así que quédate conmigo.
+
+#### Segmenta tu lista de correo
+
+Si hicieras una fiesta, no invitarías a alguien que supieras que no quiere venir, ¿verdad? Lo mismo pasa si incluyes en tu
+lista de correo a quien que no le interesa tu contenido. En este video, conocerás los conceptos de segmentación de listas de
+correo y sus beneficios. La segmentación es dividir una lista en grupos más pequeños con base a criterios como intereses,
+ubicación o historial de compras. Al hacer la lista, deberás segmentarla. Al usar la segmentación, una empresa podrá ofrecer
+contenido relevante a cada grupo de suscriptores/as. Cuanto más personalizado sea el correo, más probable será que guste el
+contenido y se generen ventas y fidelidad a la marca. Puedes segmentar tu lista en función de algunos criterios. La mayoría
+de las empresas segmentan por geografía, características psicográficas, demográficas y de comportamiento. Reproduce el video
+desde ::57 y sigue la transcripción0:57 Veamos qué significa cada una. Al segmentar por geografía, puedes hacerlo por
+ubicación, clima, población, idioma o entorno. Esta segmentación se centra en la ubicación de sus suscriptores/as. Si tu
+marca ofrece envíos gratis, en todos los pedidos de octubre, pero solo en tu país, debes segmentar por país para que las/los
+clientes internacionales no se confundan. Y no querrás enviar un correo en mandarín a un país de habla alemana, ¿cierto? Si
+quieres enviar correos en varios idiomas, considera segmentarlos por idioma. Digamos que trabajas para una empresa de ropa
+en Asia. Por las diferencias en el clima de una región a otra, tal vez quieras segmentar tus correos por entorno o clima. En
+Asia hay muchas regiones geográficas variadas como desierto, selva y tundra. Las/los clientes que viven inviernos fríos,
+como en Japón, China, Rusia y Corea les puede interesar el nuevo abrigo de tu empresa. Pero en zonas tropicales, como
+Vietnam y Tailandia puede que no. Otra forma de segmentar es por características psicográficas. Se basa en las actividades,
+intereses y opiniones de los clientes. Incluye factores como estilos de vida, valores y hobbies. Si usas marketing digital
+para un supermercado local, puedes segmentar por preferencias dietéticas. ¿Hay suscriptores/as veganos/as o que prefieran
+productos sin gluten? Segmentar de esta manera te ayudará a enviar contenido útil y específico, mientras te aseguras de no
+enviar algo poco atractivo u ofensivo. En una compañía de salud y bienestar, sus suscriptores/as ciclistas querrán conocer
+más sobre las ciclovías más famosas del mundo. Si tienes suscriptores/as que prefieren correr, podrás enviar una lista de
+senderos para correr, gracias a la segmentación. La siguiente categoría para segmentar tu lista es la demografía. Estos
+datos incluyen información como edad, género, nivel de ingresos y estado familiar. Segmentar por demografía es excelente
+porque se basa en información consistente, y los datos psicográficos están sujetos a cambios frecuentes. Si llevas el
+marketing por correo de una empresa de viajes, y tienes una propuesta de escapada romántica querrás incluirla en tu boletín
+informativo. Es un ejemplo en el cual es importante saber qué suscriptores/as están en una relación o no, si están
+casados/as, viven en pareja, o tienen una familia. En ese caso puedes segmentar por estado familiar. O digamos que una banda
+famosa de los 80 vuelve a salir de gira por primera vez en 20 años. La sala de conciertos para la que haces marketing quiere
+anunciar que actuarán en su espacio, Sin embargo, puede que a sus suscriptores/as más jóvenes no les interese. Gracias a la
+segmentación por grupos de edad solo te diriges a suscriptores/as a los/las que les puede interesar. Finalmente, veamos la
+segmentación por datos de comportamiento, que refieren a las acciones que toma o no tu cliente cuando compra en tu sitio
+web. Es una de las categorías más importantes, porque te da una idea de cómo un/a cliente se relaciona con tu marca y
+producto específico. Los hábitos de compra, de gasto, de navegación, la fidelidad a la marca y la interacción con tu sitio
+web son datos para segmentar tu lista en base al comportamiento. En una tienda deportiva, conocer si una persona visita el
+sitio por primera vez o hace tiempo que es cliente, te ayudará a enviar el mensaje el indicado. Enviar un correo a un/a
+cliente nuevo/a que le de la bienvenida y un 10% de descuento, está perfecto. Para un/a cliente habitual, debes enviar uno
+que diga, hola de nuevo, ten 10% de descuento en tus artículos favoritos. Para recompensar a tus clientes frecuentes del
+sitio web, segmenta tu lista en función de la fidelidad a la marca. Así, solo tus clientes más fieles recibirán las mejores
+ofertas. Antes de continuar, recapitulemos. Vimos cuatro categorías comunes de segmentación en marketing, geográficas,
+psicográficas, demográficos y de comportamiento, y que cuando eliges una categoría, puedes desglosarla aún más y dirigirla
+al público objetivo de manera más específica.
+
+#### Segmenta listas con Constant Contact
+
+La segmentación es la acción de dividir una lista de suscriptores/as de correo electrónico en grupos más pequeños según
+criterios como intereses, ubicación, interacción o historial de compras. Cuando segmentas listas de correo electrónico,
+puedes dirigirte y atraer a diferentes públicos para que cada persona obtenga contenido que le resulte relevante, lo que
+puede generar mejores resultados para tu negocio.
+
+Cuando envías un correo electrónico, quieres que quienes lo reciben lo abran, lean, interactúen con él y tomen la acción que
+quieres que tomen. Si se identifican con el contenido y sienten que les aporta valor de alguna manera, es mucho más probable
+que completen esas acciones.
+
+En esta lectura, obtendrás una comprensión general sobre cómo usar una herramienta llamada Constant Contact para segmentar
+tus listas.
+
+*Constant Contact:*
+
+Constant Contact es una herramienta de marketing en línea que ofrece muchas funciones. Esta lectura se centra en el uso de
+Constant Contact para la segmentación del correo electrónico. Constant Contact ofrece una prueba gratuita de 6 meses para
+estudiantes del Certificado de Carrera de Google en Marketing Digital y Comercio Electrónico, de modo que puedan practicar
+el uso de la herramienta durante las siguientes dos actividades.
+
+*Segmentación en Constant Contact:*
+
+Para empezar, es importante entender la diferencia entre listas, segmentos y etiquetas. Para obtener más información, mira
+este video de Constant Contact: Tutorial: Diferencias entre listas, etiquetas y segmentos. Una vez que comprendas cómo
+funcionan las listas, los segmentos y las etiquetas en Constant Contact, puedes comenzar a segmentar.
+
+A continuación, crea una cuenta. Puedes registrarte para la prueba gratuita de 6 meses a través de este enlace. O, si ya
+sabes que vas a usar Constant Contact durante un largo periodo, puedes registrarte como un cliente de pago.
+
+Si ya tienes una lista puedes importarla en el programa, si no,  puedes crear una con solo unos pocos contactos. Visita la
+página de contactos para comenzar a crear y agregar listas.
+
+Haz clic en “Agregar contactos” para acceder a las diversas formas de sumar personas a tu lista. Si vas a agregar contactos
+uno por uno, haz clic en “Crear un contacto nuevo”. Si tienes una hoja de cálculo o un archivo que contenga tus contactos,
+puedes cargarlo haciendo clic en “Cargar desde un archivo”. También existen algunas otras opciones.
+
+![alt text](image-86.png)
+
+Una vez que hayas creado o cargado tus listas, haz clic en “Segmentos” en la barra de navegación, justo debajo de
+“Contactos”. Aquí, puedes comenzar a enviar correos electrónicos segmentados basados en la interacción, o bien puedes hacer
+clic en “Crear un segmento”. Se te redirigirá a una nueva página donde podrás asignar un nombre a tus listas y decidir cómo
+quieres segmentarlas. Haz clic en el menú desplegable “Agregar un bloque” y selecciona una de las opciones. A partir de ahí,
+puedes desglosarlo aún más.
+
+![alt text](image-87.png)
+
+Constant Contact te permite usar identificadores muy específicos. Por ejemplo, si quieres enviar un correo electrónico
+promocional a suscriptores/as que aman el café y cumplen años en marzo, puedes hacerlo.
+
+![alt text](image-88.png)
+
+Una vez que hayas hecho los ajustes, haz clic en “Guardar” y se creará la lista. Vuelve al panel “Segmentos” para consultar
+las listas que creaste.
+
+**Recursos adicionales:**
+
+Una vez que hayas creado tus segmentos, puedes conocer más acerca de la creación y el envío de correos electrónicos a través
+de Constant Contact con el Tutorial:
+
+[Crea un correo electrónico.]([https://](https://knowledgebase.constantcontact.com/email-digital-marketing?catsubsort=true&lang=es&t=tutorial#Create_Add_Content))
+
+Para obtener más información sobre otras funciones, como la segmentación por clic, mira el Tutorial:
+
+[Uso de la segmentación por clic en un correo electrónico.]([https://](https://knowledgebase.constantcontact.com/email-digital-marketing?catsubsort=true&lang=es&t=tutorial#Segment_Your_Lists))
+
+#### Actividad: Segmenta una lista de correo electrónico con Constant Contact
+
+### Cómo escribir un correo electrónico eficaz
+
+### Herramientas para marketing por correo electrónico
+
+### Errores del marketing por correo electrónico
+
+### Revisión: Herramientas útiles para el marketing por correo electrónico
+
 ## Recopilar y analizar datos de campañas de correo electrónico
 
 ## Ejecuta tu propia campaña de marketing por correo electrónico
