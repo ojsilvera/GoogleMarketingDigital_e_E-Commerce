@@ -485,9 +485,200 @@ a lograr tus objetivos de marketing.
 
 ### Qué hacer y qué no hacer en el marketing por correo electrónico
 
+#### Vídeo: VídeoQué hacer y qué no hacer en el marketing por correo electrónico
+
+Espero que te sientas con más confianza para crear un plan de marketing por correo electrónico. Ya casi tienes todo para
+probarlo por tu cuenta. Antes de hacerlo, queremos asegurarnos de que tengas ciertas pautas para seguir. Cuando se trata de
+crear un estrategia de marketing por correo, muchas de tus decisiones dependerán de hacia quién te diriges y qué funciona
+mejor para ellos/as. Pero antes, te damos algunas cosas para hacer y para no hacer probadas y reales, que todo/a
+especialista en marketing debe saber. Primero mencioné cuántos/as usuarios/as de correo electrónico hay en el mundo.
+¿Cuántos correos crees que se envían por día? Algunos/as expertos/as estimaron que se envían más de 300 mil millones de
+correos todos los días. Eso es un montón de correos. Saber cuántos correos se envían cada día es importante para tu marca
+para priorizar la calidad sobre la cantidad. Intenta fijar un estándar y define lo que significa la calidad para tu marca o
+equipo y respétalo. Si a la gente le gustan tus correos, los esperarán con ansias, incluso si llegan una vez por semana.
+Quizás para ti la calidad significa algo que enriquece sus vidas en algún aspecto. Quizás solo quieres enviarles imágenes
+interesantes o bonitas a tus clientes o lectores/as, y eso equivale a calidad para ti. Quizás la calidad consiste en
+enseñarles algo. Si tu empresa se enfoca en la salud mental, tal vez quieras darles a tus clientes un nuevo recurso o
+ejercicio para que comiencen cada lunes por la mañana. Cuando priorizas la calidad sobre la cantidad, te aseguras de no
+abrumar a tu lector/a o cliente. No les envíes spam. Por si no lo sabes, el spam son los mensajes no solicitados y el correo
+basura no deseado enviado de forma masiva a una lista de destinatarios/as. Evita siempre que tus correos se vean o suenen
+como spam y no te preocupes por aparecer en las bandejas varias veces por semana solo para que te recuerden. El spam usa
+frases dramáticas y demasiado buenas para ser verdad. Si usas ese lenguaje seguramente terminarás en las carpetas de spam y
+tus correos nunca se recibirán. Continuamos. La próxima cosa que sí debes hacer es muy importante. Segmentar tus listas.
+Esto se refiere a dividir una lista de suscriptores/as de correo en grupos más pequeños según criterios como intereses,
+ubicación o historial de compras. Aprenderás a hacerlo más adelante, pero lo básico es que la segmentación es una gran
+estrategia porque te permite enviar correos personalizados a personas específicas para garantizar que los disfruten. Por
+ejemplo, si comercializas un producto que ves que se vende mejor con gente que se identifica con cierto género, puedes
+segmentar tu lista de suscriptores/as por género. Por ejemplo, mujeres, hombres, género no binario y otros géneros con los
+que la gente se autopercibe. O digamos que quieres ofrecer un 10% de descuento para clientes como regalo de cumpleaños.
+Podrías segmentar la lista por mes y enviarles correos a las y los clientes que cumplen años en un mes dado. Un tipo de
+segmentación que es muy popular es la segmentación por zona horaria. Algunos/as especialistas creen que es mejor llegar a
+las bandejas de entrada de las y los clientes por la mañana. Pero tus clientes no viven en la misma zona geográfica. Es por
+esto que puedes segmentar por zona horaria y asegurarte de llegar a las bandejas de entrada en el momento óptimo. No le
+envíes el mismo correo a cada suscriptor/a, podrías terminar perdiendo a tus valiosos/as suscriptores/as, ya que si sienten
+que reciben correos con los que no se identifican, podrían no leerlos e incluso darse de baja. El correo perfecto no se crea
+solo. Requiere tiempo, precisión, edición, trabajo de diseño, y lo más importante, pruebas. Prueba varios formatos,
+longitudes, enlaces e imágenes en tus correos. Sería casi imposible hacer todo bien en el primer intento. Quizás notes que
+tu público apenas hizo clic en los enlaces que incluiste. Intenta entonces vincular el contenido de manera diferente o dar
+más contexto para los enlaces en los próximos correos. Fíjate qué funciona y no tengas miedo de probar cosas nuevas. Lo
+único que no deberías probar es aferrarte al mismo formato sin probar nada nuevo. Espero este video te haya dado claridad y
+contexto sobre cómo crear una estrategia de marketing exitosa, pero recién estamos comenzando.
+
+#### Vídeo: VídeoAaron - Qué hacer y qué no hacer en el marketing por correo electrónico
+
+Mi nombre es Aaron y soy Gerente de Marketing de Crecimiento aquí en Google. Trabajo con nuestros servicios de marketing
+propios y administrados para transmitir noticias, información y otros recursos útiles a las personas sobre las diferentes
+herramientas que Google ofrece actualmente. Cuando comencé con el marketing por correo electrónico, solía trabajar mucho con
+campañas muy específicas, por lo que ayudaba a definir cómo debían ser los recursos creativos, cómo debía ser el texto
+publicitario, cómo debíamos experimentar y qué debíamos probar para mejorar nuestras métricas de éxito y, finalmente, poner
+esas campañas en circulación, por supuesto. Una práctica que recomendaría es que, antes de lanzar una campaña de correo
+electrónico, siempre pienses e intentes filtrar tus propios pensamientos sobre las campañas, para asegurarte de que el
+contenido que les estás ofreciendo a tus consumidores/as esté personalizado para ellos/as, para que puedan tomarlo y usarlo
+casi de inmediato en su día a día y lo valoren más. Sabemos que, cuando una persona recibe un correo electrónico, suele
+estar abrumada por la gran cantidad de campañas de todas las empresas que existen en el mundo que llegan a sus bandejas de
+entrada. Cuanto más rápido puedas transmitir el mensaje a los y las usuarios/as y cuanto más rápido puedas demostrarles lo
+que te gustaría que hicieran con esa información, mejor. Cuando estás elaborando tu estrategia de correo electrónico, lo más
+importante, en mi opinión, es hacer pruebas constantemente. Incluso si ya leíste las prácticas recomendadas que hay en
+Internet o los consejos de tus amigos/as, eso puede aplicarse a ciertos públicos objetivo, pero casi todos tenemos un grupo
+ligeramente diferente de personas específicas a las que tratamos de alcanzar, y las prácticas recomendadas pueden no
+identificarse muy bien con tu público objetivo en particular. Algo que te conviene hacer siempre son las pruebas A/B, para
+asegurarte de que tienes diferentes variantes para tus correos electrónicos y tus campañas y que estás observando bien de
+cerca las métricas de éxito que definiste para esa campaña, para que sepas cuál funciona mejor y puedas construir sobre esa
+base para el futuro. Por último, debes asegurarte de que tus correos electrónicos no se vuelvan obsoletos y estáticos con el
+transcurso del tiempo. Incluso si encuentras un tipo de correo electrónico que funciona muy bien con tu público objetivo,
+tienes que asegurarte de experimentar e integrar constantemente nuevas tecnologías e innovaciones para mantenerte siempre
+actualizado/a y asegurarte de ofrecer las mejores opciones y el mejor contenido para los y las usuarios/as que estás
+contactando. A medida que exploras los puestos de nivel inicial de marketing por correo electrónico, busca exponerte a
+correos de distintas empresas, a las que puedas seguir para aprender más sobre este mundo. Observa cómo sus correos varían
+en estilo, contenido, longitud, y fíjate cuáles te gustan más o con cuáles interactúas más. Eso te ayudará mucho a entender
+cómo quieres que sean eventualmente tus propios correos, para que la gente como tú reciba correos electrónicos que les
+resulten útiles.
+
+#### Lenguaje ético de correo electrónico
+
+El objetivo final de una campaña de marketing por correo electrónico es lograr tus objetivos de negocio y de marketing. Para
+conseguirlo, debes crear correos electrónicos que las/los clientes quieran abrir, leer y con los cuales quieran interactuar.
+Una forma importante de lograr una campaña exitosa es asegurarte de estar llevando a cabo un marketing por correo
+electrónico ético. El marketing por correo electrónico ético implica crear estrategias que  aporten un verdadero valor a tu
+público y, al mismo tiempo, mantengan los principios morales que respalda tu negocio. Hay muchas consideraciones a tener en
+cuenta al redactar correos electrónicos de manera ética, pero una de ellas es elegir el lenguaje con cuidado. Este artículo
+aborda cómo llevar a cabo el marketing por correo electrónico ético mediante el uso de un lenguaje apropiado.
+
+**Usar un lenguaje ético:**
+
+Como especialista en marketing por correo electrónico, el lenguaje que utilizas afecta la forma en la que tus comunicaciones
+son recibidas: nunca querrás usar el lenguaje para estafar o enviar spam a los y las usuarios/as. Los correos electrónicos
+que no siguen un lenguaje de marketing ético pueden quedar atrapados en los filtros de spam, y eso significa que pueden no
+llegar nunca a las bandejas de entrada de las/los clientes. Incluso si lo logran, pueden crear sensaciones negativas en tus
+lectores/as, lo que hará que desconfíen de tu empresa y tus tácticas. Esto puede poner en riesgo la voz y la integridad de
+tu marca. Si tus palabras son manipuladoras, exageradas, poco éticas o desesperadas, la voz y la integridad de tu marca
+pueden estar en riesgo.
+
+**Usar un lenguaje fiable y honesto:**
+
+Tus suscriptores/as siempre deben sentir que pueden confiar en ti. El uso de un lenguaje genuino en la voz de tu marca
+genera confianza en tu público. Asegúrate de seleccionar frases que sean agradables y que hagan que tus clientes se sientan
+cómodos. Considera excluir palabras y frases que transmitan apuro o urgencia. Un simple “10% de descuento” atraerá más a los
+y las lectores/as que algo como “URGENTE: actúa ahora”.
+
+Algunos ejemplos de palabras que los filtros de spam reconocen son:
+
+Actúa ya
+
+Presenta ahora tu solicitud
+
+Urgente
+
+Oferta exclusiva
+
+Información importante sobre
+
+Esto no durará
+
+Sé sincero/a acerca de lo que estás ofreciendo
+
+Elige frases y palabras que indiquen exactamente lo que ofrece el correo electrónico. Si se trata de un 50% de descuento
+adicional en artículos que están en oferta, indícalo. Tu público no debería sentir que les estás ocultando algo.
+
+Entonces, si estás usando palabras muy exageradas o desesperadas, es posible que los correos electrónicos ni siquiera
+lleguen a tu público. Y, si logran llegar, no querrás arriesgarte a que tu público piense que lo estás engañando.
+
+Algunos ejemplos de frases exageradas son:
+
+La mejor oferta de todos los tiempos
+
+Oferta fantástica
+
+Dinero gratis
+
+Sin trampas
+
+Sin cargos
+
+Estas son frases que deberías evitar para que tus clientes no se sientan engañados/as.
+
+Usa un lenguaje que agregue valor
+
+Usa palabras que le aporten cierto valor al contenido, para que tu público tenga una razón para abrir tus correos
+electrónicos e interactuar con ellos. Tu público nunca querrá sentir que les estás rogando que abran un correo electrónico o
+realicen una compra, por eso es mejor evitar el lenguaje desesperado. Usar frases como “creemos que te gustará esto” o
+“hicimos esto pensando en ti” les recuerda a los y las lectores/as que los correos electrónicos son para ellos/as y que
+deben disfrutarlos.
+
+Evita frases como:
+
+Por favor, léelo
+
+Necesitamos tu ayuda
+
+Necesitas ver esto
+
+**Conclusiones clave:**
+
+La mayoría de las personas no tiene la intención de enviar correos electrónicos no deseados, por lo que puede ser frustrante
+si estos correos terminan en carpetas de spam. Ahórrate esa frustración usando un lenguaje fiable y honesto, siendo sincero
+con lo que ofreces, y usando un lenguaje que le agregue valor al contenido. Y si no tienes la seguridad de estar eligiendo
+el lenguaje más ético, ¡haz algunas pruebas! Luego, analiza tus resultados para ver a qué responde mejor tu público.
+
 ### Revisión: Introducción a “Creatividad en la bandeja de entrada: marketing por correo electrónico”
 
+#### Términos y definiciones del curso 4, semana 1
+
+Análisis FODA: Auditoría que identifica las fortalezas, debilidades, oportunidades y amenazas de un negocio o proyecto..
+
+Análisis PESTEL: Auditoría que identifica los factores políticos, económicos, sociales, tecnológicos, ecológicos y legales que pueden afectar una estrategia de marketing.
+
+Estrategia de marketing por correo electrónico: Conjunto de procedimientos que un anunciante identifica y sigue para lograr sus objetivos de marketing a través de la publicidad por correo electrónico.
+
+Insight: Información que se descubre a través de la investigación o el análisis de datos y sobre la que se puede actuar en beneficio de una estrategia de marketing.
+
+Marketing por correo electrónico: Proceso de enviar mensajes a una lista de suscriptores/as existentes para compartir información, impulsar las ventas o crear una comunidad.
+
+Proveedor de marketing por correo electrónico: Empresa que ofrece servicios de marketing por correo electrónico o de correo electrónico masivo.
+
+Retorno de la inversión (ROI): Relación entre los ingresos netos (dinero ganado) y la inversión (dinero gastado).
+
+Segmentación: Práctica de dividir una lista de suscriptores/as de correo electrónico en grupos más pequeños según criterios como intereses, ubicación o historial de compras.
+
+SMART: Método de definición de objetivos que puede ayudar a establecer y medir el éxito de los objetivos de una campaña. Es el acrónimo en inglés de “specific” (específico), “measurable” (medible), “attainable” (alcanzable), “relevant” (relevante) y “time-bound” (de duración limitada).
+
+Spam: Correo basura no solicitado y no deseado enviado en bloque a una lista amplia de destinatarios.
+
 ## Tipos de marketing por correo electrónico
+
+### Correos electrónicos que dan la bienvenida a nuevos/as suscriptores/as
+
+#### Te damos la bienvenida a la semana 2 curso 4
+
+#### Tipos de marketing por correo electrónico: Correos electrónicos de adquisición
+
+#### Tipos de marketing por correo electrónico: Correos electrónicos de bienvenida
+
+### Correos electrónicos que atraen suscriptores/as
+
+### Correos electrónicos que mantienen a las/los clientes
+
+### Resumen: Tipos de marketing por correo electrónico
 
 ## Herramientas útiles para el marketing por correo electrónico
 
