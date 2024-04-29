@@ -2085,4 +2085,12 @@ Tasa de apertura: Porcentaje de usuarios/as o clientes que abren un correo elect
 
 ## Recopilar y analizar datos de campañas de correo electrónico
 
+### Introducción a las métricas
+
+### Las métricas más comunes del marketing por correo electrónico
+
+### Resultados de marketing por correo electrónico
+
+### Revisión: Recopila y analiza los datos de las campañas de marketing por correo electrónico
+
 ## Ejecuta tu propia campaña de marketing por correo electrónico
