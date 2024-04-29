@@ -2087,6 +2087,92 @@ Tasa de apertura: Porcentaje de usuarios/as o clientes que abren un correo elect
 
 ### Introducción a las métricas
 
+#### Te damos la bienvenida a la semana 4
+
+En esta sección, veremos todos los aspectos de recopilación y análisis de datos de tu campaña marketing por correo
+electrónico. Los datos son importantes porque enviar correos electrónicos es solo el principio. Medir si tu campaña de
+marketing tuvo éxito o no es una gran parte de tu campaña también. Cuando hablamos de campañas de marketing por correo
+electrónico, ¿cómo puedes saber si la tuya fue exitosa? Primero, debes entender cómo se conjugan los datos, las métricas los
+KPI y los informes. Aprenderás que estos conceptos te ayudan a confiar en las decisiones que tomas, permiten tener una
+estrategia más productiva, ayudan a definir el público objetivo, y abren oportunidades para tu organización. Luego, veremos
+las métricas de marketing por correo electrónico que usan los/as especialistas para medir el éxito de un proyecto. Estas son
+la tasa de apertura, la tasa de clics por apertura, la tasa de cancelación de suscripciones, la tasa de quejas, la tasa de
+conversión, la tasa de reenvío, la tasa de crecimiento de la lista, la tasa de rebote y el ROI de la campaña. Después, verás
+prácticas recomendadas para presentar resultados a las partes interesadas. Las partes interesadas son personas de tu
+organización, que estarán involucradas de alguna manera en la campaña. Podrían ser tu jefe, tus compañeros/as de equipo o
+colegas de otros departamentos. ¡Comencemos! Nos vemos en un rato.
+
+#### Conceptos útiles en los resultados de marketing por correo electrónico
+
+Hay muchos conceptos que es importante saber sobre los resultados de campañas por correo electrónico. Términos como datos,
+métricas, indicadores clave de rendimiento o KPI, e informes son palabras que probablemente uses a diario como especialista
+en marketing. Y puede ser confuso distinguirlas. En este video, vamos a entender cómo se relacionan todos estos conceptos.
+Aprenderás que el seguimiento y la evaluación de tu campaña te ayudarán a entender cómo atender a tu público, lo que llevará
+a su crecimiento. Cuando sabes lo que funciona, puedes dejar de hacer cosas o hacer más de lo que funciona. Saber recopilar
+datos, seguir métricas y KPI, y revisar informes te ayudará a analizar resultados y transformarlos en ideas. Estos
+resultados ayudan a que confíes en las decisiones que tomas. Refuerzan la productividad, para no perder el tiempo con
+tácticas que no funcionan. Te ayudan a definir y segmentar tu público y abren oportunidades para tu organización Piénsalo de
+esta manera: muchos datos generan métricas, las métricas generan KPI y los KPI generan informes. Comencemos con los datos.
+Los datos son una colección de hechos o información. Estos hechos, números, o información se utilizan para orientar o
+planear algo. Cuando piensas en cuántas personas visitan tu sitio, cuántas compras se hicieron después de enviar un correo
+promocional, o incluso el desglose por edad de tu público, todos esos son datos sin procesar. ¿Cómo conviertes los datos en
+métricas? Como viste anteriormente, las métricas son datos con un contexto adicional. Si los datos son un número, piensa en
+las métricas como una medición cuantitativa de esos números o datos. Las métricas ayudan a comprender los datos sin
+procesar. Se refieren a las mediciones cuantificables usadas para seguir y evaluar un objetivo de negocio. Por ejemplo, si
+miras un panel de automatización de marketing por correo electrónico y ves 40 visitas al sitio desde una campaña de correo,
+este es un ejemplo de datos. Solo cuando lo ves como una métrica se convierte en información útil. Si miras un poco más de
+cerca, verás que el 40% es la tasa de apertura, eso es una métrica. Aprenderás más sobre tasas de apertura luego, pero es el
+porcentaje de usuarios/as que abren tu correo. En el marketing por correo electrónico, no puedes personalizar datos según tu
+organización, pero sí puedes personalizar qué métricas priorizar en función de los objetivos de tu organización. Algunas
+métricas importantes son: tasa de apertura, de clics por apertura, de cancelación de suscripciones, de rebote y de reenvío.
+Recuerda que los KPI son medidas utilizadas para evaluar el éxito que tiene una empresa en el logro de un objetivo de
+negocio o de marketing. Los KPI son métricas, pero no todas las métricas son KPI, ya que los KPI son las métricas que tú
+consideres importantes para determinar el éxito de tu campaña. Puedes decidir que el ROI y la tasa de conversión son las dos
+métricas que tu empresa necesita priorizar para medir el éxito. Mientras que no prestarás atención a la tasa de apertura. A
+veces es útil pensar sobre cómo se conjugan estas métricas. Tal vez tengas KPI secundarios que, al priorizarlos, te ayuden a
+lograr tus metas. Por ejemplo, si tus ventas están bajas, pero tu tasa de conversión está bien, quizá debas enfocarte en la
+tasa de apertura, para que los/as suscriptores/as abran el correo. Si lo abren, están un paso más cerca de comprar y tus
+ventas podrían aumentar. Un informe de marketing por correo electrónico es una colección de KPI. Suele incluir imágenes
+efectivas como gráficos, tablas y figuras. Puedes usar el informe de la campaña para extraer insights. ¿Qué aprendiste? ¿Qué
+indican las cifras? Los informes suelen incluirse en presentaciones para las partes interesadas. Los datos, métricas, KPI e
+informes son sumamente importantes en el marketing por correo electrónico porque ayudan a orientar tu camino como
+organización. Responden preguntas como: ¿Te encuentras donde quieres estar? ¿Vas en la dirección correcta o deberías ajustar
+tus tácticas en función de la conducta del público? Poder responder esas preguntas para tu organización es invaluable.
+
+#### Ivana - Aprovechar los datos e insights en el marketing por correo electrónico
+
+¡Hola! Mi nombre es Ivana y soy Especialista en Rendimiento en Google. Como tal, ayudo a los anunciantes a usar las
+soluciones de Google para hacer publicidad, de modo que puedan crear campañas que maximicen los resultados de sus negocios.
+A decir verdad, nunca me imaginé que me convertiría en especialista en marketing digital, porque mi formación profesional es
+como fotógrafa y licenciada en Bellas Artes. Pero, una vez que comencé a trabajar en ese campo, me di cuenta de que, en
+realidad, aquello no era lo que me apasionaba. Necesitaba encontrar un trabajo, por supuesto. Me postulé a varios puestos
+distintos, y no sabía exactamente qué iba a hacer ni qué me iba a gustar. Sin embargo, tuve suerte, porque conseguí un
+puesto como emprendedora junior en una startup digital. Me sorprendió lo creativo que era el marketing, porque tienes que
+pensar en el público objetivo, tienes que pensar en el mensaje correcto, tienes que trabajar con distintas capacidades de
+segmentación en función de la plataforma que estés usando. ¿Cómo aprovechas cada canal para encontrar a las personas a las
+que realmente deseas dirigir tu mensaje? Todos esos aspectos son muy creativos. Cuando haces campañas de marketing por
+correo electrónico, es muy importante aprovechar los datos y distintos indicadores. Debes tener en cuenta tanto como sea
+posible la información que recopilaste de tus suscriptores/as, así como la información sobre otros aspectos, como la
+estacionalidad. Si sabes, por ejemplo, la fecha de nacimiento de tus suscriptores/as, podrías enviarles un correo
+electrónico durante el mes de su cumpleaños o antes de ese mes para ofrecerles servicios de planificación de eventos que
+podrían usar para organizar un festejo de cumpleaños. Para cualquier tipo de campaña, es muy importante tomar decisiones
+basadas en datos. En el marketing por correo electrónico, específicamente, a veces un correo no funciona porque quizás lo
+enviaste en el momento equivocado del día o en el día equivocado de la semana, o tal vez el asunto no estaba personalizado
+para el/la suscriptor/a, por lo que no lo encontró atractivo y no lo abrió. Tienes que ser capaz de probar esas hipótesis.
+La mejor manera de hacerlo es a través de pruebas A/B. Supongamos que, por ejemplo, creo que la gente no abrió mi correo
+electrónico porque el asunto no estaba personalizado y mi hipótesis es que, si lo hubiera personalizado, mucha más gente
+habría decidido abrirlo. Lo que puedo hacer es dividir la lista de suscriptores/as para la próxima campaña de correo
+electrónico. Entonces, una opción puede llevar insertado el nombre del/a suscriptor/a y, en la otra, el asunto puede ser el
+mismo para todos, sin cambiar nada más. El contenido del correo es el mismo, el resto del asunto es el mismo, así que todo
+es igual en ambos casos, salvo por ese detalle. Si observo que hay una diferencia significativa en las tasas de apertura,
+entonces puedo determinar con cierta seguridad que insertar, por ejemplo, el nombre del/a suscriptor/a en el asunto ayuda o
+no a mejorar el rendimiento de mi campaña de correo electrónico. Una parte muy importante de hacer marketing digital y
+marketing por correo electrónico es dedicar el tiempo suficiente a interpretar los resultados. Se necesita mucha creatividad
+para pensar cuál de estas hipótesis vas a probar a continuación, pero es muy divertido observar los resultados e integrar lo
+que aprendiste para optimizar tus futuras campañas.
+
+#### Utiliza las métricas en el marketing por correo electrónico
+
 ### Las métricas más comunes del marketing por correo electrónico
 
 ### Resultados de marketing por correo electrónico
