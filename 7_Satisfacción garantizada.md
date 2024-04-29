@@ -279,6 +279,16 @@ no, y aplicar los resultados son las claves para perfeccionar tu estrategia de m
 
 ### Desarrolla las capacidades de gestión de las relaciones con las/los clientes
 
+#### Métodos de seguimiento posteriores a la compra
+
+#### Encuesta a tus clientes y formula preguntas eficientes
+
+#### Actividad de ejemplo: Redacta una encuesta de satisfacción de clientes
+
+#### Cómo proporcionar un excelente servicio al cliente
+
+#### Mide el nivel de satisfacción de tus clientes
+
 ### Revisión: Introducción a satisfacción garantizada: desarrolla estrategias de fidelización de clientes en línea
 
 ## Analiza las tendencias de una tienda en línea
