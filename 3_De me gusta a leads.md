@@ -3565,6 +3565,30 @@ El tono que elegiste usar en las descripciones de tus publicaciones y textos pub
 
 #### Actividad de ejemplo: desarrolla una campaña publicitaria en redes sociales
 
+Compara el ejemplo con tu actividad de planificación de campañas publicitarias en redes sociales. Revisa tu trabajo
+utilizando cada uno de los criterios del ejemplo. ¿Qué hiciste bien? ¿En qué aspectos podrías mejorar? Usa las respuestas a
+estas preguntas como guía a medida que avanzas en el curso.
+
+El planificador de campañas debe incluir los siguientes elementos:
+
+Un objetivo que describa el propósito de la campaña: dirigir tráfico hacia el sitio web de la empresa
+
+Una descripción del público objetivo de la campaña, basada en tu cliente tipo (customer persona), que incluya datos
+demográficos (como género, edad y ubicación) y cualquier otra información importante (como palabras clave, nivel de
+escolarización e intereses)
+
+Una plataforma de redes sociales que sirva para el objetivo de tu campaña y alcance a tu público, como Facebook, ya que es
+ideal para dirigir tráfico hacia un sitio web
+
+Un formato de anuncio que ayude a lograr el objetivo de tu campaña, como una imagen estática, ya que puede ayudar al público
+a entender cómo se usa el producto e incluir un botón de llamada a la acción
+
+Una descripción de los elementos creativos del anuncio, como imágenes y textos, que aborde los datos demográficos, el
+objetivo y las barreras del público
+
+Una llamada a la acción que se relacione con el objetivo de la campaña, sea clara, use palabras de acción y sea breve (entre
+cinco y siete palabras, como máximo)
+
 ### Cómo gestionar un presupuesto de publicidad en redes sociales
 
 ### Revisión: redes sociales de pago
