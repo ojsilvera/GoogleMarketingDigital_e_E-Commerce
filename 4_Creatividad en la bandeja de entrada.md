@@ -1136,7 +1136,89 @@ mayoría de las computadoras en la pestaña de accesibilidad, o utilizando un ve
 
 #### Correo no deseado (spam): Cuándo no enviar correos electrónicos
 
+Enviar correos electrónicos a tu lista de suscriptores/as con demasiada frecuencia puede impactar negativamente en tu
+negocio. ¿Te has preguntado cada cuánto tus suscriptores/as quieren recibir un correo electrónico? En esta lectura,
+aprenderás a determinar la frecuencia adecuada de envíos para tu negocio.
+
+**Consideraciones a la hora de establecer la frecuencia:**
+
+En 2021, se enviaron casi 320 mil millones de correos electrónicos en todo el mundo diariamente. Desde entonces, ese número
+sigue aumentando. Asegurarte de que tus suscriptores/as no se sientan abrumados/as o bombardeados/as con correos
+electrónicos es una parte importante de tu estrategia de marketing. Debes determinar la frecuencia de envíos con una
+cuidadosa consideración. Si envías correos electrónicos a tus suscriptores/as todos los días y ellos están tratando de
+reducir la cantidad que reciben en su bandeja de entrada, es posible que quieran cancelar la suscripción.
+
+Cuando evalúes la frecuencia con la que enviarás los correos electrónicos a tus suscriptores/as, plantéate las siguientes
+preguntas:
+
+¿Cuántos suscriptores/as hay en tu lista? Determina la frecuencia en función de los siguientes parámetros:
+
+Menos de 500: Envía un correo electrónico una vez al mes.
+
+500–10,000: Envía un correo electrónico una vez por semana.
+
+10,000 o más: Envía correos electrónicos dos veces por semana.
+
+¿Para qué sirve este correo electrónico? Si tu objetivo es dar a conocer algo, como un nuevo producto, es posible que solo
+necesites enviar un correo electrónico.
+
+¿Qué tipos de correos electrónicos planeas enviar? Por ejemplo, los boletines informativos se deben enviar con más
+frecuencia que los correos electrónicos promocionales sobre ventas o descuentos.
+
+¿Qué tipos de contenido hay en tus correos electrónicos? Si estás incluyendo contenido casi idéntico en varios correos
+electrónicos, tal vez no necesitas enviarlos más de una vez. Por ejemplo, si el foco del mensaje se relaciona con la
+temporada de descuentos, podrías  enviar un par de correos electrónicos: uno cuando comiencen las rebajas y otro cuando
+estén a punto de terminar.
+
+**Pregunta a tu audiencia:**
+
+Según cómo recopiles las direcciones de correo electrónico, puede haber formas de preguntarles a tus suscriptores/as cuáles
+son sus preferencias. Por ejemplo, si el registro lo hacen a través de un sitio web, puedes incluir una encuesta rápida
+consultándoles con qué frecuencia desean recibir correos electrónicos. Otra alternativa es  que, tras registrarse, les
+envíes un correo electrónico de bienvenida preguntándoles. Además, si los/las suscriptores/as seleccionan “Cancelar
+suscripción”, podrías incluir una encuesta que les permita optar por recibir correos electrónicos con menos frecuencia (por
+ejemplo, una vez al mes, una vez por semana, etc.). Esto puede reducir el número de personas que se den de baja.
+
+**Conclusiones clave:**
+
+Al momento de gestionar la frecuencia de los correos electrónicos, lo último que deseas hacer es abrumar a tus
+suscriptores/as, porque esto puede hacer que nunca abran tus correos electrónicos o incluso que cancelen la suscripción.
+Antes de comenzar a enviar correos electrónicos, considera el tamaño de tu lista, qué tipos de correos electrónicos
+enviarás, qué contenido tendrán y para qué sirven tus correos electrónicos.
+
 ### Resumen: Tipos de marketing por correo electrónico
+
+#### Términos y definiciones del curso 1, semana 2
+
+Accesibilidad: Tener en cuenta las diferentes necesidades cuando se crean o modifican productos, servicios o instalaciones, de modo que puedan ser utilizados por cualquier persona, tenga o no una discapacidad.
+
+Aplicación de ampliación de pantalla: Tecnología que ayuda a ver el contenido más fácilmente al ampliar el texto y las imágenes en una pantalla de computadora o dispositivo digital.
+
+Asunto: El primer texto que los destinatarios y las destinatarias ven después del nombre del remitente cuando un correo electrónico llega a su bandeja de entrada.
+
+Boletín informativo: Correo electrónico enviado a un grupo de suscriptores/as de forma regular, que contiene noticias y contenido informativo relevante para la empresa y de interés para la audiencia.
+
+Correo electrónico de adquisición: Correo electrónico enviado para conseguir nuevos/as clientes.
+
+Correo electrónico de bienvenida: Correo electrónico enviado a nuevos/as clientes o suscriptores/as.
+
+Correo electrónico de retención: Correo electrónico enviado a un/a cliente actual con la intención de mantener la relación comercial.
+
+Correo electrónico promocional: Correo electrónico enviado para informar a los/as suscriptores/as acerca de productos o servicios nuevos o existentes.
+
+Cuerpo del correo electrónico: Texto en el contenido principal de un correo electrónico.
+
+Lector de pantalla: Aplicación que convierte texto, botones, imágenes y otros elementos de la pantalla en voz o Braille.
+
+Llamada a la acción (Call to action o CTA): Estímulo que busca inducir a las/los clientes sobre qué hacer a continuación.
+
+Segmentación: Práctica de dividir una lista de suscriptores/as de correo electrónico en grupos más pequeños según criterios como intereses, ubicación o historial de compras.
+
+Texto alternativo: Breve descripción escrita de una imagen con el propósito principal de ayudar a las personas con discapacidad visual.
+
+Texto de correo electrónico (copy de correo electrónico): Texto en el asunto, texto de vista previa y correo electrónico.
+
+Texto de vista previa: Texto junto al asunto de un correo electrónico en la bandeja de entrada que proporciona información adicional sobre lo que hay dentro del correo electrónico.
 
 ## Herramientas útiles para el marketing por correo electrónico
 
