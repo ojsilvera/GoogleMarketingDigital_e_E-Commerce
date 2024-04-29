@@ -3295,6 +3295,55 @@ marca.
 
 ### El valor de los anuncios pagados en redes sociales
 
+#### Te damos la bienvenida a la semana 5 curso 3
+
+En tus campañas de marketing en redes sociales, probablemente vas a usar una combinación de medios de pago y orgánicos. Como
+ya vimos, las redes sociales son uno de los mejores canales de marketing para generar medios orgánicos. Aun así, los medios
+orgánicos solos podrían no ser suficientes para lograr tus objetivos de marketing en redes sociales. Para algunas campañas,
+quizás quieras implementar el quinto pilar de marketing: las redes sociales de pago. En esta sección, veremos sus
+beneficios. Veremos cómo las redes sociales de pago y orgánicas benefician a tus campañas según tus objetivos y veremos cómo
+implementarlas en tu estrategia. Exploraremos diferentes formatos de anuncios de redes sociales y cómo elegir cada formato
+basado en tus objetivos. Aprenderás a llegar a la gente que ya mostró interés en tu empresa o en tus productos con técnicas
+de remarketing, y también veremos cómo definir un presupuesto de redes sociales de pago y los distintos costos de los
+anuncios en las redes. ¿Empezamos? Veamos cómo incorporar las redes sociales de pago en tu rompecabezas del marketing de
+redes sociales.
+
+#### Beneficios de las redes sociales de pago
+
+Para que tus campañas de marketing tengan éxito en las redes sociales, quizás debas usar una combinación de redes sociales
+orgánicas y de pago. Repasemos. Las redes orgánicas no requieren de una promoción pagada. Al contrario, los medios de pago
+son la promoción que paga una marca. Aquí veremos qué son las redes de pago y cómo pueden beneficiar a tus campañas. Las
+redes de pago implican mostrar anuncios pagados o contenido de marketing patrocinado en las plataformas de redes para
+dirigirse a un público específico. En otras palabras, es un tipo de marketing por el que pagas en las redes sociales. Pagas
+por hacer publicidad en las plataformas de redes sociales y compartir tu contenido con públicos específicos. Al desarrollar
+una publicidad relevante o pagar para mejorar tu contenido orgánico, puedes llegar a clientes nuevos/as y actuales de forma
+más efectiva. Algunos ejemplos incluyen la publicidad de pago por clic, un tipo de publicidad en la que pagas cada vez que
+alguien hace clic en tu anuncio. Contenido de marca, que es cualquier publicación generada por un producto, marca o
+patrocinador de otro sitio, y contenido generado por influencers, que son las publicaciones de influencers que promocionan
+los productos y servicios de una marca. Puedes identificar anuncios de redes por etiquetas como “patrocinado” o “publicidad”
+dentro de la publicación. Las redes de pago ayudan a llegar al público y a impulsar las ventas, al igual que las redes
+sociales orgánicas. Aun así, las redes sociales de pago también ofrecen beneficios extras. Son una gran manera de aumentar
+el reconocimiento de marca. Te permiten poner tus anuncios en una posición destacada en el feed de tu público. Esto ayuda a
+llamar su atención, incluso si no te estaban buscando o si no seguían nada relacionado con tu marca. Otra ventaja de colocar
+anuncios de pago en las redes es que puedes llegar a tu público rápidamente. Con las publicaciones orgánicas, a veces pueden
+pasar días hasta que tu público las vea, debido a los algoritmos de la plataforma, y este tiempo puede costarte clientes
+potenciales, especialmente si estás llevando a cabo una campaña más corta. Con las redes de pago mejoras la posición de tus
+publicaciones en las redes y reduces el tiempo de demora. También puedes apuntar a tus clientes más relevantes. Por ejemplo,
+puedes configurar campañas con anuncios para personas de cierto rango de edad o región. También puedes crear campañas para
+dirigirte a seguidores, clientes anteriores o personas que pasaron por tu sitio web. Las plataformas tienen preferencias de
+anuncios que los y las usuarios/as pueden configurar para ver anuncios según sus intereses. Ya que tú estableces los
+parámetros de segmentación de tus anuncios, puedes asegurarte de que se muestren a personas más propensas a hacer clic. Con
+las redes de pago, también puedes aumentar tu capacidad de remarketing. Remarketing es el proceso de mostrar anuncios de
+pago a clientes que ya visitaron tu sitio web, aplicación o perfil de redes sociales. Cuando alguien visita tu sitio, puedes
+enviarle anuncios de remarketing varias veces y en diferentes formatos a través de las redes sociales. Con los anuncios de
+remarketing, aumentan las probabilidades de que compren tu producto y no el de la competencia. Por ejemplo, si una persona
+ve un anuncio de remarketing de una camisa en su perfil de redes sociales que ya vio en tu sitio web, entonces es más
+probable que la recuerde cuando vaya a comprar. Las redes de pago aumentan el éxito de tus campañas de marketing. Si las
+usas estratégicamente, aumentarás el reconocimiento de marca, mostrarás tu mensaje más rápido y podrás dirigirte a un
+público específico. Hablaremos más sobre cómo usar bien las redes de pago en esta sección.
+
+#### Incorpora las redes sociales de pago a tu estrategia
+
 ### Cómo segmentar tu publicidad en redes sociales
 
 ### Cómo gestionar un presupuesto de publicidad en redes sociales
