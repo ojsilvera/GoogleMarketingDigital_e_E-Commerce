@@ -3153,11 +3153,14 @@ Una vez que tengas acceso a esta herramienta, todo lo que tienes que hacer es bu
 
 #### Ejemplo de actividad: Crea un informe sobre el rendimiento de redes sociales
 
-Compara el ejemplo con tu informe de redes sociales finalizado. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué hiciste bien? ¿En qué aspectos podrías mejorar? Las respuestas a estas preguntas te servirán de guía a medida que avances en el curso.
+Compara el ejemplo con tu informe de redes sociales finalizado. Revisa tu trabajo utilizando cada uno de los criterios del
+ejemplo. ¿Qué hiciste bien? ¿En qué aspectos podrías mejorar? Las respuestas a estas preguntas te servirán de guía a medida
+que avances en el curso.
 
 Revisa cada sección del informe por correo electrónico:
 
-El asunto debe contener una descripción del propósito del informe, precedido por la palabra “Actualización,” “Informe” o similar.
+El asunto debe contener una descripción del propósito del informe, precedido por la palabra “Actualización,” “Informe” o
+similar.
 
 El saludo debe ser breve y conciso.
 
@@ -3167,14 +3170,118 @@ El resumen de resultados clave incluye la información importante más relevante
 
 La tabla ilustra los datos relevantes y contiene un título descriptivo.
 
-El detalle de las decisiones tomadas describe cómo el análisis de los datos aportará información valiosa para futuras estrategias.
+El detalle de las decisiones tomadas describe cómo el análisis de los datos aportará información valiosa para futuras
+estrategias.
 
-En el cierre, debes indicar que te encuentras a disposición para analizar la información más en detalle o responder consultas que puedan surgir.
-
-
+En el cierre, debes indicar que te encuentras a disposición para analizar la información más en detalle o responder
+consultas que puedan surgir.
 
 #### Presenta un informe de redes sociales
 
+Como especialista en marketing digital, la presentación es parte del trabajo. Aunque hayas creado un informe de redes
+sociales claro y convincente, debes presentarlo bien para asegurar que los destinatarios entiendan los datos, tu análisis y
+las decisiones que tomaste sobre la base de dicho análisis. Quizás no se espere que presentes los informes de redes sociales
+por tu cuenta al comienzo de tu carrera como especialista en marketing digital, pero la presentación es una habilidad
+esencial que eventualmente necesitarás y que solo mejora con la práctica. En este video, hablaremos de cómo presentar tus
+informes de redes sociales de manera efectiva. Cuando presentes tu informe, tu público tiene que comprender cuáles son los
+puntos clave sobre los datos que estás compartiendo. Pero también debes conectar emocionalmente con tu audiencia. Por
+ejemplo, si tu público en las redes sociales aumentó en un 30% en LinkedIn durante el último trimestre, ¡Muestra entusiasmo!
+O puedes agregar a la presentación estadísticas que te hayan sorprendido, anécdotas entretenidas o una reseña
+particularmente favorable que algún cliente te haya dejado en las redes sociales. Apelar a las emociones del público hará
+que tu contenido le interese y ayuda a mantener su atención. Para asegurar que tu audiencia te siga, ajusta el ritmo, habla
+despacio, usa oraciones breves y haz pausas intencionales. Para guiar a tu público a través de tu presentación, hazle notar
+lo que observaste acerca de los datos y usa frases como: “En línea con este punto...” o “como mencioné antes...” para pasar
+de una parte a otra. Además, pregunta cada tanto si hay alguna pregunta. Si tu público no está familiarizado con un término
+o un indicador de alguna red social, por ejemplo, es posible que debas explicar qué es. Durante tu presentación, también
+tienes que ser flexible. Por ejemplo, es posible que alguien tenga que dejar la reunión de improviso, que algún asistente
+llegue tarde o que responder a las preguntas te tome más tiempo del que habías planeado dedicarle. Considera el enfoque que
+adoptarías si tuvieras que acortar la presentación. Piensa cuáles son los puntos más importantes que quisieras exponer y
+prepárate para compartir solo esos puntos si ocurre algo inesperado. También debes prepararte para guiar la conversación
+según lo que sea más importante para el público. Si, por ejemplo, en tu público están los analistas financieros o los
+directivos de tu empresa, quizás lo mejor será que dediques más tiempo a analizar datos relacionados con las conversiones.
+Por último, para presentar de manera efectiva, debes prepararte bien. Practicar mucho puede ayudarte a identificar aspectos,
+como frases que suenan raras y otros inconvenientes. O, si exponer en público te da nervios, prepararte bien puede ayudar a
+calmar esa sensación y a darte más confianza. Prepararte con anticipación también te ayudará a identificar las preguntas que
+pueden surgir en el público y a pensar en posibles respuestas a ellas. Además, te da el tiempo para prepararte para
+justificar las decisiones estratégicas que quieres compartir si alguna de las personas de la audiencia tiene inquietudes al
+respecto. Por ejemplo, supongamos que quieres ampliar tus esfuerzos de marketing en redes sociales a una nueva plataforma,
+pero a la gerencia le preocupa no tener los recursos para hacerlo de manera efectiva. Si te preparas por adelantado para dar
+este tipo de respuesta, podrás explicar con claridad por qué piensas que expandirte a una plataforma nueva es una buena
+estrategia y cómo planeas reasignar los recursos para hacerlo posible. A modo de práctica, podrías ensayar tu presentación
+ante un miembro de tu equipo y pedirle que te dé feedback, te haga preguntas o comparta sus inquietudes. Las técnicas de
+presentación que analizamos hoy te serán útiles, no solo a la hora de presentar informes de redes sociales, sino en todas
+tus presentaciones de marketing. Cuando conectas con tu audiencia y te tomas el tiempo para responder a sus preguntas e
+inquietudes, mantienes su interés en tu presentación y ayudas a que la entiendan mejor. Y, al prepararte de antemano,
+tendrás más confianza de que tu presentación será efectiva, incluso si surge algún imprevisto. Desarrollar tus habilidades
+de presentación también te resultará útil si estás buscando un trabajo, ya que los empleadores valoran estas habilidades. Y
+puedes usar las mismas técnicas que utilizas para presentar a tu público para presentarte a ti en una entrevista.
+
 ### Revisión: Analítica e informes de redes sociales
 
+#### Términos y definiciones del curso 3, semana 4
+
+Alcance potencial: indicador que mide cuántas personas han visto potencialmente una publicación.
+
+Analítica de redes sociales: proceso de recopilar datos de las plataformas de redes sociales y analizarlos para tomar
+decisiones comerciales.
+
+Conversión: realización de una actividad que contribuye al éxito de un negocio.
+
+Datos cualitativos: información que describe cualidades o características.
+
+Datos cuantitativos: información que se puede contar o comparar en una escala numérica.
+
+Impresiones: número total de veces que un anuncio aparece en las pantallas de las personas.
+
+Indicador clave de rendimiento KPI (Key Performance Indicator, KPI): medida que se usa para medir el éxito de una empresa,
+en su esfuerzo por alcanzar un objetivo de negocio o marketing.
+
+Informe de datos: consiste en organizar y resumir datos para hacer un seguimiento del rendimiento en las acciones de
+marketing y ventas.
+
+Informe de redes sociales: documento que muestra los datos y análisis relevantes sobre las actividades en redes sociales de
+una marca.
+
+Informe operativo: informe que proporciona actualizaciones en tiempo real e información sobre métricas como tasas de
+crecimiento de la audiencia, impresiones, tasas de clics y más.
+
+Métricas: mediciones cuantificables que se utilizan para rastrear y evaluar un objetivo de negocio.
+
+Métricas de reconocimiento (conciencia) de marca: indicadores que miden la atención que una marca recibió en todas las
+plataformas de redes sociales durante el periodo del informe.
+
+Prueba A/B: método de prueba donde se comparan dos versiones de contenido con una sola variable diferente para determinar
+cuál produce mejores resultados.
+
+Pruebas multivariadas: método de prueba en el que se comparan dos o más versiones de contenido con múltiples variables para
+determinar qué combinación produce mejores resultados.
+
+Pruebas sociales: proceso que proporciona información basada en datos sobre el rendimiento de las redes sociales de una
+marca y las preferencias de la audiencia.
+
+Puntuación neta de promotor (Net Promoter Score, NPS): métrica que ayuda a predecir la interacción futura de las y los
+clientes al preguntarles: “¿Qué tan probable es que recomiendes nuestro producto a un amigo/a?”.
+
+Referencia: se refiere a cómo alguien fue guiado a un sitio web.
+
+Reporte informativo: un reporte utilizado para proporcionar a la dirección de la empresa una amplia comprensión de la
+performance de la campaña, centrándose en métricas más amplias, como el retorno de la inversión (Return On Investment, ROI)
+y otros indicadores clave de rendimiento (Key Performance Indicators, KPI).
+
+Tasa de aplauso: número de acciones de aprobación (como me gusta, menciones, retweets o favoritos), que recibe una
+publicación en relación con la cantidad total de seguidores.
+
+Testimonios de clientes: toda reseña, evaluación, comentario, aprobación o entrevista de un cliente en relación con una
+marca.
+
 ## Redes sociales de pago
+
+### El valor de los anuncios pagados en redes sociales
+
+### Cómo segmentar tu publicidad en redes sociales
+
+### Cómo gestionar un presupuesto de publicidad en redes sociales
+
+### Revisión: redes sociales de pago
+
+### Revisión del curso: De Me gusta a Leads: interactúa con tus clientes en línea
