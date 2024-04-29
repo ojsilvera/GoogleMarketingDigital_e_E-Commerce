@@ -133,7 +133,207 @@ consumidores/as compran en línea y pasan por diferentes puntos de contacto en s
 capaz de utilizar y tener una estrategia clave como la analítica o la medición, te ayudará a avanzar y comprender a tu
 consumidor/a en general y a saber cómo está llegando a tu negocio y a comprar en él.
 
+#### Cuadro de aviso de la discusión: Elige un mix de medios para llegar a otras y otros estudiantes
+
+¿Cómo crearías una planificación de medios digitales para llegar al público de tus compañeros/as? Recuerda que una
+planificación de medios digitales contiene detalles sobre dónde, cuándo y con qué frecuencia aparecerá un anuncio en todos
+los canales de medios digitales, incluidos los anuncios pagados de búsqueda, visualización, video, compras y redes sociales.
+
+¿Cómo influiría el contenido más popular entre tus compañeros/as en las decisiones de medios que tomarías?
+
+Identificación del público objetivo:
+
+Definir el grupo demográfico: edad, género, ubicación geográfica, intereses, comportamientos en línea, etc.
+
+Segmentar aún más dentro del público objetivo si es necesario.
+
+Investigación de palabras clave:
+
+Realizar una investigación exhaustiva de palabras clave relacionadas con el contenido o productos/servicios que se están
+promocionando para optimizar las estrategias de búsqueda pagada.
+
+Selección de canales de medios digitales:
+
+Anuncios pagados de búsqueda (Google Ads, Bing Ads): Utilizar las palabras clave investigadas para dirigirse a usuarios
+activos que buscan información relevante.
+
+Anuncios de visualización (Google Display Network, redes de anuncios): Mostrar anuncios gráficos o de vídeo en sitios web
+relevantes para aumentar la visibilidad de la marca.
+
+Anuncios de redes sociales, así como segmentar audiencias específicas según intereses, demografía, comportamientos, etc.
+
+Asignación de presupuesto:
+
+Distribuir el presupuesto entre los diferentes canales de manera equitativa o según la efectividad histórica de cada canal.
+
+Definición de calendario y frecuencia:
+
+Establecer fechas de inicio y finalización de la campaña.
+
+Determinar la frecuencia de los anuncios en función de la etapa del embudo de ventas y la capacidad presupuestaria.
+
+Creación de contenido y creatividades:
+
+Desarrollar anuncios y contenido creativo que resuene con el público objetivo y sea adecuado para cada canal seleccionado.
+
+Optimización continua:
+
+Monitorear el rendimiento de los anuncios en tiempo real.
+
+Realizar pruebas A/B para mejorar la efectividad de los anuncios y el contenido.
+
+Medición y análisis de resultados:
+
+Utilizar herramientas de análisis web y de plataformas publicitarias para evaluar el rendimiento de la campaña.
+
+Analizar métricas clave como impresiones, clics, conversiones, retorno de la inversión (ROI).
+
 #### Pasos a seguir en la planificación de medios
+
+Aquí encontrarás más información sobre el contenido que debe tener una planificación de medios digitales y cuáles son los
+pasos generales para crearla.
+
+Contenido de una planificación de medios digitales Aprendiste en un video que una planificación de medios digitales contiene
+detalles sobre dónde, cuándo y con qué frecuencia aparecerán los anuncios en los canales digitales, e incluye la siguiente
+información:
+
+Público objetivo
+
+Presupuesto
+
+Mix de medios
+
+Duración
+
+Indicadores clave de rendimiento (KPI)
+
+Objetivos y métricas de rendimiento
+
+A continuación, se describen cada uno de ellos, junto con la función que desempeñan en una planificación de medios
+digitales.
+
+Público objetivo
+
+Un público objetivo es el grupo de personas más propenso a adquirir los productos o servicios que se anuncian. A veces, el
+público objetivo se define mediante una combinación de clientes tipo que ayudan a los/los especialistas en marketing a
+determinar cómo llegar a las personas utilizando los mensajes, ofertas y productos adecuados. Una planificación de medios
+digitales debe aprovechar al máximo los/las clientes tipo. Este plan también puede incluir datos demográficos del público,
+como edad, ingresos, dispositivos utilizados y medios preferidos para el contenido consumido. Sin embargo, la información
+demográfica podría no estar disponible en todos/as los/las clientes tipo.
+
+Propósito: un público objetivo se documenta en una planificación de medios digitales por razones puramente económicas y
+estratégicas, dado que quieres invertir un presupuesto limitado de campaña en las personas que son más propensas a realizar
+una compra.
+
+Presupuesto
+
+Las campañas suelen contar con un presupuesto fijo asignado a partir de un presupuesto de marketing más amplio. Gastar más
+de lo asignado para una campaña suele requerir una mayor justificación y aprobación.
+
+Propósito: el presupuesto se documenta en una planificación de medios para ayudar a evitar gastar de más o de menos en un
+canal específico durante una campaña.
+
+Mix de medios
+
+Un mix de medios especifica cuánto del presupuesto se destinará a cada canal de medios en una campaña. Si se desconocen los
+montos reales, puedes especificar porcentajes del presupuesto en el mix de medios. Por ejemplo, podrías asignar US$20,000 o
+el 30% del presupuesto a las redes sociales. Ambas opciones son aceptables en la planificación de medios.
+
+Propósito: un mix de medios es fundamental para la planificación de medios porque permite tomar las decisiones correctas en
+cuanto al contenido, basadas en un presupuesto asignado para cualquier canal específico.
+
+Duración
+
+La duración, también conocida como periodo de publicidad activa, se refiere a cuánto tiempo durará una campaña y es fácil de
+documentar. Pero, si estás ejecutando una campaña con publicidad de pago por clic (PPC), este elemento se vuelve más
+complejo, porque deberás asegurarte de que tu presupuesto sea suficiente para toda la duración de la campaña. En este tipo
+de campañas, la duración depende en gran medida del presupuesto.
+
+Propósito: la duración o periodo de publicidad activa en una planificación de medios digitales determina cuánto tiempo
+durará la campaña.
+
+Indicadores clave de rendimiento (KPI)
+
+Un indicador clave de rendimiento o KPI es una medida o métrica utilizada para evaluar la eficacia de una campaña. En una
+planificación de medios digitales, es importante incluir indicadores clave de rendimiento ( KPI) para cada canal de medios
+con el fin de poder medir el éxito de la campaña. Por ejemplo, en una lección previa, aprendiste que cada canal puede tener
+su propio retorno de la inversión publicitaria (ROAS), el cual es un indicador clave de rendimiento (KPI) importante para
+evaluar su éxito.
+
+Propósito: los KPI en una planificación de medios documentan cómo medirás el éxito de la campaña para cada canal.
+
+Objetivos y métricas de rendimiento
+
+Un objetivo de rendimiento es una meta que tiene un valor numérico medible. Establecer objetivos de rendimiento es
+fundamental para definir el éxito de una campaña. Si las métricas cumplen o superan los objetivos de rendimiento
+establecidos, se considera que la campaña ha sido exitosa. La tasa de clics (CTR), que se calcula dividiendo el número de
+clics entre el número de impresiones, es una de las métricas más utilizadas para evaluar el desempeño de los anuncios.
+
+Propósito: incluir objetivos de rendimiento en una planificación de medios te permite medir sistemáticamente el rendimiento
+y el éxito de cada canal durante una campaña.
+
+Pasos para armar una planificación de medios digitales
+
+Asumiendo que los objetivos de negocio y marketing ya han sido creados, estos son los pasos generales a seguir en la
+planificación de medios digitales:
+
+Confirmar los objetivos de negocio: suponiendo que ya han sido establecidos, identifica y confirma cuáles son.
+
+Confirmar los objetivos de marketing: suponiendo que ya han sido creados, identifica y confirma cuáles son.
+
+Realizar investigación de mercado (opcional): si no se ha identificado claramente el público objetivo, un estudio de mercado
+puede ayudarte a hacerlo. Por ejemplo, una investigación de mercado puede determinar tanto los clientes tipo como el público
+objetivo.
+
+Definir los objetivos de la campaña: ten claridad sobre lo que se espera lograr con la campaña. Los objetivos de la campaña
+suelen estar relacionados con una meta de negocio o de marketing de nivel superior. Por ejemplo, si se necesita hacer crecer
+las ventas en una región específica, el objetivo de una campaña puede ser aumentar el reconocimiento de la marca mediante
+anuncios dirigidos a las personas de esa región.
+
+Seleccionar los canales de medios: los canales de medios seleccionados para una campaña deben estar alineados con las
+preferencias de medios del público objetivo. Después de identificar qué canales tienen la prioridad más alta, se puede crear
+un mix de medios.
+
+Determinar y documentar todos los elementos de la planificación de medios: luego de determinarlos elementos necesarios para
+una planificación de medios digitales, puedes utilizar un documento o herramientas de software para ayudarte a crear el
+plan.
+
+Formato de una planificación de medios digitales
+
+Una planificación de medios digitales puede tener muchos formatos. Puedes utilizar documentos, hojas de cálculo o incluso
+herramientas especializadas. Recuerda que el formato que decidas usar no es tan importante como su contenido.
+
+Plantillas de planificaciones de medios digitales
+
+Si estás utilizando un documento para planificar tu estrategia de medios digitales, existen varias opciones de plantillas de
+planificación de medios disponibles. También puedes crear tu propio formato de organización. A continuación, te mostramos un
+ejemplo de una tabla básica que puede ayudarte con la planificación de medios. El contenido del ejemplo se encuentra en
+cursiva.
+
+![alt text](image-97.png)
+
+En una planificación de medios digitales, también puedes incluir una imagen de referencia de un embudo de marketing para
+mapear los objetivos de rendimiento y las métricas a las etapas del embudo. Esto ayuda a las personas a visualizar lo que tu
+campaña está tratando de lograr en cada etapa. La siguiente ilustración es un ejemplo.
+
+![alt text](image-98.png)
+
+![alt text](image-99.png)
+
+Herramientas de planificación de medios
+
+Si utilizas un software para hacer tu planificación de medios, hay muchas opciones entre las que puedes elegir. Un artículo
+del blog de HubSpot identifica doce soluciones especializadas de planificación de medios disponibles en su lista de
+Herramientas esenciales para la planificación de medios.
+
+<https://blog.hubspot.com/marketing/media-planning-tools>
+
+Conclusiones clave
+
+La planificación de medios debe incluir datos sobre dónde, cuándo y con qué frecuencia aparecerá un anuncio en todos los
+canales seleccionados. Documentar los indicadores clave de rendimiento (KPI) y las métricas de cada canal es esencial para
+medir el éxito de la campaña. La planificación de medios se puede realizar mediante documentos o herramientas
+especializadas. El formato organizativo de un plan de medios puede variar, y hay muchas plantillas disponibles.
 
 ### Objetivos de rendimiento
 
