@@ -2989,9 +2989,79 @@ tener un objetivo específico antes de realizar las pruebas. ¡Y no tengas miedo
 
 #### Utiliza los datos de las redes sociales para impulsar las estrategias de marketing
 
+Al inicio del curso, aprendiste a desarrollar una estrategia de marketing en redes sociales antes de planificar y publicar.
+A partir de los datos que obtuviste de las analíticas, quizás debas adaptar tu estrategia de redes sociales durante las
+campañas. Veremos cómo el análisis de datos puede orientar tu estrategia de redes. Cuando hayas identificado los
+indicadores, elegido una herramienta para medirlos y recopilado datos, debes identificar qué significan esos datos y qué
+decisiones estratégicas tomarás en respuesta a ellos. Veamos cómo los datos pueden influir en tus decisiones y tu
+estrategia. El análisis de datos puede ayudarte a mejorar tu contenido en redes sociales. Medir las interacciones te muestra
+qué contenido resuena con tu público y qué contenido no. También te permite evaluar cómo aspectos como la longitud, las
+imágenes, los hashtags y el tono de la publicación influyen en las interacciones. Quizás decidas ajustar tu estrategia de
+contenido a partir de estos hallazgos. Por ejemplo, si encuentras que las publicaciones con infografías generan mayor
+interacción, planificarás publicar más infografías en el futuro. También puedes medir los datos de interacción de la
+competencia e identificar qué contenido le genera mejores resultados, en qué plataformas comparte más su contenido, y qué
+influencers promocionan mejor dicho contenido. A partir de esa información, puedes ajustar tu propia estrategia. Además,
+medir datos, como las veces que se comparte el contenido, puede ayudarte a detectar tendencias en las redes sociales. Por
+ejemplo, la realidad aumentada, una tecnología que superpone imágenes generadas por computadora sobre la visión del usuario,
+es una tendencia emergente en las redes. Es muy interactiva y, por lo tanto, muy efectiva para las interacciones. Analizar
+estos datos te da una idea de qué contenido, productos y publicidades generan mayor interés en línea. Esto puede ayudarte a
+crear contenido de marketing relevante para lo que más le interesa a la gente en un momento dado. Si notas que un gran
+porcentaje de tu público comparte publicaciones sobre una noticia en particular, por ejemplo, puedes crear contenido
+relacionado con esa historia. Las analíticas también ayudan a definir las mejores plataformas para tu marca. Cuando mides
+diferentes indicadores en cada una de tus plataformas, puedes comprender mejor el rendimiento de tu contenido en esas redes
+sociales. Entonces, puedes segmentar tu contenido a las plataformas donde rinda mejor. Por ejemplo, si algunas de tus
+publicaciones rinden mejor en Facebook que en Instagram, podrías seguir publicando contenido similar en Facebook, mientras
+ajustas tu estrategia de contenido para Instagram. Por último, con las analíticas puedes personalizar contenido para tus
+clientes. Al recopilar datos sobre clientes en función de sus perfiles, puedes ofrecerles contenido personalizado. Por
+ejemplo, puedes crear contenido orientado a una audiencia local donde abordes cuestiones, intereses o el clima del lugar. El
+contenido personalizado aumenta la interacción y las conversiones. Esto es porque los clientes valoran las marcas que
+parecen auténticas, y un contenido confiable y personalizado puede dar esa impresión. El marketing en redes sociales y las
+analíticas van de la mano. Como especialista en marketing digital, usarás analíticas para conocer a tus clientes y descubrir
+qué piensan de tu marca y las de la competencia. Luego, podrás tomar decisiones basadas en datos que pueden mejorar tu
+contenido y tu estrategia de marketing. Más adelante en esta sección, analizaremos cómo presentar a otras personas los datos
+que recopilaste en un informe de redes sociales.
+
 #### Jon: Cómo usar los datos y la analítica de redes sociales para la toma de decisiones y la creación de estrategias
 
+Hola, soy Jon. Trabajo en redes sociales para el negocio de hardware en Google. El hardware de Google incluye nuestro
+negocio de smartphones Pixel y nuestro negocio Nest Smart Home. Gestionamos canales de redes sociales para distintas líneas
+de productos y hablamos de las últimas innovaciones en smartphones y hogares inteligentes. El trabajo para redes sociales en
+esta área de Google implica gestionar la estrategia y cómo nos relacionamos con clientes actuales y potenciales en las
+redes. Los datos son muy útiles en todo el marketing en redes sociales. Tienes que asegurar que lo que estás haciendo vale
+la pena. Podemos pensar en las analíticas de redes sociales de dos maneras. Por un lado, están los informes y, por otro, la
+escucha social. En lo que respecta a los informes, ¿estamos teniendo muchas interacciones? ¿Estamos obteniendo “me gusta”?
+¿Estamos recibiendo comentarios? ¿Están compartiendo nuestro contenido o interactuando con él de otra forma? Es muy
+importante para cualquier profesional de las redes sociales saber que su publicación resonó con la audiencia. En lo que
+respecta a la escucha social, ¿hay alguna oportunidad interesante que podamos aprovechar? Antes de participar en una campaña
+o un proyecto nuevo, echemos un vistazo a la conversación en las redes sociales. Debemos asegurarnos de que, como marca o
+como empresa, vamos a agregar valor a la conversación. No debemos repetir lo que los demás están compartiendo. En este
+sector, el sentido común y la intuición son fundamentales. Tienes que entender qué representa tu marca y, en general,
+entender a tu público. En definitiva, si una publicación se viraliza o genera una conversación, es que, en algún sentido,
+fue valiosa. No fue solo un poco más de ruido. Tuvimos alcance y le hablamos a la gente de algo que de verdad le importó,
+que le despertó interés por participar. Y, si quieres dar los primeros pasos, lo mejor que puedes hacer es realmente usar
+las redes sociales. Lo mejor de las redes sociales es que están abiertas a todo el mundo. Si buscas promocionar tu negocio o
+trabajar para una empresa, ve, abre una cuenta y úsala. Otra maravilla de las redes sociales es que tú también puedes
+publicar. O puedes, simplemente, prestar atención. Puedes leer. Puedes observar cómo interactúan los distintos públicos. Y,
+si quieres dar los primeros pasos, lo mejor que puedes hacer es realmente usar las redes sociales.
+
 #### Ejemplo de actividad: Analiza el rendimiento de las redes sociales
+
+Compara el ejemplo con tu tabla de análisis de datos terminada. Revisa tu trabajo utilizando cada uno de los criterios del
+ejemplo. ¿Qué hiciste bien? ¿En qué aspectos podrías mejorar? Las respuestas a estas preguntas te servirán como guía a
+medida que avances en el curso.
+
+Tu tabla de análisis de datos de redes sociales debe incluir:
+
+Fila 1: Una comparación de los datos de ambos tuits e información sobre cuál de los dos tuvo un mejor rendimiento, en
+función del objetivo de la campaña.
+
+Fila 2: Una comparación del contenido de los tuits y otros detalles, como las diferencias en los recursos, texto, hashtags y
+la hora en que se publicaron los contenidos.
+
+Fila 3:  Un análisis que detalle por qué un tuit tuvo más interacción que el otro y cuáles pueden haber sido las causas.
+
+Fila 4: Una explicación de cómo este análisis aportará información valiosa para tus futuras estrategias de marketing y
+contenido.
 
 ### Informes de marketing en redes sociales
 
