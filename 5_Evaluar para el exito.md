@@ -2658,7 +2658,7 @@ Si decides usar un gráfico de columnas, puedes agrupar los estados por región 
 
 ![alt text](image-171.png)
 
-Muestra solo los estados con los mayores porcentajes de conversiones y agrupa los demás 
+Muestra solo los estados con los mayores porcentajes de conversiones y agrupa los demás
 
 Si decides usar un gráfico circular, tendrás que reducir el número de categorías. Puedes mostrar los estados con los mayores porcentajes de conversiones y colocar todos los demás estados en una categoría agrupada, como los estados con menos de 3% de conversiones. El gráfico circular tendrá ocho secciones en lugar de 50, por lo que será mucho más fácil de leer.
 
@@ -2672,9 +2672,65 @@ Cómo elegir una visualización de datos <https://drive.google.com/file/d/13T-Qu
 
 #### Otras herramientas para la visualización y el análisis de dato
 
-
+Ya viste cómo las hojas de cálculo son útiles para análisis de datos básicos. Viste cómo las hojas de cálculo son útiles para crear visualizaciones de datos. Aun así, las hojas de cálculo no son tan útiles para análisis avanzados o personalizados y visualizaciones dinámicas que cambian en tiempo real. Las empresas necesitan analistas de datos para resolver problemas y poder tomar las mejores decisiones de negocio. Una empresa de marketing o comercio electrónico no es la excepción. Si un/a especialista en marketing analiza datos o crea visualizaciones para las campañas, ese rol podría ser híbrido. Un rol híbrido mezcla un/a coordinador/a y un/a analista de datos en un solo puesto de especialista de marketing. Un/a coordinador/a de marketing gestiona actividades e iniciativas, investiga el público objetivo, ejecuta campañas y evalúa tendencias. Las/los analistas de datos recopilan datos, hacen consultas en bases de datos, aplican métodos estadísticos y crean visualizaciones. Otras herramientas y habilidades serán requeridas en un rol híbrido de marketing. Una mezcla entre coordinador/a y analista de datos. Ya has usado Google Analytics, pero un equipo de marketing analiza datos de diferentes maneras y crea informes no disponibles en cualquier plataforma. Se requieren habilidades de programación para un análisis de datos personalizado. El lenguaje de programación Python es popular para el análisis de datos. Existe un gran número de bibliotecas para analizar datos en Python. Python también se usa para minería, procesamiento y visualización de datos. Otro lenguaje de programación es R, que también se utiliza para el análisis y visualización de datos y tiene paquetes para cálculos estadísticos. La programación es una buena habilidad para tener en un rol híbrido. También hablamos de big data. Big data está en grandes bases de datos en lugar de en herramientas de análisis. Aprendiste a exportar los datos de Google Analytics a BigQuery, la herramienta de almacenamiento de datos en la nube de Google. El lenguaje de consulta estructurado, o SQL, es un lenguaje que permite comunicarse con bases de datos desarrolladas por diferentes proveedores y alojadas en varias plataformas. Las consultas SQL permiten extraer datos para su análisis. Hacer consultas SQL es una buena habilidad para un rol híbrido de marketing. Has creado gráficos en hojas de cálculo. Estos gráficos se crean a partir de conjuntos de datos que no cambian. Un equipo de marketing podría presentar información clave en un panel de control que muestra datos en tiempo real y permite la interacción con ellos. Un panel de control es una herramienta para monitorear, analizar y mostrar KPIs, métricas e información dinámica según el criterio de interacción del/a usuario/a. Saber cómo crear paneles de control es una buena habilidad para un rol híbrido. Tableau es una plataforma de análisis visual que facilita la exploración y administración de datos, y para crear paneles personalizados con visualizaciones en el mismo lugar. Tableau Public es una versión de la plataforma en la que puedes explorar, aprender sus características y tratar de crear tus visualizaciones y paneles. Después de crear una cuenta en Tableau Public, haz clic en “Descubrir” en el menú, escribe “Panel de control de marketing” en el campo de búsqueda para ver algunos ejemplos. Si usas Tableau Public, puedes mantener tu trabajo en modo privado o compartirlo con la comunidad de Tableau. De hecho, los ejemplos de paneles fueron creados por la comunidad de Tableau que permitieron que su trabajo fuera visible para toda la comunidad. Google Data Studio es otra solución para visualizar datos con informes personalizados y paneles de control. Es de uso libre y se conecta a muchas fuentes de datos. Haz clic en “Plantillas” para explorar la galería. Las plantillas están disponibles para Google Analytics, Google Ads, BigQuery, Hojas de Cálculo de Google, Youtube Analytics y Search Console. Si te interesa desarrollar más habilidades en analítica, échale un vistazo al Certificado de Carrera de Google en Análisis de Datos. Incluye una introducción a las consultas en SQL, Tableau y el lenguaje de programación R. Tener conocimiento y experiencia con consultas SQL, Tableau y un lenguaje de programación como Python o R, te ayudará a destacarte en tu rol híbrido.
 
 #### Actividad de ejemplo: Crea visualizaciones de datos para una presentación
+
+Guía sobre cómo elegir una visualización de datos <https://drive.google.com/file/d/13T-Qu4lv-BdUJ0xYpqTraguqMg76LZSq/view>
+
+Tipos de gráficos de Hojas de Cálculo de Google <https://support.google.com/docs/answer/190718>
+
+Compara el ejemplo con las visualizaciones de datos que completaste. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué hiciste bien? ¿Dónde puedes mejorar? Usa tus respuestas a estas preguntas a modo de guía a medida que avanzas en el curso. 
+
+Nota: Cada pestaña del ejemplo contiene 2 o 3 opciones de gráficos. No hay solo una forma correcta de visualizar los datos, por lo que tu trabajo puede ser algo diferente. Lo importante es que tus gráficos representen los puntos de los datos con claridad y que tu público pueda comprenderlos fácilmente.
+
+Revisemos las ventajas y desventajas de los gráficos de cada pestaña (es posible que tengas que desplazarte hacia abajo para que aparezcan algunos de los gráficos):
+
+Sesiones
+
+Gráfico de columnas apiladas (vertical): en este gráfico, podemos visualizar cómo las sesiones por hora de cada día aportan a la suma total durante un periodo de 24 horas. Te permite comparar entre los distintos horarios de un mismo día y entre los días de la semana. Un gráfico de líneas o de áreas suele ser una buena opción cuando se quieren mostrar cambios en un valor con el tiempo. Sin embargo, todo dependerá de tu público: quizás un gráfico de barras te resulte la opción más accesible.
+
+Gráfico de barras apiladas (horizontales): es similar al gráfico de columnas apiladas, pero la orientación horizontal permite tener más espacio para mostrar las diferencias de volumen entre valores muy bajos (por ejemplo, 2:00) y muy altos (por ejemplo, 10:00). De nuevo, todo dependerá de tu público. Un gráfico vertical te puede resultar una forma más natural de representar las horas del día.
+
+Gráfico de áreas apiladas: al igual que el gráfico de columnas apiladas, esta visualización segmenta las sesiones por hora para cada día y muestra la suma durante un periodo de 24 horas. Este gráfico facilita la comprensión del flujo de tráfico en el transcurso de un día típico, pero puede resultar menos familiar para tu público que un gráfico de barras.
+
+Gráficos para evitar: debido a que el conjunto de datos incluye tantas variables, un gráfico de columnas agrupadas podría parecer muy lleno de información y sería difícil de entender.
+
+Conversiones
+
+Gráfico de columnas apiladas (vertical): al igual que el gráfico de columnas para las sesiones, en esta visualización se representan las conversiones por hora de cada día que aportan a la suma total durante un periodo de 24 horas. Te permite comparar entre los distintos horarios de un mismo día y entre los días de la semana. 
+
+Gráfico de barras apiladas (horizontales): es similar al gráfico de columnas apiladas, pero la orientación horizontal permite tener más espacio para mostrar las diferencias de volumen entre valores muy bajos (por ejemplo, 2:00) y muy altos (por ejemplo, 10:00). 
+
+Gráfico de áreas apiladas: al igual que el gráfico de columnas apiladas, esta visualización segmenta las sesiones por hora para cada día y muestra la suma durante un periodo de 24 horas. 
+
+Gráficos para evitar: debido a que el conjunto de datos incluye tantas variables, un gráfico de columnas agrupadas podría parecer muy lleno de información y sería difícil de entender.
+
+Tasas de conversión promedio/día de la semana
+
+Gráfico de columnas (vertical): los gráficos de columnas son útiles para comparar un número limitado de valores. Este formato muestra claramente las diferencias entre las tasas de conversión promedio de cada uno de los siete días de la semana. Los valores son similares, por lo que un gráfico de barras verticales es suficiente.
+
+Gráfico de barras (horizontal): tal como con el gráfico de columnas, el gráfico de barras permite la comparación entre cada uno de los días de la semana. Para este conjunto de datos, no es necesario contar con el amplio espacio que ofrecen los gráficos horizontales. Sin embargo, si tu gráfico de sesiones también era horizontal, quizás prefieras mantener la misma orientación.
+
+Gráficos para evitar: un gráfico de áreas o lineal puede dificultar la distinción entre los diferentes valores.
+
+Tasas de conversión promedio por hora del día
+
+Gráfico de área simple: como este conjunto de datos demuestra cambios en un solo valor a lo largo del tiempo, un gráfico de área podría ser una buena opción.
+
+Gráfico lineal: un gráfico lineal también es una buena opción para visualizar los cambios de un solo valor a lo largo del tiempo. Sin embargo, un gráfico de áreas puede resultar más fácil de ver para tu público, lo que les permitiría comprender la importancia de los datos más rápido.
+
+Gráficos para evitar: un gráfico de columnas o de barras puede dificultar la comprensión de los cambios a lo largo del tiempo.
+
+Tasas de conversión (lunes, miércoles y viernes) por hora del día
+
+Gráfico lineal: como este conjunto de datos demuestra cambios en un número limitado de valores a lo largo del tiempo, un gráfico lineal podría ser una buena opción. Para facilitar la comparación de las líneas, el gráfico lineal del ejemplo es más alto que el predeterminado.
+
+Gráfico de áreas no apiladas: al igual que el gráfico lineal, este gráfico muestra los cambios en un valor a lo largo del tiempo. Sin embargo, el área rellena debajo de las líneas podría dificultar la identificación de las líneas en todos los puntos del gráfico.
+
+Gráficos para evitar: un gráfico de columnas o barras agrupadas puede llegar a estar demasiado lleno de información, lo que dificultará la identificación de los valores y la comprensión de cómo se relacionan entre sí.
+
+
 
 #### Haz que tus presentaciones sean accesibles
 
