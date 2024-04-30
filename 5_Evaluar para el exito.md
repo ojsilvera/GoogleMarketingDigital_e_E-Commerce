@@ -1766,7 +1766,101 @@ El retorno de la inversión publicitaria (ROAS) y el valor del tiempo de vida de
 
 #### Actividad de ejemplo: Toma decisiones sobre el presupuesto de la campaña
 
+Compara el ejemplo con tu presentación terminada. Revisa tu trabajo utilizando cada una de las secciones del ejemplo. ¿Qué hiciste bien? ¿En qué aspectos podrías mejorar? Las respuestas a estas preguntas te servirán como guía a medida que avances en el curso.
+
+Si uno o más de tus cálculos no coinciden con los resultados del ejemplo, puedes ver las fórmulas detalladas aquí para entender qué puede haberte faltado.
+
+Retorno de la inversión publicitaria (ROAS)
+
+Fórmula: ROAS = Ingresos/inversión publicitaria
+
+ROAS de la campaña = US$502,358/US$250,000 = 2.01 o 201%
+
+ROAS para anuncios de búsqueda = US$320,943/US$187,500 = 1.71 o 171%.
+
+ROAS para anuncios de display = US$56,288/US$32,000 = 1.76 o 176%.
+
+ROAS para anuncios en redes sociales = US$70,101/US$15,000 = 4.67 o 467%.
+
+ROAS para anuncios de shopping = US$55,026/US$15,500 = 3.55 o 355%.
+
+Valor promedio de pedido (AOV)
+
+Fórmula: AOV = Ingresos / número de pedidos
+
+AOV de la campaña = US$502,358/6,237 = US$80.55
+
+AOV para anuncios de búsqueda = US$320,943/2,494 = US$128.69
+
+AOV para anuncios de display = US$56,288/2,039 = US$27.61
+
+AOV para anuncios en redes sociales = US$70,101/802 = US$87.41
+
+AOV para anuncios de shopping = US$55,026/902 = US$61.00
+
+Valor del tiempo de vida del cliente (LTV)
+
+Fórmula: LTV = Valor promedio de pedido (AOV) x frecuencia de compra
+
+LTV de la campaña = US$80.55 x 1.6 = US$128.88
+
+LTV de anuncios de búsqueda = US$128.69 x 1 .5 = US$193.04
+
+LTV de anuncios de display = US$27.61 x 2 = US$55.22
+
+LTV de anuncios en redes sociales = US$87.41 x 1.5 = US$131.12
+
+LTV de anuncios de shopping = US$61.00 x 1.5 = US$91.50
+
+Relaciones LTV/CAC
+
+Fórmula: LTV:CAC = LTV/CAC
+
+Relación LTV/CAC de la campaña: US$128.88/US$65 = 1.98
+
+Relación LTV/CAC de los anuncios de búsqueda: US$193.04/US$112 = 1.72
+
+Relación LTV/CAC de los anuncios de display: US$55.22/US$ 31 = 1.78
+
+Relación LTV/CAC de los anuncios en redes sociales: US$131.12/US$28 = 4.68
+
+Relación LTV/CAC de los anuncios de shopping: US$91.50/ US$25 = 3.66
+
+Porcentajes de nuevas/os clientes que realizan compras
+
+Fórmula: Porcentaje de nuevos/as clientes que realizan compras =
+
+(Número de nuevos compradores de cuenta únicos / número de cuentas nuevas) x 100
+
+Campaña: (3,818/20,790) x 100 = 18.37%
+
+Anuncios de búsqueda: (1,663/8,420) x 100 = 19.75%
+
+Anuncios de display: (1,020/5,816) x 100 = 17.53%
+
+Anuncios en redes sociales: (535/3,959) x 100 = 13.51%
+
+Anuncios de shopping: (601/2,595) x 100 = 23.16%
+
 ### Creación y análisis de pruebas A/B
+
+#### Introducción a las pruebas A/B
+
+#### Realización de pruebas A/B en Google Ads
+
+#### Prueba A/B de variaciones de anuncios y estrategias de puja en Google Ads
+
+#### Cómo planificar las pruebas A/B
+
+#### Actividad de ejemplo: Plan para crear una prueba A/B
+
+#### Otras herramientas disponibles para hacer pruebas A/B
+
+#### Monitorea los resultados de las pruebas A/B en Google Ads
+
+#### Jordan - Interpreta los resultados de la prueba A/B test
+
+#### Caso práctico: Cómo Good Boy Studios mejora la adquisición de clientes con la prueba A/B y la analítica
 
 ### ¿Qué logra una campaña de marketing exitosa?
 
