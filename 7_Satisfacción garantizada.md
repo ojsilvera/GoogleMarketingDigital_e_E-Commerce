@@ -2091,13 +2091,415 @@ Resumen: En esta sección, se seleccionó la categoría de contenido inspiracion
 
 #### Actividad de ejemplo: Ajusta las palabras clave de tu campaña
 
+Compara el ejemplo de ajuste de palabras clave con el que completaste. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué hiciste bien? ¿En qué aspectos podrías mejorar? Las respuestas a estas preguntas te servirán como guía a medida que avances en el curso.
+
+Nota: El ejemplo representa una forma posible de completar la actividad. Es probable que tu presentación difiera de alguna manera.
+
+Revisemos las pestañas del ejemplo de ajuste de palabras clave.
+
+Palabra claves
+
+Resumen: En la pestaña Palabras clave, hay una lista de palabras clave y sus impresiones proyectadas, tasa de clics proyectada, clics proyectados, costo por clic proyectado y costo proyectado.
+
+Planificador de palabras clave
+
+Resumen: En la pestaña Planificador de palabras clave, hay cinco que han sido seleccionadas desde el menú que se despliega en la columna de palabras clave. Luego, deben rellenarse las otras columnas con sus respectivos datos. En la parte inferior de la hoja, se calculan las impresiones, los clics y el costo total.
+
+Las palabras clave seleccionadas son: tiendas de artesanía, tiendas de arte, compras de arte, arte y artesanías de reciclaje. Las dos primeras palabras fueron seleccionadas porque eran más relevantes para los artículos que se vendían. Las otras tres fueron seleccionadas una por una para lograr un costo total bajo el presupuesto asignado de US$1,000.
+
 #### Caso práctico: Cómo ShearShare se recuperó de anuncios fallidos
+
+En este curso, has adquirido conocimientos sobre la creación de anuncios de Google Ads y el impacto que las publicidades exitosas pueden tener en un negocio. En esta lectura, analizarás una campaña de Google Ads que no tuvo el éxito esperado y cómo una empresa puede recuperarse y crecer a pesar de no haber alcanzado a su público objetivo con sus anuncios.
+
+![alt text](image-180.png)
+
+Antecedentes de ShearShare
+
+![alt text](image-181.png)
+
+Con sede en McKinney, Texas, ShearShare <https://shearshare.com/> es una empresa de espacio como servicio, que conecta a propietarios/as de salones, peluquerías y spas con profesionales de belleza y peluquería que necesitan un espacio para trabajar. Por ejemplo, si un/a estilista necesita una silla de salón o una estación para cortar o peinar el cabello de una persona, puede usar la plataforma de ShearShare para reservarla por un día. La misión de ShearShare es ser el principal motor de empleo del sector de belleza y peluquería, y empoderar a las personas para impulsar sus negocios. De esta manera, la compañía está reinventando la forma en que las/los profesionales de la belleza y la peluquería trabajan, ya que pueden elegir cómo, cuándo y dónde hacerlo.
+
+Tye y Courtney Caldwell, sus fundadores, poseen una peluquería y salón en Texas y, en una oportunidad, una persona les pidió alquilar una silla en su espacio por un día. Aceptaron y no solo les encantó el proceso, sino que también se dieron cuenta de que había otros/as profesionales que podrían estar buscando un espacio de trabajo disponible por el día. Como no había otras empresas en el mercado que atendieran esta necesidad, crearon ShearShare.
+
+Cuando otros/as profesionales de la belleza comenzaron a alquilar el espacio de los Caldwell, le dieron forma al concepto y crearon una plataforma oficial, para acomodar a sus usuarios/as, que se muestra en la imagen de abajo. El paso siguiente fue publicitar su negocio de manera eficaz.
+
+![alt text](image-182.png)
+
+El desafío
+Cuando ShearShare comenzó su camino hacia el marketing digital, ni Tye ni Courtney se especializaban en el manejo de Google Ads. Sin embargo, sabían que los letreros físicos de “se busca ayuda” en las tiendas y las publicaciones en los mercados en línea, como Craigslist, estaban alineados con la forma en que los salones y peluquerías tradicionales publicitan sus espacios disponibles.
+
+Así, el equipo creó inicialmente una campaña de Google Ads e hizo una puja por la frase “silla en alquiler” en los anuncios de búsqueda. Como se registró un gran volumen de descargas, pensaron que sus campañas publicitarias eran un éxito total. Sin embargo, luego se dieron cuenta de que el número de desinstalaciones de su aplicación también era excesivamente alto, por lo cual algo no iba bien.
+
+Al evaluar lo sucedido, descubrieron que el alto número de desinstalaciones estaba relacionado con la palabra clave “silla en alquiler” porque, al tratarse de una palabra clave demasiado amplia, los/las usuarios/as no entendían claramente qué es lo que estaban solicitando. Así, en lugar de profesionales de belleza y peluquería que buscaban alquilar un espacio de salón para el día, quienes descargaron la aplicación eran personas que necesitaban alquilar sillas plegables para eventos y otros objetos diversos. Debido a que sus anuncios de búsqueda eran demasiado amplios, no estaban alcanzando a su público objetivo, lo cual resultó en una gran cantidad de desinstalaciones de la aplicación.
+
+El enfoque
+Tras contratar a su Jefe de Crecimiento, Rob Abney, ShearShare creó una estrategia para recuperarse de su frustrada campaña de Google Ads.
+
+Rob sabía que para disminuir los números de desinstalaciones, la empresa necesitaba ajustar sus anuncios de búsqueda, de modo que dejara de atraer tráfico no calificado o usuarios/as que no tenían la intención de usar ShearShare. Su objetivo era encontrar la frase más simple posible, que fuera lo suficientemente descriptiva como para explicar lo que ShearShare podría ofrecer, pero sin dejar de atraer un alto volumen de tráfico calificado.
+
+Para lograrlo, probó ajustando la frase de palabras clave a: “sillas de salón en alquiler”. Así, con solo un ajuste menor, ShearShare se aseguró de que sus anuncios encontraran su público objetivo: profesionales de belleza y peluquería.
+
+Los resultados
+Los puntos de referencia para medir el éxito en las campañas digitales de ShearShare varían según lo que estén tratando de lograr. En este caso, para realizar el seguimiento de la recuperación y los resultados obtenidos durante la transición entre el uso de las palabras clave “silla rentable” a “silla de salón en alquiler”, comparó el número actual de desinstalaciones con el número registrado con el anuncio anterior.
+
+Como era de esperar, ShearShare notó que sus desinstalaciones, que anteriormente eran casi del 70%, disminuyeron al 25% en dos trimestres, gracias a la claridad y especificidad del nuevo anuncio de búsqueda de palabras clave. Desde entonces, ShearShare ha logrado mantener ese porcentaje de desinstalación más bajo.
+
+![alt text](image-183.png)
+
+Conclusión
+En ShearShare aprendieron que lo más importante cuando un anuncio falla es reflexionar sobre las métricas para descubrir por qué ocurrió esto. En este caso, el gran volumen de desinstalaciones fue el indicador de que algo andaba mal. Pensar en las posibles desventajas en tu estrategia de anuncios es una forma de prevenir futuros fracasos publicitarios.
+
+Mientras tu negocio sea lo suficientemente flexible como para adaptarse y recuperarse de un anuncio fallido, una experiencia como esta puede resultar positiva: cada una de esas situaciones se convierte en una lección aprendida, al igual que en el caso de ShearShare.
 
 #### Actividad de ejemplo: Crea una presentación de un informe de marketing
 
+Compara el ejemplo con tu presentación del informe de marketing terminado. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué hiciste bien? ¿En qué aspectos podrías mejorar? Las respuestas a estas preguntas te servirán como guía a medida que avances en el curso.
+
+Nota: El ejemplo representa una forma posible de completar la actividad. Es probable que tu presentación difiera de alguna manera.
+
+Revisemos cada sección de la presentación del informe de marketing.
+
+Diapositiva 2: La agenda
+
+Resumen: La diapositiva 2 enumera las próximas secciones de la presentación, incluido el objetivo, el resumen general de fin de año, el informe de la temporada de fin de año y las conclusiones.
+
+Diapositiva 4: El objetivo
+
+Resumen: La diapositiva 4 enumera los tres objetivos, como se indica en la estrategia de marketing digital.
+
+Diapositivas de 5 a 14: Resumen de fin de año
+
+Resumen: Desde las diapositivas 5 hasta la 14, se incluyen datos encontrados en el informe de análisis. Esto incluye tráfico orgánico, menciones en redes sociales, seguidores/as en Instagram, interacciones en Instagram, seguidores en Twitter e interacciones en Twitter.
+
+Diapositiva 16: Informe de la temporada de fin de año
+
+Resumen: Las diapositivas 16 y 17 se centran en un informe de la temporada de fin de año. Incluye una tabla completa que compara las temporadas de 2020 y 2021.
+
+Diapositiva 18: Conclusiones
+
+Resumen: La diapositiva 18 incluye un párrafo de conclusión que analiza la información de las diapositivas de la 4 a la 16. También, incluye una proyección para el próximo año.
+
 #### Recursos para el entorno de trabajo
 
+El marketing digital y el comercio electrónico están en constante evolución. A medida que avances en tu carrera, querrás mantenerte al tanto de las últimas tendencias e informado/a sobre tu industria.
+
+Esta lectura te proporcionará una lista de recursos que podrán servirte para seguir aprendiendo luego de completar este programa.
+
+Tipos de recursos
+Podcast
+
+Un podcast es una serie episódica de archivos de audio digital que pueden escucharse en línea o descargar a un dispositivo personal para escuchar luego o leer una transcripción. Los podcast son una excelente manera de aprender aspectos nuevos sobre tus intereses o pasatiempos. Al igual que una serie de televisión, ofrecen una variedad de géneros o categorías, y cada episodio se centra en diferentes temas relacionados con esa categoría. Los podcast de marketing digital se han vuelto populares entre profesionales del marketing digital y son útiles para aprender nuevas tendencias sobre la industria de una manera entretenida.
+
+La forma más sencilla de escuchar o leer transcripciones de podcasts es en un navegador web. También puedes encontrar una variedad de podcasts a través de aplicaciones de audio como Spotify y Apple Podcasts.
+
+Blogs
+
+Un blog es una página web informativa que consiste en entradas de texto cortas, con frecuencia informales, al estilo de un diario. Los blogs de marketing digital y comercio electrónico son útiles para seguir las últimas noticias, tendencias y prácticas recomendadas en toda la industria. Algunas herramientas digitales presentadas en este programa, como Shopify, ofrecen publicaciones de blog sobre cómo usar sus herramientas para diversas necesidades.
+
+Centro de ayuda de Google Ads
+
+El Centro de ayuda de Google Ads proporciona información sobre cómo funciona Google Ads a través de una variedad de artículos. Los/las usuarios/as pueden obtener respuestas a preguntas frecuentes y una mejor comprensión acerca de qué modo operan los anuncios de Google Ads.
+
+Recursos
+
+A Better Lemonade Stand <https://www.abetterlemonadestand.com/blog/>: este recurso ofrece artículos para ayudar a empresarios/as de comercio electrónico a desarrollar mejores prácticas comerciales.
+
+HubSpot <https://blog.hubspot.com/>: es un desarrollador y vendedor estadounidense de productos de software para marketing entrante, ventas y servicio al cliente. Su blog ofrece muchos recursos sobre marketing digital.
+
+Practical Ecommerce <https://www.practicalecommerce.com/>: es una revista en línea independiente, cuya misión es publicar artículos informativos, comentarios, seminarios web y podcasts para ayudar a quienes venden en línea. La revista no está afiliada a ningún servicio, plataforma o proveedor de comercio electrónico.
+
+Blog de Shopify <http://www.shopify.com/blog>: ofrece artículos para ayudar a las personas a lograr la independencia en el comercio electrónico. El objetivo del blog es hacer que sea más fácil para los/las usuarios/as iniciar, ejecutar y hacer crecer un negocio en línea.
+
 ### Prepara una cartera para entrevistas de trabajoPrepara una cartera para entrevistas de trabajo
+
+#### Consejos para preparar una cartera para las postulaciones de empleo
+
+Hola de nuevo. ¿Disfrutaste creando tu proyecto práctico? Espero que te haya dado una idea de las tareas que tendrás en la industria del marketing digital y el comercio electrónico. Si has estado siguiendo los cursos del programa en orden, es posible que me recuerdes de un video anterior. Si esta es la primera vez que nos encontramos, permíteme presentarme. Soy Erika, Consultora de Personas en Google o Socia de Negocio de Recursos Humanos. Ayudo a gerentes, líderes y empleados/as de Google a crecer en sus puestos y a colaborar para que nuestra organización alcance sus metas. En los próximos videos, me encargaré de guiarlos/as a través de contenido sobre habilidades de preparación laboral, en lugar de Mike. ¡Empecemos! Exploremos las carteras de comercio electrónico y cómo puedes usarlas para impresionar en tus entrevistas. Una cartera es una colección editada de los mejores proyectos de una persona destinados a mostrar experiencia laboral, estilo o métodos. Quizá puedes imaginarte la cartera de un/a fotógrafo/a, pintor/a o diseñador/a. Si se trata de una cartera artística, podría incluir pinturas o fotos. Para los profesionales del comercio electrónico y el marketing digital, esto podría ser un poco diferente. En este campo, la cartera debe comunicar visualmente los recursos y elementos que creaste y que muestren tu experiencia en comercio electrónico y marketing digital. Estos elementos podrían ser anuncios, publicaciones en redes sociales, campañas, videos, ejemplos de marketing por correo electrónico y más. Hay muchos formatos de carteras, como sitios web, presentaciones o incluso documentos impresos. Repasemos cada uno de ellos. Primero, veamos las carteras en formato de sitios web. Permiten a los empleadores acceder a tu trabajo mediante una simple URL. Los sitios de cartera pueden armarse con creadores de páginas como Google Sites o Wix. Te muestro un ejemplo de cómo podría ser. En este sitio, el/la analista de comercio electrónico muestra su trabajo de forma visualmente interesante. Quienes visitan el sitio pueden seleccionar enlaces para pasar de un proyecto a otro. Si bien estos sitios brindan una apariencia profesional, pueden requerir conocimiento avanzado. Las presentaciones son otra opción. Al igual que los sitios, las presentaciones permiten a los empleadores acceder a tu trabajo en línea. Pero, para crearlas se requiere menos tiempo que para un sitio. Se pueden armar utilizando software de presentaciones, como Microsoft PowerPoint o Google Slides. Si usamos el ejemplo anterior del/la analista de comercio electrónico, aquí se muestra su trabajo en una presentación. Al igual que con un sitio de cartera, se puede compartir el enlace de la presentación. Por último, están los documentos impresos. Se pueden crear documentos impresos utilizando aplicaciones como Google Docs, Canva o Adobe InDesign. Su ventaja es que son portátiles y puedes llevarlos a las entrevistas. Sin embargo, no pueden enviarse a portales currículums en línea, lo cual es una gran desventaja en un sector conectado digitalmente. En una lectura posterior, explorarás cómo crear una cartera profesional utilizando uno de estos métodos. Una vez que decidas qué tipo de cartera te conviene, es importante que en ella transmitas quién eres y los tipos de trabajos que te interesan. Cómo presentas tu trabajo anterior en la cartera te ayudará a comunicar tu identidad como especialista en marketing digital o en comercio electrónico. También ayudará a los empleadores a evaluarte para tu posible contratación. Estos son algunos consejos para cuando crees tu cartera. El primero es organizar tus proyectos. La organización es importante porque indica en qué proyectos tienes más confianza. Coloca los proyectos que mejor demuestren tus habilidades al principio de la cartera. Por ejemplo, si te encargaron crear un boletín semanal para la empresa en la que hiciste prácticas, podrías agregar imágenes de los boletines a tu cartera. Con eso en mente, asegúrate de agregar cualquier proyecto que hayas creado en este programa de certificación a tu cartera. Luego, resume cada proyecto. Incluye sus objetivos y resultados. Para el ejemplo del boletín, puedes agregar que el objetivo era informar sobre los nuevos productos en los sitios web de la tienda y que los correos generaron 80 nuevas visitas al sitio por semana. Destaca las habilidades transferibles de cada proyecto que agregues. Debes relacionarlo con cómo se vincula con el marketing digital o el comercio electrónico. En el ejemplo del boletín, podrías mencionar que las habilidades aprendidas en este proyecto se relacionan con el marketing por correo electrónico y la retención de clientes. Por último, muestra tu voluntad de aprender. Puedes hacerlo mediante reflexiones sobre tu trabajo. Por ejemplo, en lugar de solo destacar lo que hiciste bien, puede ser útil identificar errores cometidos y qué harías diferente la próxima vez.
+Reproduce el video desde :5:13 y sigue la transcripción5:13
+El objetivo de tu cartera como empleado/a de nivel inicial es mostrar potencial. No te preocupes si aún no es perfecta. Siempre puedes agregar más a tu cartera a medida que adquieras más habilidades.
+
+#### Crea una cartera profesional con Google Sites
+
+Aprendiste que una cartera digital es una forma efectiva de compartir fácilmente tu trabajo con posibles empleadores. En esta lectura encontrarás una introducción a Google Sites, una de las muchas herramientas de cartera digital disponibles en línea.
+
+¿Por qué crear una cartera con Google Sites?
+Google Sites es una herramienta de creación de páginas web incluida como parte de Google Workspace, una colección de apps de productividad basadas en la web. Además de crear una cartera profesional, puedes usar Google Sites para crear sitios web públicos o un blog para tu equipo comercial.
+
+Si bien muchas apps de creación de sitios web ofrecen funciones avanzadas, por lo general, cuestan dinero y pueden ser complejas de usar. La ventaja más notable de usar Google Sites es que es gratuito y no requiere habilidades avanzadas para crear un sitio web.
+
+Funciones de Google Sites
+Google Sites tiene una variedad de funciones fáciles de usar para lograr los objetivos de tu cartera. Estas funciones incluyen diseños personalizables, páginas web adaptables, capacidad de contenido incrustado y publicación web.
+
+Diseños personalizables
+
+Google Sites funciona con un diseño basado en cuadrícula. Las cuadrículas son un sistema para crear orden entre elementos en una página web. En Google Sites, puedes usar la función de arrastrar y soltar para colocar elementos en la ubicación deseada. Puedes organizar elementos como texto, imágenes y contenido incrustado.
+
+Páginas web adaptables
+
+Las páginas web adaptables ajustan su contenido para acomodarse a una variedad de dispositivos y tamaños de pantalla para garantizar la usabilidad y la satisfacción. Esto es útil porque quien mira tu contenido, puede hacerlo desde cualquier dispositivo. El contenido se mostrará como quieres.
+
+Capacidades de contenido integrado
+
+Google Sites también permite a los usuarios agregar contenido incrustado, que es contenido importado a otra plataforma a través de un código HTML. Incluso puedes importar archivos directamente desde Google Drive, como PDF y hojas de cálculo. Al crear una cartera, puedes usar esta función para cargar documentos como tu currículum.
+
+Publicación web
+
+La función de publicación web te permite ajustar la configuración de recursos compartidos para el sitio de tu cartera. Puedes hacer que tu sitio web sea visible en los motores de búsqueda o compartir tu cartera digital con las personas que deseas. Cuando tengas todo listo, puedes publicar tu sitio web y recibir una URL única. Puedes agregar este enlace a tu currículum para que tu trabajo se pueda ver fácilmente durante el proceso de contratación con gerentes.
+
+Conclusiones clave
+
+Las carteras digitales son una colección de tus mejores proyectos. El uso de Google Sites o cualquier otra herramienta de creación de carteras digitales te ayudará a transmitir quién eres y presentar los trabajos que has hecho, tanto a tu futuro empleador como colegas.
+
+Para obtener más información
+
+Para obtener más información sobre cómo crear tu propio sitio web, consulta los temas de ayuda de Google Sites que se proporcionan en la
+página de Soporte técnico de Google <https://support.google.com/sites/?hl=en#topic=7184580>.
+
+#### Cómo encontrar tu camino y el rol perfecto
+
+Al comenzar tu carrera, tendrás que recorrer varios caminos hasta encontrar el puesto adecuado para ti. Si bien no hay una sola manera de encontrar tu posición ideal, hay algunos temas a considerar para ayudarte a comprender mejor en qué dirección deseas ir. Esta lectura se centrará en algunas de las opciones a tener en cuenta cuando comiences a buscar trabajo.
+
+Marketing digital versus comercio electrónico
+
+A lo largo de este programa, aprendiste conceptos y prácticas relacionadas con el marketing digital y el comercio electrónico. A estas alturas, probablemente hayas notado que no hay una división clara entre los dos campos. El marketing digital y el comercio electrónico suelen trabajar juntos, de manera fluida, para lograr algún tipo de objetivo de conversión. Si bien muchos de los conceptos que has aprendido se relacionan con ambos campos, algunos aspectos difieren de uno a otro. La siguiente tabla proporciona una visión general de estas diferencias
+
+![alt text](image-184.png)
+
+Ninguno de los dos campos es mejor que el otro, pero es necesario determinar cuál es el más adecuado para ti, según lo que esperas lograr en tu carrera. Ten en cuenta los aspectos sobre los que disfrutaste aprendiendo y los que no. Haz una lista para comparar los dos, si crees que puede ayudarte.
+
+Cuando te postules a búsquedas laborales, no debes sentir la obligación de elegir entre un campo u otro. En un rol de nivel inicial, es más que probable que trabajes en tareas de ambos. Una vez que consigas un trabajo, puedes perfeccionar tus habilidades y determinar el campo que más te guste.
+
+Generalista versus especialista
+
+Otra categoría a considerar al tratar de encontrar tu camino es evaluar si deseas trabajar como generalista o especialista. Un/a generalista es una persona que sabe acerca de muchos temas y tiene varios intereses, mientras que un/a especialista es quien se especializa en un campo específico.
+
+Las/los generalistas tienen roles amplios y multifacéticos que permiten a los/las empleados/as de nivel inicial adquirir experiencia en muchas áreas diferentes vinculadas con el sector. En cambio, las/los especialistas se enfocan en un aspecto particular del marketing digital (correos electrónicos, redes sociales, etc.) o del comercio electrónico (campañas, programas de fidelidad, etc.). La siguiente tabla brinda una descripción general de los roles generales y especializados comunes.
+
+![alt text](image-185.png)
+
+Ten en cuenta que la palabra “especialista” se usa con frecuencia en los cargos laborales, incluso para roles que incluyen tareas de tipo generalista. Al revisar un anuncio de trabajo, asegúrate de leer las tareas y responsabilidades asignadas a ese rol, para que comprendas con claridad cuáles serán tus deberes si te contratan.
+
+Elige tu entorno de trabajo
+Elegir qué tipo de entorno funciona mejor para ti es tan importante como el tipo de rol que selecciones. Los diferentes tipos de entornos tienen sus propias culturas y prácticas. Como empleado/a de nivel inicial, encontrarás dos tipos de lugares de trabajo: agencia o interno. También puedes optar por trabajar por tu cuenta como freelance.
+
+Agencia versus equipos internos
+
+En los campos de marketing digital y comercio electrónico, las agencias ayudan a otras empresas a realizar una función específica relacionada con el marketing, el desarrollo de campañas o el diseño. Las agencias pueden apoyar a empresas grandes o pequeñas y, por lo general, trabajan independientemente del negocio para el que han sido contratadas.
+
+Como empleado/a de nivel inicial, podrías trabajar para varios clientes porque las agencias suelen contratar a clientes diferentes. Es común trabajar con un/a cliente por un corto tiempo. Si trabajas en una agencia, es poco probable que decidas las partidas presupuestarias, ya que las determina la empresa que contrató los servicios de tu agencia.
+
+En cambio, las empresas que crean y distribuyen un producto o un servicio pueden armar un equipo interno de colaboradores/as para manejar sus necesidades de marketing y comercio electrónico. Hay muchas razones por las que las empresas eligen esta opción, como los costos reducidos, la transparencia total entre el equipo y la empresa, y la preocupación por la privacidad de sus usuarios/as y su información personal.
+
+Como empleado/a de nivel inicial, podrías trabajar en un equipo que es relativamente más pequeño que el resto de la empresa. A diferencia de trabajar en una agencia, los/las colaboradores/as que forman parte de un equipo interno pueden aprender sobre la empresa para la que están realizando tareas de marketing digital y comercio electrónico.
+
+Freelance
+
+El trabajo independiente es otra opción para las personas que desean aprovechar su experiencia en marketing digital y habilidades de comercio electrónico. Un/a freelancer trabaja por cuenta propia y no necesariamente está comprometido/a con un/a empleador/a en particular a largo plazo.
+
+Al igual que sucede en una agencia, las/los freelancers pueden trabajar con múltiples clientes. Sin embargo, a diferencia de lo que sucede al trabajar en una agencia o en un equipo interno, las/los freelancers pueden elegir qué funciones les gustaría aceptar.
+
+Las/los freelancers suelen ser generalistas. Tener múltiples habilidades y áreas de conocimiento les permite trabajar con muchas empresas, ya que tienen experiencia en diversas áreas.
+
+Asumir proyectos independientes es una buena manera de desarrollar tus habilidades y tomar la iniciativa en tu trabajo en cualquier momento de tu carrera, sobre todo al principio. Sin embargo, quienes quieran trabajar de forma independiente en el futuro deberían considerar adquirir experiencia en una empresa en algún momento, para comprender mejor la industria.
+
+Conclusiones clave
+
+A medida que te sumerges en la búsqueda de empleo, piensa en lo que quieres para tu carrera. Establece los tipos de funciones que deseas desde el principio y el tipo de empresa para la que te gustaría trabajar. Con el tiempo, tu experiencia te ayudará a tomar decisiones mejor informadas en la dirección que quieras darle a tu carrera.
+
+#### Jade - Buscar y solicitar empleo
+
+Hola, soy Jade, especialista en Shopping en Google. Trabajo con algunos de nuestros anunciantes más grandes y los asesoro sobre estrategias en anuncios de shopping en Google. Los ayudé a obtener más ingresos, nuevos/as clientes y más ventas, tanto en comercio electrónico como en tiendas físicas. Cuando me postulo para un trabajo, me concentro en tres aspectos. Primero, leo los requisitos del puesto y me aseguro de que puedo hacerlo. Luego, leo la descripción del puesto. A veces te da una buena idea de cómo será el día a día. Y pienso si disfrutaría de este trabajo. Y, por último, intento leer más sobre la empresa, sus beneficios y su cultura para asegurarme de que encajaría. Una vez que encuentres empresas que te interesen, te recomiendo que te registres para recibir notificaciones por correo cuando publiquen un trabajo para que te enteres antes que nadie. Para que las empresas te noten, sé visible, y asegúrate de que puedan buscarte y encontrarte. Eso significa tener un perfil de LinkedIn actualizado, que enumere tus habilidades, que muestre tus logros e intereses. Lo que tienes para aportar debe ser cuantificable y fácil de entender a primera vista. Como las/los reclutadores reciben miles de solicitudes, si quieres sobresalir, te recomiendo que uses números. Para demostrar tu impacto, cuantifícalo con números. Si atendiste mesas, indica a cuántas personas atendiste, qué tan ocupado estuviste, cuántos miembros había en el personal. Si fuiste consejero de campamento, menciona las iniciativas que propusiste, las actividades que dirigiste y cuántas personas había en el campamento. Cuando se cuantifica el impacto, se demuestra capacidad analítica. También le da vida a tu experiencia y denota que podrás seguir demostrando tu impacto y el de tu equipo cuando trabajes para la empresa en cuestión.
+
+#### Crea un currículum vitae (CV)
+
+Un primer paso al solicitar empleo es crear o actualizar un CV. En este video, veremos qué debe incluir un CV para un trabajo en comercio electrónico y marketing digital para que seas competitivo/a entre otros/as postulantes. Primero definamos qué es un CV. Es un documento creado y usado para presentar los antecedentes, habilidades y logros de una persona. Puede usarse por varias razones. La más común es para conseguir trabajo. Por lo general, es de 1 o 2 páginas. El CV puede denominarse también currículum vitae. Un currículum vitae completo presenta el historial entero de los estudios y de experiencia laboral de un candidato. Aunque suele usarse indistintamente, un CV abreviado es más corto y presenta tus habilidades y cualificaciones de forma concisa para un puesto. Suele ser más corto y se presenta por años de experiencia. La diferencia entre los CV y las carteras es que en lugar de mostrar lo que hiciste con material de apoyo, como elementos gráficos y ejemplos, un CV indica lo que hiciste con palabras. Puedes crear uno con aplicaciones de procesamiento de texto como Google Docs o Microsoft Word. Sin embargo, para mucha gente es útil empezar con la plantilla del CV. Google Docs, Microsoft Word y plataformas en línea como Canva ofrecen varias plantillas para elegir. Estas ahorran tiempo y dan una apariencia profesional. Las plantillas parecen diferentes, pero suele haber 4 secciones.
+Reproduce el video desde :1:44 y sigue la transcripción1:44
+La sección de información personal con tu nombre, correo y número de teléfono. La sección de experiencia, que indica tu historial laboral. La sección de educación, que indica tu formación académica. Y la sección de habilidades, que detalla tus habilidades específicas. Si usas una plantilla, debes reemplazar todo el texto predeterminado con tu información y calificaciones. En comercio electrónico y marketing digital, quien gerencia la contratación busca personas con experiencia y habilidades relacionadas. Debes incluir experiencias y habilidades como las adquiridas o desarrolladas aquí. Pueden ser, entre otras, crear campañas de correo electrónico, conocimiento de Google Ads, estrategias SEO y crear campañas de shopping. Reflexiona sobre qué te gustó e hiciste bien en el programa. Lo ideal es seguir desarrollando esas habilidades. Puedes incluir habilidades no obtenidas en el programa, como dominio de otro idioma o conocimiento de otras culturas. Está bien si no tienes mucha experiencia en marketing digital o comercio electrónico. Incluye cualquier puesto con habilidades transferibles a un nuevo sector. Este es un ejemplo de CV para un puesto de comercio electrónico con todas las secciones correspondientes. La sección Experiencia incluye puestos específicos con las acciones que el candidato realizó mientras los ocupaba. A continuación, verás más sobre cómo preparar tus materiales de solicitud antes de postularte a un empleo.
+
+#### Fortalece tu CV
+
+Ya viste las secciones básicas de un currículum vitae (CV) :
+
+Datos personales
+
+Experiencia
+
+Educación y formación
+
+Habilidades
+
+Después de crear un currículum vitae (CV)  con estas secciones básicas, puedes trabajar en personalizarlo. Enviar un CV personalizado para que se ajuste a los requisitos de un puesto en particular que te interese puede ser más efectivo que enviar uno general. Esta lectura proporciona detalles adicionales sobre la personalización de tu CV. El enfoque principal es personalizar la sección Experiencia, para que coincida mejor con los roles para los que estás aplicando.
+
+Personaliza tu CV
+Un CV es una primera impresión. Reclutadores/as y gerentes de contratación seleccionan a las/los solicitantes para entrevistar cuyos CV describen a las personas que pueden imaginar fácilmente haciendo el trabajo. Dos de los métodos más efectivos para personalizarlo son:
+
+Agregar contexto relevante para el trabajo a tus habilidades usando el método STAR
+
+Adaptar tus habilidades transferibles a los requisitos del trabajo
+
+El uso de estos métodos de personalización ayuda a crear una conexión más fuerte entre lo que hiciste en el pasado y lo que requiere el trabajo al que te estás postulando. Probablemente crearás varias versiones personalizadas de tu CV al postularte para diferentes puestos. ¡Tu objetivo es que reclutadores/as y gerentes de contratación te visualicen haciendo el trabajo!
+
+Agregar la potencia de STAR
+
+¡Definitivamente eres la estrella de tu CV! Pero en este caso, STAR significa Situación, Tarea, Acción y Resultado. El método STAR es una forma estructurada de responder a las preguntas conductuales en las entrevistas. También puedes usar el método STAR para presentar las habilidades requeridas en un CV de manera más impactante. El método STAR garantiza que se proporcione un contexto valioso para las habilidades incluidas en tu CV al resaltar las acciones que tomaste y los resultados que lograste.
+
+Considera una descripción de trabajo para un puesto de asistente de marketing que comience con:
+
+Estamos buscando un/a socio/a de marketing confiable y orientado/a al servicio al cliente con excelente comunicación, gestión del tiempo y habilidades organizativas.
+
+Aquí hay un ejemplo de presentación de habilidades organizativas en un CV como un elemento con viñetas con y sin el método STAR. ¿Cuál te parece más impactante?
+
+Sin método STAR: Informes organizados y compartidos de manera oportuna
+
+Con el método STAR: Se implementaron nuevos formatos para mejorar la organización y la disponibilidad semanal de informes para 35 miembros del equipo
+
+Situación: Los informes eran difíciles de leer/encontrar
+
+Tarea: Mejorar la legibilidad/disponibilidad de los informes
+
+Acción: Se crearon nuevos formatos para los informes
+
+Resultados: 35 personas leen/encuentran informes más fácilmente cada semana
+
+Nota: Cuando agregas el poder de STAR a tu CV, recuerda ajustar cualquier redacción para el tamaño y la cultura de la empresa. Mencionar un equipo de 35 personas es más relevante para un rol en una pequeña o mediana empresa que en una gran empresa con cientos de equipos. Al aplicar para un puesto en una compañía más grande, puedes sustituir “para 35 miembros del equipo” por “en toda la empresa” para no quedar excluido/a de la consideración.
+
+El método STAR también se puede usar en múltiples elementos, mediante viñetas en tu CV. Tomando el ejemplo anterior para las habilidades organizativas, si fuiste tu quien identificó la situación como un problema a resolver, podrías usar viñetas en tu CV de la siguiente manera:
+
+Compartí informes e identifiqué problemas continuos con su legibilidad y acceso (Situación)
+
+Se crearon nuevos formatos de informe para mejorar la legibilidad y la disponibilidad (Tarea y Acción combinadas)
+
+Mejora de la organización y la disponibilidad semanal de informes para 35 miembros del equipo (Resultado)
+
+Asignar habilidades transferibles a los requisitos del trabajo
+
+Si estás cambiando de carrera y recién ingresas al mundo del marketing digital y el comercio electrónico, puedes personalizar tu CV para mostrar que tus habilidades desarrolladas en otro campo son importantes para la posición a la que te estás postulando.
+
+Por ejemplo, supongamos que alguien con cinco años de experiencia de docencia en una escuela secundaria está solicitando un puesto de analista de marketing que requiere la siguiente habilidad:
+
+Trabajar con los equipos para determinar la rentabilidad de la campaña, el retorno de la inversión (ROI) y otros KPI
+
+La enseñanza es altamente colaborativa. Las/los docentes comparten constantemente información y estandarizan las mediciones para realizar seguimientos del desempeño de sus estudiantes. A continuación, se presentan algunos ejemplos de puntos destacados en un CV que relacionan la experiencia de un/a docente con el requisito de trabajo en equipo en el campo del marketing.
+
+Adaptar estrategias para el trabajo en equipo en educación para permitir a los equipos de marketing determinar y mejorar el rendimiento de la campaña (Transferible: trabajo en equipo para mejorar el rendimiento)
+
+Coordinar y comunicarse con los equipos para establecer estándares uniformes para la medición de KPI (Transferible: mediciones estandarizadas)
+
+Colaborar con los equipos para lograr los comportamientos y KPI deseados por las/los clientes (transferibles: comportamientos y resultados deseados)
+
+Aunque puede faltar experiencia reciente en la ejecución de campañas y el monitoreo de los KPI de marketing, un trabajo vinculado a la enseñanza tiene KPI importantes relacionados con el éxito de las/los estudiantes, como:
+
+Tasas de retención
+
+Índice de graduación
+
+Calificaciones promedio
+
+Puntajes de pruebas estandarizadas
+
+A continuación, se muestra un ejemplo de un punto destacado en un CV que vincula la experiencia con los KPI educativos al requisito laboral de monitorear los KPI relacionados con el marketing.
+
+Usar y aplicar la experiencia de seguimiento de KPI educativos, como la retención y graduación de estudiantes, para monitorear de manera rentable los KPI de marketing, como la conversión y retención de clientes
+
+Dar forma a tu currículum
+Una vez que hayas completado el contenido y personalizado tu currículum para un puesto o empleo en particular, asegúrate de que el formato no tenga errores, como palabras mal escritas, y de que tenga una apariencia limpia. Limita tu CV a una página y no incluyas referencias. Estas deben estar en un documento separado.
+
+Datos personales
+
+Aquí hay consejos para la sección de información personal de tu CV.
+
+Tu nombre debe ser la fuente de mayor tamaño
+
+Si te diriges a una ubicación específica, incluye la ciudad y el estado para indicar a los/las posibles empleadores/as que estás en zona; de lo contrario, tu correo electrónico y número de teléfono son suficientes.
+
+(Opcional) Agrega un enlace a tu perfil de LinkedIn.
+
+(Opcional) Agrega una foto: una startup enfocada en los medios de comunicación puede darle un mayor valor a una foto, pero una empresa más establecida puede no hacerlo. Haz lo que percibes que puede ser valorado por la cultura del/de la posible empleador/a.
+
+Experiencia
+
+La sección Experiencia debe estar en orden cronológico inverso, con tu trabajo más reciente en primer lugar.
+
+Usa viñetas en lugar de párrafos; los puntos con viñetas son más fáciles de escanear y leer.
+
+Incluye el nombre de cada empleador/a.
+
+(Opcional) Incluye la ubicación del/de la empleador/a; esto puede no ser necesario si, por ejemplo, eres un/a trabajador/a remoto/a.
+
+Incluye tu cargo laboral.
+
+Incluye las fechas de empleo, como meses y años. Por ejemplo: mayo de 2019 - agosto de 2022.
+
+Utiliza un patrón de formato que sea consistente. Por ejemplo: si usas negrita para un/a empleador/a, todos los/las empleadores/as deberán estar en negrita.
+
+No uses MAYÚSCULAS para todo.
+
+Educación y formación
+
+Enumera todos los títulos que has obtenido, pero solo los certificados que son relevantes para este empleo. Si has completado parcialmente un título, puedes incluirlo con una fecha estimada de finalización. Al igual que en la sección Experiencia, estos deben enumerarse como viñetas en orden cronológico inverso, o con la formación más relevante primero.
+
+Habilidades
+
+Esta sección está reservada para habilidades avanzadas y áreas de especialización. Si enumeras una habilidad, debes estar preparado/a para responder posibles preguntas que puedan surgir durante la entrevista para probar tu nivel de competencia.
+
+Ejemplos efectivos: JavaScript, SQL, Google Ads (no todos tienen estas habilidades)
+
+Ejemplos menos efectivos: Word, Excel (muchas personas tienen estas habilidades)
+
+Conclusiones clave
+Personaliza tu currículum. Alinearlo a un rol específico utilizando el método STAR y relacionando tus habilidades transferibles con los requisitos del trabajo te ayudará a destacarte en una entrevista. Asegúrate de dar formato a cada sección de tu CV para garantizar que esté libre de errores y sea fácil de leer. Si le dedicas tiempo a personalizar y darle forma a tu currículum, ayudarás a reclutadores/as y gerentes de contratación a imaginarte como la persona adecuada para el trabajo.
+
+Recursos para crear tu currículum
+
+Para obtener ayuda para crear un CV, consulta los siguientes recursos:
+
+Usa una plantilla para crear un CV <https://support.microsoft.com/en-us/office/use-a-template-to-create-a-resume-6053fbbb-94d8-471e-9957-49f4e7ab6fb8#ID0EBBD=Windows>: artículo de soporte técnico de Microsoft con pasos y enlace a las plantillas
+
+Destaca con currículums profesionales personalizados<https://www.canva.com/resumes/>: la página de inicio de CV de Canva
+
+Plantillas de currículums <https://www.canva.com/resumes/templates/>: plantillas de CV de Canva
+
+#### Rahul - Consejos para crear currículums
+
+Me llamo Rahul y soy APMM, es decir, Gerente Asociado de Marketing de Producto aquí en Google. De hecho, llegué al marketing digital de casualidad. En realidad, no sabía qué era el marketing o el marketing digital, pero me di cuenta de que lo usaba en gran parte de mi vida a través de una de mis pasiones, que es la moda urbana. Solía publicar en Instagram u otras plataformas y pensaba en cómo difundir esa pasión. Solía investigar palabras clave y crear hashtags para que mi contenido creciera. Estaba estudiando informática en la universidad y decidí no continuar con eso, ya que no era lo mejor para mí. En cambio, me topé con una pasantía en marketing digital en Google. El currículum y la "hoja de vida" son bastante intercambiables. Tratan de mostrar tu educación y las experiencias laborales que tuviste a lo largo de tu vida. Es tu forma de describir el valor que aportas a una empresa empleadora o cliente. En mi opinión, el objetivo de tener un currículum bueno y sólido es que puedas mostrar a otras personas cómo combinan tus experiencias corporativas con y tus pasiones personales. De nuevo, es un reflejo de tu personalidad y, para mí, tienes que mostrar tu carácter en el currículum. Por eso, una plantilla estandarizada no siempre es la mejor opción. Siempre me gusta ver un toque de personalidad presente. Un error común a la hora de crear un currículum puede ser agregar demasiada información. Tener un CV abarrotado de datos a veces puede quedar mal. Las personas encargadas de reclutar, contratar y demás tienen que leer y filtrar muchos currículums. En lo que respecta a la información que pones en tu CV, asegúrate de ir al punto. Usa una estructura que contenga tu cómo, tu qué y tu porqué. Por qué haces lo que haces, cómo lo haces y en qué escenarios o situaciones. Si te das cuenta de que estás buscando formas de llenar tu CV o tu hoja de vida, te recomiendo mucho que desarrolles tus propios proyectos de forma independiente en ese campo, para que realmente puedas digerir y comprender toda la información. Y, luego, puedes usarlo por tu cuenta para crear algo nuevo. El mundo del marketing cambió drásticamente en los últimos cinco o diez años. A medida que Internet y la tecnología tienden a evolucionar, muchos de los procesos, muchas de las tecnologías y muchas de las herramientas también van cambiando. Solo piensa en cómo gran parte del marketing solía ser impreso, solía estar en revistas y en periódicos, y cómo todo eso está cambiando muy rápido. Se trata de comprender y observar la forma en que las personas hacen marketing hoy por hoy y encontrar esas pasiones que se superponen con tu propia vida y ver, de nuevo, cómo puedes crear una comunidad en torno a eso.
+
+#### Sydney - Consejos para crear currículums
+
+Hola, soy Sydney. Me dedico a reclutar para Google, lo que me permite trabajar con equipos increíbles, encontrar candidatos geniales como tú y colaborar en la estrategia del talento. En mi trabajo reclutando personal de marketing, colaboro con una amplia variedad de organizaciones, equipos y productos. Podría estar dando apoyo en marketing para YouTube, publicidad, aplicaciones para consumidores. En cuanto a perfiles, podrían ser especialistas en marketing de productos, en marketing de socios y gerentes de programas. Hay mucho trabajo interesante al que mi equipo brinda su apoyo. Lo que miro en un currículum es, en última instancia, impacto, formato, gramática y logros clave. Creo que hay muchas áreas de mejora en las que la gente puede enfocarse al armar un currículum y una de ellas es compartir el impacto. Cuando hablo de impacto, me refiero al tamaño del proyecto, los equipos con los que trabajaste, las partes interesadas que administraste, así como cuáles son los resultados cuantificables que obtuviste a partir de este proyecto o logro. ¿Lograste que las ventas aumentaran un 50 por ciento? ¿Ayudaste a incorporar nuevas personas al equipo? Ayuda mucho agregar esa medida cuantificable. Siempre hay algo cuantificable que puedes relacionar con tu trabajo. Cada currículum que elabores debe ser específico para el puesto al que te estás postulando. Por ejemplo, presta atención a los requisitos mínimos, y a los requisitos deseables relacionados con la conducción de campañas y el impacto del proyecto. Prestar realmente atención a esos requisitos clave es tu hoja de ruta para elaborar el currículum adecuado para el puesto que, en última instancia, estás buscando y esperas conseguir. Si estás en transición hacia una nueva carrera profesional y tal vez no tienes la experiencia exacta que requiere el puesto, es muy importante que prestes atención a las habilidades clave. Por ejemplo, si en la descripción del puesto decimos que buscamos liderazgo y colaboración, ¿Dónde lideraste un equipo? ¿Dónde lideraste un proyecto grande? ¿Cuándo colaboraste con otras personas? Sacar a relucir esas experiencias cotidianas que tienes de verdad puede realzar tu currículum y hacer que resuene con la audiencia adecuada, es decir, reclutadores o responsables de recursos humanos. Otra forma de hacer que tu currículum se destaque es asegurarte de que estás demostrando la pasión y el interés en las áreas que más te entusiasman. Si pensamos en el Certificado de Carrera de Google, debes sacarlo a relucir, resaltarlo, destacar los cursos que completaste, las tareas que hiciste. Si veo el Certificado de Carrera de Google en tu currículum, me dan muchas ganas de hablar contigo. Me demuestra a mí o a cualquier otro/a reclutador/a que te interesa aprender más sobre el campo en cuestión. Cuando te estés preparando para tu próxima entrevista, recuerda que el equipo estará entusiasmado por conocerte, que está de tu lado y que de verdad quiere escuchar tus excelentes experiencias. Prepárate de antemano, considera revisar perfiles en línea. Familiarízate bien con la descripción del puesto y prepara preguntas específicas para cada uno de tus entrevistadores y, en última instancia, solo asegúrate de compartir cuánto te interesa y te apasiona el rol en cuestión, y haz que esa impresión dure. Otro consejo profesional es enviar notas de agradecimiento. Siempre haz un seguimiento después de la entrevista y agradécele a quien te entrevistó por su tiempo. Si no tienes una dirección de correo electrónico a la cual escribir y esta persona no puede dártela, no te preocupes. Solo haz un seguimiento con quien te reclutó y con gusto le transmitirá el mensaje a quienes te entrevistaron. Este detalle puede ayudarte mucho.
+
+#### Actividad de ejemplo: Crea o actualiza un currículum
+
+Compara el ejemplo con tu currículum vitae (CV) completo. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué hiciste bien? ¿En qué aspectos podrías mejorar? Las respuestas a estas preguntas te servirán como guía a medida que avances en el curso.
+
+Nota: El ejemplo representa una forma posible de completar la actividad. Tu currículum vitae (CV) probablemente diferirá de alguna manera. Lo importante es que comunique claramente una instantánea de tus habilidades y experiencia y qué valor aportarías al puesto para el cual te estás postulando.
+
+Tu currículum  debe incluir los siguientes elementos:
+
+Información de contacto: Tu nombre, ubicación, número de teléfono, dirección de correo electrónico y URL de tu perfil en LinkedIn (en caso de tener)
+
+Habilidades: Una lista de las habilidades que tienes que son más relevantes para el puesto, incluidas las que has aprendido en este programa, las que has adquirido en empleos anteriores y tus fortalezas y competencias.
+
+Experiencia: Una lista de, al menos, tres de tus empleos previos en orden cronológico inverso. Cada listado debe incluir el nombre de la empresa, la ubicación, el cargo que ocupaste, las fechas en que trabajaste allí y una descripción de cuáles fueron tus responsabilidades. Tus descripciones deben usar verbos activos y adaptarse a la descripción del puesto para el que te estás postulando.
+
+Educación y certificaciones: Una lista de las instituciones educativas a las que asististe después de haber terminado la escuela secundaria en orden cronológico inverso. Debe incluir la ubicación de la institución; el título, diploma o certificado que obtuviste; y las fechas en las que cursaste. También debes agregar pasantías y cualquier certificación o credencial profesional que poseas, incluido el Certificado de Carrera de Google en Marketing Digital y Comercio Electrónico.
+
+Premios: Una lista de los premios que has recibido, quién te los otorgó y la fecha en que los recibiste. Como alternativa, puedes incluir una sección como “idiomas”, “software”, “voluntariados”, “proyectos”, “pasatiempos e intereses” o “logros”, o cualquier otro punto que te destaque y sea relevante para los requisitos del puesto al que te estás postulando.
+
+Tu currículum  también debe:
+
+Estar libre de errores ortográficos, gramaticales y de puntuación.
+
+Ser tan conciso como sea posible.
+
+No superar una o dos páginas de extensión.
+
+#### Agrega habilidades relevantes a tu currículum
+
+#### Escribe una carta de presentación
+
+#### Isela: Consejos para crear una carta de presentación
+
+#### Mike: Encuentra la posición para ti
 
 ### Prepárate para las entrevistas de marketing digital y comercio electrónico
 
