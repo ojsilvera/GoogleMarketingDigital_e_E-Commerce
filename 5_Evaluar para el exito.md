@@ -966,7 +966,102 @@ Vuelo: (consultar duración).
 
 #### Empieza a usar Google Analytics
 
+¡Hola de nuevo! Si sigues este curso en orden, seguro ya conoces Google Analytics y Google Ads. En esta parte del curso,
+verás cómo empezar a recopilar mediciones en estas herramientas y monitorear métricas. Para los videos de esta lección, se
+necesita un nivel de acceso de las herramientas para visualizar métricas y editar informes. En Google Analytics, este es el
+rol de Lector, en Google Ads, es el nivel de acceso estándar. Las lecturas y referencias aportan más datos sobre la
+configuración de cuenta y otras tareas que requieren mayores niveles de privilegios administrativos. Estas lecciones se
+crearon con la última versión de las herramientas. Hay tareas similares que pueden hacerse en una versión anterior, pero la
+navegación, las opciones de menú y, a veces las funciones, son diferentes. Para monitorear métricas, aprenderás a crear
+exploraciones en Google Analytics, y paneles de control y cuadros de evaluación en Google Ads. Para ingresar datos,
+aprenderás a vincular una cuenta de Google Ads con Google Analytics para ver los datos publicitarios en Google Analytics. Y
+para la salida de datos, aprenderás a exportar datos desde Google Ads y Google Analytics para poder analizarlos más. Como
+las herramientas de analítica recopilan mucha información, se deben realizar informes selectivos para enfocarse en las
+métricas más importantes para tu estrategia de marketing digital. Querrás asegurarte de estar usando las métricas correctas
+para encontrar la información más precisa y convincente.
+
 #### Etiquetado global de sitios web y Google Tag Manager
+
+Los videos de este curso muestran una cuenta de prueba de Google Analytics que ya está en funcionamiento para un sitio web y una aplicación móvil. Esta lectura te dará una descripción general de lo que se requiere para configurar una nueva cuenta de Google Analytics, con el fin de monitorear un sitio web o aplicación.
+
+Nota: La información en esta lectura se proporciona únicamente a modo de referencia. No debes configurar una cuenta de Google Analytics para completar ninguna de las actividades de este curso. Seguirás utilizando la cuenta de prueba de Google Analytics.
+
+Pasos avanzados
+Estos son los pasos avanzados para configurar Google Analytics:
+
+Crear una cuenta y propiedad nueva
+
+Crear un flujo de datos
+
+Habilitar el etiquetado
+
+Habilitar la recopilación de datos
+
+Crear una cuenta y propiedad nueva
+
+Para crear una cuenta nueva, ve a la página de <https://marketingplatform.google.com/about/analytics/>  y selecciona Comenzar hoy.
+
+Cuando creas una cuenta nueva, ingresa o selecciona la siguiente información:
+
+Nombre de la cuenta
+
+Nombre de la propiedad
+
+Zona horaria
+
+Moneda
+
+Información comercial (opcional)
+
+Crear un flujo de datos
+
+Después de aceptar los términos del contrato de servicio, puedes elegir el tipo de flujo de datos que quieres monitorear en un sitio web o aplicación móvil:
+
+Web: si seleccionas Web, ingresa la URL de la página de inicio y un nombre de flujo único.
+
+Aplicación para Android: si seleccionas la aplicación para Android, ingresa el nombre del paquete y el nombre de la aplicación.
+
+Aplicación para iOS: si seleccionas la aplicación para iOS, ingresa el identificador del paquete y el nombre de la aplicación.
+
+A continuación, se le asignará un identificador de medición al flujo de datos.
+
+Habilitar el etiquetado
+
+Para las instrucciones de etiquetado, elige si deseas agregar una nueva etiqueta a la página o usar una ya existente.
+
+Selecciona la opción de usar una etiqueta de la página existente solo si estás añadiendo una propiedad de Google Analytics 4 (GA4) a un sitio web que ya tiene una etiqueta para Universal Analytics (UA). La etiqueta existente se convierte en una etiqueta de sitio conectada para enviar datos a la propiedad Google Analytics 4.
+
+Si agregas una nueva etiqueta, puedes elegir usar la etiqueta global de sitio o Google Tag Manager.
+
+Habilitar la recopilación de datos
+
+Por último, para habilitar la recopilación de datos, implementa la etiqueta global de sitio o la etiqueta de Tag Manager.
+
+Si implementas la etiqueta global de sitio manualmente, deberás copiar y pegar la etiqueta de sitio que aparece en la sección "head" del HTML de cada página que quieres monitorear.
+
+Una etiqueta de sitio se ve algo así:
+
+```code
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3T28EEHGZS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3T28EEHGZS');
+</script>
+
+// code
+```
+
+Recursos para obtener información adicional
+Consulta los siguientes artículos para obtener instrucciones sobre cómo configurar Google Analytics.
+
+<https://support.google.com/analytics/answer/9304153?hl=en>: instrucciones para configurar Google Analytics 4 (recomendado para cuentas nuevas)
+
+<https://support.google.com/analytics/answer/1008015?hl=en>: instrucciones para configurar Universal Analytics (te dará soporte continuo de sitios web que utilizan UA).
 
 #### Trabaja con Google Analytics: monitorear métricas
 
