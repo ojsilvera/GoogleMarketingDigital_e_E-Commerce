@@ -862,7 +862,97 @@ Las cookies darán paso a nuevas soluciones. En publicidad y comercio electróni
 
 Recursos para obtener información adicional
 
+Consulta los siguientes enlaces  para profundizar en los temas abordados en esta lectura:
+
+<https://www.dbswebsite.com/blog/website-cookies-and-data-privacy/> este artículo de blog describe los diferentes tipos de cookies y cómo se utilizan.
+
+<https://blog.google/products/ads-commerce/2021-01-privacy-sandbox/> este artículo de blog describe los avances tecnológicos para la navegación sin cookies.
+
+<https://github.com/WICG/floc> introducción al FLoC en GitHub.
+
 ### Repaso: Introducción a “Evaluar para tener éxito: analítica y medición de marketing”
+
+Términos y definiciones del curso 5, semana 1
+
+Adquisición de clientes: Proceso de conseguir nuevas/os clientes.
+
+Analítica en tiempo real: Monitoreo de datos inmediatos para obtener información y responder a los eventos con rapidez.
+
+Analítica predictiva: Monitoreo de datos históricos para predecir lo que podría suceder.
+
+Aprendizaje federado de cohortes (FLoC): Mecanismo que permite agrupar a las personas con intereses similares de búsquedas
+sin el uso de un identificador único por navegador. Puede utilizarse para publicidad basada en Internet como sustituto a las
+cookies.
+
+Atribución: Determina cuáles contenidos y canales son responsables de generar leads, conversiones o registros.
+
+Big data: Campo de la analítica de datos que extrae sistemáticamente información de grandes conjuntos de datos.
+
+Bucket testing: (consultar Pruebas A/B).
+
+Cookie: Pequeño archivo almacenado en dispositivos que rastrea el comportamiento de quienes navegan en Internet y analiza el
+tráfico.
+
+Conversión de macros: Transacción de compra completada.
+
+Costo por adquisición (CPA): Costo promedio de adquirir un/a cliente potencial.
+
+Costo por clic (CPC): Lo que paga un anunciante cuando alguien hace clic en un anuncio de PPC.
+
+Duración: Cuánto tiempo durará una campaña.
+
+Gasto presupuestario: Cuánto se asigna o se gasta en una campaña.
+
+Indicador clave de rendimiento (KPI): Medida que se usa para medir el éxito de una empresa en su esfuerzo por alcanzar un
+objetivo de negocio o marketing.
+
+Inteligencia artificial (IA): Campo que desarrolla máquinas y software inteligentes que simulan el pensamiento o trabajo
+humano.
+
+Marketing automatizado: Utiliza analítica en tiempo real para automatizar las actividades de marketing.
+
+Microconversión: Una respuesta completa que indica que un usuario se está moviendo hacia una transacción de compra
+completada.
+
+Mix de medios: Combinación de canales digitales que los especialistas en marketing utilizan para alcanzar sus objetivos y
+cómo se dividen su presupuesto entre ellos.
+
+Objetivo de marketing: Meta en un plan o estrategia de marketing que respalda un objetivo de negocio.
+
+Objetivo de negocio: Meta, logro o resultado deseado para un negocio.
+
+Objetivo de rendimiento: Meta que tiene un valor numérico medible.
+
+Planificación de medios: Contiene detalles sobre dónde, cuándo y con qué frecuencia aparecerá un anuncio en todos los medios
+de comunicación.
+
+Propiedad: Sitio web, aplicación móvil o página web que está asociada con un ID de medición único en Google Analytics para
+habilitar la recopilación de métricas.
+
+Proyecto de atribución: Organización para conversiones macro y micro en Google Analytics.
+
+Prueba A/B: Método de prueba en el que se comparan dos versiones de contenido con una sola variable diferente para
+determinar cuál produce mejores resultados.
+
+Pruebas divididas: (consultar Pruebas A/B).
+
+Público objetivo: Grupo de personas con más probabilidades de comprar los productos o servicios de una empresa.
+
+Remarketing: Estrategia en la que una empresa utiliza anuncios de pago para dirigirse a las/los clientes que visitaron un
+sitio web, aplicación o perfil de redes sociales.
+
+Retorno de la inversión publicitaria (ROAS): Cantidad de ingresos que se obtienen en relación con cuánto se gastó en
+publicidad.
+
+Valor del tiempo de vida del cliente (Lifetime Value LTV o CLV): Ingresos promedio generados por cliente durante un cierto
+periodo de tiempo.
+
+Valor promedio del pedido (AOV): Suma de los montos de los pedidos individuales divididos por el número de pedidos.
+
+Ventas incrementales: Ventas durante un periodo de tiempo que están por encima de lo que una empresa normalmente en ese
+lapso.
+
+Vuelo: (consultar duración).
 
 ## Usar las métricas de Google Analytics y Google Ads
 
