@@ -2389,6 +2389,43 @@ Creación de mapas de partes interesadas
 
 ![alt text](image-159.png)
 
+Un mapa de partes interesadas, también conocido como red eléctrica, es un método que puedes usar para realizar un seguimiento de la influencia y las necesidades de las partes interesadas y el nivel de comunicación que necesitas tener al trabajar con ellas. Un mapa de partes interesadas tiene dos variables: influencia e interés.
+
+La Influencia se puede definir como el nivel de convencimiento que una parte interesada puede tener sobre las personas para que tomen determinadas acciones. Por ejemplo, si necesitas un presupuesto mayor para tu campaña de marketing, una parte interesada con un nivel de influencia alto podría intervenir para darle a tu campaña una mayor prioridad de financiación.
+
+El Interés puede definirse como el nivel de impacto que un proyecto tiene con respecto a los objetivos de una parte interesada. Para recordarlo, puedes pensar en ello como una medición de su interés personal.
+
+¿Para qué sirve colocar a las partes interesadas en un mapa?
+Colocar a las partes interesadas en uno de los cuatro cuadrantes del mapa puede ayudarte a gestionar sus expectativas y compartir con ellas lo que tienen que saber, sin sobrecargarlas de información.
+
+Si tu tiempo, recursos, energía y motivación son la moneda organizacional que gastas en tu trabajo todos los días, tienes que asegurarte de gastarla en aquello que tenga un mayor impacto o valor para el negocio. Los mapas de partes interesadas te permiten trabajar con ellas de manera eficiente sin que el proceso te consuma demasiado tiempo o energía.
+
+A modo de ejemplo, volvamos a la lista anterior de posibles partes interesadas internas para una campaña de marketing. Puedes optar por colocar a los/las gerentes de ventas en el cuadro Informar y responder a sus necesidades y a los/las analistas IT en el cuadro Mantener actualizado. Los/las gerentes de ventas querrán saber si tu campaña ayudará a que alcancen sus objetivos de ventas, por lo que puedes planificar para intercambiar información con ellos/as regularmente. Por otro lado, si bien puede ser que los/las analistas IT no usen las métricas de la campaña, podrían cumplir un papel importante en el archivo de los resultados. Lo más apropiado sería mantenerlos/as actualizados/as regularmente, pero con menor frecuencia.
+
+¿Qué está en juego con las partes interesadas?
+La confianza. Cuando estableces un nivel de confianza alto con las partes interesadas, los proyectos y las campañas pueden ejecutarse en un ambiente de trabajo colaborativo, en lugar de en un ambiente de duda o incertidumbre.
+
+La ecuación de la confianza
+
+Trusted Advisor Associates, LLC <https://trustedadvisor.com/>, desarrolló lo que se conoce como “la ecuación de la confianza”.
+
+Confianza = (Credibilidad + Fiabilidad + Intimidad) / Orientación personal
+
+La credibilidad implica decir la verdad. La fiabilidad implica hacer lo que dices que harás. Intimidad implica conocer a las personas lo suficiente como para que se sientan cómodas compartiendo lo que de verdad piensan. Todo esto ayuda a construir relaciones positivas con las/los miembros de tu equipo y con las partes interesadas internas y externas.
+
+La orientación personal es el nivel de cuidado que una persona tiene de sí misma y de sus propios intereses. Si no logra controlarse, una cantidad desproporcionada de orientación personal puede disminuir la confianza que otras personas y las partes interesadas tienen en ti y en tu proyecto o campaña de marketing.
+
+Consejo profesional: Una buena inversión que puedes hacer para tu proyecto o campaña de marketing es gastar tu moneda organizacional en desarrollar y mantener la confianza de tus partes interesadas.
+
+Recursos para obtener información adicional
+Puedes consultar los siguientes enlaces para obtener más información sobre cómo trabajar con las partes interesadas:
+
+The definitive guide to stakeholder management <https://www.smartsheet.com/definitive-guide-stakeholder-management#stakeholder-strategies-who-needs-what-and-when>: En este artículo de Smartsheet, puedes obtener más información sobre la gestión de las partes interesadas en función de lo que necesitan saber.
+
+Understanding the trust equation <https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation>: Obtén más información sobre la ecuación de la confianza desarrollada por Trusted Advisor Associates, LLC.
+
+Stakeholder analysis: a pivotal practice of successful projects <https://www.pmi.org/learning/library/stakeholder-analysis-pivotal-practice-projects-8905>: Obtén más información sobre la identificación y clasificación de la influencia de las partes interesadas en un documento publicado por Project Management Institute.
+
 #### Lectura: LecturaActividad de ejemplo: Completa un plan de comunicación con las partes interesadas
 
 #### Cuestionario práctico: Pon a prueba tus conocimientos: Necesidades de las partes interesadas y estrategias de comunicación
