@@ -2916,7 +2916,7 @@ Cuando implementas las prácticas recomendadas para crear presentaciones eficien
 
 #### Lectura: LecturaActividad de ejemplo: Presentar los datos clave a las partes interesadas
 
-Compara el ejemplo con tu presentación completa. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué hiciste bien? ¿Dónde puedes mejorar? Usa tus respuestas a estas preguntas a modo de guía a medida que avanzas en el curso. 
+Compara el ejemplo con tu presentación completa. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué hiciste bien? ¿Dónde puedes mejorar? Usa tus respuestas a estas preguntas a modo de guía a medida que avanzas en el curso.
 
 Nota: El ejemplo representa una posible versión de la presentación. Es probable que la tuya sea diferente en algunos aspectos. Lo importante es que tu presentación explique los datos con claridad y los interprete de una manera que sea relevante para tu público.
 
@@ -2979,17 +2979,17 @@ La visualización de datos tiene cierto aspecto artístico. A medida que vayas a
 
 #### Términos y definiciones del curso 5, semana 4
 
-Celda: Posición en una hoja de cálculo con una designación de columna y fila. Por ejemplo, la celda A2 es la posición única en la columna A y la fila 2. 
+Celda: Posición en una hoja de cálculo con una designación de columna y fila. Por ejemplo, la celda A2 es la posición única en la columna A y la fila 2.
 
 Duración promedio de la sesión: Cálculo que divide la duración total de todas las sesiones por el número de sesiones. Se informa en segundos.
 
-Gráfico circular: G que muestra datos con resultados parciales y completos. 
+Gráfico circular: G que muestra datos con resultados parciales y completos.
 
 Gráfico de área: Representa los datos de la misma manera que un gráfico de líneas, pero con el espacio debajo de la línea rellenado para formar un área visual.
 
-Gráfico de barras horizontal: Rotación de 90 grados de un gráfico de columnas verticales. 
+Gráfico de barras horizontal: Rotación de 90 grados de un gráfico de columnas verticales.
 
-Gráfico de columnas verticales: Gráfico en el que las mediciones individuales se muestran cada una como una columna vertical. 
+Gráfico de columnas verticales: Gráfico en el que las mediciones individuales se muestran cada una como una columna vertical.
 
 Gráfico de líneas: Gráfico en el que los puntos de datos individuales para una variable cambiante están conectados con una línea continua.
 
