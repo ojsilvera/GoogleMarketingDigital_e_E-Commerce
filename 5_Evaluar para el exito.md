@@ -1236,9 +1236,196 @@ Según el análisis de la exploración, se llegó a la conclusión de que no hab
 
 #### Trabajar con métricas de Google Ads
 
+En una lección previa de Google Ads, viste las capacidades del panel de control y cuadros de evaluación. Aquí aprenderás a trabajar con métricas individuales. En la página de la campaña, podrás seleccionar las métricas que quieres ver. Seleccionar métricas es útil para verlas en las diferentes etapas del embudo de marketing. En este video, aprenderás a seleccionar y mostrar métricas que se suelen evaluar en las etapas de Conciencia, Consideración y Conversión del embudo de marketing. Esta es la página de la campaña en Google Ads. En la etapa de Conciencia del embudo de marketing, las métricas que probablemente monitorees sean clics e impresiones. La columna Clics muestra los clics de una campaña. La columna Impresiones muestra cuántas veces las/los clientes potenciales vieron los anuncios de la campaña. Si estas columnas no aparecen, puedes agregarlas. Estas métricas están en la sección Rendimiento, que puedes ampliar para marcar las casillas de clics e impresiones. Tras aplicar los cambios, aparecerán las columnas Clics e Impresiones. En la etapa de Consideración del embudo de marketing, es probable que monitorees el porcentaje de clics (CTR) y la tasa de interacción. El CTR es un porcentaje solo de clics, mientras que la tasa de interacción es un porcentaje de clics, deslizamientos y cualquier otras interacciones con imágenes, texto o extensiones. En la sección de métricas de rendimiento, puedes hacer clic para agregar estas métricas. Tras aplicar los cambios, aparecerán las columnas CTR y Tasa de interacción. Por último, en la etapa de Conversión del embudo de marketing, seguramente monitorees la cantidad de conversiones, costo, valor de conversión por costo y tasa de conversión. Recuerda: una conversión sucede cuando un/a cliente potencial realiza una acción deseada. En la mayoría de los casos, la acción es hacer una compra. El costo es la inversión en los anuncios de la campaña. El valor de conversión por costo calcula el retorno de la inversión (ROI). Se calcula al dividir el total del valor de conversión entre el costo total de interacciones. Y la tasa de conversión es el promedio de conversiones por interacción publicitaria. Para agregar estas métricas, amplía la sección Conversión de la página. Tras seleccionar las casillas, haz clic en Aplicar. Aparecerán las columnas adicionales de estas cuatro métricas. Esto tuvo demasiada información, pero ahora puedes comenzar a trabajar mejor con Google Ads u otras herramientas similares. Monitorear métricas y presupuestos de campaña, y el progreso de clientes potenciales por las etapas del embudo de marketing son las habilidades básicas de los puestos de marketing que buscarás.
+
 #### Empieza a usar Google Ads
 
+Los videos de este curso te mostrarán cómo usar una cuenta de Google Ads que ya está activa. Esta lectura ofrece una descripción general de lo que se requiere para configurar una cuenta nueva de Google Ads.
+
+Nota: La información en esta lectura se proporciona únicamente a modo de referencia. No debes configurar una cuenta de Google Ads para completar ninguna de las actividades de este curso.
+
+Requisitos previos
+Antes de configurar una cuenta de Google Ads, necesitas:
+
+Una cuenta de Google (puedes usar una cuenta de Google existente o <https://support.google.com/accounts/answer/27441?hl=en> seguir estos pasos para crear una nueva)
+
+Un sitio web de tu empresa
+
+Si no tienes un sitio web, aún puedes usar las campañas inteligentes. La función de campañas inteligentes te permite anunciarte en la Búsqueda de Google, Google Maps, Gmail, YouTube y otros sitios asociados de Google sin tener un sitio web establecido.
+
+Nota: Esta lectura no cubre la creación de anuncios. Para obtener más información sobre la creación de anuncios, consulta el Curso 2: Atrae e involucra clientes con el marketing digital.
+
+Pasos para crear una cuenta
+Deben completarse los siguientes pasos para configurar una cuenta nueva de Google Ads:
+
+Determina un objetivo de campaña.
+
+Elige el tipo de campaña.
+
+Configura los ajustes y las características de la campaña según el tipo de campaña elegido.
+
+Decide si usarás un grupo de anuncios.
+
+Crea un anuncio.
+
+Ingresa la información de facturación e incluye un método de pago.
+
+Pasos del 1 al 3: Objetivos, tipos y configuraciones de campaña
+
+Al crear una campaña, selecciona tu objetivo principal. Por ejemplo, si tu objetivo principal es aumentar la cantidad de personas que visitan tu sitio, seleccionarás el objetivo del tráfico del sitio web.
+
+La siguiente tabla resume las categorías de objetivos utilizados en varios tipos de campañas. La configuración de la campaña variará y dependerá del tipo de campaña que selecciones.
+
+![alt text](image-142.png)
+
+Pasos 4 y 5: Grupos de anuncios y anuncios
+
+Un grupo de anuncios contiene uno o más anuncios que se dirigen a un conjunto de palabras clave. Los grupos de anuncios son extremadamente útiles para organizar anuncios basados en palabras clave y poder seleccionar los más adecuados para una campaña en función de las palabras clave más relevantes. Menos grupos de anuncios pero de mayor tamaño, divididos por objetivos de negocio, consolidan el tráfico web y aumentan la cantidad de impresiones por anuncio.
+
+Paso 6: Facturación
+
+Los métodos de pago de tu cuenta dependerán de la moneda y del país donde está registrada tu empresa.
+
+Al crear un anuncio, se requiere la siguiente información de facturación:
+
+País de facturación: determina las otras opciones de facturación
+
+Zona horaria
+
+Tipo de cuenta (empresarial o individual)
+
+Nombre y dirección de facturación de la cuenta
+
+Nombre, número de teléfono y dirección de correo electrónico del contacto principal de la cuenta
+
+Información sobre el método de pago
+
+Recursos para obtener información adicional
+
+Puedes consultar los siguientes enlaces para obtener más información sobre la configuración de Google Ads:
+
+Crear una cuenta de Google Ads: cómo registrarse <https://support.google.com/google-ads/answer/6366720?hl=en#zippy=%2Cexpert-mode>: comienza con este artículo para obtener instrucciones sobre cómo crear una cuenta nueva y configurar tu primera campaña publicitaria.
+
+Elegir el tipo de campaña correcto <https://support.google.com/google-ads/answer/2567043>: describe los diferentes tipos de campaña y por qué elegir uno por sobre el otro.
+
+Acerca de los objetivos de campaña de Google Ads <https://support.google.com/google-ads/answer/7450050>: describe los objetivos disponibles para elegir.
+
+Cómo funcionan los grupos de anuncios <https://support.google.com/google-ads/topic/3121942?hl=en&ref_topic=3121941>: es la página de destino que contiene enlaces a temas específicos relacionados con los grupos de anuncios.
+
+Guía de registro de Google Ads: configurar la facturación <https://support.google.com/google-ads/answer/6366753?hl=en&ref_topic=6375057>: indica cómo funciona la facturación de Google Ads.
+
 #### Paneles de control, registros de logros e informes en Google Ads
+
+El video de este curso sobre las métricas de Google Ads ya presentó de qué forma se utilizan. En esta lectura verás cómo puedes crear paneles de control en Google Ads para monitorear las métricas que más te interesan.
+
+Paneles de control de Google Ads
+
+La página de descripción general de Google Ads cuenta con un panel de control predeterminado para monitorear las métricas publicitarias clave. También puedes crear paneles de control adicionales. Si estás colaborando con otros/as en un proyecto, puedes agregar cuadros de evaluación, gráficos, tablas de informes y anotaciones en cualquier panel de control nuevo.
+
+Ejemplos de paneles de control
+
+Haz clic en los siguientes enlaces para ver ejemplos de paneles de control en la Galería de informes de Data Studio:
+
+Estado de la cuenta <https://datastudio.google.com/c/reporting/52d495b8-11ef-40e2-adbc-87f830f29ffd/page/C34BB/preview>: estos son ejemplos de paneles de control para ver el estado de la cuenta, que incluyen vistas del rendimiento general de la cuenta y el rendimiento de campañas individuales, como campañas de búsqueda, de visualización, de video, de compras y de aplicaciones móviles.
+
+Rendimiento del grupo de anuncios <https://datastudio.google.com/c/u/0/reporting/7cebf387-dfa9-4a16-b5a6-02ce25577ae8/page/azjBB/preview>: este es un ejemplo de un panel de control con opciones seleccionables para mostrar las métricas de rendimiento de una campaña, tipo de campaña, grupo de anuncios o dispositivo.
+
+Rendimiento por día <https://datastudio.google.com/c/u/0/reporting/1fc09d59-f3dd-411f-a9f8-af3f7fc42409/page/azjBB/preview>: este ejemplo es similar al del panel de rendimiento del grupo de anuncios, pero muestra las métricas de cada día.
+
+Resultados según tipo de anuncio <https://datastudio.google.com/c/u/0/reporting/3f407199-05e6-426c-bff3-05fca61d214c/page/azjBB/preview>: este es un ejemplo de un panel de control con opciones seleccionables que muestra los clics y la tasa de clics (CTR) para la búsqueda responsiva y los anuncios expandidos de texto para una campaña, grupo de anuncios o dispositivo.
+
+Rendimiento de palabras clave <https://datastudio.google.com/c/u/0/reporting/6f03414c-71cf-44ae-a402-62076221b604/page/azjBB/preview>: este es un ejemplo de un panel de control con opciones seleccionables que muestran las tasas de conversión y las coincidencias de palabras clave para una campaña, tipo de coincidencia, grupo de anuncios o dispositivo.
+
+Pasos para crear un panel de control
+
+Sigue los siguientes pasos para crear un nuevo panel de control en Google Ads:
+
+Inicia sesión en tu cuenta de Google Ads.
+
+Haz clic en el ícono Informes.
+
+Selecciona Paneles de control.
+
+Para crear un nuevo panel de control, haz clic en el ícono más.
+
+Registros de logros
+
+Por lo general, los registros de logros se utilizan para visualizar indicadores clave de rendimiento (KPIs) en un panel de control.
+
+Nota: Los registros de logros de la página Resumen de Google Ads son diferentes a los de las tarjetas que se encuentran en la página Recomendaciones. Consulta la lectura <https://www.coursera.org/learn/ec5/supplement/fDkEp/view-and-apply-recommendations-in-google-ads-r-249>  Ver y aplicar las recomendaciones en Google Ads, de este curso para obtener más información sobre las tarjetas de la página Recomendaciones.
+
+Ejemplos de registros de logros
+
+Los siguientes son ejemplos de registros de logros que se muestran en la página Descripción general.
+
+![alt text](image-143.png)
+
+![alt text](image-144.png)
+
+Pasos para agregar un registro de logros a un panel de control
+
+Completa los siguientes pasos para agregar un registro de logros a un panel de control:
+
+Desde el panel de control, haz clic en el ícono más.
+
+Haz clic en el ícono del Registro de logros que se encuentra encima del panel de control.
+
+Ingresa un nombre y una descripción para el registro de logros.
+
+Elige las medidas que deseas utilizar.
+
+(Opcional) Ingresa un filtro que te gustaría agregarle a los datos.
+
+(Opcional) Agrega condiciones para el formato condicional.
+
+(Opcional) Personaliza los datos que se muestran en tu registro de logros; marca las casillas de verificación para incluir elementos como un minigráfico, cambio porcentual y cambio absoluto.
+
+Haz clic en Agregar.
+
+Informes
+También puedes crear una tabla o un gráfico a través del Editor de informes incorporado y luego agregarlo a un panel de control.
+
+Pasos para agregar una tabla o gráfico a un panel de control
+
+Completa los siguientes pasos para agregar una tabla o un gráfico a un panel de control:
+
+Desde el panel de control, haz clic en el ícono más.
+
+Haz clic en el ícono Informes ubicado encima del panel de control.
+
+Selecciona primero Informe y luego Crear informe.
+
+Haz clic en Crear informe y selecciona Tabla para crear una tabla o selecciona el tipo de gráfico que deseas crear:
+
+de barras
+
+de columnas
+
+de serie temporal
+
+circular
+
+de dispersión
+
+Arrastra una dimensión y suéltala en una sección etiquetada. La dimensión que selecciones determinará las métricas disponibles en el siguiente paso.
+
+Arrastra las métricas, como clics o conversiones, y suéltalas en una sección etiquetada para incluir los datos en la tabla o el gráfico.
+
+Asigna un nombre para tu informe y haz clic en Guardar.
+
+(Opcional) Ingresa una descripción para el informe.
+
+Haz clic en Aplicar.
+
+Recursos para obtener información adicional
+
+Para obtener más información sobre cómo crear, editar y agregar un panel de control, registro de logros o informe en Google Ads, consulta los siguientes recursos:
+
+Panel de control: Definición <https://support.google.com/google-ads/answer/7069876?hl=en>: describe la funcionalidad y las características del panel de control.
+
+Cómo crear y editar paneles de control <https://support.google.com/google-ads/answer/6379084?hl=en>: brinda instrucciones para crear un panel de control y agregarle un registro de logros o un informe personalizado.
+
+Cómo crear informes personalizados en el editor de informes <https://support.google.com/google-ads/answer/7489070?visit_id=637786554968327770-1139811846&rd=1>: proporciona instrucciones para crear un informe personalizado para que puedas agregar a un panel.
 
 #### Revisa y aplica las recomendaciones en Google Ads
 
