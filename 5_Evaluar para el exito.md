@@ -412,6 +412,7 @@ Costo por clic (CPC)
 Nota: Con la puja inteligente, puedes usar estrategias de costo por adquisición (CPA) objetivo y de costo por clic (CPC) mejorado. Una estrategia de costo por clic (CPC) mejorado combina la puja manual de costo por clic (CPC) con el costo por adquisición (CPA) o el retorno de la inversión publicitaria (ROAS) objetivos.
 
 Reduce el costo por adquisición (CPA) para mejorar el valor de la campaña
+
 Nota: Los objetivos de rendimiento variarán según la campaña. La información relacionada con el costo proporcionada a continuación es solo con fines ilustrativos.
 
 El costo por adquisición es el costo promedio pagado por cada conversión. Si dispones de datos comparativos de campañas anteriores, puedes utilizar el valor promedio del costo por adquisición como objetivo de rendimiento. Luego, puedes optimizar tu campaña para tratar de lograr un costo por adquisición más bajo y así mejorar el valor de tu campaña.
@@ -484,6 +485,26 @@ Ten en cuenta que tus objetivos de rendimiento pueden diferir ligeramente de los
 Además, considera que tus objetivos de rendimiento para el cuarto trimestre no necesitan sumar el porcentaje deseado de aumento en todos los canales. Debido a que se te pidió establecer metas para dos de otros posibles canales, tus objetivos de rendimiento pueden contribuir hacia un objetivo de marketing combinado sin necesariamente satisfacerlo por completo. Por caso, para la tasa de clics en el ejemplo, los objetivos de rendimiento del cuarto trimestre para el correo electrónico y las redes sociales son aumentos de 0.8 y 0.6 puntos porcentuales, respectivamente. Sumando estos  resultados se obtiene un aumento combinado del 1.4 puntos porcentuales, pero esto es menor que los cinco puntos porcentuales especificados en el objetivo de marketing para todos los canales. Es de suponer que otros canales contribuirían para cubrir la diferencia y cumplir con el objetivo de marketing general.
 
 ### Introducción a las herramientas para las analíticas de marketing
+
+#### Habilidades en analíticas de marketing
+
+#### Introducción a Google Analytics
+
+#### Recursos para obtener más información sobre Google Analytics
+
+#### Ejemplo de actividad: Familiarízate con Google Analytics
+
+#### Introducción a Google Ads
+
+#### Recursos para obtener más información sobre Google Ads
+
+#### Otras herramientas de la analítica del marketing
+
+#### Tim - Usar datos de la analítica del marketing
+
+#### Big data para la analítica y automatización del marketing
+
+#### Cómo prepararse para un futuro sin cookies en el mundo de la publicidad y el comercio electrónico
 
 ### Repaso: Introducción a “Evaluar para tener éxito: analítica y medición de marketing”
 
