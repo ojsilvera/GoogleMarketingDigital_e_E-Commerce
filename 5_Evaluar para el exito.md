@@ -2805,12 +2805,212 @@ Lista de recursos de los Certificados de Carrera de Google <https://sites.google
 
 #### Crear presentaciones eficientes
 
+Las/los especialistas en marketing obtienen datos clave monitoreando métricas de campañas en curso o finalizadas. Preparan datos para compartirlos con otras personas. Crean visualizaciones para los datos. Lo último es crear una presentación para compartirla con las partes interesadas. Este video describe cómo preparar una presentación eficiente para ellas. Una presentación es como un mapa. Un mapa usa el Sistema de Posicionamiento Global, o GPS, para llevar a las personas hacia un destino. Cuando creas una presentación, usas análisis de datos de marketing para guiar a la audiencia hacia tu conclusión. Para hacer esto, primero crea un esquema o flujo de la presentación claro. Luego, decide qué datos usar. Incluye las métricas más relevantes que te llevaron a tu información clave. Pocos datos haría que la audiencia tenga muchas preguntas. Muchos datos provocaría que pierdan el foco en el tema principal. Si creas una presentación con esto en mente: tu información destacada, el esquema y los datos, toda tu audiencia podrá llegar a la misma conclusión. Estas son prácticas recomendadas para crear una buena presentación. Comienza por temas generales y termina con lo más específico. Comunica tu información destacada de forma clara y directa. Repítela cuando presentes datos que la respalden. Muestra visualizaciones con títulos que hagan referencia a estos datos clave. Deja tiempo para preguntas así la audiencia llega a la misma conclusión. Concluye con una llamada a la acción, como tomar una decisión. En el siguiente ejemplo, verás el proceso de crear un esquema y seleccionar los datos relevantes. Imagina que trabajas en una campaña de tu empresa y solicitas un cambio en el presupuesto actual. Para que se apruebe este cambio, tendrás que presentar tu análisis a las partes interesadas. En este caso, son varias personas dentro y fuera de tu departamento. Estás sugiriendo ajustar el presupuesto según mediciones del retorno de la inversión publicitaria (ROAS) en dos canales de la campaña. Quieres duplicar el gasto en el canal más rentable y disminuirlo en el canal menos rentable. Esta es tu conclusión. Tu esquema podría consistir en un resumen del gasto actual, seguido del resultado esperado si se ajusta el gasto actual. También puedes describir los beneficios del cambio como también las oportunidades que se podrían perder si no se hace. En el esquema, el flujo inicia con el estado general del gasto de la campaña y luego sigue con los detalles del cambio de presupuesto. Esto cumple con la práctica recomendada de avanzar desde general hacia específico. El esquema termina con una llamada a la acción, otra práctica recomendada. Los datos podrían incluir el ROAS para los dos canales, las conversiones en cada canal, y sus tasas de conversión. Estas métricas muestran que los anuncios gráficos son más rentables y respaldan el pedido del cambio de presupuesto. Si creas visualizaciones de datos, títulos como “más presupuesto para obtener un mayor ROAS” e “invertir donde las conversiones suceden” orientan a los datos hacia tu conclusión. Esto también cumple con la recomendación de relacionar los títulos con los datos clave. En otra actividad, crearás una presentación para las partes interesadas usando la estrategia que aprendiste en este video. También podrás evaluar presentaciones y verificar que sigan las prácticas recomendadas que aprendiste.
+
 #### Lectura: LecturaPrácticas recomendadas para la presentación de los datos
+
+En el video de este curso sobre la creación de presentaciones efectivas, te sugerimos las siguientes prácticas recomendadas al presentar datos e información a las partes interesadas:
+
+Comienza por lo más general y termina con lo más específico
+
+Presenta la información más destacada al inicio y de forma clara
+
+Repite la información destacada a medida que presentes los datos
+
+Presenta visualizaciones con títulos cargados de información
+
+Deja tiempo suficiente para preguntas
+
+Cierra con una llamada a la acción
+
+En esta lectura, te ofrecemos consejos y un diseño de muestra para que desarrolles una presentación con estas prácticas recomendadas en mente.
+
+Consejos para crear presentaciones eficientes
+Usa los siguientes consejos al crear una presentación para las partes interesadas.
+
+Consejo 1: Conoce tu ritmo: comienza por lo más general y termina con lo más específico
+
+Al igual que en cualquier buena historia, en una presentación hay que ofrecer algo de contexto antes de entrar en los detalles. La cantidad de información general o contexto previo dependerá de tu público.
+
+Si tu público está compuesto por ejecutivos/as, el contexto puede ser breve y general. Los/las ejecutivos/as tienden a enfocarse en lo que se puede mejorar en el futuro, por lo que será mejor que le dediques la mayor parte de la presentación a las conclusiones y las recomendaciones.
+
+Si tu público está compuesto por gerentes, es posible que les interese más el contexto. Por ejemplo, puedes preparar puntos de conversación sobre el rendimiento y el público objetivo de campañas anteriores y por qué eso mismo podría aplicarse a tu campaña.
+
+Si tu público está compuesto por otros miembros de tu equipo y colaboradores/as individuales, tendrás más libertad y hasta quizás más tiempo para profundizar sobre el contexto antes de presentar la información destacada.
+
+Consejo 2: Presenta la información destacada al inicio
+
+Algunas personas se tientan con saber el final de una historia apenas comienzan a leer un libro. Quizás a tu público le pasa lo mismo, así que ¡dales el gusto! Puedes ganar su atención si presentas tu información más destacada al inicio. Luego, mantén su atención mostrándoles datos y métricas que respalden esa información. Otra ventaja de presentar la información al inicio es que, si alguien tiene que abandonar la reunión antes del final de la presentación, ya habrá escuchado lo más importante.
+
+Consejo 3: Presenta visualizaciones (y repite tu información destacada respaldada por métricas)
+
+![alt text](image-177.png)
+
+Hacer un seguimiento de la información que presentaste al inicio con métricas y visualizaciones es como llevar a tu público a la cima de una montaña. Puede ser un trabajo difícil, pero al mostrar representaciones visuales de las métricas mientras repites la información destacada ayudarás a tu público a llegar a las mismas conclusiones que tú. Los títulos que elijas para tus visualizaciones deben estar relacionados con los datos clave y transmitir la idea principal con claridad. Por ejemplo, si estás presentando datos sobre la inversión publicitaria en YouTube en comparación con la inversión de la competencia, en lugar de titular la diapositiva “Inversión publicitaria en YouTube de la competencia”, escribe “Estamos gastando un 200% menos en YouTube que la competencia”.
+
+Consejo 4: Deja tiempo suficiente para preguntas
+
+![alt text](image-178.png)
+
+Analog clock on the wall showing time at 12:25 PM.
+Tienes que asumir de antemano que todas las personas de la audiencia tienen vidas ocupadas. Tu presentación tiene que ser lo más breve posible, así que puedes hacer lo siguiente:
+
+Sé consciente del manejo del tiempo. Esto aplica para la cantidad total de diapositivas que incluiste y el tiempo que le destinas a cada una.
+
+Presenta tus datos de forma eficaz. Si una diapositiva es similar a alguna otra, quizás sea mejor combinar la información de ambas. Por otro lado, si una diapositiva parece estar muy llena de cosas porque tiene más de una información o más de un gráfico, crea una diapositiva separada para cada una.
+
+Deja tiempo suficiente para preguntas al final o permite que la gente pueda preguntarte durante la presentación.
+
+Consejo 5: Cierra con una llamada a la acción
+
+Ya sea que estés pidiendo que se tome alguna decisión, se implemente un cambio en algún proceso, se destine un mayor presupuesto o incluso que se reconozca a un equipo que hizo un buen trabajo, siempre es recomendado cerrar una presentación con una llamada a la acción. En función de lo que las partes interesadas comprendieron de los datos clave que presentaste, tendrán en claro qué hacer con esa información. Una llamada a la acción puede incluir la asignación de elementos de acción y plazos para su finalización.
+
+Diseño de muestra para diapositivas
+El siguiente es un diseño de muestra para una presentación de diapositivas.
+
+Primera diapositiva: Agenda
+Incluye una lista completa con los temas que vas a abarcar y el tiempo que le vas a destinar a cada uno. Las normas de cada empresa son distintas, pero, en general, las presentaciones suelen durar entre 30 minutos y una hora como máximo. Aquí hay un ejemplo de una agenda de 30 minutos de duración:
+
+Presentación del equipo (tres minutos)
+
+Contexto (tres minutos)
+
+Información clave y recomendaciones (cinco minutos)
+
+Métricas y datos (diez minutos)
+
+Llamada a la acción y pasos a seguir (cinco minutos)
+
+Preguntas (cuatro minutos)
+
+Nota: Como alternativa, puedes presentar tus información clave y recomendaciones antes del contexto. Sin embargo, necesitas dar cierto contexto para que la información se entienda, entonces sí debe ser lo primero.
+
+Segunda diapositiva: Contexto
+
+No todos conocen tu proyecto o campaña de marketing, ni saben por qué es importante. No pasaron las últimas semanas pensando en las métricas y en los resultados como tú. Esta diapositiva resume el propósito o contexto de la campaña o proyecto y su importancia para la empresa.
+
+Tercera diapositiva: Información clave y recomendaciones
+
+Primero, es más que posible contar la historia en una sola diapositiva que resuma la información más destacada. Pero, en la mayoría de los casos, después de esta diapositiva presentarás las métricas y los datos que la respaldan.
+
+Para hacer énfasis en datos específicos, puedes hacer lo siguiente:
+
+Hacer aparecer cada punto de una lista de viñetas gradualmente a medida que explicas cada información en la diapositiva.
+
+Mostrar solo la viñeta más relevante para lo que estás diciendo (hacer desaparecer gradualmente las viñetas que no son tan relevantes).
+
+Usar flechas o globos para apuntar a cierta zona de la diapositiva que estás usando.
+
+Cuarta diapositiva: Métricas y datos
+
+Prepárate para comunicar cómo las métricas respaldan tu información destacada de diferentes maneras. Si incluyes visualizaciones de tus métricas, etiqueta claramente los puntos de datos a través de anotaciones o leyendas de gráficos. Además, prepara diferentes formas de reformular lo que se muestra en las visualizaciones para ayudar a cualquier persona que tenga dificultades para interpretar los datos.
+
+Nota: Todo dependerá de la cantidad de datos que estés compartiendo, pero, en muchos casos, no te entrará todo en una sola diapositiva. Después de la cuarta diapositiva, puedes crear todas las que necesites.
+
+Última diapositiva: Llamada a la acción y pasos a seguir
+
+Para completar tu presentación, incluye un resumen simple, pero poderoso, y una lista de pasos a seguir que detallen lo que le quieres pedir al público que haga a continuación. Si incluyes elementos de acción, agrega un cronograma con fechas para que cada persona sepa cuándo debe cumplir con su trabajo.
+
+Conclusión principal
+Cuando implementas las prácticas recomendadas para crear presentaciones eficientes y cuentas con un flujo de trabajo organizado, estarás en buen camino para presentar claramente la información clave de tu trabajo como profesional de marketing.
 
 #### Lectura: LecturaActividad de ejemplo: Presentar los datos clave a las partes interesadas
 
+Compara el ejemplo con tu presentación completa. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué hiciste bien? ¿Dónde puedes mejorar? Usa tus respuestas a estas preguntas a modo de guía a medida que avanzas en el curso. 
+
+Nota: El ejemplo representa una posible versión de la presentación. Es probable que la tuya sea diferente en algunos aspectos. Lo importante es que tu presentación explique los datos con claridad y los interprete de una manera que sea relevante para tu público.
+
+Repasemos las Diapositivas 5 a 8 de a una a la vez:
+
+Diapositiva 5: Conversiones totales por hora del día
+
+Las notas de orador resumen los datos del gráfico y explican por qué es relevante: se describe cómo las conversiones aumentan y disminuyen a lo largo del día. Además, se compara este patrón con el gráfico de sesiones de la diapositiva anterior. Se destacan puntos de datos representativos que son relevantes para el público, pero sin abrumarlos con muchos detalles. Por último, las anotaciones aportan una conclusión respaldada por datos.
+
+Diapositiva 6: Tasas de conversión promedio por día de la semana
+
+Las notas de orador explican que al comparar las tasas de conversión promedio para cada día de la semana se puede definir cuándo conviene cambiar la estrategia publicitaria. Se compara cada día con la tasa de conversión promedio y se identifican tres días en los que podrían publicarse más anuncios y tres en los que podrían publicarse menos.
+
+Diapositiva 7: Tasas de conversión promedio y tasa de lunes a miércoles por hora del día
+
+Las notas de orador comparan los dos gráficos, que muestran los datos de la tasa de conversión con mayor detalle. Se seleccionan algunos ejemplos de cuándo las tasas son más altas y más bajas para demostrar los momentos identificados en los que podrían publicarse más (y menos) anuncios.
+
+Diapositiva 8: Conclusión y pasos a seguir
+
+La diapositiva de conclusión indica las acciones a tomar recomendadas que resultaron del análisis. También explica cómo estas sugerencias contribuirán a los objetivos del departamento y de toda la empresa.
+
 #### Lectura: LecturaEvaluar y mejorar las presentaciones
 
+En una lectura anterior de este curso, te dimos algunas recomendaciones sobre cómo evitar llenar un gráfico de información al ajustar o reagrupar los datos, para que a las partes interesadas les resulte más fácil entenderlo. Esa práctica se vuelve aún más importante si decides incluir un gráfico en una presentación de diapositivas. En esta lectura, veremos otros principios de diseño que debes tener en cuenta cuando incorpores visualizaciones de datos en tus presentaciones.
+
+Principios de diseño para visualizaciones
+El diseño de visualización es importante para tu trabajo como especialista de marketing. Tu objetivo principal es usar visualizaciones que le transmitan los datos de manera eficiente a tu público. Teniendo en cuenta los siguientes principios de diseño, podrás planificar y evaluar tus visualizaciones y decidir si le aportan valor a tu presentación. Si no lo hacen, puedes ajustarlas o eliminarlas.
+
+Elige el mejor formato
+
+Uno de los primeros aspectos que tienes que definir es qué formato de visualización será el más eficaz para tu público. A veces, una tabla sencilla es la mejor visualización si tu público está compuesto por ejecutivos/as o gerentes. Estos tienden a enfocarse en las estrategias y el panorama general, en lugar de los datos en sí. En otros casos, necesitarás una visualización más compleja para ilustrar tu información destacada ante equipos más técnicos que requieren comprender los datos con mayor profundidad.
+
+Minimiza las distracciones
+
+Enfoca a tu público en la parte del elemento visual más importante para comprender un dato clave. El término ratio dato-tinta se usa para describir la proporción de tinta (o píxeles en contenido digital) que se utiliza para presentar datos reales en comparación con la cantidad total de tinta (o píxeles) utilizada en la visualización entera. Trata de maximizar esta proporción y minimizar las distracciones en tus visualizaciones. Por ejemplo, elimina líneas o cuadros alrededor de gráficos y leyendas, o elimina los efectos de sombra del texto.
+
+Usa la orientación adecuada
+
+Asegúrate de que los componentes de texto de una visualización, como las etiquetas de un gráfico, sean fáciles de leer. Puedes modificar la orientación de tu visualización para hacer que el texto sea más y comprender.
+
+Elige los colores con cuidado
+
+Hay muchas cuestiones importantes a considerar al elegir colores para tus visualizaciones. El uso de ciertos colores puede causar efectos no deseados. Por ejemplo, el rojo suele usarse para alertar a las personas de algún peligro o emergencia. El verde suele dar la idea de algo que no tiene oposición, como el semáforo en verde para avanzar en el tráfico. Las combinaciones de colores rojo y verde también pueden ser problemáticas para las personas con daltonismo. Por lo tanto, selecciona los colores para tus visualizaciones a consciencia y considerando qué intención tienes, y úsalos de manera coherente en todo momento. Si sabes cómo impacta cada color en las personas y usas combinaciones inclusivas, tus visualizaciones serán accesibles para todo tu público.
+
+Evalúa las visualizaciones para mejorarlas
+Cuando revises las visualizaciones de tu presentación, pregúntate lo siguiente:
+
+¿La escala es apropiada para las comparaciones según el orden de tamaño? Por ejemplo, cambiar la escala en el eje y de un gráfico puede hacer que las diferencias entre los grupos de datos parezcan más grandes, incluso si las diferencias en realidad son menores.
+
+¿Estoy limitando el alcance de los datos? Ten cuidado de no excluir una parte de los datos en una visualización solo porque favorece a tu información destacada o a tu conclusión. Limitar el alcance de los datos puede ser engañoso.
+
+¿Oculté o modifiqué alguna tendencia al reagrupar los datos? Reagrupar los datos puede simplificar algunas visualizaciones para que sean más fáciles de leer. Sin embargo, ten cuidado de no simplificar los datos de más, al punto tal que las tendencias se vuelvan menos evidentes. Por ejemplo, supongamos que estás mostrando las tendencias de demanda que tienen los préstamos de automóviles y quieres compartir información sobre el sector de préstamos en su totalidad. Sin embargo, como las tendencias de los préstamos de automóviles son bastante diferentes que las tendencias de los préstamos hipotecarios, no te conviene combinar los datos. En este caso, reagrupar los datos haría que la información sea inexacta para ambos tipos de préstamos.
+
+¿Todas las secciones se suman correctamente al total? Si estás usando una visualización para describir tus datos en la que varias partes conforman el total (como un gráfico circular), todas las secciones por separado deberían sumar un valor igual al 100%. Si no es así, tu visualización de datos es engañosa.
+
+Conclusión principal
+La visualización de datos tiene cierto aspecto artístico. A medida que vayas adquiriendo más experiencia en la creación y el uso de visualizaciones en presentaciones, podrás aplicar los principios de diseño y evaluar qué tan bien transmiten los datos más destacados a tu público.
+
 ### Revisión: Compartir métricas y datos con las partes interesadas
+
+#### Términos y definiciones del curso 5, semana 4
+
+Celda: Posición en una hoja de cálculo con una designación de columna y fila. Por ejemplo, la celda A2 es la posición única en la columna A y la fila 2. 
+
+Duración promedio de la sesión: Cálculo que divide la duración total de todas las sesiones por el número de sesiones. Se informa en segundos.
+
+Gráfico circular: G que muestra datos con resultados parciales y completos. 
+
+Gráfico de área: Representa los datos de la misma manera que un gráfico de líneas, pero con el espacio debajo de la línea rellenado para formar un área visual.
+
+Gráfico de barras horizontal: Rotación de 90 grados de un gráfico de columnas verticales. 
+
+Gráfico de columnas verticales: Gráfico en el que las mediciones individuales se muestran cada una como una columna vertical. 
+
+Gráfico de líneas: Gráfico en el que los puntos de datos individuales para una variable cambiante están conectados con una línea continua.
+
+Histograma: Muestra puntos de datos individuales que se han categorizado en rangos, con la frecuencia de cada rango representada por la altura de una columna única.
+
+Influencia: El grado en que una parte interesada puede convencer a las personas para que tomen ciertas acciones.
+
+Interés: El grado en que un proyecto informa o impacta los objetivos de una parte interesada.
+
+Lenguaje de consulta estructurado (SQL): Lenguaje estándar utilizado para comunicarse con bases de datos desarrolladas por diferentes proveedores y alojadas en múltiples plataformas.
+
+Mapa de partes interesadas: Cuadrícula con cuatro cuadrantes y dos variables, interés e influencia, que se puede utilizar para realizar un seguimiento de la influencia y las necesidades de las partes interesadas y el nivel de comunicación requerido para trabajar con ellas.
+
+Panel de control: Herramienta para rastrear, analizar y mostrar KPI, métricas e información de forma dinámica basada en criterios interactivos del/a usuario/a.
+
+Parte interesada: Alguien con un interés o una preocupación por un proyecto y sus resultados.
+
+Ratio dato-tinta: Proporción de tinta (o píxeles en contenido digital) que se utiliza para presentar datos reales en comparación con la cantidad total de tinta (o píxeles) utilizada en una visualización completa.
+
+Red eléctrica: (consultar mapa de partes interesadas).
+
+Tabla dinámica: Visualización que cambia la vista de los datos en una hoja de cálculo a una perspectiva diferente para categorizarla o identificar una idea o tendencia (sin cambiar los datos en sí).
 
 ### Revisión del curso: Evaluar para el éxito: analítica y medición de marketing
