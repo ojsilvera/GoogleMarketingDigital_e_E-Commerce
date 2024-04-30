@@ -2495,7 +2495,231 @@ No superar una o dos páginas de extensión.
 
 #### Agrega habilidades relevantes a tu currículum
 
+Un análisis realizado por un sitio de búsqueda de empleo encontró que los/las candidatos/as que cumplían con el 50% de los requisitos de una descripción de trabajo tenían casi la misma oportunidad de entrevistarse que los/las candidatos/as que cumplían con el 90% o más de ellos. La clave para que te tomen en consideración para una entrevista es mostrar tu experiencia con herramientas que ya conoces y resaltar una mentalidad de crecimiento para aprender cualquier herramienta nueva. Una persona que tiene una mentalidad de crecimiento no cuenta con todas las habilidades requeridas, pero expresa una actitud positiva para aprender y crecer. Esta lectura brinda orientación sobre cómo adaptar tu currículum vitae (CV) con habilidades relevantes para lograr ambos objetivos.
+
+¿Habilidades básicas o intermedias?
+Las descripciones de trabajo para puestos de nivel inicial en marketing digital y comercio electrónico probablemente requieran una combinación de habilidades básicas e intermedias. Para que te hagas una idea del lenguaje utilizado en las descripciones de trabajo, consulta la siguiente tabla, que desglosa los requisitos de trabajo para una posición de especialista en Google Analytics. Los requisitos de trabajo en la tabla podrían representar las habilidades deseadas para alguien con tres años o menos de experiencia. Palabras como capturar, analizar y documentar tienden a describir habilidades básicas, mientras que términos como personalizar, recomendar y mejorar pueden indicar un nivel más intermedio.
+
+Consejo profesional: En tu currículum , piensa en el lenguaje que utilizarás para describir tus habilidades y el nivel de experiencia que te gustaría transmitir.
+
+![alt text](image-186.png)
+
+Muestra lo que sabes
+Esta parte del curso te brindará ideas sobre cómo mostrar las habilidades que adquiriste en el programa de certificación en tu currículum vitae (CV). Los puestos laborales representados aquí son solo una muestra de las posiciones disponibles.
+
+Coordinador/a de marketing por correo electrónico
+
+A veces, una descripción de trabajo enumera actividades generales sin mencionar herramientas específicas. Combinar tus habilidades generales con herramientas específicas en tu currículum vitae te ayudará a destacarte. Considera las siguientes responsabilidades generales para un/a coordinador/a de marketing por correo electrónico.
+
+Responsabilidades: Trabajar con un equipo en instrucciones de envío, entregables, segmentación y datos; revisar los comentarios creativos de las partes interesadas; verificar la calidad de las campañas diarias; mantener y archivar todos los correos electrónicos.
+
+El programa incluyó una introducción a Mailchimp. ¿Cómo incorporarías Mailchimp en tu CV para mostrar tu capacidad para asumir estas responsabilidades? Aquí tienes algunas ideas:
+
+Correos electrónicos elaborados y revisados con Mailchimp
+
+Listas de correo electrónico segmentadas por geografía, características psicográficas, datos demográficos y datos de comportamiento
+
+También, aprendiste a trabajar con datos y partes interesadas. ¿Cómo destacarías tu conocimiento de trabajar con datos y partes interesadas? Aquí tienes algunas ideas:
+
+Comentarios de las partes interesadas organizados para campañas de correo electrónico
+
+Resultados resumidos de la campaña de correo electrónico con Google Slides (o Microsoft PowerPoint)
+
+Coordinador/a de marketing digital
+
+Los/las empleadores/as suelen incluir requisitos en una descripción de trabajo que son deseables en un/a candidato/a, pero que pueden no ser absolutamente necesarios. A veces, se identifica una habilidad en particular como un “bonus” o “plus”. Considera los siguientes requisitos para un/a coordinador/a de marketing digital.
+
+Requisitos: Crear y administrar anuncios en plataformas de búsqueda pagada, redes sociales o display; analizar e informar sobre grandes conjuntos de datos utilizando Microsoft Excel o Google Sheets; experiencia con Salesforce, Eloqua o Marketo es un plus.
+
+¿Cómo mostrarías lo que aprendiste en el programa sobre la búsqueda pagada, redes sociales y los anuncios de display? Aquí tienes algunas ideas:
+
+Creación de búsqueda pagada, redes sociales y anuncios de display
+
+Resultados de Búsqueda de Google supervisados con Google Search Console
+
+¿Cómo mostrarías lo que aprendiste en el programa sobre el análisis de datos mediante hojas de cálculo? Aquí tienes algunas ideas:
+
+Uso de las funciones de ordenar, filtrar y tablas dinámicas en Google Sheets para analizar grandes conjuntos de datos
+
+Gráficos creados en Google Sheets para informar sobre grandes conjuntos de datos con visualización de datos.
+
+En el programa, conociste Salesforce Marketing Cloud como una solución para la automatización del marketing por correo electrónico. ¿Cómo mostrarías una mentalidad de crecimiento para las herramientas de automatización en tu currículum? En particular, ¿cómo incorporarías Salesforce, que figura como un plus, en tu CV? Aquí tienes algunas ideas:
+
+Conocimiento de los beneficios de las herramientas de automatización de marketing por correo electrónico
+
+Predisposición a trabajar en la automatización de marketing por correo electrónico usando Salesforce Marketing Cloud
+
+Especialista en Google Ads
+
+A veces, los/las empleadores/as buscan habilidades multiplataforma. Tomemos, por ejemplo, los siguientes requisitos para un especialista en Google Ads.
+
+Requisitos: Conocimiento de Google Ads, Microsoft Advertising (anteriormente Bing Ads) y Google Analytics
+
+Aprendiste sobre Google Ads y Google Analytics en el programa. Dos de cada tres no está mal, pero ¿cómo puedes abordar el requisito de Microsoft Advertising? Una búsqueda sobre las diferencias entre Google Ads y Microsoft Advertising puede ser un buen punto de partida.
+
+Aquí hay algunas ideas para mostrar una mentalidad de crecimiento hacia Microsoft Advertising en tu currículum:
+
+Interés por aplicar la experiencia con Google Ads a las campañas de Microsoft Advertising
+
+Familiarización con las diferencias clave en la gestión de anuncios en Google Ads y plataformas de publicidad de Microsoft
+
+Analista de marketing digital
+
+Los/las empleadores/as también pueden enumerar las herramientas como requisitos sin proporcionar detalles específicos sobre el nivel de habilidad requerido para cada una. Supongamos que encuentras la siguiente lista de requisitos en una descripción de trabajo para un analista de marketing digital, pero no hay más detalles sobre cómo los usarías en el puesto.
+
+Requisitos: Herramientas de análisis web, Tableau, Google Tag Manager, Adobe Analytics, Google Analytics, consulta de bases de datos, consultas SQL, Qlik, Business Intelligence and Reporting Tools (BIRT), visualización de datos y SEO
+
+¿Cómo mostrarías la experiencia con Google Analytics, la visualización de datos y el SEO que obtuviste al completar el programa? Aquí tienes algunas ideas:
+
+Métricas de adquisición, interacción y monetización analizadas en Google Analytics
+
+Uso de exploraciones en Google Analytics para identificar correlaciones entre conferencias profesionales y compras de productos en línea.
+
+Creación de tablas dinámicas en hojas de cálculo para visualizar las tendencias de conversión en Google Analytics
+
+Creación de gráficos en hojas de cálculo para visualizar e informar los datos de la sesión del usuario
+
+Elementos de contenido modificados para mejorar el SEO e influir en las clasificaciones más altas
+
+En el programa, viste una introducción a Tableau, Google Tag Manager y SQL. ¿Cómo transmitirías una mentalidad de crecimiento relacionada con el uso de estas herramientas? Aquí tienes algunas ideas:
+
+Familiarizado/a con Tableau y los paneles de marketing para monitorear las métricas y los KPI
+
+Disposición para explorar el uso de Google Tag Manager sobre el etiquetado global del sitio
+
+Interés en trabajar para administrar consultas SQL para el análisis de datos de marketing
+
+Asistente de comercio electrónico
+
+Algunos/as empleadores/as optan por mantener las descripciones de trabajo simples, pero ofrecen mucho espacio para crecer. El rol de asistente en el comercio electrónico puede implicar un trabajo relacionado con el inventario, los listados de productos y las pruebas en la plataforma. Considera cómo adaptarías tu currículum para las responsabilidades que requieren la asistencia de comercio electrónico.
+
+Responsabilidades: Armar listados de productos con descripciones y títulos detallados, precisos y relevantes para las tendencias; extraer productos para la venta en línea; apoyar a los equipos de inventario y cumplimiento
+
+Para este rol, aquí hay algunas ideas sobre cómo describir tu experiencia del programa:
+
+Agregado de listados de productos a una tienda Shopify
+
+Evaluación el proceso de pago de una tienda de comercio electrónico
+
+Consideración de un presupuesto para una campaña de marketing estacional
+
+Conclusiones clave
+
+Para postularte en puestos de marketing digital y comercio electrónico, es importante recordar que no siempre es necesario tener todos los requisitos de trabajo. Las encuestas han demostrado que los/las candidatos/as pueden obtener entrevistas exitosas, incluso cuando cumplen solo con la mitad de los requisitos solicitados. Además, algunas descripciones de trabajo pueden no parecer tan interesantes a primera vista, pero el puesto podría ofrecer grandes oportunidades de aprendizaje. Enfócate en lo que ya sabes al elegir las palabras en tu currículum. Luego, agrega información adicional para mostrar a tus posibles empleadores/as que te motiva aprender lo que aún no sabes.
+
 #### Escribe una carta de presentación
+
+Una carta de presentación, una introducción personal para promocionarte, sirve como documento complementario a un currículum. Su objetivo principal es ampliar tus habilidades profesionales, motivaciones y por qué deberías ser considerado/a como el/la mejor candidato/a para un trabajo.
+
+Hay tres tipos de cartas de presentación:
+
+Networking: Dirigida a las personas con el objetivo de pedir su ayuda para encontrar un trabajo en su empresa
+
+Prospección: Dirigida a las empresas para explorar todas las oportunidades de trabajo abiertas
+
+Aplicación: Dirigida a gerentes de contratación para enfatizar que cumples con los requisitos para un trabajo específico
+
+Esta lectura se enfoca en ayudarte a escribir cartas de presentación para solicitudes de empleo o de aplicación. Los/las empleadores/as tienen preguntas del tipo “quién, qué, dónde, cuándo, por qué y cómo” cuando recopilan información sobre las/los solicitantes de empleo. Tu currículum vitae responde qué (hiciste), dónde (trabajaste) y cuándo (tuviste empleo). La carta de presentación de aplicación describe con más detalle quién (eres), por qué (quieres el trabajo) y cómo (tendrás éxito en el puesto).
+
+Prepárate para escribir una carta de presentación
+Consejo profesional: No todas las solicitudes de empleo requieren una carta de presentación. Cuando se menciona que la carta de presentación es opcional, es mejor considerar cuánto podría mejorar tu posición. A continuación, se presentan situaciones comunes en las que las personas prefieren incluir una carta de presentación:
+
+Al comenzar una carrera (solicitante de carrera temprana)
+
+Al hacer una transición de carrera
+
+Cuando la experiencia, la educación o la capacitación no coinciden exactamente con los requisitos enumerados
+
+Al entrar en un campo lleno de solicitantes
+
+Muchas personas coinciden en que no enviar una carta de presentación es mejor que enviar una que esté mal escrita. Incluso si una carta de presentación no tiene errores evidentes, enviar unos párrafos con declaraciones muy generales no te será de mucha ayuda. Antes de escribir una carta de presentación, sigue estos pasos
+
+Paso 1: Investiga la empresa u organización
+
+Puedes aprender mucho acerca de una empresa con estos métodos:
+
+Navega por el sitio web de la empresa.
+
+Sigue a la empresa en las redes sociales, incluyendo LinkedIn.
+
+Realiza una búsqueda sobre la situación financiera e inversores de la empresa, si corresponde.
+
+Realiza una búsqueda sobre la competencia de la empresa.
+
+Pregunta a tus familiares, amistades y colegas qué saben acerca de la empresa.
+
+Paso 2: Enumera las habilidades requeridas en la descripción del trabajo
+
+Lee detenidamente la descripción del trabajo y determina cuáles crees que son las habilidades más importantes que debe tener un/a solicitante y por qué.
+
+Paso 3: Prioriza tus habilidades coincidentes, de la más fuerte a la más débil
+
+Con base en las habilidades que identificaste en el paso anterior, identifica tus competencias que coincidan o estén más estrechamente relacionadas con ellas. Luego, prioriza tus habilidades coincidentes, de la más fuerte a la más débil. Es habitual que las personas omitan este proceso de ordenamiento, pero clasificar tus habilidades te permite resaltar tus competencias más fuertes primero en tu carta de presentación.
+
+Partes de una carta de presentació
+Consejo profesional: una carta de presentación tiene entre 250 y 400 palabras de longitud y su extensión no excede de una página.
+
+A continuación, revisa los objetivos para cada sección de una carta de presentación.
+
+Introducción
+
+Los objetivos principales de la introducción de una carta de presentación son:
+
+Identificar el puesto al que estás postulándote.
+
+Mostrar tu entusiasmo por la empresa.
+
+Motivar a las/los miembros del equipo de contratación a que quieran conocer más sobre ti.
+
+Ejemplo: Me estoy postulando para el puesto de asistente en comercio electrónico y no puedo imaginar un rol que me entusiasme más. Como consumidor/a frecuente y entusiasta de sus productos, estoy ansioso/a por aprovechar esta oportunidad profesional.
+
+Cuerpo
+
+El objetivo de la sección de una carta de presentación es describir cómo se aplican tus habilidades en la posición abierta. Supongamos que la descripción del trabajo tiene estas tareas:
+
+Escribir listados de productos con descripciones y títulos detallados, precisos y relevantes para las tendencias.
+
+Extraer productos para la venta en línea.
+
+Apoyar a los equipos de inventario y cumplimiento.
+
+El siguiente ejemplo muestra cómo puedes vincular tus experiencias a estas tareas en el cuerpo de tu carta de presentación.
+
+Ejemplo
+
+Completé el Certificado de Carrera de Google en Marketing Digital y Comercio Electrónico y tengo experiencia en ventas minoristas, en atención al cliente, inventario y extracción de productos para las ventas de liquidación. Soy hábil en la creación de listados de productos con términos descriptivos y específicos. Con mi atención al detalle, cualquier persona que quiera conseguir una lámpara de mesa azul con forma de pavo real podrá encontrar lo que está buscando.
+
+Consejo profesional: Evita la tentación de repetir el contenido de tu currículum. Una señal de advertencia es si tu carta de presentación tiene esencialmente la misma información que tu CV, pero en un formato de párrafo.
+
+Consejo profesional: Concéntrate en lo que puedes hacer por la empresa en lugar de en cómo te beneficiarías si te contratan para ese puesto. La diferencia entre enfocarse en la organización y en uno/a mismo/a puede ser sutil, como en las siguientes frases:
+
+Me gustaría desarrollar contenido de marketing excepcionalmente creativo para aumentar la conciencia de la sostenibilidad de su producto. (Centrado en la empresa; lo que harás por la empresa)
+
+Me gustaría aumentar mis habilidades de marketing mediante el desarrollo de contenido creativo para un producto sostenible en el que creo. (Autoenfocado; lo que te gustaría adquirir al estar en el puesto)
+
+Cierre
+
+El objetivo de la sección de cierre de una carta de presentación es reafirmar tu interés en la empresa y la posición. También se utiliza para indicar tus expectativas, como programar una entrevista, que te tomen en consideración para otros trabajos o establecer un plazo de tiempo para un seguimiento.
+
+Ejemplo
+
+Gracias por tomarse el tiempo para revisar mi currículum para este puesto. Tengo la seguridad de que puedo sobresalir en este rol utilizando mi experiencia laboral combinada y mis habilidades del Certificado de Carrera de Google en Marketing Digital y Comercio Electrónico. Espero con interés una entrevista y solicito el privilegio de hacer un seguimiento sobre el progreso de mi aplicación en las próximas semanas.
+
+Revisa tu carta de presentación
+Muchos errores en las cartas de presentación son causados por copiar y pegar texto de una carta de presentación a otra. Después de escribir tu carta de presentación, corrígela con cuidado para detectar estos errores comunes:
+
+Formalidad incómoda: En la actualidad, pocas personas se dirigen a alguien como “Señor” o “Señora”, por lo que no deberías usar estas expresiones en tu carta de presentación. También evita utilizar “A quien corresponda”, ya que suena muy impersonal. Si no conoces el nombre del/la gerente de contratación, utiliza “Estimado equipo de contratación”. Del mismo modo, considera usar “Saludos cordiales” en lugar de “Atentamente”, porque suena un poco anticuado.
+
+Palabras mal escritas (especialmente aquellas que suenan igual pero se escriben de manera diferente). Por ejemplo, “haber”, “a ver”; “hecho”, “echo”; “sino”, “si no”; “más”, mas”.
+
+Habilidades incompatibles: Asegúrate de no incorporar habilidades que no corresponden a la descripción de trabajo en tu carta de presentación. Esto suele ocurrir cuando copias y pegas.
+
+Voz pasiva: Utiliza la voz activa siempre que sea posible: “Revisé los anuncios” en lugar de la voz pasiva: “Me aseguré de que los anuncios fueran revisados”.
+
+Anécdotas largas: Guarda las historias que describen resultados pasados que hayas logrado para cuando te estén entrevistando.
+
+Conclusiones clave
+Las cartas de presentación ayudan a presentar tus mejores puntos a un/a empleador/a potencial. Asegúrate de que tu carta de presentación no se limite a repetir las habilidades descritas en tu currículum, sino que agregue valor al describir cómo estas se alinean con los requisitos del trabajo y cómo tendrías éxito en el puesto. Para escribir las mejores cartas de presentación, es útil investigar sobre la empresa, identificar las habilidades más importantes a partir de las descripciones del trabajo y priorizar e incluir tus habilidades coincidentes y relevantes.
 
 #### Isela: Consejos para crear una carta de presentación
 
