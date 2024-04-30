@@ -1846,9 +1846,104 @@ Anuncios de shopping: (601/2,595) x 100 = 23.16%
 
 #### Introducción a las pruebas A/B
 
+En el marketing hay muchas opciones en cuanto a contenido y estrategia. Las respaldadas y probadas por datos guían las mejores decisiones. Una prueba A/B puede ayudarte a elegir el mejor contenido o estrategia de marketing para tu negocio. La prueba A/B (prueba dividida o bucket test) es una prueba en línea con dos versiones y una división aleatoria del 50% de los/las usuarios/as entre ellas para determinar la opción más efectiva. Casi todas las pruebas A/B envían aleatoriamente el 50% de sus usuarios/as a una versión y el resto a la otra. Por ejemplo, una prueba A/B puede dirigir el tráfico web de una página a dos versiones distintas. Las respuestas de las páginas se controlan en la versión de mejor rendimiento, según las métricas elegidas. Una prueba A/B se realiza en páginas web publicadas. Se puede realizar una prueba A/B en páginas que no estén activas mientras que haya un gran número de usuarios/as para tener un resultado estadísticamente significativo. Digamos que deseas probar dos versiones de un anuncio de un programa de fidelización. En una versión aparece una celebridad y en la otra aparece un descuento. ¿Qué versión resultará en más conversiones o personas que se registren en el programa?
+Reproduce el video desde :1:17 y sigue la transcripción1:17
+La prueba A/B te dirá qué versión es mejor según la población analizada durante un periodo corto. En esta prueba específica hay un mayor número de conversiones con el descuento. Una prueba A/B toma datos estadísticos y determina cuál opción es más efectiva. El análisis estadístico usado durante una prueba A/B depende de si se utilizan métricas discretas o continuas para la comparación. Las métricas discretas tienen valores específicos, se cuentan o son binarias, como encendido/apagado o verdadero/falso. Ejemplos de valores específicos son la proporción de clics o CTR, la tasa de conversión y de rebote. Ejemplo de conteos: usuarios/as nuevos/as y recurrentes. Y una métrica binaria puede ser si una persona hizo clic o no en una acción. Las métricas continuas se miden y cambian con el tiempo. Algunas métricas continuas son los ingresos por usuario, al duración promedio de la sesión y valor promedio de la orden. Se llaman continuos porque la medición cambia con cada sesión u orden. La conclusión clave es que los datos estadísticos son importantes para las pruebas A/B. Tu software de pruebas A/B realizará el análisis estadístico en una muestra de usuarios/as amplia para ser informativo. Con la prueba A/B, por lo general, ensayas si una versión mejorará una métrica comparada con la versión original. Cuando planees la prueba, es útil documentar el rendimiento previo, el resultado esperado y la métrica de rendimiento que usarás. Puede que tu empresa tenga una plantilla que facilite registrar datos para cada prueba. Hay muchos softwares disponibles para pruebas A/B. Con Google Ads puedes hacer pruebas A/B en anuncios. Especialistas en marketing de rendimiento identifican las mejores páginas con pruebas A/B. Google Optimize te permite realizar pruebas A/B en tu sitio web para entender qué atrae a tus visitantes. Hubspot realiza pruebas A/B en correos y páginas de destino. Optimizely ofrece pruebas A/B en puntos de contacto del recorrido del/a cliente. Intellemize ayuda a personalizar páginas web con aprendizaje automático y lo que podría considerarse como una prueba A/B continua. Estas herramientas no son las únicas, pero las mencionamos para que veas la gran variedad de soluciones disponibles. Más allá de la herramienta, si realizas pruebas A/B podrás cumplir con los objetivos de rendimiento, aumentar las conversiones y ofrecer mejores experiencias de cliente a través de páginas rediseñadas y probadas. Tus decisiones valen oro.
+
 #### Realización de pruebas A/B en Google Ads
 
+¿Puerta número 1 o 2? Las sorpresas son divertidas. Pero, si realizas una campaña, no querrás sorpresas al cambiar un anuncio. Aprenderás que una prueba A/B evalúa si una versión nueva de un anuncio o página web mejorará las métricas en comparación con la original. Este video mostrará cómo configurar una prueba A/B en Google Ads para comparar el rendimiento de dos anuncios distintos.
+Reproduce el video desde ::30 y sigue la transcripción0:30
+En una versión de anuncios puedes probar cambios en la URL, títulos o llamada a la acción.
+Reproduce el video desde ::38 y sigue la transcripción0:38
+Por ejemplo, puedes probar cambiar un título de “Válido hasta agotar stock” a “Oferta de ahorro por tiempo limitado” para evaluar cómo impacta en las ventas en anuncios de múltiples campañas. Incluso, podrían evaluarse cambios que sean mínimos en una llamada a la acción de “Compra hoy” a “Compra ahora”. Pero no todos los cambios requieren de una prueba. Es razonable hacer pequeños cambios en los textos de los anuncios sin probarlos primero. Tomemos el ejemplo de los títulos, de nuevo. Así es cómo configurarías una prueba A/B con anuncios distintos en Google Ads. Supongamos que el título actual es “Válido hasta agotar stock”. En la página campañas de Google Ads, selecciona todas, y haz clic en “Crear experimento” en el panel. Luego, haz clic en el ícono "más" para crear una nueva variación del anuncio. Selecciona si esta variación se aplica a todas las campañas o selecciona aquellas donde quieres el cambio. Supongamos que esta variación se aplica a todas. Ahora, selecciona que estás actualizando el texto y la edición es para los títulos. Por último, escribe “Oferta de ahorro por tiempo limitado” como texto del título en la variación.
+Reproduce el video desde :2:2 y sigue la transcripción2:02
+Nombramos esta versión como "Grandes ahorros". Deja las fechas de inicio y fin por defecto para una duración de 30 días y la división predeterminada del 50% para la prueba. Para crear la variación, haz clic en “Crear variación”. Una vez finalizada la prueba A/B para esta versión, verás los resultados en la tabla de variaciones.
+Reproduce el video desde :2:25 y sigue la transcripción2:25
+Aquí puedes ver cómo se organizan los resultados en la tabla.
+Reproduce el video desde :2:30 y sigue la transcripción2:30
+Verás métricas como clics e impresiones si te mueves horizontalmente por la tabla. Cada métrica tendrá un porcentaje positivo o negativo, lo que indica el cambio que hubo entre las variaciones probadas. Presta atención a los porcentajes con estrellas azules al lado.
+Reproduce el video desde :2:50 y sigue la transcripción2:50
+Las estrellas indican que hubo un cambio estadístico significativo entre las dos versiones probadas. Si ves muchas métricas con estrellas, considera dejar la nueva variación fija en el anuncio. Esta fue una introducción a las pruebas A/B por medio de variación de anuncios en Google Ads. También puedes probar estrategias de puja por medio de Google Ads. Consulta la ayuda de Google Ads para obtener más información sobre las pruebas con estrategias de puja. Por último, como mencioné, recuerda que no es necesario probar cada cambio o variación, ya que las pruebas A/B requieren tiempo y dinero. Es importante ser estratégico/a y selectivo/a con los anuncios que quieres probar. Son decisiones únicas para cada equipo.
+
 #### Prueba A/B de variaciones de anuncios y estrategias de puja en Google Ads
+
+Durante este curso se presentó un video que muestra cómo realizar una prueba de variación de anuncios en Google Ads, específicamente del tipo A/B. En esta plataforma, podrás probar diversas variaciones de anuncios de display de texto y de búsqueda responsivos. Esta lectura, revisa los pasos necesarios para configurar una prueba de variación de anuncios, así como otra forma de prueba A/B que permite evaluar distintas estrategias de puja automática para que puedas determinar cuál es la mejor opción.
+
+Nota: Todas las pruebas se realizan utilizando las funciones borradores y experimentos en Google Ads.
+
+Pasos para configurar y probar las variaciones de anuncios
+Esta es una descripción general de los pasos que debes seguir para configurar y probar una variación de anuncio de texto o de búsqueda responsivo en la sección Borradores y experimentos de Google Ads:
+
+Decide si la variación es para todas las campañas o solo para algunas.
+
+Selecciona si la variación es para anuncios de texto o de búsqueda responsivos.Nota: Desde el 30 de junio de 2022, ya no se pueden crear ni editar anuncios de texto expandido en Google Ads. En su lugar, se usan anuncios de búsqueda responsivos.
+
+Filtra los anuncios por el componente del anuncio de texto que se probará, como los títulos o las descripciones.
+
+Modifica el texto del componente del anuncio de texto que se va a probar.
+
+Asigna un nombre a la variación.
+
+Elige las fechas de inicio y finalización de la prueba A/B.
+
+Configura la división; casi siempre 50%.
+
+Guarda la configuración. La prueba se ejecutará automáticamente en la fecha de inicio elegida.
+
+Variaciones de anuncios de texto
+Las siguientes son descripciones de los componentes de los anuncios de texto. Puedes crear una variación para cualquiera de estos elementos y probar su rendimiento frente a la versión original.
+
+URL final
+También conocida como URL de destino, la URL final es la dirección de la página a la que las personas llegan después de hacer clic en un anuncio. Si tu URL original es <www.website.com/miembros>, una posible variación podría ser <www.website.com/recompensas>.
+
+URL final para móviles
+La URL final para móviles es la URL de la página a la que las personas llegan después de hacer clic en un anuncio desde un dispositivo móvil, como una tablet o un teléfono celular. Si tu URL original es <www.website.com/m/miembros>, una posible variación podría ser <www.website.com/m/recompensas>.
+
+Título
+Un título, también llamado encabezado, es el texto que aparece en la parte superior de un anuncio. Google Ads permite hasta tres títulos con un límite de 30 caracteres para cada uno. Si el título original es “Actúa ahora mientras haya disponibilidad”, una posible variación podría ser “Grandes ahorros, solo por tiempo limitado”.
+
+Ruta de visualización
+La ruta de visualización es la URL que aparece debajo de un título en un anuncio de texto expandido. Google Ads permite hasta dos rutas con un límite de 15 caracteres que se muestran para cada una. Si tu ruta de visualización original es <www.website.com/hombres/zapatos>, una posible variación podría ser <www.website.com/zapatos/hombres>.
+
+Descripción
+Una descripción aparece en un anuncio de texto expandido. Google Ads permite hasta dos descripciones con un límite de 90 caracteres para cada una.
+
+Supongamos que tu descripción original es “Los más destacados zapatos deportivos, de exteriores, casuales y de vestir. Envío gratuito en compras de US$75 o más”. Una variación podría ser “Envío gratuito con cualquier compra de US$75. Las marcas más destacadas de zapatos: atléticos, de exteriores, casuales y de vestir”.
+
+Variaciones de anuncios de búsqueda responsivos
+Los anuncios de búsqueda responsivos muestran los títulos y las descripciones que más se ajustan en función de las consultas de búsqueda de las personas. Cuantos más títulos y descripciones se configuren, Google Ads tiene más oportunidades de publicar anuncios que coincidan con las búsquedas de tus clientes potenciales, lo que puede mejorar el rendimiento de los anuncios. Las variaciones de prueba pueden permitirte seleccionar los títulos y las descripciones que atraigan a más clientes.
+
+Pasos para configurar y probar estrategias de puja alternativas
+Puedes utilizar borradores y experimentos de campañas para comparar tu estrategia de puja actual con una alternativa. Por ejemplo, puedes hacer una prueba para comparar la puja automática de costo por adquisición (CPA) objetivo con cambios de puja manual. Esto te permitirá determinar si las pujas automáticas te ayudarán a mejorar el rendimiento de una campaña.
+
+Aquí hay una descripción general de los pasos para configurar y probar una estrategia de puja alternativa en la sección Borradores y experimentos de Google Ads; por ejemplo, puedes comparar una estrategia de puja de CPA objetivo (una prueba) frente a una estrategia de puja de costo por clic (CPC) máximo (una campaña actual).
+
+Asigna un nombre a la prueba.
+
+Elige las fechas de inicio y finalización de la prueba A/B. Ten presente que una prueba de estrategia de puja se debe ejecutar durante cuatro a seis semanas.
+
+Configura la distribución; casi siempre 50%.
+
+Decide si la prueba será una distribución basada en búsquedas o en cookies.
+
+En una distribución basada en búsquedas, los/las usuarios/as se dividen uniformemente entre las campañas actuales y las experimentales o de prueba.
+
+En una división basada en cookies, los/las usuarios/as que realizan búsquedas repetidas se dirigen de nuevo a la misma campaña. Una división basada en cookies puede producir resultados de prueba más precisos, especialmente para campañas de remarketing enfocadas en los/las usuarios/as que regresan.
+
+1. Guarda la configuración. La prueba se ejecutará automáticamente en la fecha de inicio elegida.
+
+Prácticas recomendadas para probar estrategias de puja alternativas
+Las pruebas A/B en las estrategias de puja deben utilizar una campaña actual y activa para hacer comparaciones. Elige una campaña que tenga un presupuesto adecuado para dividirlo entre las variantes y una audiencia lo suficientemente grande para realizar una comparación estadística de los resultados. Para obtener más información sobre los datos estadísticamente significativos para pruebas A/B, consulta la lectura sobre el monitoreo de los resultados de las pruebas A/B. Elige solo una campaña con la que estés dispuesto/a a experimentar, porque la prueba puede afectar el rendimiento de la campaña actual. Y, finalmente, enfoca la prueba en un solo cambio o variable. Probar varios cambios al mismo tiempo no te permitirá saber con certeza cuál fue la variable responsable del cambio en el rendimiento.
+
+Recursos para obtener información adicional
+Consulta los siguientes enlaces para profundizar sobre cómo probar las variaciones de anuncios y las estrategias de puja en Google Ads:
+
+Acerca de los borradores de campaña y experimentos <https://support.google.com/google-ads/answer/6318732?hl=en>: este artículo proporciona una descripción general de los borradores de campañas y experimentos.
+
+Configura una variación de anuncio <https://support.google.com/google-ads/answer/7439892?hl=en>: este artículo proporciona instrucciones para configurar una variación de anuncio.
+
+Pon a prueba tus estrategias de puja automática <https://support.google.com/google-ads/answer/6167141?hl=en>: este artículo describe cómo probar las estrategias de puja.
 
 #### Cómo planificar las pruebas A/B
 
