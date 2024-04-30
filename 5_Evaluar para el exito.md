@@ -1065,6 +1065,35 @@ Consulta los siguientes artículos para obtener instrucciones sobre cómo config
 
 #### Trabaja con Google Analytics: monitorear métricas
 
+Quizás te preguntes cómo las herramientas de análisis son capaces de monitorear el rendimiento de un sitio web. Las herramientas como Google Analytics solo pueden monitorear los sitios web que se etiquetaron para que tengan permitido hacerlo. En otras palabras, la etiqueta, o pieza de código, debe ejecutarse en cada sitio web para que estas herramientas los puedan reconocer. Esta lectura describe dos métodos de etiquetado: usar una etiqueta global de sitio o usar Google Tag Manager.
+
+Etiquetado global de sitio
+La etiqueta global de sitio de Google, gtag.js, es una etiqueta única que se puede implementar en un sitio web. Se agrega al elemento head del HTML de la página de cada sitio web. El elemento head contiene los metadatos de una página, información que no es visible, pero que es importante para la gestión del sitio web. Esta etiqueta global admite varios productos de Google, además de Google Analytics. Después de agregar esta etiqueta, también se pueden activar otros productos para el sitio como Google Ads, por lo que se pueden recopilar métricas para el tráfico proveniente de esta herramienta.
+
+La ventaja principal de usar el etiquetado global de sitio es que está diseñado para que se use con todos los productos y servicios de Google. Para monitorear el tráfico de otras plataformas de publicidad o de medios, o para permitir el monitoreo con otras herramientas de análisis, se requieren etiquetas adicionales. Utiliza Google Tag Manager para trabajar con estas etiquetas adicionales en plataformas que no sean de Google.
+
+Google Tag Manager
+Para un etiquetado más universal, la solución de Google es Google Tag Manager, un sistema de gestión de etiquetas (TMS) que permite la implementación y administración de muchas etiquetas para múltiples plataformas y sistemas de publicidad de una manera simple y centralizada. Después de que se haya agregado un pequeño fragmento de código de Tag Manager a un sitio web, las etiquetas de análisis y medición se pueden implementar en muchas plataformas desde la interfaz de la web de Tag Manager.
+
+Etiquetas de Google Analytics 4 en Google Tag Manager
+
+Google Tag Manager admite las propiedades de Google Analytics 4 con dos etiquetas:
+
+Google Analytics: Configuración de GA4
+
+Google Analytics: Evento de GA4
+
+La etiqueta Configuración de Google Analytics inicia la recopilación de datos para una propiedad de Google Analytics 4 y debe agregarse a todas las páginas. Esto permite mediciones básicas de Google Analytics 4, que incluyen eventos automatizados y eventos de medición mejorados, siempre que la función de medición mejorada esté habilitada durante la fase de configuración.
+
+La etiqueta Evento de Google Analytics 4, que puede agregarse a interacciones o páginas web particulares, permite enviar eventos personalizados a la propiedad Google Analytics 4. Los eventos personalizados permiten el monitoreo de métricas más allá de las que se enviaron automáticamente para cada evento o las que se habilitaron al activar la medición mejorada.
+
+Conclusiones clave
+Las principales diferencias entre el uso de la etiqueta global de sitio de Google y Google Tag Manager son:
+
+La etiqueta global de sitio funciona solo con las herramientas de Google, mientras que Google Tag Manager funciona con cualquier etiqueta HTML o JavaScript.
+
+Todas las etiquetas se implementan mediante el código JavaScript, pero Google Tag Manager ofrece la característica adicional de una interfaz gráfica centralizada para implementarlas.
+
 #### Trabaja con Google Analytics: crear exploraciones
 
 #### Configuración de variables y pestañas en las exploraciones de Google Analytics
