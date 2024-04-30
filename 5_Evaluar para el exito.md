@@ -1429,9 +1429,237 @@ Cómo crear informes personalizados en el editor de informes <https://support.go
 
 #### Revisa y aplica las recomendaciones en Google Ads
 
+Anteriormente en este curso, viste un video sobre Google Ads y la página de Recomendaciones para campañas. Si necesitas repasar, puedes volver a reproducir el video Introducción a Google Ads.
+
+Para resumir, hay un nivel de optimización en la página Recomendaciones. Cuanto más se acerque el nivel al 100%, mejor optimizada estará tu cuenta para que funcione de buena manera. Para mejorar el nivel de optimización de tu publicidad, puedes revisar las recomendaciones y los impactos previstos en la página Recomendaciones y aplicar uno o más de ellos a tus campañas.
+
+Esta lectura describe los tipos de recomendaciones que brinda Google Ads y cómo aplicarlas a tus campañas.
+
+Nota: Las recomendaciones se adaptan a tipos específicos de campañas, por lo que puede que no encuentres una recomendación específica para ti si no estás ejecutando una campaña que las necesite. Además, las recomendaciones se basan en las tendencias de Google, junto con el rendimiento pasado de tu cuenta y la configuración de la campaña. Es posible que no veas las recomendaciones de inmediato si tu cuenta es nueva o tus anuncios recién comenzaron a publicarse.
+
+Categorías de recomendaciones
+
+Existen cinco categorías de recomendaciones. Cada una de ellas se explica a continuación. Para una visión más completa de todas las recomendaciones disponibles, consulta los recursos adicionales del final de esta lectura.
+
+Anuncios y extensiones
+
+Las recomendaciones para los anuncios ayudan a maximizar el rendimiento, como la tasa de clics (CTR) de un anuncio. Crear un anuncio de búsqueda responsivo es un ejemplo de una recomendación de anuncio. Agregar extensiones de ubicación o de imagen son ejemplos de recomendaciones de extensiones. Las extensiones permiten que los/las anunciantes agreguen elementos adicionales para complementar el texto de los anuncios. Por ejemplo, cuando una extensión de imagen aparece en una página de resultados de búsqueda, a las/los clientes potenciales se les muestra el título, la descripción y una URL junto con la imagen real. Cuando aparece una extensión de ubicación en una página de resultados de búsqueda, se muestra tu dirección o un mapa con tu ubicación. Las extensiones de ubicación e imagen pueden ayudar a mejorar la tasa de clics de los anuncios.
+
+Palabras clave y segmentación
+
+Las recomendaciones de palabras clave incluyen acciones como suspender las palabras clave de bajo rendimiento, eliminar las duplicadas o agregar nuevas. Los ejemplos de recomendaciones de segmentación son mostrar todos los productos disponibles en lugar de solo algunos, o llegar a nuevos/as clientes mostrándoles anuncios a más usuarios/as.
+
+Puja y presupuestos
+
+Las recomendaciones de puja pueden ayudarte a conseguir la estrategia de puja correcta para cumplir con tus objetivos de negocio. Las recomendaciones de presupuesto pueden ayudarte a maximizar el uso de tu presupuesto, como por ejemplo ajustando las segmentaciones de retorno de la inversión publicitaria (ROAS), cambiando a una estrategia de puja automatizada o adaptando los presupuestos de campañas que están configuradas para maximizar las conversiones.
+
+Reparaciones
+
+A través de las recomendaciones de reparaciones se identifican problemas con la configuración o la administración de tu campaña para que puedas solucionarlos.
+
+Campañas automatizadas
+
+Las recomendaciones de campañas automatizadas te ayudan a maximizar el rendimiento al pasar a realizar campañas totalmente automatizadas, como las de Smart Shopping o Smart Display.
+
+Cómo gestionar las recomendaciones
+
+La mayoría de los/las anunciantes no aplican todas las recomendaciones que Google Ads les presenta en la página Recomendaciones. Si aplicaras todas las recomendaciones, te sería más útil implementar un proceso automatizado. ¿Por qué es necesario revisar las recomendaciones? Si bien algunas se pueden aplicar de inmediato, otras en realidad no serán las mejores para tu campaña, o requerirán una planificación o pruebas adicionales para poder implementarse con éxito. Un buen enfoque para administrar tus recomendaciones es revisar cada una y decidir si:
+
+las aplicarás de inmediato;
+
+planeas aplicarlas más adelante;
+
+las descartarás (por ahora).
+
+Las aplicarás de inmediato
+
+La mayoría de las recomendaciones se muestran con el botón Aplicar. De todas formas,  dicho botón solo se suele usar para implementar las recomendaciones sobre el mantenimiento básico de la página. Esto incluye las recomendaciones clasificadas como reparaciones, aunque también puede incluir modificaciones en el texto de un anuncio o sugerencias como implementar una rotación de anuncios optimizada para mostrar de forma automática tus mejores anuncios en el momento de la subasta. Para las recomendaciones que quieres aplicar de inmediato, puedes considerar habilitar la configuración para aplicar automáticamente y ahorrar tiempo.
+
+A continuación, se muestra un ejemplo de una tarjeta de recomendación con una sugerencia para implementar la rotación de anuncios optimizada. Esta es una recomendación que podrías aplicar de inmediato.
+
+![alt text](image-145.png)
+
+Planeas aplicarlas más adelante
+
+Muchas recomendaciones tendrán sentido para tu campaña, pero puede que no te sientas cómodo/a aplicándolas sin antes probarlas. Estas son recomendaciones que puedes planear para aplicarlas más adelante. Por ejemplo, si tu cuenta aún no utiliza una estrategia de puja de costo por adquisición (CPA) objetivo, pero sabes que quieres comenzar a usarla, tendrás que asegurarte de que el seguimiento de conversiones esté configurado correctamente antes de aplicar esta recomendación. Puedes elegir pasar gradualmente a una estrategia de puja de CPA objetivo, en lugar de aplicarla a toda la cuenta de inmediato.
+
+Las descartarás
+
+A veces, aparecerán recomendaciones que no estás listo para implementar. Por ejemplo, si estás utilizando costo por adquisición (CPA) objetivo y estableces un valor vinculado a tus conversiones, es posible que veas una recomendación para usar el retorno a la inversión publicitaria (ROAS) objetivo en su lugar. De todas formas, si se verifica la precisión del valor vinculado a tus conversiones, no querrás pasar a ROAS objetivo de inmediato, sino que preferirás esperar hasta que se confirme la precisión del número de conversiones. Este tipo de recomendaciones se pueden descartar. Hay veces que simplemente no quieres aplicar las recomendaciones a tu cuenta. Es una buena idea revisarlas y descartarlas, ya que Google Ads aprende continuamente qué tipo de recomendaciones son las más adecuadas para tu cuenta. Cada recomendación que descartes ayudará a mejorar las recomendaciones futuras.
+
+Efecto de las recomendaciones sobre el nivel de optimización
+Si planeas aplicar una recomendación más adelante, no la descartes solo para mantener más alto tu nivel de optimización. El nivel de optimización asociado con tu cuenta no es una medida precisa de cómo se está desempeñando. Es una indicación de qué tan optimizada considera Google que está tu cuenta. Es normal ver que tu nivel de optimización baja si planeas implementar una recomendación más adelante.
+
+Además, si no haces clic en el botón Aplicar en una recomendación, pero tomas medidas para aplicarla de otra forma, esta se considerará aplicada y tendrá un efecto positivo en tu nivel de optimización. Por ejemplo, si implementas enlaces de sitio en el Editor de Google Ads a partir de la sugerencia de una recomendación, se considerará que ya fue aplicada.
+
+Conclusiones clave
+
+Las recomendaciones de Google Ads se basan en datos históricos que ayudan a predecir si tus anuncios funcionarán bien. Son sugerencias para ayudar a mejorar el rendimiento de la campaña y mantenerla relevante y actualizada. Algunos ejemplos son: sugerir nuevas palabras clave, una estrategia de puja alternativa o nuevas versiones de los anuncios. Puedes aplicar algunas recomendaciones de inmediato, pero muchas de ellas requieren una planificación adicional antes de su implementación. Es mejor revisarlas y decidir qué recomendaciones aplicarás de inmediato y cuáles planeas aplicar más tarde o descartar por el momento.
+
+Recursos para obtener información adicional
+
+Para obtener más información sobre las recomendaciones en Google Ads, consulta los siguientes recursos:
+
+Tipos de recomendaciones <https://support.google.com/google-ads/answer/3416396>: presenta una lista más completa de las recomendaciones disponibles.
+
+Cómo aplicar o descartar recomendaciones <https://support.google.com/google-ads/answer/10169817>: describe cómo aplicar o descartar una recomendación y realizar un seguimiento de su rendimiento.
+
 #### Actividad de ejemplo: Revisa y aplica las recomendaciones
 
+Compara el ejemplo con tu plantilla de actividad finalizada. Revisa tus resultados y los del ejemplo. ¿Qué hiciste bien? ¿Dónde puedes mejorar? Utiliza tus respuestas a estas preguntas de guía a medida que avanzas en el curso.
+
+Decisiones que son diferentes a los resultados del ejemplo
+
+Si alguna de las decisiones en tu plantilla de actividad no coincide con las del ejemplo, piensa por qué elegiste un camino diferente. ¿Omitiste una parte determinada del análisis que se incluyó en el ejemplo? ¿Tenías información adicional que en el ejemplo no se consideró?
+
+Nota: Las decisiones que se muestran en el ejemplo son las mejores para cada situación. Sin embargo, en la vida real a veces decisiones distintas pueden ser igual de válidas. Cuando los datos respaldan tus decisiones, puedes tener la seguridad de que estás alineado/a con ellos. Del mismo modo, puedes sentirte cómodo/a al cambiar de opinión para apoyar una decisión diferente si alguien presenta datos convincentes para hacerlo.
+
 ### Entrada y salida de datos: Cómo vincular y exportar datos
+
+#### Vincular Google Ads con Google Analytics
+
+Se pueden ver datos de otras plataformas en Google Analytics al vincular cuentas. Al hacerlo, puedes ver los datos en Google Analytics sin tener que pasar de una plataforma a la otra. Las plataformas ajenas a Google que se pueden vincular son Databox, Firebase, HubSpot, MailChimp y muchas más. Aquí te enseñaré a vincular una cuenta de Google Ads con Google Analytics. Al vincular una cuenta de Google Ads con Google Analytics tendrás una visión más completa del embudo de marketing en un solo lugar, desde los clics en la etapa de Conciencia hasta la tasa de conversión en la etapa de Conversión. Hay distintos ciclos de ventas para los productos en sitios de comercio electrónico. Puede haber tendencias por temporada que causen que las venta se disparen o caigan. Otros productos pueden necesitar más tiempo para ser comprados por clientes. Cuando la gente toma decisiones de compra, pueden visitar el sitio varias veces, abandonar el carrito y solo volver luego de ver un anuncio. Otra ventaja de vincular Google Ads con Google Analytics es combinar los datos de conversión de Google Ads con los datos demográficos de la audiencia en Google Analytics. Así sabrás en qué audiencia destinar un mayor presupuesto en futuras campañas. Para vincular una cuenta de Google Ads, debes contar con una cuenta administrativa. También debes tener el rol de Editor para la propiedad de Google Analytics. La cuenta de Google que uses debe ser la misma en ambas plataformas. Puedes vincular en ambas direcciones. En decir, puedes iniciar sesión en Google Ads y vincular con Google Analytics, o al revés. Vincular de Google Ads a Google Analytics es más fácil, así que aquí aprenderás eso. Para vincular una cuenta de Google Ads, haz clic en el ícono Vincular. Selecciona Cuentas vinculadas y abre los detalles de Google Analytics. Haz clic en tu cuenta de Google Analytics en la lista para vincular las cuentas. La vinculación es bidireccional. Ahora verás las métricas de esta cuenta de Google Ads al iniciar sesión en Google Analytics. También verás las métricas de Google Analytics en el informe de campañas de Google Ads. Aprendiste que la atribución consiste en otorgar crédito de las conversiones. En Google Analytics, los/las especialistas suelen elegir el modelo multicanal de último clic, que atribuye el 100% de la conversión al último canal en el que un/a cliente hizo clic antes de convertirse. Tras vincular tu cuenta de Google Ads con Google Analytics, también puedes seleccionar un modelo de preferencia de anuncios que atribuye el 100% de la conversión al último canal de Google Ads en el que un/a cliente hizo clic antes de convertirse. Tras vincular la cuenta de Google Ads con Google Analytics, puedes comparar modelos de atribución en Google Analytics. En las campañas, puedes comparar distintas atribuciones en paralelo para ver diferentes perspectivas de conversión. Ve al informe Comparación de modelos en la sección Publicidad de Google Analytics. Verás la diferencia de atribución entre el modelo multicanal de último clic y el de preferencia de anuncios. Aquí aprendiste sobre los datos ingresados a Google Analytics, en particular aquellos provenientes de Google Ads. Ahora podrás explorar los datos de salida. Verás cómo exportar datos de ambas herramientas a hojas de cálculo en otra lección.
+
+#### Vincular datos para obtener mejor información
+
+En el video de este curso, además de mostrar cómo vincular una cuenta de Google Ads a Google Analytics, se mencionan un par de beneficios para:
+
+Comprender mejor el embudo de marketing.
+
+Definir mejor la audiencia para hacer remarketing.
+
+Esta lectura te dará más detalles sobre estos beneficios y te mostrará qué obtienen de ellos quienes se especializan en marketing.
+
+Mejor comprensión del embudo de marketing
+
+Google Analytics puede considerarse como un panel único y sencillo. Este término se utiliza para describir un software que ofrece una forma integrada de ver los datos. Después de vincular las cuentas, puedes utilizar tu cuenta de Google Analytics como un lugar central para ver y analizar las métricas de Google Ads. Esto resulta muy útil cuando tratas de entender cómo las/los clientes potenciales avanzan a través del embudo de marketing. Para acceder a las métricas de publicidad vinculadas en Google Analytics, haz clic en el ícono Publicidad en el panel de navegación.
+
+![alt text](image-146.png)
+
+Resumen publicitario
+
+El resumen publicitario contiene paneles de datos, etiquetados con preguntas específicas que se alinean con determinadas etapas del embudo de marketing:
+
+¿Qué canales generan más conversiones? (Conversión)
+
+¿Qué puntos de contacto toman las/los clientes para convertirse? (Consideración y conversión)
+
+¿Cómo funcionan tus canales bajo un modelo de atribución diferente? (Conversión)
+
+Otro panel del resumen publicitario te permite ver la información identificada por Google Analytics, como los picos de conversión de las campañas, tal como se muestra a continuación.
+
+![alt text](image-147.png)
+
+Comparación de modelos
+
+En el video sobre métricas vinculadas, aprendiste a comparar modelos de atribución en Google Analytics después de vincular una cuenta de Google Ads. Cuando seleccionas Comparación de modelos en el menú Atribución, puedes ver una comparación de las conversiones desde diferentes perspectivas de puntos de contacto. Esto es útil para obtener una comprensión más detallada del embudo de marketing.
+
+Los modelos multicanales le atribuyen un porcentaje de cada conversión a todos los canales publicitarios que tuvieron puntos de contacto. Los modelos multicanales utilizan alguna de las siguientes reglas para darle crédito a una conversión:
+
+Atribución basada en datos: atribuye conversiones basadas en datos históricos sobre cómo las personas buscaron tu empresa e interactuaron con tus anuncios. La atribución basada en datos analiza todo el recorrido del/a cliente que lleva a un/a usuario/a a convertirse y le otorga cierto crédito de conversión a cada paso de ese recorrido.
+
+Último clic: le atribuye el 100% de la conversión al último canal en el que un/a cliente hizo clic o interactuó antes de convertirse.
+
+Primer clic: le atribuye el 100% de la conversión al primer canal en el que un/a cliente hizo clic o interactuó antes de convertirse.
+
+Lineal: distribuye la atribución de una conversión de igual manera en todos los canales en los que un/a cliente hizo clic o interactuó antes de convertirse.
+
+Según la posición: le atribuye un 40% de la conversión al primer canal, otro 40% al último canal y el 20% restante se reparte entre los demás puntos de contacto del recorrido.
+
+Declive en el tiempo: le atribuye una conversión a cada canal tomando como base una semivida de 7 días. En otras palabras, un clic efectuado ocho días antes de una conversión obtiene la mitad del crédito que un clic hecho un día antes.
+
+Nota: A partir del 26 de enero de 2022, las propiedades de Google Analytics 4 tienen habilitada la atribución basada en datos como modelo multicanal predeterminado.
+
+El modelo de preferencia de anuncios atribuye el 100% de una conversión al último canal de Google Ads en el que el/la cliente hizo clic antes de convertirse.
+
+El modelo que elijas para ver las métricas dependerá del tipo de preguntas que estés tratando de responder. Supongamos que deseas saber cómo impactan tus campañas publicitarias de visualización y búsqueda entre sí. Puedes ver y comparar el número de conversiones para cada canal a través de los modelos de primer y último clic. Si el número de conversiones de cada modelo es similar, entonces es probable que las campañas no se afecten entre sí. Pero si el canal de visualización tiene significativamente más conversiones en el modelo de primer clic que en el del último clic, entonces podrías investigar cuántas veces un anuncio de display es el primer punto de contacto o un punto intermedio, antes de realizar una conversión de anuncio de búsqueda del último clic. Para investigar aún más, puedes mirar los datos de las rutas de conversión.
+
+Rutas de conversión
+
+Las rutas de conversión te permiten ver el primer y el último punto de contacto antes de que se realice la conversión y los puntos intermedios. Por ejemplo, si examinas la ruta de conversión de la fila 29 mostrada a continuación, los/las usuarios/as realizaron una búsqueda, hicieron clic en un enlace de referencia y volvieron a hacer una búsqueda antes de realizar una compra.
+
+![alt text](image-148.png)
+
+Rutas de conversión para Google Merchandise Store en Google Analytics, incluidos los múltiples puntos de contacto de la búsqueda orgánica y las referencias.
+
+En la situación anterior de comparación de modelos, el canal de visualización tuvo más conversiones en el modelo del primer clic que en el modelo del último clic. En las rutas de conversión, puedes investigar más en profundidad analizando todas las instancias de Display. Esto te permitirá comprender mejor el impacto que los anuncios de display tienen en las conversiones de anuncios de búsqueda.
+
+Cómo definir mejor la audiencia para hacer remarketing
+
+La vinculación de datos viaja en ambas direcciones. Si la publicidad personalizada está habilitada en Google Ads, también puedes utilizar los datos del público de Google Analytics y llegar a las/los clientes adecuados para hacer remarketing. La publicidad personalizada se basa en los datos de interés o de comportamiento del/a usuario/a con el objetivo de determinar el público adecuado para los anuncios. Si las cuentas están vinculadas, las audiencias creadas en Google Analytics se exportarán a Google Ads de forma automática.
+
+Nota: Para recopilar información de sesión para los/las usuarios/as en los públicos configurados, las señales de Google también deben activarse para la propiedad Google Analytics 4. Si deseas obtener instrucciones sobre cómo activar las señales de Google, consulta el artículo que figura al final de esta lectura.
+
+Ver audiencias configuradas
+Para ver los públicos que se configuraron en Google Analytics:
+
+En el panel de navegación izquierdo, haz clic en el ícono Configurar.
+
+Haz clic en Públicos.
+
+Aparecerá una lista de públicos similar a las que se muestran a continuación.
+
+![alt text](image-149.png)
+
+Nota: Todos/as los/las usuarios/as y compradores/as son audiencias predefinidas en Google Analytics. Para crear un público nuevo, debes tener la función de Editor para la propiedad GA4.
+
+Crear un público nuevo
+
+Para crear un público nuevo en Google Analytics:
+
+En el panel de navegación izquierdo, haz clic en el ícono Configurar.
+
+Haz clic en Públicos.
+
+Haz clic en Nuevo público.
+
+Si deseas obtener una explicación de qué configuraciones deben establecerse al crear una nueva audiencia, consulta el artículo que aparece al final de esta lectura.
+
+Conclusiones clave
+
+La vinculación de datos entre Google Ads y Google Analytics te dará mejor información sobre tus clientes potenciales a medida que van avanzando a través de las etapas del embudo de marketing. Cuando las audiencias configuradas en Google Analytics están disponibles en Google Ads, tus anuncios de remarketing también llegarán a los/las usuarios/as correctos de manera más efectiva.
+
+Recursos para obtener información adicional
+
+Puedes consultar los siguientes artículos de la Ayuda de Google para obtener más información sobre la vinculación de cuentas y datos:
+
+Vincular Google Ads y Analytics <https://support.google.com/analytics/answer/9379420?hl=en&ref_topic=10595462>: describe la vinculación para las cuentas de Google Ads y Google Analytics.
+
+Acerca de la atribución y el modelo de atribución <https://support.google.com/analytics/answer/10596866>: describe cómo varios anuncios trabajan en conjunto en el camino hacia lograr las conversiones.
+
+Acerca de la atribución basada en datos <https://support.google.com/google-ads/answer/6394265>: describe el modelo de atribución basado en datos de Google Ads y cómo habilitarlo.
+
+Crear, editar y archivar audiencias <https://support.google.com/analytics/answer/9267572>: describe cómo crear una audiencia nueva.
+
+Audiencias sugeridas <https://support.google.com/analytics/answer/10427338?hl=en&ref_topic=9303474>: identifica audiencias clave para empresas minoristas y de comercio electrónico.
+
+Habilitar el remarketing con datos de Google Analytics <https://support.google.com/analytics/answer/9313634?hl=en&ref_topic=9303474>: describe cómo habilitar el remarketing en Google Ads mediante los datos de Google Analytics.
+
+Activar las señales de Google para las propiedades de Google Analytics 4 <https://support.google.com/analytics/answer/9445345>: proporciona instrucciones para habilitar las señales de Google para una propiedad de Google Analytics 4.
+
+#### Actividad de ejemplo: explora los datos vinculados en Google Analytics
+
+<https://support.google.com/analytics/answer/6367342#access&zippy=%2Cin-this-article%2Csecciones-de-este-art%C3%ADculo>
+
+Compara el ejemplo con tu presentación finalizada. Revisa tu trabajo utilizando cada una de las secciones del ejemplo. ¿Qué hiciste bien? ¿Dónde puedes mejorar? Utiliza tus respuestas a estas preguntas a modo de guía a medida que avanzas en el curso.
+
+Puntos de contacto de videos
+
+Nota importante: Debido a que en esta actividad estás sustituyendo los puntos de contacto de videos orgánicos por los de videos de pago, es posible que el número de conversiones e ingresos no represente lo que realmente verías con los anuncios de pago reales.
+
+Cuando buscaste instancias de video en la lista de eventos de conversión de compras, seguramente hayas encontrado algunas similares a las que se muestran a continuación, en donde se puede ver la palabra “video” resaltada. Todas las instancias que encontraste las fuiste documentando al completar la tabla en la plantilla de la actividad.
+
+![alt text](image-150.png)
+
+Nota: Los puntos de contacto de video (y los números de fila) que observaste pueden ser diferentes de los que se muestran aquí. De todas formas, los datos que observaste tendrán el mismo formato.
+
+Datos del punto de contacto
+
+Registraste tus respuestas a las preguntas sobre los puntos de contacto en la plantilla de la actividad. Compara tus respuestas con las del ejemplo, para obtener información sobre los datos de los puntos de contacto que se te pueden haber pasado.
+
+#### Exportar datos de Google Ads y Google Analytics
+
+#### Cady: Lo que un análisis de métricas puede decirte
 
 ### Revisión: Utiliza las métricas de Google Analytics y Google Ads
 
