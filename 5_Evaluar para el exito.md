@@ -2343,9 +2343,51 @@ Valor previsto del tiempo de vida del cliente (pLTV): Ingresos promedio previsto
 
 #### Vídeo: VídeoTe damos la bienvenida a la semana 4
 
+Pasaste gran parte del curso usando métricas para analizar y medir el rendimiento. Ahora pensemos, ¿quién valora este trabajo? Las partes interesadas. Comunicarles tu trabajo a las partes interesadas es importante. Lanzar y monitorear un sitio web, aplicación o campaña sin comunicarles los resultados a las partes interesadas, limita los beneficios de tu trabajo. Ellas quieren información y tú tienes los resultados. En esta parte del curso, identificarás a las partes interesadas y cómo ganarte su confianza. Todo comienza por entender qué es lo que necesitan de ti y comunicarse de manera eficiente con ellas. Aprenderás las prácticas recomendadas para preparar y compartirles datos. En general, las partes interesadas no necesitan todas las métricas, entonces elegirás qué métricas compartir. Y, después de preparar los datos, debes crear visualizaciones y presentaciones que resuman tus descubrimientos e ideas clave. Aprenderás y practicarás estas tareas en las próximas lecciones y actividades. Prepararás datos y visualizaciones en hojas de cálculo, la mejor herramienta disponible para analizar datos. Muchos puestos de nivel asociado en marketing requieren un conocimiento básico sobre cómo trabajar con datos en hojas de cálculo. Si es tu primera vez con hojas de cálculo, dedica un tiempo extra para entender sus características. Consulta las lecturas adicionales para empezar con las hojas de cálculo. Las hojas de cálculo tienen un límite de datos que soportan. No es tan común para posiciones de nivel inicial, pero existen empleadores/as que solicitan habilidades en programación o scripting para trabajar con big data. En bases de datos, las personas usan el lenguaje de consulta estructurada o SQL, que ejecuta consultas para ver y trabajar con los datos. Otros/as empleadores/as podrían buscar que tengas habilidades en Python, otro lenguaje de programación que es útil para análisis de datos y machine learning. SQL (o Sequel) y Python no están cubiertos en este curso. Si buscas una posición más especializada en marketing con un mayor énfasis en datos, puedes realizar cursos relacionados a estos temas. Estos cursos los ofrecen muchas fuentes y en varias plataformas, incluyendo Coursera. Eso es todo por ahora. Para mantener el interés de las partes interesadas en tu proyecto, debes entender qué les interesa más. Dirígete al siguiente video para aprender más.
+
 #### Vídeo: VídeoTrabajar con las partes interesadas
 
+En este video aprenderás quién es una parte interesada, cómo entender sus necesidades y responder sus solicitudes. Quizás tú tengas acceso a las métricas y herramientas de analítica. Es probable que las partes interesadas no tengan acceso a los datos. ¿Cómo les compartirás la información? Generalmente, una parte interesada tiene interés en un proyecto y sus resultados. Una parte interesada puede ser un/a ejecutivo/a, gerente o colega de tu empresa o departamento. A veces, una parte interesada puede ser un/a cliente externo. Por ejemplo, una parte interesada dentro de tu empresa puede ser un/a gerente que financia tu proyecto con su prespuesto. O si trabajas con un/a cliente externo/a que paga por un proyecto, revisará tus resultados de cerca ya que no podrá realizarlo por su cuenta. Las partes interesadas son importantes porque financian los proyectos. También pueden influir en el éxito del proyecto. Un/a coordinador/a de marketing las mantiene informadas sobre el progreso de la campaña, métricas en curso e ideas clave tanto durante como al final del proyecto. Si no sabes cómo interactuar con las partes interesadas, pregúntale a tu jefe/a, o directamente a la parte interesada, de ser necesario. Empieza por entender el interés de cada parte interesada en tu proyecto. ¿Cómo tu meta de campaña general se relaciona con su objetivo de ventas? ¿Hay una previsión de ingresos? ¿Están presentando un producto nuevo? ¿Tienen un retorno a la inversión publicitaria (ROAS) esperado? ¿Comparan datos históricos? ¿Monitorean las limitaciones del presupuesto? ¿En qué parte del recorrido del cliente están interesadas? Debes saber cuándo informar a las partes interesadas. ¿Quién inicia el diálogo? ¿Prefieren que les envíes informes regularmente o prefieren solicitarlos? ¿Con qué frecuencia deberías enviar los informes? ¿Qué resultados son una prioridad? ¿Qué causa una derivación o comunicación de emergencia? Debes saber cómo comunicarte con ellas. Es mejor comunicarse con el método que ellas prefieran, o si es un grupo de partes interesadas, el método que la mayoría prefiera, incluyendo reuniones, correos, chats y llamadas telefónicas. Será útil establecer un método preferido de comunicación al inicio del proyecto o antes de que comience. Por último, comprende cómo presentar los datos de la mejor manera. Si las partes interesadas no reciben información útil de tus métricas, no se beneficiarán de tus ideas clave. Resumir datos con texto y visualizaciones los hará más fáciles de entender. Este es un ejemplo de datos en una tabla y un gráfico al mismo tiempo. Los paneles de control resumen bien los datos. Esto no es necesario para todos los proyectos, pero puede ser útil crear un mapa de partes interesadas para saber cómo interactuar con ellas. Poner sus nombres en un mapa como este, te permitirá identificar el tipo y la cantidad de interacción que necesitarás tener con cada una. Las partes interesadas más involucradas, con un alto nivel de interés y de influencia están en la parte superior derecha. Terminemos con un juego de rol. Tendré el rol de dos partes interesadas y elegirás la mejor forma de responder mis preguntas. Imagina que soy un Gerente de ventas interesado en tu campaña porque quiero aumentar las ventas en línea de un producto. Siento curiosidad por el impacto que tu campaña está teniendo en las ventas en línea, pero no tengo mucho tiempo para ver datos y reportes. ¿Cómo va tu campaña? ¿Qué puedes decirme sobre las ventas en línea del nuevo producto? ¿Qué respuesta será más útil para mí? A. ¡Va muy bien! B. Te enviaré el reporte más reciente. C. Te enviaré los números de compras en línea de los últimos tres meses. ¿Elegiste la C? Para mí será mejor recibir los números de las compras en línea del producto porque lo que requiero es una actualización de las ventas. La respuesta B, enviarme el informe más reciente del proyecto, no es tan útil porque tendría que buscar los datos en el reporte. La respuesta A, decirme que la campaña va muy bien, no es tan útil tampoco. Me indica que las ventas van bien, pero no tienes datos para respaldarlas. Intentémoslo de nuevo. Esta vez soy un Gerente de marketing en tu empresa, pero no tu supervisor. Estoy monitoreando de cerca las campañas porque debo revisar mi presupuesto, pero no estoy en tu lista de correo para recibir los informes. ¿Tu campaña cumplirá el retorno a la inversión publicitaria (ROAS) esperado? Teniendo en cuenta que no estoy en la lista de envíos de los reportes, ¿cuál es la mejor respuesta? A. No puedo compartir esta información contigo. B. ¿Puedo llamarte más tarde? C. No lo sé. Veamos las respuestas. La respuesta A, no puedo compartirte esta información, es una respuesta honesta, pero podría ser incluido en la lista de distribución. La respuesta C, no lo sé, evade la pregunta para no compartir la información, pero no es bueno para tu imagen profesional. Me preguntaría por qué no sabes si mi pregunta es sobre la campaña en la que trabajas. La respuesta B, ¿puedo llamarte más tarde? es la más útil de las tres opciones. Responder más tarde te permitirá hablar con la persona indicada para agregarme a la lista de correo antes de compartirme información. Espero que hayas disfrutado del video y del juego de rol. Ahora sabes cómo ajustar tus estrategias para compartir y comunicar datos y satisfacer las necesidades de todas las partes interesadas.
+
 #### Lectura: LecturaCómo relacionarse con las partes interesadas
+
+En un proyecto de marketing, las partes interesadas cumplen un papel clave para ayudar a que sea exitoso. Como especialista en marketing, trabajarás con partes interesadas en tu propia organización interna o con socios externos para lograr tus objetivos de marketing. Es importante saber quiénes son las partes interesadas de un proyecto o una campaña de marketing. En esta lectura verás cómo identificar a las partes interesadas, documentar sus necesidades y establecer y mantener buenas relaciones con ellas mediante el desarrollo de la confianza.
+
+Cómo identificar a las partes interesadas
+Por lo general, las partes interesadas provienen de:
+
+Tu propio equipo
+
+Organizaciones internas (fuera de tu equipo)
+
+Asociaciones y colaboraciones externas (fuera de tu empresa)
+
+Partes interesadas en tu equipo
+Las personas con las que trabajas en tu equipo serán las partes interesadas más cercanas a ti en el día a día. Quieren que tengas éxito y pueden hacerte comentarios valiosos, ayudarte a identificar y resolver problemas, enfrentar obstáculos y revisar información y datos antes de que los compartas con otras partes interesadas.
+
+Partes interesadas internas
+Las partes interesadas internas son personas de tu misma empresa que no forman parte de tu equipo, que apoyan un proyecto o una campaña de marketing, o se benefician de sus resultados. La lista no suele ser muy larga, pero las partes interesadas internas pueden provenir de una gran cantidad de organizaciones internas, por ejemplo:
+
+Equipo de ventas
+
+Equipos creativos (de contenido)
+
+Defensa al cliente
+
+Investigación de mercado
+
+Tecnología de la información (IT)
+
+Relaciones públicas
+
+Gestión de productos
+
+Partes interesadas externas
+Por lo general, las partes interesadas externas son el resultado de colaboraciones, como cuando tu empresa se asocia con una agencia de publicidad externa para una campaña. Debes estar al tanto de cualquier acuerdo contractual, limitaciones y requisitos antes de compartir información con las partes interesadas externas.
+
+Creación de mapas de partes interesadas
+
+![alt text](image-159.png)
 
 #### Lectura: LecturaActividad de ejemplo: Completa un plan de comunicación con las partes interesadas
 
