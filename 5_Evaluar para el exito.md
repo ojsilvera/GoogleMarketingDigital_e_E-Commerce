@@ -2440,11 +2440,167 @@ Una descripción de la mejor manera de comunicar la información para cada parte
 
 #### Prepara datos en hojas de cálculo: ordenar y filtrar
 
+A veces, los datos de plataformas de analítica se exportan a hojas de cálculo. Las hojas de cálculo son flexibles para analizar los datos como decidas. Por ejemplo, puedes comparar datos actuales y previos de las campañas en una hoja de cálculo. También puedes usar hojas de cálculo para ordenar métricas o filtrar y excluir algunas antes de compartir datos con las partes interesadas. Este video muestra cómo ordenar y filtrar datos en hojas de cálculo. Puedes usar Microsoft Excel u Hojas de Cálculo de Google. Ambos ofrecen ordenar, filtrar y opciones de tablas dinámicas en el menú Insertar. Aquí veremos las funciones de Hojas de Cálculo de Google, pero puedes hacer las mismas tareas en Microsoft Excel con algunos cambios en el menú. Si aún no conoces bien las hojas de cálculo, están compuestas por columnas y filas. Las columnas son verticales y están en orden alfabético. Las filas son horizontales y tienen números. Las personas llaman las celdas o la posición en la hoja al combinar la designación de la columna y la fila. La celda resaltada en rosa es la celda A2.
+Reproduce el video desde :1:11 y sigue la transcripción1:11
+Al ordenar datos en una hoja de cálculo, puedes descubrir patrones y relaciones dentro de conjuntos de datos que tal vez no hayas notado. Puedes ordenar un rango de celdas o datos en una sola columna o en una sola fila, en orden ascendente o descendente. Casi siempre, los conjuntos de datos tienen algún orden inicial, así que necesitarás mantener ese orden intacto al ordenar por columna o fila. En esta hoja de cálculo llamada “Ordenar y Filtrar” hay usuarios/as, sesiones, ingresos y datos de conversión según el tipo de navegador.
+Reproduce el video desde :1:47 y sigue la transcripción1:47
+Ordenemos los datos según los valores de la columna “duración promedio de sesión”, o columna F, en orden descendente. La duración promedio de la sesión se mide en segundos y se calcula al dividir la duración total de todas las sesiones entre la cantidad de sesiones. Te dice cuánto tiempo pasó el público interactuando con tu sitio antes de irse. Primero, selecciona las celdas A1 a I11. Con las celdas resaltadas, selecciona “Datos” en el menú y luego “Ordenar intervalo” y “Opciones avanzadas de orden de intervalos” En la ventana, haz clic en “Los datos tienen una fila de encabezado”. Marca esta casilla si los datos que seleccionaste tienen título. En la hoja de cálculo, la fila uno contiene títulos y no quieres que estos títulos se ordenen con los datos. En “Ordenar por” usa el menú desplegable y selecciona “duración promedio de la sesión”, que son los datos de la columna F.
+Reproduce el video desde :2:47 y sigue la transcripción2:47
+Haz clic en el botón de opción “Z - A” para ordenar de forma descendente. Esto hará que la sesión más larga esté en la parte superior. Haz clic en “Ordenar”. Los valores para la duración promedio de la sesión de la columna F ahora están en orden descendente, pero los datos de las otras columnas no se ordenaron. Se indica que usuarios/as de Internet Explorer tienen las sesiones más largas. Hay otro método más rápido para ordenar. Haz clic en “Deshacer” para que los datos vuelvan a su orden original. Ahora, haz clic en cualquier celda de la columna F, selecciona “Datos” en el menú principal y luego selecciona “Ordenar hoja” y “Ordenar hoja por columna F, Z - A”.
+Reproduce el video desde :3:29 y sigue la transcripción3:29
+Obtendrás los mismos resultados que antes. Haz clic en “Deshacer” de nuevo para poner los datos en su orden original. Cuando filtras datos en una columna, se muestran solo los datos que cumplen con una condición específica. Todos los datos que no coinciden estarán ocultos mientras el filtro está activo. La función de filtrar se realiza columna por columna. Además de filtrar por condiciones, puedes filtrar por valores exactos o colores resaltados en las celdas. En la misma hoja de cálculo, filtra los valores de la columna F para mostrar solo los navegadores con una duración promedio de sesión inferior a 100 segundos. Selecciona “Datos” en el menú principal y luego selecciona “Crear un filtro”. Esto agrega un ícono de filtro en cada encabezado de columna. Luego, haz clic en el ícono de filtro de la columna F para la duración promedio de la sesión. Haz clic en “Filtrar por condición” y luego cambia “Ninguno” por “Menor que”.
+Reproduce el video desde :4:31 y sigue la transcripción4:31
+Finalmente, escribe 100 en el valor y haz clic en “Aceptar” en la parte inferior de la ventana. Solo se mostrarán tres filas de datos. Las demás filas en las que el promedio de duración de sesión fue mayor o igual a 100 están ocultas. Resulta que los navegadores Samsung, UC y Safari tuvieron una duración promedio de sesión inferior a 100 segundos. Ordenar y filtrar en hojas de cálculo te permitirá organizar y preparar datos para compartir con los demás. Para más información sobre filtrar por condiciones, valores exactos o celdas resaltadas, dirígete a las lecturas y referencias del curso.
+
 #### Análisis de datos en hojas de cálculo: ordenar, filtrar y comparar
+
+En un video de este curso, vimos los pasos para ordenar y filtrar datos en las hojas de cálculo. Esta lectura te mostrará cómo las funciones de ordenar y filtrar pueden ayudarte a identificar información relacionada con la campaña o la empresa para luego compartirla con las partes interesadas.
+
+Descripción de la hoja de cálculo
+Supongamos que tienes una hoja de cálculo que contiene datos de ventas en línea, como la que se muestra en la imagen a continuación. Como mencionamos en el video, recuerda que una celda en una hoja de cálculo contiene datos. Las columnas son verticales y están etiquetadas con letras del abecedario, y las filas son horizontales y están etiquetadas con números. Para referirnos a las posiciones de las celdas, combinamos la designación de la columna y la fila, por ejemplo: celda A2. En el siguiente ejemplo de datos de ventas en línea, la celda A2 contiene los datos “Alexander City”.
+
+![alt text](image-160.png)
+
+Como recordarás también del video, la función ordenar puede colocar los datos en un cierto orden, mientras que la función filtrar puede mostrarte determinados datos que quieras consultar y excluir otros. Las funciones de ordenar y filtrar en esta hoja de cálculo te permitirán recopilar datos como los siguientes:
+
+Cantidad y porcentaje de compras realizadas en cada campaña (por códigos de campaña)
+
+Compras relacionadas con las campañas (en total y por estado)
+
+Ejemplo 1: Compras realizadas en cada campaña
+
+1. Para determinar la cantidad y el porcentaje de compras realizadas en cada campaña, ordena los datos de la hoja de cálculo según la información de la Columna F, que contiene el código de descuento usado en cada campaña. Al ordenar los datos en orden descendente (Z-A), se colocarán las compras relacionadas con cada campaña en la parte superior de la hoja, seguidas de celdas en blanco.
+
+![alt text](image-161.png)
+
+2. A continuación, después de ordenar los datos, crea un filtro para la Columna F para que se muestren las compras de cada campaña por separado; para ello, desmarca las otras dos campañas. Por ejemplo, al desmarcar 39343E y CGRWAT, solo se mostrarán las compras realizadas en la campaña EZ3043.
+
+![alt text](image-162.png)
+
+3. Y, por último, cuenta el número de instancias que hay de cada código cada vez que uses un filtro. Divide el número de instancias de cada código por el número total de compras para obtener el porcentaje de compras realizadas en cada campaña. Por ejemplo, sobre un total de 563 compras, las 15 compras realizadas con el código EZ3043 representan el 2.66% de las compras. 
+
+Consejo profesional: Para conjuntos de datos grandes, en lugar de contar las instancias manualmente, puedes usar la función CONTARA en Hojas de Cálculo de Google o Microsoft Excel. CONTARA arrojará como resultado la cantidad de celdas que no están en blanco entre cierto rango. Por ejemplo, si el rango de datos es F2:F500, escribe lo siguiente en una celda en blanco: =CONTARA(F2:F500). En esa celda, se mostrará la cantidad de celdas dentro del rango especificado que contienen datos (como un código de campaña).
+
+Información que puedes compartir con las partes interesadas: La campaña EZ3043 representa el 2.66% de las compras totales.
+
+![alt text](image-163.png)
+
+Ejemplo 2: Compras relacionadas con las campaña (en total y por estado)
+
+Si sumas la cantidad de compras relacionadas con las campañas y divides ese valor por el número total de compras, obtendrás el porcentaje de las compras relacionadas con campañas. Por ejemplo, si hubo 59 compras relacionadas con las tres campañas realizadas, el porcentaje total sería 59 dividido por 563, es decir, 10.48%.
+
+![alt text](image-164.png)
+
+Información que puedes compartir con las partes interesadas: el 10.48% de todas las compras estuvieron relacionadas con las campañas.
+
+También puedes filtrar los datos por estado (Columna B) para obtener los datos de cada estado. Por ejemplo, si al filtrar por Alabama en la Columna B se muestran nueve resultados, de los cuales dos están relacionados con campañas, puedes concluir que el 22% de las compras de Alabama estuvieron relacionadas con las campañas. Para realizar una comparación completa estado por estado, tendrías que repetir el proceso de filtrado para cada estado.
+
+Información que puedes compartir con las partes interesadas:
+
+El 22% de las compras de Alabama estuvieron relacionadas con las campañas.
+
+El 0% de las compras de Alaska estuvieron relacionadas con las campañas.
+
+El 38% de las compras de Arizona estuvieron relacionadas con las campañas.
+
+(Y así sucesivamente para cada estado de los Estados Unidos)
+
+Recursos para obtener información adicional
+Puedes consultar los siguientes enlaces para obtener más información sobre las funciones de ordenar y filtrar datos en las hojas de cálculo.
+
+Hojas de Cálculo de Google
+
+Cómo ordenar y filtrar datos <https://support.google.com/docs/answer/3540681?co=GENIE.Platform%3DDesktop&hl=en>: este recurso puede ayudarte a organizar tus datos en Hojas de Cálculo de Google. Usa esta guía para ordenar una parte o toda la hoja de cálculo. Puedes ordenar por texto, número y color. Luego, aprende a crear filtros para mostrar solo algunos datos determinados, mientras ocultas el resto. Por último, el artículo incluye información sobre cómo crear, guardar y eliminar una vista de filtro.
+
+CONTARA <https://support.google.com/docs/answer/3093991?hl=en>: este artículo del Centro de ayuda de Google te dará ejemplos de sintaxis y de uso para la función CONTARA en Hojas de Cálculo de Google.
+
+Microsoft Excel
+
+Ordenar datos en un rango o una tabla <https://support.microsoft.com/en-us/office/sort-data-in-a-range-or-table-62d0b95d-2a90-4610-a6ae-2e545c4a4654>: esta página te guiará a través de todos los pasos que necesitas seguir para ordenar los datos por número, texto y color. También tendrás la opción de ordenar de forma personalizada para que puedas personalizar aquello que desees ordenar con mayor precisión.
+
+Filtrar los datos de una tabla o un rango <https://support.microsoft.com/en-us/office/filter-data-in-a-range-or-table-01832226-31b5-4568-8806-38c37dcc180e>: este artículo tiene instrucciones paso a paso sobre cómo filtrar una hoja de cálculo de Excel para mostrar solo los datos que deseas ver. También puedes usar operadores de comparación integrados, como “mayor que” y “los 10 mejores” para revelar solo los datos más relevantes.
+
+Función CONTARA <https://support.microsoft.com/en-us/office/counta-function-7dc98875-d5c1-46f1-9a82-53f3219e2509>: este artículo describe la sintaxis de la fórmula y el uso de la función CONTARA en Microsoft Excel.
 
 #### Prepara datos en hojas de cálculo: tablas dinámicas
 
+Aprendiste a usar hojas de cálculo para ordenar los datos de cierta manera, y filtrar y excluir ciertos datos. Aquí veremos cómo usar tablas dinámicas para categorizar los datos. Puedes usar Microsoft Excel u Hojas de Cálculo de Google. Ambos ofrecen opciones de tablas dinámicas. Este video muestra cómo crearla en Hojas de Cálculo de Google. Crear una tabla dinámica en Microsoft Excel consiste en un proceso similar. Una tabla dinámica cambia la perspectiva de vista de los datos en una hoja de cálculo para categorizarlos o identificar una idea clave o tendencia. Una tabla dinámica no modifica los datos en la hoja de cálculo. Este es un ejemplo de una tabla dinámica que compara la cantidad y el precio promedio de unidades vendidas en cada campaña para tiendas en línea y físicas. Una tabla dinámica tiene 3 partes básicas: filas, columnas y valores. Las filas muestran los valores de los datos de forma horizontal en una tabla dinámica. En el ejemplo, tienda física y tienda en línea, y campaña 1, 2, 3 y 4 son las filas mostradas horizontalmente.
+Reproduce el video desde :1:12 y sigue la transcripción1:12
+Las columnas muestran los valores de datos de forma vertical en la tabla dinámica. En el ejemplo, unidades vendidas y precio por unidad son las columnas con los valores mostrados verticalmente. Los valores se usan para hacer cálculos o contar casos de datos repetidos. En el ejemplo, los valores se usaron para calcular la cantidad de unidades vendidas y el precio promedio por unidad vendida. Ahora, creemos esta tabla dinámica. Irás entendiendo con mayor claridad las partes de las tablas dinámicas a medida que observes los pasos para crearla. En primer lugar, selecciona los datos, como entre las celdas A1 y E15 en la hoja de cálculo “Datos de la Tabla Dinámica”. Luego, selecciona “Insertar” en el menú y selecciona “Tabla dinámica”. La mayoría de la gente crea la tabla dinámica en una hoja nueva, así que selecciona “Nueva hoja” y haz clic en “Crear”. En el editor de tablas dinámicas, haz clic en “Agregar” para las filas y selecciona “Tienda”. Deja la configuración predeterminada. Haz clic en “Agregar” para filas de nuevo y selecciona “Campaña”. Nuevamente, deja la configuración predeterminada. Ambas filas aparecerán en orden ascendente. Esto significa que los tipos de tiendas se mostrarán de la A a la Z y las campañas se mostrarán en orden numérico. Como “offline” aparece primero alfabéticamente que “online”, los datos de tiendas físicas se mostrarán antes que los de en línea. Ahora, crea las columnas de la tabla dinámica. Haz clic en “Agregar” para los valores y selecciona “Unidades vendidas”. Deja la configuración predeterminada para resumir los datos como suma. Haz clic en “Agregar” para valores otra vez y selecciona “Precio por unidad”. Pero esta vez reemplaza “resumir por suma” por “resumir por promedio”.
+Reproduce el video desde :2:59 y sigue la transcripción2:59
+El resultado será la tabla dinámica que vimos antes como ejemplo. Una característica de estas tablas son los filtros. Puedes usarlos para mostrar solo algunos datos en una tabla dinámica. En la tabla dinámica que acabas de crear, haz clic en “Agregar” en los filtros y selecciona “Campaña”. Selecciona “Mostrar todos los elementos" en Estado, desmarca las campañas 3 y 4 y haz clic en “Aceptar”. Observa cómo la tabla dinámica muestra solo los datos de las campañas 1 y 2. Para deshacerlo, solo haz clic en la X en el filtro de la campaña. Las tablas dinámicas son muy útiles para analizar y preparar datos para compartir. Los pasos para crear tablas dinámicas son bastante específicos, así que vuelve a a reproducir el video para repasar o al crear tablas dinámicas en otras actividades. También consulta los artículos de ayuda para obtener más orientación y ejemplos.
+
 #### Análisis de datos en hojas de cálculo: tablas dinámicas
+
+Una tabla dinámica te permite calcular, resumir y analizar datos para realizar comparaciones y descubrir patrones y tendencias. En el video sobre tablas dinámicas de este curso, revisamos los pasos a seguir para crear una tabla dinámica. Si necesitas repasar, puedes volver a ver el video.
+
+Otra lectura de este curso sobre ordenar y filtrar en las hojas de cálculo ofrece dos ejemplos de cómo estas funciones te permiten obtener determinada información. Ahora usaremos los mismos ejemplos que en la lectura sobre las funciones ordenar y filtrar. Los ejemplos se repiten para mostrar cómo las tablas dinámicas te permitirán obtener los mismos datos, pero de una manera más rápida.
+
+Descripción de la hoja de cálculo
+Supongamos que tienes una hoja de cálculo que contiene datos de ventas en línea, como la que se muestra en la imagen a continuación. Como mencionamos en el video, recuerda que una celda en una hoja de cálculo contiene los datos. Las columnas son verticales y están etiquetadas con letras del abecedario, y las filas son horizontales y están etiquetadas con números. Para referirnos a las posiciones de las celdas, combinamos la designación de la columna y la fila, por ejemplo: celda A2. En el siguiente ejemplo de datos de ventas en línea, la celda A2 contiene los datos “Alexander City”.
+
+![alt text](image-165.png)
+
+La tabla dinámica de esta hoja de cálculo te permitirá recopilar datos como los siguientes:
+
+La cantidad y el porcentaje de compras realizadas en cada campaña (por códigos de campaña)
+
+Las compras relacionadas con las campañas (en total y por estado)
+
+Ejemplo 1: Compras realizadas en cada campaña
+Con las funciones ordenar y filtrar, puedes determinar la cantidad de compras por código de campaña filtrando de a un código a la vez. Con una tabla dinámica, podrás consultar la cantidad de compras por código de campaña con una sola acción. Esto te ahorrará tiempo cuando estés trabajando con una gran cantidad de datos.
+
+1. Crea la tabla dinámica usando el elemento Código en las Columnas, y Estado en las Filas. Luego, agrega Código como Valor, resumido por la función CONTARA.
+
+![alt text](image-166.png)
+
+En el editor de tablas dinámicas, al seleccionar Mostrar totales, se ordenarán de forma ascendente el Estado en Filas, y el Código en Columnas. En el Valor, la función CONTARA resumirá el Código.
+
+La tabla dinámica debería ser similar a la que se muestra a continuación, donde la cantidad de compras de cada campaña se muestra en la fila etiquetada como Suma total. 
+
+Nota: Se ocultaron algunas filas (estados) en la tabla dinámica para ahorrar espacio y poder mostrar el recuento en la parte inferior de la tabla.
+
+2. Luego, puedes agregar una fórmula para calcular el porcentaje de compras totales. Para ello, divide cada suma total por 563. La fórmula en la celda C53 es: =C52/563, que toma el valor en la celda C52 (es decir, 28) y lo divide por 563. El resultado del porcentaje es 4.97% para la Campaña 39343E. Copia esta fórmula en las celdas D53 y E53 para calcular los porcentajes de las otras dos campañas. 
+
+Información para compartir con las partes interesadas
+A partir de la tabla dinámica y los cálculos posteriores, puedes compartir la siguiente información con las partes interesadas:
+
+Las compras de la campaña 39343E representan el 4.97% de las compras totales.
+
+Las compras de la campaña CGRWAT representan el 2.84% de las compras totales.
+
+Las compras de la campaña EZ3043 representan el 2.66% de las compras totales.
+
+Conclusión
+La tabla dinámica arrojó los mismos resultados que cuando usamos la función ordenar y filtrar en la columna Código y al contar manualmente las instancias para cada código de campaña.
+
+Ejemplo 2: Compras relacionadas con las campañas (en total y por estado)
+En lugar de filtrar los estados de a uno a la vez para obtener el recuento de cada código de campaña, el recuento por estado ya figura resumido en la Columna G (suma total) de la tabla dinámica. Sin embargo, ahora necesitas saber la cantidad de compras que no están relacionadas con las campañas. Si en los datos de código de campaña insertas Ninguno (para compras que no estuvieron relacionadas con ninguna campaña), la tabla dinámica hará automáticamente otro recuento para Ninguno en la Columna G.
+
+![alt text](image-167.png)
+
+Finalmente, puedes insertar una fórmula en la Columna I para calcular el porcentaje de compras relacionadas con campañas para cada estado. En la celda I4, ingresa =(D4+E4+F4)/H4. A continuación, copia el contenido de la celda I4 y pégalo en todas las celdas restantes de la Columna I.
+
+![alt text](image-168.png)
+
+Por ejemplo, después de copiar el contenido de la celda I4 y pegarlo en la celda I6, la fórmula de la celda I6 para el estado de Arizona se convertirá en =(D6+E6+F6)/H6, que suma los valores de las tres campañas y divide ese número por la cantidad total de compras en Arizona. 
+
+Cálculo de la celda I6: =(1+1+5)/18 = 0.38 (es decir, 38%)
+
+Información para compartir con las partes interesadas
+A partir de los cálculos de las compras relacionadas con las campañas, puedes compartir la siguiente información con las partes interesadas: 
+
+El 22% de las compras de Alabama estuvieron relacionadas con las campañas.
+
+El 0% de las compras de Alaska estuvieron relacionadas con las campañas.
+
+El 38% de las compras de Arizona estuvieron relacionadas con las campañas.
+
+(Y así sucesivamente para cada estado de los Estados Unidos) 
+
+Conclusión
+
+La tabla dinámica arrojó los mismos resultados que obtuvimos al filtrar cada estado indicado en la columna Estado de a uno a la vez para obtener solo los datos que queríamos ver. Sin embargo, al usar la tabla dinámica pudiste ahorrar algo de tiempo.
 
 #### Actividad de ejemplo: Analiza datos mediante tablas dinámicas
 
