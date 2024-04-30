@@ -2095,9 +2095,153 @@ Las pruebas A/B son fundamentales en el marketing y pueden ayudarte a crear mejo
 
 #### Monitorea los resultados de las pruebas A/B en Google Ads
 
+Algunas personas disfrutan de profundizar en los números, mientras que otras pierden interés cuando se trata de ellos. Si trabajas en el campo del performance marketing, aprenderás a sentirte a gusto utilizando datos numéricos para tomar decisiones sobre el rendimiento de tu campaña. Al monitorear los resultados de las pruebas A/B para variaciones de anuncios o estrategias de puja en Google Ads, se te presentarán algunos resultados estadísticos. Esta lectura te proporcionará una introducción a estos resultados para que puedas analizar los datos de tus pruebas de forma efectiva. Con base en los números, podrás decidir cuáles de los cambios que probaste son relevantes y beneficiosos para tus campañas.
+
+Estadísticas en Google Ads
+Al monitorear los resultados de las pruebas, encontrarás los siguientes términos estadísticos:
+
+Nivel de confianza
+
+Intervalo de confianza (derivado de un margen de error)
+
+Significación estadística
+
+A continuación, compartimos qué significan estos términos y qué indican sobre una prueba.
+
+Nivel de confianza
+¿Qué tan confiado/a estás con los resultados de una prueba? Por ejemplo, un nivel de confianza del 95% significa que si realizaras la misma prueba A/B 100 veces, obtendrías los mismos resultados 95 veces de esas 100. Por lo general, se selecciona un nivel de confianza antes de recopilar cualquier dato. La mayoría utiliza un nivel de confianza del 95%. Por defecto, Google Ads utiliza este nivel de confianza para las pruebas. Para que se alcance ese nivel de confianza, se requiere la participación de un mínimo de usuarios/as en la prueba. Es por eso que normalmente se recomienda realizar una prueba durante al menos cuatro semanas para obtener un resultado que esté en un nivel de confianza del 95%.
+
+Intervalo de confianza (y margen de error)
+Debido a que no es posible ejecutar una prueba en toda una población de usuarios/as, los resultados comparativos de una prueba A/B son un estimado de los resultados que obtendrías si pudieras probar a toda esa población. El margen de error es la diferencia estadísticamente calculada entre el resultado de la prueba y el resultado teórico que podrías haber obtenido si hubieras ejecutado la prueba con muchas más personas. El intervalo de confianza es el rango de valores posibles después de tener en cuenta el margen de error. Este rango se obtiene de sumar y restar el margen de error al resultado de la prueba. Por ejemplo, si el resultado de tu prueba es una diferencia del 5% entre las variantes y el margen de error es del 2%, el intervalo de confianza sería del 3% al 7%. La diferencia entre las variantes probadas podría ser tan baja como el 3% o tan alta como el 7%. Cuando Google Ads enumera un rango esperado de resultados, está informando el intervalo de confianza.
+
+Significación estadística
+La significación estadística implica determinar si el resultado de tu prueba podría deberse a casualidades aleatorias o no. Cuanto mayor sea la significación, menor será la probabilidad de que se deba a la casualidad. Google Ads realiza los cálculos estadísticos en segundo plano con un nivel de confianza del 95% y te indica si un resultado es estadísticamente significativo. Una estrella azul que aparece junto a un resultado indica que hubo un cambio estadísticamente significativo entre las dos variaciones probadas.
+
+Ejemplo de un experimento
+Como se muestra a continuación, la prueba de variación de anuncios Huge Savings (o prueba A/B) en Google Ads resultó en menos clics e impresiones. El número de clics, 250, representó una disminución del 8%, mientras que el número de impresiones, 12,139, una baja del 11%. La caída en el número de impresiones se señaló con una estrella azul para indicar que el resultado fue estadísticamente significativo a un nivel de confianza del 95%. Dado que tanto los clics como las impresiones muestran una tendencia a la baja, no se elegiría aplicar esta variación a tus anuncios de búsqueda responsivos.
+
+![alt text](image-151.png)
+
+Los resultados de pruebas de variación de anuncios Huge Savings en Google Ads muestran una disminución estadísticamente significativa en la columna Impresiones, identificada con una estrella azul.
+
+Durante cuánto tiempo ejecutar una prueba
+Como se mencionó con anterioridad, usualmente se necesita de al menos cuatro semanas para ejecutar una prueba y obtener resultados estadísticamente significativos. Si necesitas más orientación, en línea hay calculadoras disponibles de tamaño de muestra para pruebas A/B. Una de estas calculadoras de AB Tasty te permite ingresar el número promedio de visitantes diarios y el número de variaciones para calcular una duración posible para una prueba.
+
+Además, debes ejecutar una prueba el tiempo suficiente para tener en cuenta las fluctuaciones normales en las ventas de comercio electrónico. Por ejemplo, si es normal que tu negocio de comercio electrónico tenga las mejores ventas los domingos y las peores ventas los sábados, ejecutar una prueba durante al menos dos semanas, y preferiblemente más, reduce el impacto que estos cambios tendrán en los resultados. De la misma manera, si una promoción de ventas ocurre durante una prueba, ejecutarla por más tiempo ayuda a evitar que esa promoción distorsione los resultados de la prueba. Si no se permite ejecutar la prueba el tiempo suficiente, una prueba de variación de anuncios puede parecer que funciona mejor de lo que normalmente lo haría, porque una promoción puede cambiar el comportamiento de los/las usuarios/as durante unos días o incluso semanas.
+
+Recursos para obtener información adicional
+Consulta los siguientes enlaces para profundizar  en el monitoreo de tus pruebas A/B para la variación de anuncios y estrategias de puja en Google Ads:
+
+Monitorea las variaciones de tus anuncios <https://support.google.com/google-ads/answer/7438745?hl=en&ref_topic=3119078>: este artículo describe cómo monitorear el rendimiento de las variaciones de anuncios e interpretar los resultados.
+
+Monitorea tus experimentos de campaña <https://support.google.com/google-ads/answer/6318747>: este artículo describe cómo monitorear el rendimiento de un experimento de campaña en una tarjeta de puntuación.
+
+Para probar una calculadora de tamaño de muestra para pruebas A/B que incluya una función para estimar la duración requerida para una prueba estadísticamente válida, consulta el siguiente enlace:
+
+Calculadora de tamaño de muestra <https://www.abtasty.com/sample-size-calculator/>: utiliza esta calculadora para estimar cuántos/as usuarios/as necesitas y por cuánto tiempo debes ejecutar una prueba A/B.
+
 #### Jordan - Interpreta los resultados de la prueba A/B test
 
+Soy Jordan y trabajo en Marketing de Google en Experimentación e Informes. Eso significa que trabajo con equipos de productos en Google para optimizar sus productos utilizando investigación y datos. Una prueba A/B es una manera de comparar claramente dos versiones diferentes de tu contenido de marketing. Imagina que tienes una versión A y una versión B de algo que deseas promocionar, y quieres descubrir cuál de los dos funciona mejor. Una prueba A/B te permite comparar y descubrir a qué responden mejor tus clientes. Los especialistas en marketing digital usan pruebas A/B de diferentes formas. Por ejemplo, en el texto o las imágenes que usan en sus anuncios, en la estructura o formato de un correo electrónico, o en la manera en que están formulando su sitio web. Puedes hacer una prueba A/B de todo esto para comparar diferencias y ver a cuál responden mejor tus clientes. Por lo tanto, hay algunos pasos que deberás tomar en cuenta con el fin de hacer una prueba A/B. El primero es asegurarte de tener una hipótesis sólida sobre lo que hacen tus usuarios/as y cómo puedes optimizarlo para tus clientes. La segunda es querer crear las diferentes versiones para atender las necesidades de tus usuarios/as. Tener una hipótesis sólida te permite tener información clave acerca de tus clientes, y esto puede ser más difícil de desarrollar de lo que piensas. Se trata más de pensar en quién es tu cliente y la idea que deseas obtener, en lugar de qué herramienta aplicar para implementar la prueba. Una vez que ejecutes tu prueba A/B, entonces podrás sacar algunas conclusiones basadas en la medición y análisis de los diferentes resultados de rendimiento. Las pruebas A/B te permiten obtener información causal sobre las preferencias de tus clientes. Una información causal significa que, al variar un aspecto específico de la opción A o B que estamos probando, podemos comparar y sacar conclusiones de que esa variación en particular llevó a una mejora o un empeoramiento. Y esto es muy efectivo porque te permite optimizar el contenido de marketing, ya sea un correo electrónico, un anuncio o, incluso, partes de tu sitio web, para ayudar a atraer al tipo correcto de usuarios/as para su producto. Sin pruebas A/B, en realidad, no sabemos qué podría causar un cambio en particular en el comportamiento de nuestras/os clientes. Podría ser la hora del día, el contenido que estamos usando, o podría ser una multitud de otros factores. Pero, mediante el uso de las pruebas A/B, podemos aislar una variable específica sobre otra para obtener algo de esa información causal. Me encantan las pruebas A/B, y me encantan porque nos permiten obtener conclusiones sobre las que podemos seguir iterando continuamente. Lo que significa que, una vez que descubrimos un aspecto del comportamiento de nuestros/as usuarios, podemos luego identificar otras motivaciones que podrían influir en su comportamiento.
+
 #### Caso práctico: Cómo Good Boy Studios mejora la adquisición de clientes con la prueba A/B y la analítica
+
+Aprendiste cómo las pruebas A/B te permiten probar las variaciones de anuncios para mejorar las tasas de conversión. Las pruebas A/B también son útiles al diseñar o mejorar un sitio web o una aplicación móvil. Este caso práctico describe cómo  Good Boy Studios <https://www.gbs.pet/>, con sede en Stamford, Connecticut, combina el poder de Firebase y Google Analytics para llevar a cabo pruebas A/B destinadas a mejorar la adquisición de clientes en su app móvil.
+
+Nota: Firebase es una plataforma de desarrollo de aplicaciones que ayuda a desarrolladores a crear aplicaciones que sean agradables para la gente. Google Analytics está integrado en las características de la plataforma Firebase y ofrece informes ilimitados hasta para 500 eventos definidos en Firebase. Al utilizar los informes de Google Analytics, los/las desarrolladores/as pueden comprender claramente el comportamiento de los/las usuarios/as en las apps diseñadas en Firebase. Con esta información, pueden tomar decisiones sobre cómo comercializar la aplicación o cómo optimizar su rendimiento. Para obtener más información sobre Firebase y cómo trabaja con Google Analytics, consulta la página de producto de Firebase <https://firebase.google.com/> y la documentación de Firebase <https://firebase.google.com/docs/analytics>.
+
+![alt text](image-152.png)
+
+Antecedentes de la empresa
+
+De acuerdo a la Asociación Americana de Productos para Mascotas, las ventas de la industria de productos para mascotas en los Estados Unidos fueron de US$90.5 mil millones en 2018 y crecieron a más de US$123 mil millones en 2021.
+
+![alt text](image-153.png)
+
+Cuando Viva Chu, fundador de Good Boy Studios, adoptó a su labradoodle Coder, no imaginó que este hecho daría lugar a una idea para desarrollar aplicaciones y una plataforma de marketing enfocada en las necesidades de los dueños de mascotas en la era digital.
+
+![alt text](image-154.png)
+
+A las personas les gusta publicar contenido creativo de sus mascotas en las redes sociales e incluso crear identidades digitales para personificar a sus amigos peludos. Aprovechando esta tendencia, Good Boy Studios lanzó una aplicación llamada Pet Parade que permite a personas ganar tarjetas de regalo al compartir las fotos de sus mascotas. Los/las dueños/as también pueden participar en concursos patrocinados por empresas locales, mediante los cuales pueden ganar premios reales. Las presentaciones y los votos se recopilan en la aplicación Pet Parade, y los/las ganadores/as se anuncian en los sitios web asociados o en las tiendas locales.
+
+La aplicación Pet Parade allanó el camino para que Good Boy Studios se convierta en una plataforma líder de marketing digital en la industria de los productos para mascotas. Hoy en día, las empresas de alimentos, suministros y atención médica para mascotas utilizan la plataforma de audiencia de datos demográficos de mascotas de Good Boy Studios para obtener insights y segmentar los públicos.
+
+El desafío
+La última aplicación de Good Boy Studios, PetStar™, permite crear videos musicales de mascotas a partir de fotos subidas. Las personas pueden crear y compartir enlaces a sus videos de forma gratuita, o suscribirse a un servicio premium para descargar archivos de video terminados a sus propios dispositivos. El servicio premium también brinda acceso ilimitado a las canciones más populares de la biblioteca de música de la empresa. Para acceder a las canciones de la biblioteca que no son gratuitas, se solicita a los/las usuarios/as que se suscriban al servicio premium.
+
+Good Boy Studios utiliza un embudo de marketing para la adquisición de clientes, al igual que muchas empresas. Este embudo se compone de varios puntos de contacto que reflejan los pasos que los/las usuarios/as deben seguir para crear un video musical en la aplicación  PetStar™. Cada uno de estos pasos se define como un evento en Firebase y se monitorea mediante una exploración de embudo en Google Analytics. Cuantos más pasos complete un/a usuario/a hacia un video terminado, mayores serán las posibilidades de que se produzca una conversión al servicio premium. Para la app PetStar™, los eventos de Firebase que se monitorean en la exploración de embudo de Google Analytics incluyen:
+
+Evento 1: Hacer clic para crear un video
+
+Evento 2: Subir la foto de la mascota
+
+Evento 3: Marcar el centro de la cabeza de la mascota
+
+Evento 4: Establecer marcadores para los ojos de la mascota
+
+Evento 5: Establecer un marcador para la nariz de la mascota
+
+Evento 6: Establecer múltiples puntos para definir los movimientos de la boca de la mascota
+
+Evento 7: Seleccionar una canción para el video musical (y, según la canción que se elija, posiblemente suscribirse al servicio premium)
+
+Evento 8: Grabar el video
+
+Evento 9: Previsualizar el video
+
+Evento 10: Compartir un enlace al video con otras personas en las redes sociales
+
+Evento 11: Descargar el video (y suscribirse al servicio premium)
+
+A continuación, se muestra un conjunto de marcadores de la boca creados en la app en el evento 6.
+
+![alt text](image-155.png)
+
+Tal como suele observarse en un embudo de marketing, no todas las personas que comienzan a crear un video en la aplicación PetStar™ realmente lo terminan. Usando Google Analytics, Good Boy Studios encontró que muchas personas abandonaban la aplicación durante el evento 6, donde se establecen los marcadores para la boca de una mascota, y durante el evento 8, al momento de grabar un video.
+
+El enfoque
+Good Boy Studios está implementando pruebas A/B para identificar las estrategias más efectivas para aumentar el número de usuarios/as que finalizan exitosamente la creación de un nuevo video. El objetivo de la empresa es reducir la tasa de abandono, especialmente en el evento 6, cuando se establecen los marcadores de la boca de la mascota, y en el evento 8, cuando las personas graban su video.
+
+Los resultados
+Good Boy Studios está modificando su aplicación PetStar™ con base en el análisis de los datos de las pruebas A/B.
+
+Incorporación de notificaciones de usuario
+
+Para ayudar a reducir la cantidad de personas que abandonan la aplicación en el evento 6, cuando se establecen los marcadores para la boca de una mascota, Good Boy Studios comenzó a usar la función de pruebas A/B en Firebase, para probar diferentes notificaciones y consejos para la colocación de los marcadores. Con el objetivo de determinar qué aumenta la finalización de los videos en un plazo de 24 horas después de que los/las usuarios/as abren la aplicación por primera vez, la empresa está probando interacciones como:
+
+Pedir al/la usuario/a que verifique que la boca de la mascota esté cerrada antes de establecer un marcador.
+
+Ofrecer consejos mediante el uso de un ícono de bombilla.
+
+Permitir al/la usuario/a hacer zoom donde se colocó un marcador.
+
+En una prueba A/B, se probaron dos consejos:
+
+Variante A: Consejo - “Cuando coloques la boca de tu mascota, amplía para hacer un acercamiento y tener más control sobre cada punto”.
+
+Variante B: Consejo: “Asegúrate de que la boca de tu mascota esté cerrada para obtener los mejores resultados”.
+
+A continuación, se muestran los resultados de la prueba A/B en Firebase.
+
+![alt text](image-156.png)
+
+El consejo representado en la prueba A/B como variante A mejoró la finalización del evento de marcar la boca de la mascota en un 44% sobre la línea de base sin consejo. El consejo representado en la prueba A/B como variante B mejoró la finalización del evento de marcar la boca de la mascota en un 25% sobre la línea de base.
+
+El conjunto completo de resultados de la prueba A/B todavía no se ha recabado, pero Good Boy Studios está en una buena posición para determinar qué combinación de notificaciones y consejos para el/la usuario/a generará el mayor aumento para la finalización del evento (marcador de la boca de la mascota) y la terminación general del video.
+
+Agregar un indicador de GRABACIÓN DE CANCIÓN
+Good Boy Studios también descubrió usando pruebas A/B de múltiples variantes que agregar un indicador de GRABACIÓN DE CANCIÓN en la parte superior de la aplicación cuando las personas están grabando un video musical era lo más efectivo para reducir el abandono en el evento 8. Los/las usuarios/as reciben feedback instantáneo de que están produciendo con éxito su primer video.
+
+![alt text](image-157.png)
+
+En la exploración de embudo de Google Analytics a continuación, la tasa promedio de terminación de la grabación fue del 67.15% después de que se añadió el indicador de GRABACIÓN DE CANCIÓN. La mejora fue más dramática para los/las usuarios/as de iOS con una tasa de terminación del 70.01%. La exploración del embudo de base (no se muestra) tuvo una tasa promedio de terminación de la grabación del 62%.
+
+![alt text](image-158.png)
+
+La exploración del embudo de Google Analytics muestra una tasa promedio de terminación de la grabación del 67.15%, y de 70.01% y 63.21% para los/las usuarios/as de iOS y Android, respectivamente.
+
+Conclusión
+Las pruebas A/B y los análisis ayudan a las empresas a comercializar y mejorar sus aplicaciones. Para Good Boy Studios, las pruebas A/B en Firebase y las exploraciones de embudos en Google Analytics ofrecen claras ventajas para monitorear y mejorar la tasa de conversión. A medida que la empresa continúa evaluando dónde los/las nuevos/as usuarios/as se están quedando atascados en el embudo, sus desarrolladores/as pueden mejorar las notificaciones y los consejos para quienes utilizan la aplicación. Este proceso será continuo para aumentar las tasas de terminación del video y de conversión, así como para aumentar la adquisición de clientes en general en el servicio premium.
 
 ### ¿Qué logra una campaña de marketing exitosa?
 
