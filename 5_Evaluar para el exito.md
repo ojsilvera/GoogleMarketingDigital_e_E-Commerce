@@ -2732,7 +2732,84 @@ Gráficos para evitar: un gráfico de columnas o barras agrupadas puede llegar a
 
 #### Haz que tus presentaciones sean accesibles
 
+En esta lectura, aprenderás cómo garantizar que tus presentaciones sean accesibles para todos y todas.
+
+Concéntrate en la inclusión
+A lo largo de tu carrera, trabajarás con personas con discapacidades. Hay algunas opciones de diseño específicas que puedes usar para aplicar en tus informes, presentaciones y contenido para que tengan el impacto deseado en tus colegas, particularmente en aquellos con discapacidades visuales o auditivas. Estas decisiones incluyen la evaluación de todo el texto que uses en tu presentación, como también de todos los elementos visuales que agregues, como tablas, gráficos y fotos.
+
+Hay una serie de medidas que puedes tomar para que tus imágenes sean más inclusivas para las personas con todos los niveles de capacidad.
+
+Nota: No siempre te darás cuenta si una persona tiene una discapacidad, por lo que debes estar preparado/a para todas las posibilidades. Incluso si conoces a todas las personas ante las que estás presentando, existe la posibilidad de que no te hayan revelado que alguna tiene una discapacidad.
+
+Lista de verificación
+Mientras creas presentaciones para tus colegas con discapacidades, consulta esta lista de verificación para asegurarte de ser lo más accesible posible.
+
+Recursos visuales
+
+Elige combinaciones de colores de alto contraste para las imágenes. Si el fondo es blanco, usa un color oscuro para el texto y las imágenes. Si el fondo es oscuro, usa colores más claros, como el blanco, para el texto y las imágenes.
+
+Usa texto grande y fuentes fáciles de leer en tus diapositivas.
+
+Si vas a usar videos en tu presentación, asegúrate de incluir subtítulos y ofrecer una transcripción disponible para descargar.
+
+Para imágenes como cuadros y gráficos, resalta los datos más importantes a través de etiquetas en lugar de leyendas.
+
+![alt text](image-173.png)
+
+Esta diapositiva, extraída de una presentación anterior de este programa, incluye colores de alto contraste y texto grande para que sea fácil de visualizar.
+
+No te bases únicamente en los colores para contar tu historia a través de datos. Por ejemplo, algunas personas necesitarán ver gráficos que presenten patrones variables para poder interpretar la información.
+
+![alt text](image-174.png)
+
+![alt text](image-175.png)
+
+Nota: En los gráficos anteriores se usan datos ficticios.
+
+Diseño de las diapositivas
+
+Si estás haciendo tu presentación ante un grupo, tómate tu tiempo para que todas las personas puedan entender los puntos principales de cada diapositiva.
+
+Incluye texto alternativo en todas las imágenes o elementos visuales que incorpores a tu presentación.
+
+No llenes las diapositivas de datos: demasiada información puede distraer, abrumar y hacer que el público no logre enfocarse en tu presentación.
+
+![alt text](image-176.png)
+
+Esta diapositiva, extraída de una presentación anterior de este programa, utiliza bien el espacio y no resulta abrumadora para el público.
+
+Presentación
+
+Lee todo el texto de cada diapositiva de forma clara y lenta. Haz énfasis en las imágenes y los detalles más importantes para que tu público no se pierda de nada.
+
+Si estás haciendo una presentación de manera virtual, asegúrate de que todas las personas que asistan puedan oírte y de que estés usando la función de subtítulos en tu plataforma de videollamadas.
+
+Comparte la presentación con tu público para que puedan mirarla en detalle durante la reunión y volver a revisarla al finalizar, en caso de que se hayan perdido de algo.
+
+Resérvate tiempo suficiente para preguntas al final.
+
+Conclusiones clave
+Asegurarte de que tu trabajo sea accesible e inclusivo es una parte integral de la creación de presentaciones de calidad y sirve también para fomentar un ambiente de trabajo saludable. Nunca debes permitir que alguien no entienda o que algo no le quede claro por su discapacidad, ni tampoco que no se cumplan los objetivos por falta de accesibilidad. Asegúrate de seguir esta lista de verificación cada vez que crees una presentación. Si así lo haces, es más probable que todas las personas se sientan incluidas.
+
+Recursos para obtener información adicional
+
+Cómo hacer tu documento o presentación más accesibles con la ayuda de Google <https://support.google.com/docs/answer/6199477?hl=en>
+
+Artículo en Medium sobre accesibilidad para personas daltónicas <https://medium.com/carbondesign/color-palettes-and-accessibility-features-for-data-visualization-7869f4874fca>
+
+Información adicional de la Iniciativa de Accesibilidad Web sobre presentaciones accesibles <https://www.w3.org/WAI/teach-advocate/accessible-presentations/>
+
+Lista de recursos de los Certificados de Carrera de Google <https://sites.google.com/corp/google.com/certs-a11y/accessibility-resources#h.866hbeq0xda>
+
 ### Presenta los datos clave a las partes interesadas
+
+#### Crear presentaciones eficientes
+
+#### Lectura: LecturaPrácticas recomendadas para la presentación de los datos
+
+#### Lectura: LecturaActividad de ejemplo: Presentar los datos clave a las partes interesadas
+
+#### Lectura: LecturaEvaluar y mejorar las presentaciones
 
 ### Revisión: Compartir métricas y datos con las partes interesadas
 
