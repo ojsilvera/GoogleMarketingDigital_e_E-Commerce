@@ -2428,6 +2428,14 @@ Stakeholder analysis: a pivotal practice of successful projects <https://www.pmi
 
 #### Lectura: LecturaActividad de ejemplo: Completa un plan de comunicación con las partes interesadas
 
+Compara el ejemplo con tu plan de comunicación con las partes interesadas completo. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué hiciste bien? ¿Dónde puedes mejorar? Usa tus respuestas a estas preguntas a modo de guía a medida que avanzas en el curso.
+
+Tu plan de comunicación con las partes interesadas debe incluir lo siguiente:
+
+La información para compartir con cada parte interesada según sus necesidades primarias de información, como también su nivel de influencia e interés en la campaña.
+
+Una descripción de la mejor manera de comunicar la información para cada parte interesada, basada en el enfoque de comunicación explicado en el análisis de las partes interesadas.
+
 #### Cuestionario práctico: Pon a prueba tus conocimientos: Necesidades de las partes interesadas y estrategias de comunicación
 
 ### Prepara métricas y datos para compartir
