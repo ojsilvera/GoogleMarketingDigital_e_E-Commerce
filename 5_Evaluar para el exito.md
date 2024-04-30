@@ -2338,3 +2338,25 @@ Valor del tiempo de vida del cliente (Lifetime Value LTV o CLV): Ingresos promed
 Valor previsto del tiempo de vida del cliente (pLTV): Ingresos promedio previstos generados por las/los clientes durante un periodo que incluye el futuro.
 
 ## Compartir métricas y datos con las partes interesadas
+
+### Anticipa lo que tienen que saber las partes interesadas
+
+#### Vídeo: VídeoTe damos la bienvenida a la semana 4
+
+#### Vídeo: VídeoTrabajar con las partes interesadas
+
+#### Lectura: LecturaCómo relacionarse con las partes interesadas
+
+#### Lectura: LecturaActividad de ejemplo: Completa un plan de comunicación con las partes interesadas
+
+#### Cuestionario práctico: Pon a prueba tus conocimientos: Necesidades de las partes interesadas y estrategias de comunicación
+
+### Prepara métricas y datos para compartir
+
+### Prepara visualizaciones de datos
+
+### Presenta los datos clave a las partes interesadas
+
+### Revisión: Compartir métricas y datos con las partes interesadas
+
+### Revisión del curso: Evaluar para el éxito: analítica y medición de marketing
