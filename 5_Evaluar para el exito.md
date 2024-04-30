@@ -488,23 +488,379 @@ Además, considera que tus objetivos de rendimiento para el cuarto trimestre no 
 
 #### Habilidades en analíticas de marketing
 
+¡Hola! Vas avanzando bien en el curso. Sigue así. Al iniciar el programa, aprendiste cuáles son las habilidades que se
+demandan en comercio electrónico y marketing digital. Si sigues los cursos en el orden recomendado, ya viste las habilidades
+para estrategias publicitarias y de marketing, crear anuncios de búsqueda, display y redes sociales, ejecutar campañas de
+correo, ampliar el alcance del cliente y el reconocimiento de marca, e involucrar a clientes. Otras habilidades pueden
+clasificarse bajo la categoría de analítica. Por ejemplo, fijar y supervisar el rendimiento de la campaña, analizar
+métricas, identificar tendencias, optimizar la interacción del cliente, y obtener datos para otras campañas. La analítica de
+marketing puede aplicarse al recorrido del cliente, sitio web, aplicación o campaña. Depende del proceso de supervisión de
+KPI y objetivos de rendimiento. En una campaña, el equipo puede fijar objetivos, hacer pruebas, supervisar métricas, hacer
+ajustes y repetir el proceso hasta lograr los objetivos deseados. Se requieren herramientas de software para la analítica de
+marketing. Aquí usarás Google Analytics y Google Ads para analizar métricas y medir el rendimiento de la campaña. Verás cómo
+las herramientas como Google Ads se usan para hacer pruebas en páginas, anuncios y grupos objetivo, y cómo otras, como
+Google Optimize, se conectan a un sitio para probar contenidos. Este tipo de pruebas se llaman A/B. También se les llama
+prueba dividida o prueba de categorías. Es una prueba en línea de dos variantes que indica cuál funciona mejor. Funciona
+así: hay dos versiones de una respuesta directa. Un objetivo de una prueba A/B puede ser ver qué página y respuesta
+funcionan mejor según el número de clics. En la prueba, se divide el tráfico por igual entre ambas páginas. Es decir, el 50%
+del tráfico se dirige aleatoriamente a una página y el resto se dirige aleatoriamente a la otra. Una respuesta directa
+funciona mejor que la otra porque recibe más clics. Como resultado, se elige el anuncio que recibió más clics. Los equipos
+eligen herramientas según sus capacidades, funciones y costos. Algunas herramientas son para supervisar eventos, como
+análisis de clics, ver elementos visuales y gráficos, o ver paneles de control. Hay herramientas para analíticas más
+avanzadas. Las que usarás con frecuencia dependerán de la empresa, el equipo y las necesidades del proyecto. Disponte a usar
+herramientas que no conozcas. No importa qué herramientas usa tu equipo, es bueno saber qué hacen o no las herramientas
+antes de usarlas. Al conocer las capacidades de las herramientas que usas podrás elegir las métricas indicadas para tu
+proyecto. Recuerdo mi primera vez con Google Analytics. Había muchos informes y no sabía por dónde empezar. Con el tiempo
+logré usar informes clave y aprendí de mis clientes qué métricas eran importantes para ellos. Hice preguntas para entender
+cómo usan las analíticas para sus negocios de comercio electrónico. Al ganar más experiencia con herramientas como Google
+Analytics también podrás responder a esas preguntas. Con las métricas indicadas, tú y tu equipo podrán aprender y compartir
+las ideas más útiles.
+
 #### Introducción a Google Analytics
+
+Hay muchas herramientas para la analítica. Aquí te presentaré la demostración de Google Analytics disponible para cualquiera
+con cuenta de Google. Es una muestra de los informes posibles antes de verlos por tu cuenta. Se muestran datos en vivo de
+Google Merchandise Store y de Flood It!, una aplicación de Google Play. Al acceder a la demostración, eliges qué propiedad
+ver. En Google Analytics, una propiedad es un sitio, aplicación o página web asociados a un ID de medición único que
+habilita la recopilación de métricas. Una cuenta de Google Analytics contiene una o varias propiedades. Una única propiedad
+puede contener métricas combinadas para un sitio y una aplicación, pero varias propiedades son útiles si se tiene varios
+sitios web y aplicaciones o segmentos de usuarios/as muy distintos en un solo sitio o aplicación. Al crear una nueva
+propiedad, se indica el sitio, aplicación o página para crear un nuevo ID de medición y recopilar métricas. Inicia sesión en
+la cuenta de demostración: elige Propiedad Google Analytics 4: Google Merchandise Store. No importa la propiedad que elijas
+para la demostración, si haces clic en el menú desplegable de tu vista actual, verás las propiedades de la cuenta y hacer
+clic en Abrir para ver otra. Ahora hay propiedades UA y GA4. Las propiedades UA son de una versión anterior de GA que toma
+solo métricas del sitio. Dado que Google Analytics 4 toma métricas de sitios y aplicaciones, la nueva cuenta debe usar
+propiedades GA4. Google Merchandise Store también tiene un proyecto de atribución para ellas. La atribución es el acto de
+asignar crédito por conversiones de anuncios, últimos clics u otros puntos de contacto a lo largo del recorrido de un/a
+usuario/a hacia la conversión. Es decir, la atribución da el crédito correspondiente. Una conversión puede ser una macro o
+microconversión. Una macroconversión suele ser una compra finalizada. Una microconversión es un proceso de respuesta que
+indica que un/a cliente potencial se dirige a una macroconversión. Las microconversiones son los otros puntos de contacto en
+la definición anterior de atribución. Los proyectos de atribución organizan las macro y microconversiones. Veamos informes
+en la propiedad GA4 de Google Merchandise Store. En Informe panorámico en la parte superior, haz clic en las pestañas para
+ver datos resumidos de los/las usuarios/as, nuevos/as usuarios/as, tiempo de interacción promedio y total de ingresos. Ve
+hacia abajo y verás insights, adquisición de usuarios/as y tráfico, tendencias del usuario, mejores campañas, páginas más
+vistas, eventos principales, conversiones principales, productos más vendidos y conversiones por plataforma. La información
+automatizada es interesante: cambiará con la variación de mediciones, pero puedes ver cuando hay picos o cambios
+imprevistos. Por ejemplo, puedes ver un pico imprevisto de conversiones. El menú en tiempo real muestra la actividad de
+usuario actual en el sitio. Puedes ver los/las usuarios/as por dispositivo y geografía, por fuente, audiencia y página, y
+puedes ver los eventos y conversiones. El menú de ciclo de vida da información del ciclo de vida del cliente. El submenú
+Adquisición tiene detalles de usuarios/as y la adquisición de tráfico. Haz clic en Resumen para ver un resumen. El submenú
+Interacción tiene detalles sobre eventos, conversiones, páginas y pantallas. Si haces clic en Conversiones y vas abajo,
+verás las cifras de eventos begin_checkout y purchase para ver un cálculo de cuántos usuarios/as abandonan carritos de
+compra sin hacer una compra. El submenú Monetización tiene detalles sobre compras en el sitio y la aplicación. Por último,
+el submenú Retención tiene información sobre retención de usuarios/as y valor del tiempo de vida durante 120 días. La
+retención de usuarios mide cuántos nuevos/as usuarios/as volvieron al sitio web en un tiempo. El valor del tiempo de vida
+del cliente es el ingreso promedio generado por clientes en un tiempo. El menú Usuario muestra datos demográficos y
+dispositivos de usuarios/as del sitio. Haz clic en Resumen para ver usuarios por país, ciudad, sexo, intereses, edad o
+idioma. En Tecnología, haz clic en Resumen para usuarios por plataforma, sistema operativo, dispositivo, navegador,
+resolución de pantalla, versión de la aplicación y modelo de dispositivo móvil. Estos son los aspectos principales de los
+informes GA4 de Google Merchandise Store. Ahora sabes cómo ubicar y navegar por varias métricas en Google Analytics. En
+otras actividades del curso, usarás la demostración de nuevo, para examinar las métricas más de cerca.
 
 #### Recursos para obtener más información sobre Google Analytics
 
+En este curso, el video que presenta la cuenta de demostración de Google Analytics ofrece una visión general de las características y capacidades de monitoreo de Google Analytics. Para obtener más información sobre cómo utilizar Google Analytics, te recomendamos revisar los recursos de capacitación en línea que se describen en esta lectura, los cuales son gratuitos.. No obstante, si buscas más oportunidades de formación en línea, debes tener en cuenta que algunas pueden tener costo.
+
+Capacitación en línea gratuita
+Lee las siguientes descripciones para encontrar la propuesta de formación más adecuada para ti.
+
+Nota: Los recursos de capacitación gratuitos que se enumeran son para Universal Analytics, Google Analytics 4 (GA4) o ambos. A medida que más organizaciones migren a Google Analytics 4, se agregarán más capacitaciones para esta nueva versión.
+
+Centro de Ayuda de Google Analytics: capacitación y soporte
+
+El sitio de <https://support.google.com/analytics/answer/4553001?hl=en> contiene una lista de temas importantes y recursos que puedes explorar. Te recomendamos marcarlo como favorito en tu navegador para tenerlo a mano. Algunos de los recursos que puedes consultar son:
+
+<https://analytics.google.com/analytics/academy/> (Universal Analytics solamente) cursos de Google Analytics para principiantes, usuarios avanzados y experimentados.
+
+<https://www.youtube.com/user/googleanalytics> : videos y ayuda sobre los productos de Google Analytics.
+
+<https://www.blog.google/products/marketingplatform/analytics/>: artículos de actualidad sobre Google Analytics.
+
+<https://marketingplatformacademy.withgoogle.com/google-analytics-360>: seminarios web y tutoriales en vivo y a pedido para Google Analytics.
+
+Skillshop
+
+en <https://skillshop.withgoogle.com/> la plataforma de capacitación en línea de Google para sus herramientas y soluciones, podrás tomar cursos a tu ritmo. Al inscribirte, tendrás acceso a una variedad de recursos educativos en línea que podrás completar cuando te resulte conveniente.
+
+<https://skillshop.exceedlms.com/student/catalog/list?category_ids=1173-google-analytics>: rutas de aprendizaje para Google Analytics 4 o Universal Analytics.
+
+<https://skillshop.exceedlms.com/student/path/2938-google-analytics-individual-qualification>: cubre conceptos básicos y avanzados de Google Analytics.
+
+Capacitación en línea de pago
+
+Algunos ejemplos de cursos de capacitación que requieren pago para acceder son:
+
+<https://www.udemy.com/topic/google-analytics/>
+
+<https://www.linkedin.com/learning/search?keywords=ga4&upsellOrderOrigin=homepage-learning_nav-header-logo&trk=learning-serp_learning-search-bar_search-submit>
+
 #### Ejemplo de actividad: Familiarízate con Google Analytics
+
+<https://support.google.com/analytics/answer/6367342#access&zippy=%2Cin-this-article>
+
+Compara el ejemplo con tu presentación terminada. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué hiciste bien? ¿En qué aspectos podrías mejorar? Las respuestas a estas preguntas te servirán como guía a medida que avances en el curso.
+
+Métricas de adquisición
+
+Si revisaste las métricas de adquisición de usuarios por tu cuenta, es posible que no hayas pasado por alto la opción “Primera fuente del usuario”, donde Google Analytics desglosa la fuente de los nuevos usuarios. Los datos incluyen fuentes de servicios de búsqueda personalizados de Yahoo y Baidu. Al ingresar cualquiera de estos motores de búsqueda en el campo de búsqueda, se muestra una lista detallada.
+
+A continuación se presentan los resultados de Google y Bing
+
+![alt text](image-131.png)
+
+A continuación se presentan los resultados de Yahoo. Observa los dominios de país de los servicios de búsqueda personalizados:
+
+sg.search.yahoo.com (Singapur)
+
+fr.search.yahoo.com (Francia)
+
+in.search.yahoo.com (India)
+
+se.search.yahoo.com (Suecia)
+
+uk.search.yahoo.com (Reino Unido)
+
+au.search.yahoo.com (Australia)
+
+ca.search.yahoo.com (Canadá)
+
+co.search.yahoo.com (Colombia)
+
+us.search.yahoo.com (Estados Unidos)
+
+es.search.yahoo.com (España)
+
+ch.search.yahoo.com (China)
+
+dk.search.yahoo.com (Dinamarca)
+
+hk.search.yahoo.com (Hong Kong)
+
+pe.search.yahoo.com (Perú)
+
+pl.search.yaho3333o.com (Polonia)
+
+![alt text](image-132.png)
+
+Métricas de interacción
+
+Si revisaste las métricas de interacción por tu cuenta, es posible que no hayas pasado por alto la importancia de las métricas para los eventos. Calculaste el número de usuarios/as con abandono del carrito utilizando las métricas de los eventos begin_checkout y purchase. También calculaste el porcentaje de reducción del carrito utilizando las métricas para los eventos add_to_cart y remove_from_cart. Estas métricas son importantes de monitorear para futuras promociones o esfuerzos de remarketing. ¡Imagina aumentar las ventas volviendo a captar a estos/as usuarios/as!
+
+![alt text](image-133.png)
+
+Métricas de monetización
+
+Si navegaste por las métricas de monetización por tu cuenta, es posible que hayas notado lo útil que es la página de Resumen. Desde allí, pudiste encontrar la cantidad de compradores por primera vez y cuáles fueron los artículos más vendidos. Estas métricas son importantes para monitorear el crecimiento. ¡Imagina aumentar el número de compradores por primera vez a través de una promoción enfocada en los artículos más populares!
+
+![alt text](image-134.png)
+
+![alt text](image-135.png)
 
 #### Introducción a Google Ads
 
+Google Ads es la plataforma de Google de publicidad en línea. Con Google Ads, un/a especialista en marketing crea anuncios
+en línea para llegar a públicos específicos interesados en los productos o servicios que ofrece su empresa. Si no conoces
+Google Ads, aquí te explicaré qué es. Al trabajar en una campaña en Google Ads, debes saber qué puedes ver en el panel, cómo
+encontrar una campaña y sus métricas, cómo acceder y actuar según las recomendaciones que da Google Ads y cómo ver los
+informes. Al iniciar sesión en Google Ads, verás un panel o resumen de todas las campañas. Deberías poder encontrar tu
+campaña listada en la tarjeta de campañas en borrador o en la tarjeta de campañas en el panel. Las campañas activas se
+enumeran con enlaces. Haz clic en un enlace individual para ver la configuración de una campaña. La página de resumen
+muestra cómo van las campañas en general. Aquí encontrarás tendencias generales, volúmenes de clics, palabras clave más
+buscadas y anuncios con el mejor rendimiento. Puedes hacer clic para iniciar una nueva campaña. También puedes ver los datos
+de todas las campañas yendo a la página Campañas. Todas las campañas se enumeran junto con sus métricas como clics y
+conversiones. Puedes ajustar el marco de tiempo de las métricas para aumentar o reducir el rango en el que evalúas las
+métricas. Es importante la columna de presupuesto. Ahí verás el presupuesto gastado y las limitaciones de presupuesto de la
+campaña. Si vas a la página Recomendaciones, verás un porcentaje que sirve como nivel de optimización. Cuanto más cerca esté
+al 100%, mejor funciona la publicidad. Puedes consultar las recomendaciones en esta página para tomar medidas en uno o
+varios anuncios y mejorar la puntuación de optimización de publicidad. Si tienes más de una campaña, el nivel de
+optimización es acumulativo para todas las campañas. Cada recomendación se muestra como una tarjeta de puntuación con un
+impacto previsto. Si un impacto previsto beneficia a una campaña, puedes hacer clic en él para ver detalles de la
+recomendación. Desde ahí puedes elegir aplicar esa recomendación a la campaña. La última página de esta presentación es la
+página Informes. En esta puedes obtener informes del rendimiento de la campaña. Puedes usar plantillas de informes o crear
+un informe personalizado eligiendo las métricas que deseas incluir. Haz clic para abrir una plantilla. Por ejemplo, el
+informe de página de destino muestra las métricas de rendimiento, conversiones, días para la conversión, y más de cada
+página de destino. Estas métricas de rendimiento son útiles para poner anuncios. Aquí termina la introducción a Google Ads.
+Ahora sabes cómo mirar el panel para consultar un resumen de las campañas, ver las métricas de una o todas las campañas,
+aplicar recomendaciones a campañas para mejorar el nivel de rendimiento publicitario y usar la función de informes.
+Aprenderás a supervisar métricas específicas más adelante.
+
 #### Recursos para obtener más información sobre Google Ads
+
+En este curso, el video introductorio a Google Ads brinda una descripción general de las características de Google Ads y de las funciones de monitoreo del rendimiento de las campañas. Para obtener más información sobre cómo utilizar Google Ads, consulta los recursos de capacitación en línea descritos en esta lectura. Las listas en esta lectura corresponden a formación en línea gratuita. Si deseas, puedes buscar oportunidades de capacitación adicionales, pero puede que debas pagar para acceder a ellas.
+
+Capacitación en línea gratuita
+Lee las siguientes descripciones para encontrar la propuesta de formación más adecuada para ti.
+
+Centro de Ayuda de Google Ads: Capacitación y soporte de análisis
+
+Recomendamos marcar como favorito el sitio web del <https://support.google.com/analytics/answer/4553001?hl=en> que contiene una lista de temas clave que puedes consultar.
+
+Skillshop
+
+En Skillshop, la plataforma de formación en línea de Google para sus herramientas y soluciones, podrás tomar cursos a tu ritmo. Al registrarte, tendrás acceso a una variedad de cursos en línea que podrás completar cuando te resulte más conveniente. La capacitación ofrecida para Google Ads incluye información específica sobre:
+
+<https://skillshop.exceedlms.com/student/catalog/list?category_ids=313-google-ads-search>
+<https://skillshop.exceedlms.com/student/catalog/list?category_ids=4997-google-ads-discovery>
+<https://skillshop.exceedlms.com/student/catalog/list?category_ids=311-google-ads-display>
+<https://skillshop.exceedlms.com/student/catalog/list?category_ids=315-google-ads-video>
+<https://skillshop.exceedlms.com/student/catalog/list?category_ids=314-shopping-ads>
+<https://skillshop.exceedlms.com/student/catalog/list?category_ids=3926-google-ads-apps>
+<https://skillshop.exceedlms.com/student/catalog/list?category_ids=2823-google-ads-measurement>
+
+Puedes ver los siguientes tutoriales en video:
+
+<https://skillshop.exceedlms.com/student/path/240366-google-ads-tutorial-series-search>
+<https://skillshop.exceedlms.com/student/path/240650-google-ads-tutorial-series-display>
+<https://skillshop.exceedlms.com/student/path/256579-google-ads-tutorial-series-video>
+<https://skillshop.exceedlms.com/student/path/261131-google-ads-tutorial-series-shopping-ads>
+
+Capacitación en línea de pago
+
+Algunos ejemplos de cursos de capacitación que requieren pago para acceder son:
+
+<https://www.udemy.com/topic/google-ads/>
+<https://www.linkedin.com/learning/topics/google-ads-2>
+<https://www.coursera.org/search?query=google%20ads&>
 
 #### Otras herramientas de la analítica del marketing
 
+Has visto Google Analytics y Google Ads como ejemplos de herramientas y plataformas de analítica del marketing. En esta parte del curso, encontrarás herramientas similares y enlaces para obtener más información. A excepción de las soluciones de código abierto, que son gratuitas, existen diversos planes de suscripción y distintos precios para cada herramienta o plataforma.
+
+Nota: Este programa de certificación no promueve ni apoya ninguna de las herramientas enumeradas. El propósito es brindarte una muestra de otras herramientas disponibles en el mercado.
+
+Herramientas para la analítica del marketing
+
+A continuación, hay una lista de varias herramientas para la analítica del marketing:
+
+<https://clicky.com/>
+<https://usefathom.com/>
+<https://www.gosquared.com/>
+<https://heap.io/>
+<https://www.kissmetrics.io/>
+<https://mixpanel.com/>
+<https://oribi.io/features>
+<https://statcounter.com/>
+<https://www.visitor-analytics.io/en/?fp_ref=adam48>
+<https://www.w3counter.com/>
+<https://www.woopra.com/>
+
+Suites de marketing con analítica
+
+Entre las suites de software de marketing que ofrecen funciones de analítica se incluyen:
+
+<http://www.awstats.org/>
+<https://count.ly/web-analytics>
+<https://matomo.org/>
+<https://www.openwebanalytics.com/>
+<https://plausible.io/>
+
+Plataformas publicitarias
+
+A continuación, algunas plataformas publicitarias y enlaces para obtener más información:
+
+<https://www.buysellads.com/>
+<https://www.media.net/>
+<https://www.adbutler.com/>
+
 #### Tim - Usar datos de la analítica del marketing
+
+Hola. Soy Tim y soy Gerente de Desarrollo de Socios Estratégicos en Google para análisis de marketing. Antes de unirme al
+equipo de Google y de trabajar en análisis de marketing, era un patinador olímpico. La transición de ser un atleta y luego
+pasar al espacio académico fue algo aterradora. Creo que estaba fuera de mi zona de confort en ese momento porque, durante
+mi época de entrenamiento, tomé una pausa en mis estudios. Así que fue una gran transición y un cambio brusco. Pero creo que
+mucho de lo que aprendí como atleta me ayudó a enfrentar esos desafíos. Dentro de mi rol en Google, trabajo de cerca con
+terceros externos que aplican modelos de mix de marketing, y actúo como una especie de conducto entre Google y los datos que
+proporcionamos a nuestros socios externos, así como los equipos de cuentas, analistas y otras personas del lado del
+proveedor que interpretan y miden esos datos. El mix de marketing es un modelo estadístico que usan los/las anunciantes para
+medir la efectividad de su planificación general de medios. Incorporamos componentes en mix de marketing como televisión,
+radio, medios impresos o plataformas digitales como buscadores, videos en línea de YouTube, por ejemplo, y les da a los/las
+anunciantes un ranking sobre el rendimiento de sus diferentes canales de medios. Los datos principales que usamos como
+entradas para el análisis de marketing son las calificaciones de TV, los clics de búsqueda, las impresiones de búsqueda y
+las impresiones en línea y digitales. Y combinamos eso con los datos de ventas para construir un modelo estadístico que
+arroja cuánto está generando cada medio de comunicación y cada vehículo de marketing para una marca en particular. Y creo
+que esa es la parte más interesante del trabajo. Tienes que tomar esa información y, luego, verla en el contexto de ese/esa
+anunciante, hacer lo mejor que puedas para darle sentido y comenzar a profundizar. De acuerdo, veo que este número en
+particular para la TV es mayor que este número específico para un canal digital. ¿Por qué sucede eso? ¿Cómo se ejecutó en el
+mercado? ¿Cuál fue el público objetivo? Ahí es cuando confías en tu equipo y en tu gerente y otras personas para entender
+todo eso. Como trabajo multifuncional pensamos: estos son los datos que me da el modelo, ¿Cómo puedo hacerlos procesables?
+¿Cómo puedo hacerlos relevantes? Y luego, ¿cuál es el contexto empresarial u otras consideraciones que van a conducir esa
+llamada a la acción? Definitivamente, vi ejemplos de modelos en los que un resultado previsto es totalmente contrario a lo
+que el/la anunciante espera. Durante un año, trabajé en un producto de bienes de consumo empaquetados que tiene una base de
+usuarios/as bastante amplia, e hice una campaña dirigida a un grupo de afinidad específico. Eso terminó aumentando el costo
+por punto de esa ejecución de medios. Descubrimos que no funcionó muy bien porque intentaban aplicar un caso de uso
+específico para un producto que tiene un carácter general y una base de mercado muy amplia. Y creo que simplemente estaban
+muy limitados y al recibir los resultados del modelo; y analizar los datos subyacentes les permitió hacer una mejor
+estrategia para esa marca en particular. Afortunadamente, cuando cambiaron su estrategia para el año siguiente, notaron un
+rendimiento mucho mayor al que vieron el año anterior, cuando hicieron la campaña segmentada. Mi mejor consejo para las
+personas que comienzan ahora en su carrera de análisis de marketing es: sean flexibles, ágiles y tengan capacidad de
+adaptación. El marketing es una industria que evoluciona rápidamente. Si bien los fundamentos de medición siguen siendo los
+mismos, lo que realmente ves e interpretas cambia rápidamente. Así que sé ágil, sigue aprendiendo y enfócate en los datos y
+en los datos subyacentes, cuestionando esos datos y tratando de entender el por qué detrás del qué.
 
 #### Big data para la analítica y automatización del marketing
 
+Hola. Empecemos con una pregunta: ¿Quisieras saber qué deparará el futuro para tu profesión? El marketing se transforma con
+el auge del big data, la analítica predictiva y la IA. ¿Cómo será el marketing del futuro? Aquí te presento algunas
+posibilidades. Los/las especialistas en marketing observan varias tendencias. Dos tienen que ver con la analítica y otras
+dos con la automatización. El big data posibilita esto. El big data es un campo de analítica que sistemáticamente mina y
+extrae información de conjuntos de datos muy grandes para obtener insights. El big data también se refiere a los conjuntos
+de datos grandes. Las empresas financieras lo usan para analizar riesgos. Los fabricantes, para optimizar cadenas de
+suministro. Veamos cómo se usa el big data en el marketing. La primera tendencia es la analítica en tiempo real: monitorea
+los datos inmediatos para tener insights y responder rápido a eventos. Los/las especialistas en marketing solo pueden
+ajustar una campaña al ritmo en que hacen seguimiento de los datos. Cuanto más detallados sean los datos, mejor. Si se reúne
+big data y se filtra más rápidamente, los/las especialistas en marketing pueden responder a los aspectos de bajo rendimiento
+de una campaña de inmediato o en tiempo real. Si la analítica les dice que un público objetivo no responde, pueden ajustar
+el mensaje de ese público de inmediato. El big data también desempeña un papel en la analítica predictiva. Con datos
+históricos, la analítica predice qué podría suceder. Si esta se aplica a modelos creados con historiales de navegación
+colectivos, los/las especialistas en marketing pueden indentificar el público correcto para una campaña exitosa, desde el
+inicio. La analítica predictiva ayuda también a elegir una página óptima o un anuncio sin hacer una prueba A/B, lo que
+ahorra tiempo y dinero. El marketing automatizado usa analítica en tiempo real para automatizar las actividades. Por
+ejemplo, ajusta automáticamente un mensaje de bajo rendimiento. Así, aumenta el impacto de campañas de marketing multicanal.
+El marketing automatizado puede ser muy efectivo al promover y mantener programas de fidelización. La inteligencia
+artificial (IA) es un campo que desarrolla máquinas y software inteligentes que simulan el pensamiento o trabajo humano. Las
+campañas multicanal son difíciles de gestionar por la cantidad de contenido que debe crearse para cada canal. Si la IA puede
+usarse para crear y personalizar contenido, los/las marketers pueden dar experiencias en contexto específico a los/las
+usuarios/as; una experiencia optimizada en comercio electrónico convierte más navegadores en compradores. Estas tendencias
+se están integrando a plataformas y sistemas. La automatización y la inteligencia artificial son un nuevo estándar. Por
+ejemplo, Google Ads ofrece pujas automáticas, y su puja inteligente usa aprendizaje automático para analizar datos en tiempo
+real y mostrar el mensaje correcto a la/el cliente adecuado/a. Algo es seguro: a medida que estas tendencias crezcan, habrá
+nuevos puestos en marketing. Probablemente acertarás si dices que el futuro de la analítica ya llegó.
+
 #### Cómo prepararse para un futuro sin cookies en el mundo de la publicidad y el comercio electrónico
+
+Una cookie (galleta) es un dulce horneado. También es un archivo pequeño que se guarda en las computadoras para almacenar las preferencias del usuario y otra información. En esta lectura, se describe cómo las cookies se han utilizado tradicionalmente en la publicidad y el comercio electrónico, y cómo también han planteado preocupaciones en torno a la privacidad de las personas. Has aprendido que el futuro del marketing dependerá de la analítica predictiva y en tiempo real, las campañas autónomas y la inteligencia artificial. Lo que también es cierto es que las y los especialistas en marketing tendrán que prepararse para un futuro sin cookies, a medida que las y los usuarios se muestran más firmes a la hora de proteger su privacidad. Algunos navegadores ya han implementado limitaciones, y muchos de estos tienen planes para eliminar gradualmente el uso de ciertos tipos de cookies.
+
+Cómo se utilizan las cookies
+Desarrolladas por primera vez en 1994, las cookies fueron creadas para guardar la configuración de las y los usuarios en los sitios web. Pueden utilizarse para monitorear cómo llegan las personas a un sitio y de qué forma interactúan con él. Inicialmente, en los primeros tiempos del comercio electrónico, las cookies eran específicas de cada proveedor y ayudaban a las empresas a seguir el estado de las sesiones de las y los usuarios. Con el tiempo, las cookies también comenzaron a ser utilizadas por los equipos de marketing y de análisis de datos para recopilar información sobre quienes visitaban un sitio web.
+
+Remarketing
+El remarketing es el proceso de utilizar anuncios o correos electrónicos de seguimiento para interactuar con un/a cliente potencial que ha visitado un sitio web pero no ha realizado una compra. La información de usuario guardada en las cookies de los navegadores permite a las empresas relacionarse con estas personas para el remarketing.
+
+Herramientas de analítica
+Las cookies mantienen un registro de la sesión del usuario y de la información del dispositivo, permitiendo a herramientas como Google Analytics recopilar información sobre el inicio de sesión y la fuente de tráfico. Los eventos configurados en Google Analytics para el monitoreo de sitios web o apps móviles resumen y comunican esta información. Los recuentos de conversiones en Google Ads también se basan en cookies para determinar con qué anuncios o listas de productos interactúan los usuarios.
+
+Recopilación de datos de terceros
+Como se mencionó con anterioridad, las cookies fueron diseñadas originalmente para ser específicas de un dominio o sitio web. En otras palabras, los datos del usuario almacenados en una cookie estaban destinados solo para su uso en un sitio web específico. Una cookie establecida por el propietario del sitio web se denomina cookie de origen y utiliza el dominio del sitio web.
+
+Sin embargo, las cookies de terceros utilizadas en publicidad tienen la capacidad de recopilar y rastrear una mayor cantidad de información sobre las personas. En contraste con las cookies desarrolladas por el propietario del sitio web, las cookies de terceros, como su nombre lo indica, son distribuidas por herramientas de terceros y utilizan el dominio del anunciante, en lugar del dominio del sitio web. Un ejemplo de ello es cuando un tercero muestra un anuncio de banner y entrega una cookie  a los usuarios. Como estos anuncios persisten en varios sitios web visitados por las y los usuarios, esa cookie sigue recopilando información, la cual puede no ser anónima y ser vendida por los terceros que recopilan dicha información. Estas cookies de terceros representan una de las principales preocupaciones en torno a la privacidad. Algunos terceros son capaces de enviar literalmente cientos de cookies en la primera visita de un usuario, y la mayoría de ellas se utilizan para rastrear sus comportamientos.
+
+Alternativas a las cookies
+La publicidad y el comercio electrónico tendrán que evolucionar para adaptarse a un mundo sin cookies. Para hacer frente al desafío de la privacidad que plantean estos nuevos tiempos, las y los tecnólogos están desarrollando alternativas como la publicidad basada en intereses y los nuevos métodos para el remarketing de sitios web.
+
+Publicidad basada en intereses (IBA)
+La publicidad basada en intereses o IBA se basa en comportamientos de navegación generalizados en lugar de en los comportamientos de navegación de individuos específicos para la segmentación de los anuncios.
+
+El aprendizaje federado de cohortes (FLoC) es un mecanismo que permite agrupar a las personas con intereses similares de búsquedas sin el uso de un identificador único por navegador.. Los anunciantes pueden así observar los comportamientos de navegación de las personas de una cohorte en lugar de por sus actividades individuales. Los anuncios se pueden personalizar en función de la cohorte de la que forme parte una persona.
+
+Los mecanismos de programación aún están en fase de desarrollo. Lo más probable es que leas sobre otras propuestas para implementar la IBA hasta que se adopte ampliamente una solución que funcione.
+
+Servidores de confianza para remarketing de sitios web
+Para el remarketing de sitios web, las y los especialistas en marketing deben ser capaces de  crear y gestionar audiencias preferidas sin utilizar cookies de terceros. Aunque se están discutiendo muchas opciones, una alternativa podría ser un servidor de confianza que tenga permiso para almacenar cierta información para un proceso de puja de campañas publicitarias.
+
+Conclusiones clave
+Las cookies darán paso a nuevas soluciones. En publicidad y comercio electrónico, estas soluciones deben permitir a las y los especialistas en marketing interactuar selectivamente con las y los  usuarios mientras mantienen su derecho a la privacidad. La creatividad y la automatización ayudarán a las organizaciones de marketing a hacer la transición hacia un futuro sin cookies.
+
+Recursos para obtener información adicional
 
 ### Repaso: Introducción a “Evaluar para tener éxito: analítica y medición de marketing”
 
