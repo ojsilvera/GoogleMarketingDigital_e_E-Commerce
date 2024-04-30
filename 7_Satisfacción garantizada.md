@@ -2040,6 +2040,63 @@ electrónico a medida que sucede.
 
 ### Aplica tus habilidades en un entorno laboral
 
+#### Te damos la bienvenida a la semana 3 curso 7
+
+En 2020, los cambios globales forzaron a la gente quedarse en su casa. Como no se podía salir a comprar, creció mucho la demanda de compra en línea. Según un informe de 2021, las/los compradores digitales llegaron a ser 2140 millones, poco más de un cuarto de la población mundial. Esto generó un aumento en los empleos de comercio electrónico para candidatos/as como tú. Muchas personas decidieron cursar este programa con la intención de conseguir uno de esos nuevos empleos. Ahora, que sabes mucho sobre comercio electrónico y marketing digital, es hora de buscar trabajo. Aquí te ayudaré a prepararte para la entrevista laboral. Completaremos un proyecto práctico relacionado con este escenario, luego exploraremos el proceso de entrevista, incluyendo cómo preparar una cartera para una solicitud de empleo y cómo crear un currículum vitae (CV). Luego verás cómo prepararte para el proceso de entrevista y qué esperar de ella. Para finalizar, analizaremos preguntas comunes de entrevistas. Estamos llegando al final del programa. ¡Hazlo con fuerza!
+
+#### Introducción al proyecto
+
+¿Estás listo/a para un desafío? Hasta ahora, te he guiado por videos para presentarte o preguntarte sobre nuevos conceptos de prácticas recomendadas en comercio electrónico. Ahora, pon a prueba esas habilidades. En esta sección, harás un proyecto basado en escenarios. La sección te prepara para un futuro en comercio electrónico y marketing digital con un vistazo de las posibles tareas que podrás tener en un empleo. Al terminar el proyecto, podrás usarlo y mostrar tu conocimiento a futuros empleadores. Ve a los siguientes elementos para conocer más sobre el proyecto.
+
+#### Descripción general del proyecto de fin de curso
+
+Felicitaciones por llegar a la última sección del curso.
+
+A continuación, participarás en una serie de actividades basadas en escenarios. Su propósito es demostrar tu capacidad para aplicar los conceptos que has aprendido a lo largo del Certificado de Carrera de Google en Marketing Digital y Comercio Electrónico a través de simulaciones de juego de roles.
+
+Descripción general del caso
+Sinclair Verde Lamp es una empresa minorista de muebles con tienda física, que tiene su sede en Phoenix, Arizona. Lo que la distingue es su compromiso con la reducción de residuos. Para ello, transforma estos residuos en lámparas, a través de un proceso conocido como “reciclaje”. Además, una parte de cada venta se dona a organizaciones sin fines de lucro que apoyan el medio ambiente.
+
+![alt text](image-179.png)
+
+Recientemente, la empresa creó una tienda en línea que tiene como objetivo principal crear conciencia de marca y atraer visitas a su tienda física.
+
+Para lograrlo, ha contratado los servicios de Good Mercury Marketing, una agencia de marketing digital y comercio electrónico, en la cual trabajas en un puesto de nivel inicial, para desarrollar un plan estratégico de marketing digital.
+
+Estrategia de marketing digital
+
+A continuación, se enumeran los detalles clave del plan:
+
+![alt text](tabla.png)
+
+A continuación
+
+Tu función es apoyar los esfuerzos de marketing digital y comercio electrónico. Próximamente, se te pedirá que completes tareas específicas para alcanzar los objetivos de marketing y ventas de tu cliente, que incluyen responsabilidades previas y posteriores al lanzamiento.
+
+#### Actividad de ejemplo: Crea una propuesta interna de marketing
+
+Compara el ejemplo con tu propuesta interna de marketing. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué hiciste bien? ¿En qué aspectos podrías mejorar? Las respuestas a estas preguntas te servirán como guía a medida que avances en el curso.
+
+Nota: El ejemplo representa una forma posible de completar la actividad. Tu propuesta interna de marketing probablemente diferirá de ciertas maneras.
+
+Revisemos cada sección de la propuesta interna de marketing:
+
+Paso 1: Selecciona hasta dos estrategias de marketing y explica
+
+Resumen: Se seleccionan las estrategias de marketing en redes sociales y videomarketing y se explica por qué fueron elegidas.
+
+Paso 2: Selecciona una categoría de contenido
+
+Resumen: En esta sección, se seleccionó la categoría de contenido inspiracional. La explicación conecta el mensaje fuerte de la marca con sus clientes potenciales. Además, se menciona dónde aparecerán los anuncios y por qué.
+
+#### Actividad de ejemplo: Ajusta las palabras clave de tu campaña
+
+#### Caso práctico: Cómo ShearShare se recuperó de anuncios fallidos
+
+#### Actividad de ejemplo: Crea una presentación de un informe de marketing
+
+#### Recursos para el entorno de trabajo
+
 ### Prepara una cartera para entrevistas de trabajoPrepara una cartera para entrevistas de trabajo
 
 ### Prepárate para las entrevistas de marketing digital y comercio electrónico
