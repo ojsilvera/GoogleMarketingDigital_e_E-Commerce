@@ -964,8 +964,6 @@ Vuelo: (consultar duración).
 
 #### Te damos la bienvenida a la semana 2 curso 5
 
-#### Empieza a usar Google Analytics
-
 ¡Hola de nuevo! Si sigues este curso en orden, seguro ya conoces Google Analytics y Google Ads. En esta parte del curso,
 verás cómo empezar a recopilar mediciones en estas herramientas y monitorear métricas. Para los videos de esta lección, se
 necesita un nivel de acceso de las herramientas para visualizar métricas y editar informes. En Google Analytics, este es el
@@ -980,7 +978,7 @@ las herramientas de analítica recopilan mucha información, se deben realizar i
 métricas más importantes para tu estrategia de marketing digital. Querrás asegurarte de estar usando las métricas correctas
 para encontrar la información más precisa y convincente.
 
-#### Etiquetado global de sitios web y Google Tag Manager
+#### Empieza a usar Google Analytics
 
 Los videos de este curso muestran una cuenta de prueba de Google Analytics que ya está en funcionamiento para un sitio web y una aplicación móvil. Esta lectura te dará una descripción general de lo que se requiere para configurar una nueva cuenta de Google Analytics, con el fin de monitorear un sitio web o aplicación.
 
@@ -1063,7 +1061,7 @@ Consulta los siguientes artículos para obtener instrucciones sobre cómo config
 
 <https://support.google.com/analytics/answer/1008015?hl=en>: instrucciones para configurar Universal Analytics (te dará soporte continuo de sitios web que utilizan UA).
 
-#### Trabaja con Google Analytics: monitorear métricas
+#### Etiquetado global de sitios web y Google Tag Manager
 
 Quizás te preguntes cómo las herramientas de análisis son capaces de monitorear el rendimiento de un sitio web. Las herramientas como Google Analytics solo pueden monitorear los sitios web que se etiquetaron para que tengan permitido hacerlo. En otras palabras, la etiqueta, o pieza de código, debe ejecutarse en cada sitio web para que estas herramientas los puedan reconocer. Esta lectura describe dos métodos de etiquetado: usar una etiqueta global de sitio o usar Google Tag Manager.
 
@@ -1094,13 +1092,157 @@ La etiqueta global de sitio funciona solo con las herramientas de Google, mientr
 
 Todas las etiquetas se implementan mediante el código JavaScript, pero Google Tag Manager ofrece la característica adicional de una interfaz gráfica centralizada para implementarlas.
 
+Recursos para obtener información adicional
+
+Puedes consultar los siguientes enlaces para obtener más información sobre el uso de la etiqueta global de sitio o Google Tag Manager:
+
+<https://support.google.com/tagmanager/answer/7582054?hl=en> Tag Manager y gtag.js
+<https://support.google.com/tagmanager/answer/9442095> Etiquetas de Google Analytics 4
+<https://support.google.com/tagmanager/answer/6107124?hl=en&ref_topic=6333310> Implementar Universal Analytics con Tag Manager
+
+#### Trabaja con Google Analytics: monitorear métricas
+
+Ya viste y exploraste los informes en la cuenta de prueba de Google Analytics. En este video verás cómo Google Analytics recopila información y qué es lo que la información recopilada te dice. Todo empieza con los eventos. Google Analytics recopila datos cuando ocurre un evento. Si se fija una propiedad de GA4 para un sitio o una aplicación, los eventos se activan automáticamente para recopilar información. Esta información tiene propiedades básicas del/a usuario/a, las acciones que toma e información de la sesión. Algunos ejemplos de eventos que se fijan automáticamente son la primera visita: cuando un/a usuario/a visita por primera vez el sitio; e inicio de sesión: cuando el/la usuario/a interactúa con el sitio web. Se pueden activar otros eventos habilitando la medición mejorada. Algunos ejemplos de métricas mejoradas son la vista de página: cuando se carga una página; descarga de archivos: cuando un/a usuario/a hace clic en un enlace a un archivo; y vista de los resultados de búsqueda: cuando se hace una búsqueda en un sitio. Los tipos de eventos finales son los que los activa un/a desarrollador/a de forma programática para un sitio. Ejemplos: compartir, que recopila datos cuando un/a usuario/a comparte contenido, agregar al carrito, cuando un/a usuario/a agrega un artículo al carrito, y compra, cuando un/a usuario/a realiza una compra. Quizás no te encargues de crear eventos, pero debes saber buscarlos. En la cuenta de prueba, puedes ver una lista de eventos de una propiedad GA4. Haz clic en el ícono Configurar en el panel de navegación; selecciona Eventos. La lista de eventos se ordena alfabéticamente; se ven algunos que se describen como Agregar a carrito. Cada evento activado tiene dimensiones asociadas a él. Las dimensiones son los atributos del evento que determinan las métricas recopiladas. Puedes usar dimensiones para ver cómo los/las usuarios/as llegan al sitio web o aplicación. Por ejemplo: ¿llegan a través de una búsqueda o al hacer clic en un enlace enviado por correo electrónico? Las dimensiones también recopilan los dispositivos que fueron usados para visitar un sitio web. Al recopilar métricas especializadas, se agregan dimensiones personalizadas. Un ejemplo de cuándo una dimensión personalizada es necesaria es al agregar etiquetas UTM a las URL. UTM hace referencia al módulo de monitoreo de Urchin, que se llama así por la empresa de software Urchin, que desarrolló este método. Un UTM es una etiqueta de texto agregada a una URL para monitorear su contenido. Así funciona con una campaña publicitaria: En el primer ejemplo, "utm_source" es la fuente del tráfico hacia la página de descuentos; y "utm_campaign" es el nombre de la campaña. Aquí, las etiquetas UTM habilitan el monitoreo de usuarios/as que hacen clic en el enlace a la página de descuentos desde Twitter. En el segundo ejemplo, "utm_medium" monitorea el medio publicitario, como correo electrónico. Puedes monitorear otros medios reemplazando el correo electrónico con otro tipo de publicidad, como un boletín informativo. En la cuenta de prueba, hay una lista de dimensiones personalizadas. Haz clic en el ícono Configurar en el panel de navegación. Selecciona Definiciones personalizadas. Estarás en la página predeterminada de Dimensiones personalizadas. Aquí verás las dimensiones personalizadas para etiquetas UTM. Previamente viste dos métricas importantes para la conciencia de marca: cantidad de veces compartidas y de impresiones. Si usas Google Analytics para monitorear la conciencia de marca, verás que el evento Compartir está activado para rastrear enlaces compartidos y las etiquetas utm_source y utm_campaigns se agregan a las URL. También verás que las dimensiones personalizadas de las etiquetas UTM están configuradas en Google Analytics. Por último, verás que el evento Vista de páginas está activado para monitorear las impresiones de las páginas de contenido de marketing. Antes en el programa, viste que la tasa de conversión es una métrica importante en las campañas de correo. La tasa de conversión es el porcentaje de destinatarios/as que usaron un enlace del correo y realizaron una compra. Para monitorear estas tasas de una campaña de correo con Google Analytics, el evento Compra debe estar configurado. Confirma que las etiquetas utm_medium y utm_campaign hayan sido agregadas a las URL que compartes en los correos electrónicos. Y confirma que sus dimensiones personalizadas estén configuradas en Google Analytics. Puedes ver la información personalizada de la campaña en el informe de adquisición de tráfico en Adquisición.
+Reproduce el video desde :4:24 y sigue la transcripción4:24
+En la cuenta de prueba, desplázate hacia abajo hasta más de la mitad del informe y cambia de Fuente de sesión por medio a Medio de sesión en el menú desplegable. Correo electrónico figura como un medio. Luego, encuentra la columna Conversiones y cambia Todos los eventos a Compra en el menú desplegable.
+Reproduce el video desde :4:50 y sigue la transcripción4:50
+Puedes ver el número de conversiones de correos en la fila Correo electrónico. Para calcular la tasa conversión de la campaña de correo, divide las conversiones de correos entre el total de conversiones, que se muestra en negrita en el encabezado Conversiones. Estos ejemplos muestran cómo se recopilan métricas de campañas de redes sociales y correo electrónico. Con UTM y dimensiones personalizadas, es posible rastrear el impacto de las redes sociales o correo electrónico en una campaña, cuando se vuelve a publicar o se reenvía muchas veces cierto contenido. Los requisitos individuales variarán según la campaña, y lo que ves en Google Analytics cambiará según lo que quieras medir. Estos son ejemplos en la cuenta de prueba. Vimos mucha información técnica de Google Analytics. Mira el video de nuevo si te perdiste de algo. Saber cómo se recopilan los datos te dará más confianza al trabajar con métricas.
+
 #### Trabaja con Google Analytics: crear exploraciones
+
+Hasta ahora has trabajado con los informes generales en Google Analytics. En este video, aprenderás sobre la función Exploraciones para crear informes personalizados. Las exploraciones te permiten hacer consultas rápidas de datos para comprobar algo que puede estar pasando. La galería de plantillas de Google Analytics te ayudará a comenzar. La galería tiene plantillas de exploraciones de formato libre, embudos, rutas, segmentos, cohortes y tiempo de vida de usuarios/as. Estos estilos se llaman técnicas. La técnica de formato libre usa una tabla o gráfico para visualizar datos. La exploración de embudos visualiza los pasos de usuarios/as hacia una conversión. La exploración de rutas visualiza los pasos de las/los clientes para ir de una etapa a otra durante su recorrido. La superposición de segmentos muestra cómo los segmentos de usuario/a se relacionan. La exploración de cohortes muestra los datos de los/las usuarios/as agrupados según sus atributos en común. El tiempo de vida muestra su valor y comportamiento a través del tiempo. Para ver cómo funcionan las exploraciones en la cuenta de prueba, abre una exploración existente que tenga a Demo como propietario. Después, crea una copia. En tu copia, puedes jugar con los segmentos, dimensiones y métricas para ver qué sucede en una exploración. Abramos una exploración de prueba con la propiedad GA4 de Google Merchandise Store. Haz clic en el ícono Explorar. Haz doble clic en la exploración del embudo de comportamiento de venta de la lista cuyo propietario es Demo. Es una exploración solo de lectura que desglosa usuarios/as según su dispositivo en cada paso del proceso de pago. Haz clic en el ícono Copiar para crear una copia de la exploración y poder modificarla.
+Reproduce el video desde :2:1 y sigue la transcripción2:01
+Ahora puedes modificar la copia de la exploración. Por ejemplo, si prefieres ver un desglose de qué medio trajo a las personas al sitio la primera vez que pasaron por el proceso de compra, haz clic en la X para eliminar Categoría de dispositivo. Arrastra Primer medio del usuario desde Dimensiones y suéltalo en el campo de Desglose.
+Reproduce el video desde :2:28 y sigue la transcripción2:28
+Ahora verás los datos actualizados en la exploración. Puedes comparar el comportamiento de compra del tráfico directo y pagado: arrastra Tráfico directo desde Segmentos y suéltalo en Comparaciones de segmentos. Repite el proceso: arrastra Tráfico pagado y suéltalo en Comparaciones de segmentos. Los datos se actualizarán automáticamente para mostrar la comparación. Como has visto, al crear una exploración con una plantilla, puedes arrastrar elementos desde la categoría de segmentos, dimensiones o métricas de la columna Variables, y soltarlos en la Configuración de pestaña para poder verlos. Pero si eliges la opción En blanco al crear una exploración en vez de una plantilla, no tendrás ningún elemento en la columna Variables. Volvamos atrás para salir de esta exploración y elige la opción En blanco. Aquí debes hacer clic en los íconos + para crear las variables y luego arrastrarlas y soltarlas en la columna Configuración de la pestaña para verlas. Creemos nuevos segmentos. Debes seleccionar qué dimensiones quieres incluir. Por ejemplo, haz clic para ampliar la categoría Personalizado para ver opciones. También debes elegir qué métricas incluir. Por ejemplo, haz clic para ampliar la categoría Evento y ver las opciones. Las variables estarán vacías hasta que las agregues. Los pasos para crear y trabajar con las exploraciones son muy detallados, así que mira este video de nuevo si necesitas repasar algo. Puedes hacer copias de otras exploraciones de prueba y practicar con ellas para tener una mejor idea de lo que muestran. Luego, podrás crear tus propias exploraciones desde cero. Con tantas variables, las exploraciones van a satisfacer tu curiosidad, y te ayudarán a visualizar métricas y a descubrir información valiosa.
 
 #### Configuración de variables y pestañas en las exploraciones de Google Analytics
 
+Como aprendiste en el video de este curso sobre las Exploraciones, al crear una exploración en Google Analytics 4, puedes elegir las variables con las que deseas trabajar y la configuración de la pestaña que se mostrará en la exploración. Esta lectura te dará una visión general de estas características.
+
+Variables de Exploraciones
+En las exploraciones, una variable se refiere a los segmentos, dimensiones y métricas que se configuraron en tu cuenta de Google Analytics. Si utilizas una plantilla para crear una nueva exploración, ya tendrás habilitado un conjunto predeterminado de variables. Puedes agregar variables adicionales para usar en tu exploración, si así lo deseas.
+
+Un segmento es un subconjunto de datos analíticos que presenta una característica en común. Por ejemplo, un segmento de usuario podría estar compuesto por usuarios/as de un país o ciudad en particular. Además de los segmentos de usuario, también se pueden crear segmentos de evento y segmentos de sesión. Un segmento de evento es un subconjunto de todos los eventos configurados. Recuerda que un evento es lo que desencadena la recopilación de datos en Google Analytics. Por ejemplo, podría estar compuesto solo por los datos recopilados de los/las usuarios/as que usan un dispositivo en particular. Un segmento de sesión es un subconjunto de todas las sesiones. Por lo general, una sesión comienza cuando un/a usuario/a empieza a interactuar con un sitio web o aplicación. Por ejemplo, se puede crear un segmento de sesión para las sesiones generadas por una campaña publicitaria en particular. Puedes crear hasta 10 segmentos en una Exploración.
+
+Una dimensión es un atributo o una característica de los datos. Por ejemplo, la dimensión Ciudad indica la ciudad desde la que se originó un evento configurado. Puedes aplicar hasta 20 dimensiones en una Exploración.
+
+Una métrica es una medida cuantitativa que incluye cálculos como un promedio o una proporción. Por ejemplo, la métrica de recuento de Evento es la cantidad de veces que ocurre un evento individual. Puedes aplicar hasta 20 métricas en una Exploración.
+
+Segmentos
+
+La siguiente tabla resume los segmentos predeterminados habilitados para cada plantilla de Exploración disponible en tu cuenta de prueba de Google Analytics.
+
+Nota: Se proporciona la siguiente tabla y su información porque trabajarás con la cuenta de prueba de Google Analytics en las próximas actividades. Si no estás utilizando la cuenta de prueba de Google Analytics, los segmentos podrían definirse de manera diferente. Después de seleccionar una plantilla, haz clic en el ícono + si deseas definir un nuevo segmento para la Exploración.
+
+![alt text](image-136.png)
+
+Dimensiones
+
+La siguiente tabla resume las dimensiones predeterminadas habilitadas para cada plantilla de Exploración disponible en tu cuenta de prueba de Google Analytics.
+
+Nota: Se proporciona la siguiente tabla y su información porque trabajarás con la cuenta de prueba de Google Analytics en las próximas actividades. Si no estás utilizando la cuenta de prueba de Google Analytics, las dimensiones habilitadas de forma predeterminada podrían ser diferentes. Después de seleccionar una plantilla, haz clic en el ícono + de Dimensiones si deseas seleccionar y habilitar otras dimensiones para la Exploración.
+
+![alt text](image-137.png)
+
+Métricas
+
+La siguiente tabla resume las métricas predeterminadas habilitadas para cada plantilla de Exploración disponible en la cuenta de prueba de Google Analytics.
+
+![alt text](image-138.png)
+
+Nota: Se proporciona la siguiente tabla y su información porque trabajarás con la cuenta de prueba de Google Analytics en las próximas actividades. Si no estás utilizando la cuenta de prueba de Google Analytics, las métricas habilitadas de forma predeterminada podrían ser diferentes. Después de seleccionar una plantilla, haz clic en el ícono + de Métricas si deseas seleccionar y habilitar otras dimensiones para la Exploración.
+
+Configuración de pestañas en Exploraciones
+
+La configuración de la pestaña cambiará según la técnica (plantilla) que elijas. La configuración de la pestaña principal en una exploración es la Técnica, que es la misma que el tipo de plantilla que se utiliza. Como ya se mencionó, puedes crear hasta 10 segmentos en una Exploración. Aun así, solo se pueden aplicar 4 segmentos a una sola técnica al mismo tiempo.
+
+Revisa los recursos al final de esta lectura para buscar la configuración específica de cada técnica; por ejemplo, haz clic en el enlace Exploración de embudos de conversión para encontrar una lista y una explicación de cada configuración para su visualización.
+
+Conclusiones clave
+
+Las exploraciones en Google Analytics te permiten crear vistas personalizadas de los datos recopilados y las métricas. Tienes control absoluto para elegir con qué variables trabajar y la configuración de la pestaña que se mostrará en una exploración.
+
+Recursos para obtener información adicional
+
+Puedes consultar los siguientes enlaces para obtener más información sobre el uso de las Exploraciones de Google Analytics 4:
+
+Comienza con Exploraciones <https://support.google.com/analytics/answer/7579450?hl=en&ref_topic=9266525#zippy=%2Cin-this-article>: presenta Exploraciones y cómo se utilizan.
+
+Exploración de embudo de conversión <https://support.google.com/analytics/answer/9327974?hl=en&ref_topic=9266525>: proporciona instrucciones para crear una Exploración de embudo de conversión y sus ejemplos.
+
+Exploración de rutas <https://support.google.com/analytics/answer/9317498?hl=en&ref_topic=9266525>: proporciona instrucciones para crear una Exploración de rutas.
+
+Superposición de segmentos <https://support.google.com/analytics/answer/9328055?hl=en&ref_topic=9266525>: proporciona instrucciones para analizar la superposición de segmentos.
+
+Exploración de usuarios <https://support.google.com/analytics/answer/9283607?hl=en&ref_topic=9266525#zippy=%2Cin-this-article>: proporciona instrucciones para explorar los comportamientos y actividades de los/las usuarios/as.
+
+Exploración de cohortes <https://support.google.com/analytics/answer/9670133?hl=en&ref_topic=9266525#zippy=%2Cin-this-article>: proporciona instrucciones para crear una Exploración de cohortes. Una cohorte es un grupo de usuarios/as que comparten una característica en común.
+
+Tiempo de vida de los usuarios <https://support.google.com/analytics/answer/9947257?hl=en&ref_topic=9266525>: proporciona instrucciones para analizar las métricas de tiempo de vida de los/las usuarios/as.
+
+Exploración de formato libre <https://support.google.com/analytics/answer/9327972?hl=en#zippy=%2Cin-this-article>: proporciona instrucciones para crear una Exploración de formato libre y visualizar los datos en una tabla o un gráfico.
+
 #### Actividad de Ejemplo: Crear una Exploración en Google Analytics
 
+<https://developers.google.com/events>
+
+Line break
+Compara el ejemplo con tu presentación finalizada. Revisa tu trabajo utilizando cada una de las secciones del ejemplo. ¿Qué hiciste bien? ¿Dónde puedes mejorar? Utiliza tus respuestas a estas preguntas a modo de guía a medida que avanzas en el curso.
+
+Nota: El ejemplo se creó a través de métricas de Google Merchandise Store recopiladas entre el 15 de octubre y el 15 de diciembre de 2021. Los datos se utilizaron para completar el ejemplo y descubrir si existe la siguiente tendencia: ¿los/las usuarios/as activos y las compras en Google Merchandise Store aumentan cuando se generan eventos de desarrolladores?
+
+Eventos de desarrolladores
+
+Se seleccionaron los siguientes eventos de desarrolladores para analizarlos y se agregaron a la plantilla de actividad:
+
+8 y 9 de diciembre de 2021 - Cloud Learn - Global
+
+2 de diciembre de 2021 - Día de la demostración de GFSA Women Founders 2021 - Global
+
+2 de diciembre de 2021 - Gaming Day en Google Open Source Live - Global
+
+Exploración de formato libre de usuarios/as activos/as
+
+La Exploración de formato libre de usuarios/as activos se ve reflejada en el siguiente gráfico de líneas.
+
+![alt text](image-139.png)
+
+Esta visualización mostró una anomalía positiva significativa (pico) el 3 de diciembre de 2021 que podría estar relacionada con los dos eventos de desarrolladores que se llevaron a cabo el 2 de diciembre de 2021 (si los/las usuarios/as visitaron la tienda al día siguiente):
+
+2 de diciembre de 2021 - Fundadoras Mujeres de la GFSA: Demo Day 2021
+
+2 de diciembre de 2021 - Día del juego en Google Open Source Live
+
+Se marcó la columna de Anomalías en la tabla de la plantilla de actividad para estos dos eventos.
+
+El comportamiento de los datos en ese pico reveló detalles adicionales, como se muestra a continuación. Esta información se agregó a la sección de Observaciones de la plantilla de actividad.
+
+![alt text](image-140.png)
+
+Exploración de formato libre de compras
+
+La Exploración de formato libre de compras dio como resultado el siguiente gráfico de líneas, sin anomalías detectadas durante el día de los dos eventos de desarrolladores el 2 de diciembre de 2021.
+
+![alt text](image-141.png)
+
+Las anomalías se detectaron el 29 de noviembre y el 6 de diciembre, pero lo más probable es que no estén relacionadas con los eventos por falta de proximidad, ya que tienen una separación de 2 a 4 días. Por ejemplo, la anomalía que ocurrió el 6 de diciembre probablemente no esté relacionada con el evento Cloud Learn que comenzó dos días después, el 8 de diciembre de 2021. Estas observaciones se agregaron a la sección Observaciones de la plantilla de actividades.
+
+Conclusiones
+
+Según el análisis de la exploración, se llegó a la conclusión de que no había relación entre los/las usuarios/as activos/as y las compras en Google Merchandise Store y los eventos de desarrolladores. No se recomendó tomar ninguna acción adicional para continuar monitoreando estas métricas durante los eventos de desarrolladores.
+
 ### Métricas de Google Ads
+
+#### Trabajar con métricas de Google Ads
+
+#### Empieza a usar Google Ads
+
+#### Paneles de control, registros de logros e informes en Google Ads
+
+#### Revisa y aplica las recomendaciones en Google Ads
+
+#### Actividad de ejemplo: Revisa y aplica las recomendaciones
 
 ### Entrada y salida de datos: Cómo vincular y exportar datos
 
