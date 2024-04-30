@@ -2680,7 +2680,7 @@ Guía sobre cómo elegir una visualización de datos <https://drive.google.com/f
 
 Tipos de gráficos de Hojas de Cálculo de Google <https://support.google.com/docs/answer/190718>
 
-Compara el ejemplo con las visualizaciones de datos que completaste. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué hiciste bien? ¿Dónde puedes mejorar? Usa tus respuestas a estas preguntas a modo de guía a medida que avanzas en el curso. 
+Compara el ejemplo con las visualizaciones de datos que completaste. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué hiciste bien? ¿Dónde puedes mejorar? Usa tus respuestas a estas preguntas a modo de guía a medida que avanzas en el curso.
 
 Nota: Cada pestaña del ejemplo contiene 2 o 3 opciones de gráficos. No hay solo una forma correcta de visualizar los datos, por lo que tu trabajo puede ser algo diferente. Lo importante es que tus gráficos representen los puntos de los datos con claridad y que tu público pueda comprenderlos fácilmente.
 
@@ -2698,11 +2698,11 @@ Gráficos para evitar: debido a que el conjunto de datos incluye tantas variable
 
 Conversiones
 
-Gráfico de columnas apiladas (vertical): al igual que el gráfico de columnas para las sesiones, en esta visualización se representan las conversiones por hora de cada día que aportan a la suma total durante un periodo de 24 horas. Te permite comparar entre los distintos horarios de un mismo día y entre los días de la semana. 
+Gráfico de columnas apiladas (vertical): al igual que el gráfico de columnas para las sesiones, en esta visualización se representan las conversiones por hora de cada día que aportan a la suma total durante un periodo de 24 horas. Te permite comparar entre los distintos horarios de un mismo día y entre los días de la semana.
 
-Gráfico de barras apiladas (horizontales): es similar al gráfico de columnas apiladas, pero la orientación horizontal permite tener más espacio para mostrar las diferencias de volumen entre valores muy bajos (por ejemplo, 2:00) y muy altos (por ejemplo, 10:00). 
+Gráfico de barras apiladas (horizontales): es similar al gráfico de columnas apiladas, pero la orientación horizontal permite tener más espacio para mostrar las diferencias de volumen entre valores muy bajos (por ejemplo, 2:00) y muy altos (por ejemplo, 10:00).
 
-Gráfico de áreas apiladas: al igual que el gráfico de columnas apiladas, esta visualización segmenta las sesiones por hora para cada día y muestra la suma durante un periodo de 24 horas. 
+Gráfico de áreas apiladas: al igual que el gráfico de columnas apiladas, esta visualización segmenta las sesiones por hora para cada día y muestra la suma durante un periodo de 24 horas.
 
 Gráficos para evitar: debido a que el conjunto de datos incluye tantas variables, un gráfico de columnas agrupadas podría parecer muy lleno de información y sería difícil de entender.
 
@@ -2729,8 +2729,6 @@ Gráfico lineal: como este conjunto de datos demuestra cambios en un número lim
 Gráfico de áreas no apiladas: al igual que el gráfico lineal, este gráfico muestra los cambios en un valor a lo largo del tiempo. Sin embargo, el área rellena debajo de las líneas podría dificultar la identificación de las líneas en todos los puntos del gráfico.
 
 Gráficos para evitar: un gráfico de columnas o barras agrupadas puede llegar a estar demasiado lleno de información, lo que dificultará la identificación de los valores y la comprensión de cómo se relacionan entre sí.
-
-
 
 #### Haz que tus presentaciones sean accesibles
 
