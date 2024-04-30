@@ -2245,6 +2245,56 @@ Las pruebas A/B y los análisis ayudan a las empresas a comercializar y mejorar 
 
 ### ¿Qué logra una campaña de marketing exitosa?
 
+#### Indicadores de una campaña de marketing exitosa
+
+Las métricas pueden monitorearse durante una campaña. ¿Cómo puedes concluir si la campaña fue exitosa o no? La información que uses para medir su éxito depende de los objetivos de marketing y de lo que se pretende abordar con la campaña. Pero el principal factor de éxito será si alcanzas los objetivos de rendimiento. Veamos dos ejemplos para comprender estos indicadores. En el primer caso, el objetivo general es aumentar los leads. Estos se midieron como microconversiones. La microconversión es una respuesta que indica que un/a cliente potencial avanza finalmente hacia un proceso de compra. La meta de la microconversión fue aumentar las suscripciones por correo en un 20%. A partir de la experiencia previa, se sabe que quienes se inscriben en una lista tienen 50% de posibilidad de realizar una compra. Por lo tanto, se fijó un objetivo de macroconversión del 60% de las personas que se registran para que completen una compra, una mejora del 10%. Después, se fijaron objetivos similares en conversiones del chatbot y las visitas al blog. Como el chatbot era nuevo, se estableció una meta de al menos 20 chats durante la campaña. Las visitas al blog aumentaron un 40% recientemente, entonces el objetivo fue aumentar un 20% las nuevas visitas. Se fijaron objetivos de macroconversión. Los objetivos fueron que el 30% de chats completaran la compra y el 10% de las visitas al blog hicieran lo mismo. Los resultados muestran que la campaña aumentó la suscripción al correo en un 21%, pero no pareció tener ningún efecto sobre las compras realizadas, que no variaron. En el chatbot, ambos objetivos de macro y microconversión se cumplieron. En el blog, ninguno de los dos objetivos se alcanzaron en gran medida. ¿La campaña fue un éxito? Según las métricas, no del todo. Hubo resultados negativos en la campaña, pero otros que tuvieron mucho éxito. Varias cuestiones quedaron claras. El chatbot debe continuar debido a la conversión lograda. Los mensajes del correo hay que revisarlos para mejorar las conversiones. Por último, no hay que dedicar tiempo ni energía a las campañas en el blog. En el segundo ejemplo, el objetivo era subir las ventas al duplicar el valor promedio del pedido. Es decir, el valor promedio del pedido era de US$50 antes de la campaña y el objetivo era subirlo a US$100. Esto también sirvió como meta de rendimiento. La campaña de marketing digital incluyó respuestas directas para que las/los clientes pudieran hacer clic y ver productos adicionales antes y durante el pago. También hubo un anuncio de promoción con envío gratuito para compras de US$100. Las métricas monitoreadas fueron: ingresos por ventas, cantidad de pedidos, el valor promedio de los pedidos y el costo por venta para mantener el ROI bajo control. Las métricas secundarias de interés fueron los pedidos por ubicación, los productos más vendidos que contribuyen a órdenes más grandes y la proporción de pedidos de nuevas/os clientes frente a clientes recurrentes. Aunque el valor promedio del pedido aumentó un 45%, pasando a US$95, por debajo del objetivo de rendimiento de duplicarlo, la tendencia general mostró una campaña muy exitosa. Los ingresos de ventas en línea aumentaron un 15%, el número de pedidos subió a 170, el costo por venta subió en un 3%, las órdenes por región no cambiaron. Los productos más vendidos que contribuyeron a la suba del valor de los pedidos fueron los electrodomésticos de cocina y electrónica y la proporción de pedidos de nuevas/os clientes frente a recurrentes subió de 1 a 1.4. En resumen, los ejemplos de este video muestran que las métricas siempre se fijan según los objetivos de la campaña. El éxito se evaluó con métricas muy diferentes. Las herramientas de análisis son útiles para ver métricas y recopilar datos. Estos te servirán para evaluar y definir el éxito de cualquier campaña. La efectividad de la campaña variará, pero el conocimiento adquirido siempre tendrá valor.
+
+#### Cuadro de aviso de la discusión: Evalúa el éxito de una campaña de marketing
+
+Últimamente, te has enfocado en cómo utilizar los insights para medir el éxito de las campañas de marketing. El principal factor de éxito de una campaña es si los/las especialistas en marketing fueron capaces de cumplir con los objetivos de rendimiento que se establecieron. Ahora, es el momento de practicar la medición del éxito de una campaña de marketing, lo que te ayudará a sentirte más cómodo/a pensando como un/a especialista en marketing digital.
+
+Para este tema de debate, ten en cuenta el siguiente objetivo de marketing y rendimiento planteado por una empresa que vende artículos para el hogar:
+
+Objetivo de marketing: aumentar los ingresos en línea duplicando el valor promedio de pedido de US$40 a US$80.
+
+Como una estrategia para aumentar los ingresos en línea, la empresa de artículos para el hogar emitió un anuncio promocional para que sus clientes gasten US$200 en las próximas 24 horas para recibir el envío gratuito.
+
+Entre las métricas monitoreadas están las siguientes:
+
+Ingresos por ventas en línea
+
+Número de pedidos
+
+Costo por venta
+
+Pedidos por geografía
+
+Productos más vendidos
+
+Relación de pedidos de nuevos/as clientes frente a clientes que regresan
+
+Los resultados de la campaña muestran lo siguiente:
+
+Valor promedio de pedido: un aumento de US$40 a US$55
+
+Ingresos por ventas en línea: un aumento del 38.5% en comparación con el mismo día de la semana anterior.	
+
+Número de pedidos: aumentó en 70 (1%) en comparación con el mismo día de la semana anterior.
+
+Costo por venta: un aumento del 2%.
+
+Pedidos por geografía: sin cambios.
+
+Productos más vendidos: baño/cocina.
+
+Relación de pedidos de clientes nuevos/as frente a clientes que regresan: un aumento de 1 a 1.2.
+
+¿Tuvo éxito la campaña? Si no fue así, ¿qué pudo haberse hecho de una manera diferente?
+
+Escribe una respuesta que tenga de 3 a 4 oraciones (60–80 palabras). Luego, entra al foro de debate y, aplicando lo que aprendiste, comenta al menos dos mensajes de otras/os compañeros/as.
+
+La participación es opcional
+
 ### Revisión: Medir el éxito de las campañas de marketing
 
 ## Compartir métricas y datos con las partes interesadas
