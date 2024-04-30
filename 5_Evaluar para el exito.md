@@ -67,41 +67,45 @@ Aquí verás más sobre las planificaciones de medios. Pero antes debes saber qu
 detalles sobre dónde, cuándo y con qué frecuencia aparecerá un anuncio en los diferentes canales, como radio, televisión,
 periódicos, revistas, búsqueda pagada y redes sociales. Como este programa es para marketing digital, tu planificación de
 medios se enfocará en medios digitales. Para recordarlo, las llamaremos planificaciones de medios digitales. Al crear una
-planificación de medios digitales, debes considerar el público objetivo. Pregúntate: ¿A quién debo llegar? Considera también
-cuánto puedes gastar o cuál es el presupuesto, cuánto se destina a qué medios, o el mix de medios, y la duración de la
-campaña. Finalmente, averigua cuáles son los indicadores clave de rendimiento (KPI), los objetivos de rendimiento y las
-métricas que usarás para medir el rendimiento deseado. Repasemos las definiciones de objetivos de negocio y marketing y KPI,
-ya que son la base. Un objetivo de negocio es una meta, logro o resultado que se desea. Por ejemplo: aumentar ingresos o
-ganancias, ganar cuota de mercado y mejorar el servicio al cliente. Un objetivo de marketing es una meta del plan o
-estrategia de marketing que apoya un objetivo de negocio. Por ejemplo: aumentar el reconocimiento de marca y el tráfico
-hacia el sitio web, generar leads y aumentar el valor del cliente. Un indicador clave de rendimiento (KPI) sirve para
-evaluar cuán exitoso es un negocio en sus esfuerzos por alcanzar un objetivo de negocio o marketing. Como los KPI son
-numéricos, se usan como metas de rendimiento para los objetivos de marketing. Pero, como no son suficientemente específicos
-para campañas individuales, es probable que debas crear un objetivo de rendimiento más para cada campaña. Estos objetivos de
-campaña se incluyen en la planificación de medios digitales. Al crear objetivos de rendimiento para campañas, considera
-medir el rendimiento a nivel de marketing general. Si están bien alineados, los objetivos de rendimiento de la campaña
-deberían coincidir con una meta de marketing e incluso con una meta de negocio relevante. El retorno de la inversión
-publicitaria (ROAS) es un objetivo de rendimiento que suele estar en la planificación de medios digitales. Veamos un
-ejemplo. Si el objetivo de negocio de hacer crecer los ingresos es prioritario, la empresa puede aprobar planes para
-aumentar estos ingresos. Un objetivo de marketing que apoye esta meta de negocio podría ser un esfuerzo de marketing
-específico a través de un mix de medios. Aquí puede fijarse un objetivo de rendimiento de ROAS. Si estás trabajando en tres
-campañas de publicidad digital, podrías establecer una meta de rendimiento para cada campaña. Al monitorear el ROAS de cada
-canal, tus mediciones ayudarán a lograr el ROAS establecido para el esfuerzo de marketing en general. Hasta ahora, hemos
-hablado del ROAS como un número sin ningún valor asignado. Te explico cómo calcular el ROAS. Pondré un ejemplo simple de un
-negocio que vende un solo producto. El ROAS sería el número de productos vendidos por el costo por unidad, dividido por la
-inversión publicitaria. Si cuesta US$80 de publicidad para vender US$100 de producto, el ROAS es 3.75. Por cada dólar
-gastado en publicidad, la ganancia es de $3.75. El ROAS se informa como una proporción. En este caso, el ROAS es de 3.75:1.
-También puede presentarse como porcentaje. En este caso, es del 375%. En resumen, el ROAS puede expresarse como número,
-proporción o porcentaje. Agreguemos números al ejemplo anterior. Si el objetivo de negocio es aumentar los ingresos en un
-10% y el ROAS del objetivo de marketing es de 5:1, puedes asignar metas de ROAS individuales a cada canal. Por ejemplo,
-empieza con un ROAS de 3:1 para anuncios de búsqueda, ROAS de 4:1 para anuncios de display, y un ROAS de 2:1 para anuncios
-en redes sociales. Se usan los resultados de campañas anteriores para fijar metas de ROAS de nuevas campañas. Es común fijar
-el mismo ROAS o uno ligeramente inferior al valor logrado en campañas anteriores. Si no hay datos históricos, puedes hacer
-una estimación y ajustar los objetivos después de ver las métricas iniciales de la campaña. Se permiten cambios dinámicos.
-La relación entre métricas de rendimiento y objetivos de marketing muestra la importancia de los objetivos de rendimiento en
-la planificación de medios. El camino entre ellos debería estar claramente delineado. En el ejemplo, los objetivos
-individuales de ROAS funcionarían juntos para lograr un ROAS general de 5:1. Más tarde podrás practicar crear una
-planificación de medios digitales que con público objetivo, presupuesto, mix de marketing, duración, KPI y objetivos de
+planificación de medios digitales:
+debes considerar el público objetivo. Pregúntate: ¿A quién debo llegar?
+cuánto puedes gastar o cuál es el presupuesto, cuánto se destina a qué medios, o el mix de medios,
+la duración de la campaña.
+Finalmente, averigua cuáles son los indicadores clave de rendimiento (KPI), los objetivos de rendimiento y las
+métricas que usarás para medir el rendimiento deseado.
+
+Repasemos las definiciones de objetivos de negocio y marketing y KPI, ya que son la base. Un objetivo de negocio es una
+meta, logro o resultado que se desea. Por ejemplo: aumentar ingresos o ganancias, ganar cuota de mercado y mejorar el
+servicio al cliente. Un objetivo de marketing es una meta del plan o estrategia de marketing que apoya un objetivo de
+negocio. Por ejemplo: aumentar el reconocimiento de marca y el tráfico hacia el sitio web, generar leads y aumentar el valor
+del cliente. Un indicador clave de rendimiento (KPI) sirve para evaluar cuán exitoso es un negocio en sus esfuerzos por
+alcanzar un objetivo de negocio o marketing. Como los KPI son numéricos, se usan como metas de rendimiento para los
+objetivos de marketing. Pero, como no son suficientemente específicos para campañas individuales, es probable que debas
+crear un objetivo de rendimiento más para cada campaña. Estos objetivos de campaña se incluyen en la planificación de medios
+digitales. Al crear objetivos de rendimiento para campañas, considera medir el rendimiento a nivel de marketing general. Si
+están bien alineados, los objetivos de rendimiento de la campaña deberían coincidir con una meta de marketing e incluso con
+una meta de negocio relevante. El retorno de la inversión publicitaria (ROAS) es un objetivo de rendimiento que suele estar
+en la planificación de medios digitales. Veamos un ejemplo. Si el objetivo de negocio de hacer crecer los ingresos es
+prioritario, la empresa puede aprobar planes para aumentar estos ingresos. Un objetivo de marketing que apoye esta meta de
+negocio podría ser un esfuerzo de marketing específico a través de un mix de medios. Aquí puede fijarse un objetivo de
+rendimiento de ROAS. Si estás trabajando en tres campañas de publicidad digital, podrías establecer una meta de rendimiento
+para cada campaña. Al monitorear el ROAS de cada canal, tus mediciones ayudarán a lograr el ROAS establecido para el
+esfuerzo de marketing en general. Hasta ahora, hemos hablado del ROAS como un número sin ningún valor asignado. Te explico
+cómo calcular el ROAS. Pondré un ejemplo simple de un negocio que vende un solo producto. El ROAS sería el número de
+productos vendidos por el costo por unidad, dividido por la inversión publicitaria. Si cuesta US$80 de publicidad para
+vender US$100 de producto, el ROAS es 3.75. Por cada dólar gastado en publicidad, la ganancia es de $3.75. El ROAS se
+informa como una proporción. En este caso, el ROAS es de 3.75:1. También puede presentarse como porcentaje. En este caso, es
+del 375%. En resumen, el ROAS puede expresarse como número, proporción o porcentaje. Agreguemos números al ejemplo anterior.
+Si el objetivo de negocio es aumentar los ingresos en un 10% y el ROAS del objetivo de marketing es de 5:1, puedes asignar
+metas de ROAS individuales a cada canal. Por ejemplo, empieza con un ROAS de 3:1 para anuncios de búsqueda, ROAS de 4:1 para
+anuncios de display, y un ROAS de 2:1 para anuncios en redes sociales. Se usan los resultados de campañas anteriores para
+fijar metas de ROAS de nuevas campañas. Es común fijar el mismo ROAS o uno ligeramente inferior al valor logrado en campañas
+anteriores. Si no hay datos históricos, puedes hacer una estimación y ajustar los objetivos después de ver las métricas
+iniciales de la campaña. Se permiten cambios dinámicos. La relación entre métricas de rendimiento y objetivos de marketing
+muestra la importancia de los objetivos de rendimiento en la planificación de medios. El camino entre ellos debería estar
+claramente delineado. En el ejemplo, los objetivos individuales de ROAS funcionarían juntos para lograr un ROAS general de
+5:1. Más tarde podrás practicar crear una planificación de medios digitales que con público objetivo, presupuesto, mix de
+marketing, duración, KPI y objetivos de
 rendimiento.
 
 #### Michael - Comprender a través del análisis y la medición
