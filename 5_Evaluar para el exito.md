@@ -2277,7 +2277,7 @@ Los resultados de la campaña muestran lo siguiente:
 
 Valor promedio de pedido: un aumento de US$40 a US$55
 
-Ingresos por ventas en línea: un aumento del 38.5% en comparación con el mismo día de la semana anterior.	
+Ingresos por ventas en línea: un aumento del 38.5% en comparación con el mismo día de la semana anterior.
 
 Número de pedidos: aumentó en 70 (1%) en comparación con el mismo día de la semana anterior.
 
@@ -2296,5 +2296,45 @@ Escribe una respuesta que tenga de 3 a 4 oraciones (60–80 palabras). Luego, en
 La participación es opcional
 
 ### Revisión: Medir el éxito de las campañas de marketing
+
+#### Términos y definiciones del curso 5, semana 3
+
+Costo de adquisición de cliente (CAC): Costo promedio de adquirir un/a cliente que pague.
+
+Duración del ROAS: Resultado de multiplicar el número de nuevos/as clientes por el LTV total y dividir el resultado por la inversión publicitaria.
+
+Intervalo de confianza: El rango de valores posibles después de contabilizar el margen de error.
+
+LTV total: ingresos promedio generados por las/los clientes durante un periodo de tiempo que incluye el pasado hasta el presente.
+
+Margen de error: Diferencia calculada estadísticamente entre un resultado de prueba y el resultado teórico que podría haberse obtenido en una prueba con muchos más usuarios/as.
+
+Métricas continuas: Indicadores que se miden y cambian con el tiempo.
+
+Métricas discretas: Indicadores que tienen valores específicos, se pueden contar o son binarios como la configuración de activado/desactivado o verdadero/falso.
+
+Modelos de mix de marketing (Marketing mix modeling): Modelos estadísticos que utilizan los anunciantes para predecir la efectividad y el ROI de un gasto publicitario.
+
+Modelos de mix de medios (Media mix modeling): (consultar Modelos mix de marketing).
+
+Nivel de confianza: Probabilidad de que el rango de resultados de un experimento contenga todos los resultados en caso de que la prueba durara más, la mayoría de las investigaciones seleccionan un nivel de confianza del 95%.
+
+Relación LTV/CAC: El LTV total (valor total del tiempo de vida del cliente) dividido por CAC (costo de adquisición de cliente).
+
+Prueba de redireccionamiento: Método de prueba en el que dos anuncios o páginas web con diferentes URL se miden entre sí para determinar cuál produce mejores resultados.
+
+Pruebas multivariables: (consultar Pruebas multivariadas).
+
+Pruebas multivariadas: Método de prueba en el que se comparan dos o más versiones de un contenido con múltiples variables para determinar qué combinación produce mejores resultados.
+
+Retorno de la inversión (ROI): Relación entre los ingresos netos (dinero ganado) y la inversión (dinero gastado).
+
+Retorno de la inversión en marketing (ROMI): Métrica calculada restando el costo de marketing del crecimiento total de las ventas y dividiendo el resultado por el costo de marketing.
+
+Significación estadística: Una determinación de si un resultado de la prueba podría deberse a una casualidad aleatoria o no.
+
+Valor del tiempo de vida del cliente (Lifetime Value LTV o CLV): Ingresos promedio generados por cliente durante un cierto periodo de tiempo.
+
+Valor previsto del tiempo de vida del cliente (pLTV): Ingresos promedio previstos generados por las/los clientes durante un periodo que incluye el futuro.
 
 ## Compartir métricas y datos con las partes interesadas
