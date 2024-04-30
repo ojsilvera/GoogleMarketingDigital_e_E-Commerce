@@ -1699,4 +1699,77 @@ Variables: Segmentos, dimensiones y métricas configurados en una cuenta de Goog
 
 ## Medir el éxito de las campañas de marketing
 
+### Metas en evolución: Ajusta los objetivos de medios y rendimiento
+
+#### Vídeo: VídeoTe damos la bienvenida a la semana 3
+
+¡Hola de nuevo! Hablemos del éxito. La gente ama el éxito porque se siente bien. Si creas una campaña de marketing exitosa, te sentirás bien. Pero el éxito va más allá. Una forma común de medir el éxito es el avance de las/los clientes potenciales durante su recorrido como cliente. El éxito definitivo se mide por el número de ventas completadas. Las métricas ayudan a determinar el éxito de estas iniciativas y campañas. El retorno de la inversión es una métrica, y quizás la escuchas con más frecuencia por su acrónimo en inglés, ROI. Para las campañas se usa el retorno de la inversión publicitaria, que se conoce como ROAS. Un negocio debe generar ganancias para perdurar. Por eso, estas métricas son tan importantes. Aprenderás a usar estas métricas para medir el éxito. Para aumentar los retornos, se realizan pruebas que determinan las opciones con mejores resultados. Se conocen como pruebas A/B, o pruebas divididas o bucket tests. Ayudan a tomar decisiones que influyen en el éxito de una campaña. Aprenderás más en los próximos cursos. Finalmente, verás casos de campañas de marketing con diferentes niveles de éxito. Aprenderás mucho de estos casos, que describen las prácticas recomendadas. También aprenderás de casos que muestran fracasos y qué no hacer. ¡El éxito es bueno! Te lo deseo en este curso y en el resto del programa.
+
+#### Cálculos del retorno de la inversión (ROI) y del retorno de la inversión publicitaria (ROAS)
+
+¿Cómo mides el éxito del marketing? Acabas de conocer los términos retorno de la inversión (ROI) y retorno de la inversión publicitaria (ROAS). Las/los especialistas en marketing usan estos cálculos para determinar el éxito de una campaña. Ahora puedes aprender cómo se calculan. Empecemos por el ROI. El ROI mide las ganancias generadas de una campaña de marketing. Más específicamente, es la relación entre los ingresos netos y la inversión. El ROI se puede calcular de dos maneras. En el primer método, debes restar los costos de marketing del crecimiento total de ventas durante el periodo de ejecución de la campaña y luego dividir el resultado por el costo de marketing. El crecimiento de las ventas es un aumento positivo comparado con las ventas anteriores. En otras palabras, es el cambio positivo o aumento en las ventas. Por ejemplo, si el crecimiento fue de US$200,000 y el costo de marketing fue de US$55,000 el ROI de marketing es 200,000 menos 55,000, o 145,000 dividido por 55,000. El ROI es de 2.6. Si consideras 1 el punto de equilibrio del ROI, o cuando el crecimiento es igual al costo, un ROI mayor que 1 es positivo. Cuanto más alto sea el ROI, mejor. El otro método para medir el ROI utiliza el valor del tiempo de vida del cliente, o LTV. El LTV es el ingreso promedio generado por cliente durante cierto periodo de tiempo. Las herramientas de análisis de software pueden ayudar con la medición del LTV. GA4 informa sobre el LTV para usuarios/as adquiridos a través de diferentes canales durante el período de adquisición que especifiques, de hasta 120 días. Esto te permite monitorear el comportamiento de tus clientes durante varios meses para comprender el impacto de una campaña. El LTV está en el informe general de adquisiciones. Una tendencia positiva del LTV indica un aumento del ROI. Ahora, pasemos del ROI al retorno de la inversión publicitaria o ROAS. El ROAS se calcula dividiendo los ingresos generados por los gastos en publicidad. Los objetivos de rendimiento se crean y se vinculan a objetivos de marketing y de negocios. Los objetivos del ROAS para canales digitales se crean en relación con el ROAS general en un mix de medios. Un objetivo de marketing de 5:1 ROAS generalmente produce ROAS de rendimiento relacionados para cada canal, como un ROAS 3:1 para búsqueda y un ROAS 4:1 para display. Los resultados por canal contribuyen al ROAS general en todos los medios.
+Reproduce el video desde :2:39 y sigue la transcripción2:39
+Si estás monitoreando el análisis de una campaña, podrías preguntarte cuándo es necesaria tu intervención. Si el ROAS no está alcanzando tu objetivo, ¿qué puedes hacer? Esta no es una lista completa, pero aquí hay algunas cosas que puedes hacer. Puedes alargar la duración de la campaña. La medición de las conversiones es un proceso fluctuante y tedioso. El ROAS puede ser temporalmente más bajo que el objetivo debido a cambios en el mercado. Puede que no tengas control sobre ellos, así que ten paciencia. Una buena práctica es evaluar el ROAS después de un mínimo de 50 conversiones. Fija los objetivos del ROAS por grupos de productos, en lugar de un ROAS general. Supongamos que una tienda vende vestidos, trajes, indumentaria de gala y esmóquines y desea un ROAS general de 4:1, pero inicialmente no logra alcanzarlo. En lugar de aferrarse a ese ROAS general, puede dividir el objetivo por categorías como ropa formal y casual. El ROAS por categorías proporciona un indicador más preciso para medir el éxito.
+Reproduce el video desde :3:39 y sigue la transcripción3:39
+Revisa el objetivo ROAS inicial.
+Reproduce el video desde :3:42 y sigue la transcripción3:42
+Si el ROAS no se estableció con base en campañas anteriores o se creó con márgenes muy optimistas, puedes crear uno más realista en función de los datos que tienes ahora. Por último, si es necesario, puedes ajustar la estrategia de puja automática para ver si cumples con el ROAS objetivo. Solo aplica para campañas automatizadas. Como viste, el ROAS es una métrica efectiva del rendimiento. Calcularlo te ayudará a evaluar el éxito y rendimiento de la campaña. Puede llevar práctica y tiempo, pero medir el ROI de marketing y el ROAS se convertirá en parte de tu trabajo. Ambos son vitales en el análisis de marketing.
+
+#### Determina el retorno de la inversión (ROI) de un proyecto de marketing
+
+En un video anterior, aprendiste una fórmula sencilla para calcular el retorno de la inversión publicitaria (ROAS): ROAS = Ingresos generados/inversión publicitaria. También aprendiste que el valor del tiempo de vida del cliente (LTV), también conocido como CLV, se refiere al ingreso promedio generado por una/un cliente durante cierto periodo de tiempo.
+
+Tanto el ROAS como el LTV te permiten obtener una estimación de tu retorno de la inversión (ROI) para una campaña. El ROAS te brinda una forma de medir el rendimiento a corto plazo de tu campaña. Responde a la pregunta básica: “¿La campaña generó más ingresos de los que se gastaron en ella?”. El LTV, en tanto, responde a una pregunta más estratégica: “¿La campaña aumentó o promovió la ‘fidelización’ de las/los clientes para que hicieran compras adicionales?”. Cuando consideras tanto el ROAS como el LTV, estás asignando un valor a los aspectos numéricos y estratégicos del ROI para tu esfuerzo de marketing.
+
+En el video se presentó una fórmula sencilla para calcular el ROAS basado en los ingresos. También se abordaron estrategias para mejorar el ROI en caso de que el ROAS no cumpla con tus expectativas. En esta lectura, obtendrás más información sobre el uso del LTV como medida del ROI para una campaña de marketing.
+
+El retorno de la inversión (ROI) usando el valor del tiempo de vida del cliente (LTV)
+
+La definición del valor del tiempo de vida del cliente (LTV) no establece un periodo específico de tiempo para calcular el promedio de ingresos generados por cliente, aunque el periodo de meses es el más comúnmente utilizado en el sector minorista. Cuando el periodo de tiempo va desde el pasado hasta el presente, se denomina valor total del tiempo de vida del cliente (LTV total). En cambio, si incluye fechas futuras, se lo conoce como valor previsto del tiempo de vida del cliente (pLTV). Como el pLTV se basa en transacciones y comportamientos de las/los clientes para predecir un LTV futuro, se vuelve más preciso con cada compra adicional e interacción que ocurre.
+
+El uso del pLTV es un método común para estimar el impacto de los esfuerzos de marketing digital antes de que se produzca cada venta. Por ejemplo, al hacer su primera compra, se puede utilizar el rendimiento histórico de clientes similares para predecir la cantidad de ingresos que generará un/a cliente recién registrado/a a lo largo del tiempo.
+
+Consejo profesional: al determinar el retorno de la inversión (ROI) de las campañas completadas, utiliza el valor total del tiempo de vida del cliente (LTV total) en lugar del valor previsto del tiempo de vida del cliente (pLTV). Reserva el uso del pLTV para predecir el ROI de las campañas que aún están en curso.
+
+Dos formas en que puedes usar el LTV para medir el éxito o el ROI de una campaña completada son:
+
+LTV por canal
+
+Relación LTV/CAC (LTV:CAC)
+
+Valor del tiempo de vida del cliente (LTV) por canal
+
+Puedes medir el valor del tiempo de vida del cliente (LTV) de una campaña, para cada canal, de la misma manera que mides el retorno de la inversión publicitaria (ROAS). Antes, debes habilitar la atribución de conversiones por canal.
+
+Para cada canal de tu campaña, calcula lo siguiente:
+
+LTV = Valor promedio de pedido (AOV) x frecuencia de compra
+La comparación del valor del tiempo de vida del cliente (LTV) para cada canal brinda información sobre el retorno de la inversión (ROI) por canal.
+
+Relación LTV/CAC
+
+También aprendiste que el costo de adquisición de clientes (CAC) es el costo promedio de adquirir un/a cliente que paga. El LTV y el CAC se usan para calcular una relación LTV/CAC. Esta proporción es útil para determinar si el valor obtenido al agregar nuevos/as clientes durante una campaña es suficiente para cubrir el costo de adquirirlos. Cuanto mayor sea la proporción, mejor será el retorno de la inversión (ROI).
+
+Puedes calcular la relación LTV/CAC para una campaña o canal utilizando la siguiente fórmula:
+
+Relación del LTV al CAC = LTV/CAC
+
+Un resultado de 2 o más normalmente se considera bueno. Un resultado ideal es alrededor de 3. Un resultado por debajo de 2 podría ocurrir si estás invirtiendo más intencionalmente para ganar cuota de mercado. Sin embargo, si ese no es el caso, es posible que debas reducir el presupuesto de inversión para bajar el costo de adquisición de clientes (CAC) y aumentar la relación LTV/CAC. Si el resultado es superior a 3, tu retorno de la inversión (ROI) es sólido y tienes un flujo de ingresos constante y robusto. Con un resultado superior a 3, presumiblemente tendrías suficiente presupuesto para expandir tu negocio. Por ejemplo, si tu objetivo es diversificar los tipos de productos asociados con tu marca, podrías respaldar ese objetivo con campañas publicitarias que estén adecuadamente financiadas.
+
+Modelos de mix de marketing
+
+Los modelos de mix de marketing, también llamados modelos de mix de medios, son modelos estadísticos utilizados para predecir la efectividad y el retorno de la inversión (ROI) de la inversión publicitaria. Estos modelos se basan en, al menos, dos años de datos históricos de campañas anteriores. Desde que se desarrollaron por primera vez en la década de 1960, se han vuelto más confiables para predecir el ROI de las campañas, debido a las recientes ventajas de la inteligencia artificial (IA) y el aprendizaje automático. Los modelos reales están más allá del alcance de esta lectura, pero es importante que te familiarices con estos términos.
+
+Conclusiones clave
+
+El retorno de la inversión publicitaria (ROAS) y el valor del tiempo de vida del cliente (LTV) son un buen punto de partida cuando se trata de determinar el retorno de la inversión (ROI) a corto plazo de una campaña. Los modelos de mix de marketing pueden ayudar a predecir el ROI de las campañas, pero construirlos requiere habilidades técnicas adicionales, como programación y conocimientos de estadística.
+
+#### Actividad de ejemplo: Toma decisiones sobre el presupuesto de la campaña
+
+### Creación y análisis de pruebas A/B
+
+### ¿Qué logra una campaña de marketing exitosa?
+
+### Revisión: Medir el éxito de las campañas de marketing
+
 ## Compartir métricas y datos con las partes interesadas
