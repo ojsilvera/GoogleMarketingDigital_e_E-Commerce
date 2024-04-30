@@ -378,6 +378,29 @@ identificar objetivos de negocio o marketing.
 
 #### Angela - Integrar y utilizar de manera conjunta los datos, las analíticas y las métricas para mejorar el rendimiento
 
+Me llamo Ángela y soy Responsable de Estrategia Digital en Google. Me asocio con diferentes pequeñas y medianas empresas, y
+las ayudo a hacer crecer sus negocios e ingresos a través de Google Ads. Me encanta trabajar con diversos tipos de clientes
+todos los días. Logro entender sus modelos de negocios, cómo ganan dinero, sus márgenes de producto, e incluso participo en
+el desarrollo de algunos productos que las/los clientes hacen en función de los datos que les ayudo a recopilar y analizar.
+Luego toman esa información y amplían su mercado. Los objetivos de rendimiento son aquellos que le importan al cliente, lo
+que hace la/el cliente o usuario/a hace cuando llega al sitio web o cuando llega a la tienda. Es esa interacción o esa
+acción la que medimos para saber si ciertas cosas funcionan en el mundo del marketing. Los objetivos de rendimiento varían
+para cada cliente, de acuerdo a cómo ganan dinero y cuáles son sus objetivos de marketing. Un cliente, tal vez una empresa
+de comercio electrónico, está tratando de vender productos, por lo que nuestras métricas de rendimiento serían agregar al
+carrito o acción de compra en el sitio web, así como las vistas de la página del producto. Las/los clientes de comercio
+electrónico tienen números duros o un retorno de la inversión publicitaria que necesitan alcanzar. Y, por lo general,
+medimos las compras, el valor de compra, así como también impresiones y clics para entender si esa campaña fue exitosa o no.
+Otra/o cliente en este espacio podría ser un cliente de aplicaciones donde solo intentan obtener descargas, por lo tanto
+tenemos una métrica diferente en torno a eso, para instalaciones de aplicaciones, descargas, apertura inicial. El objetivo
+de la medición del rendimiento es entender los diferentes puntos de datos que provienen del marketing digital. Y los datos
+nunca mienten, ¿cierto? Así que, si puedes medir y atribuir el crédito a múltiples canales publicitarios, tus objetivos de
+rendimiento te ayudarán a medir y atribuir el éxito del marketing a los ingresos del negocio. Mi consejo para quienes se
+inician en el marketing digital es que comprendan diferentes modelos de negocio, ya sea un/a cliente de comercio electrónico
+y cuáles son sus márgenes de ganancia y cómo ganan dinero, o un cliente de generación de leads que necesita llamadas
+telefónicas y tiene un equipo de ventas dedicado a trabajar esos leads. Todos los matices de cómo las/los clientes ganan
+dinero influyen en su presupuesto de marketing y lo que hacen con él, así que es importante comprender primero cómo gana
+dinero la/el cliente, y, a partir de ahí, puedes darle buenos consejos de marketing.
+
 #### Objetivos de rendimiento relacionados con el costo
 
 #### Ejemplo de actividad: Establece objetivos de rendimiento

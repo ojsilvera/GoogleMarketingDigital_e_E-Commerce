@@ -1761,10 +1761,295 @@ su rendimiento.
 
 #### Optimiza las ofertas de productos en función de los datos
 
+Ya aprendiste sobre las métricas clave que se usan para evaluar el rendimiento del producto. Ahora es el momento de aplicar
+la información que aportan estos datos para hacer cambios que puedan mejorar el rendimiento de un producto. El análisis de
+productos puede ayudar a las empresas a aumentar las ventas, descubrir nuevas ideas para un producto y decidir qué SKU
+retirar del mercado o dejar de vender.
+
+Aumentar las ventas de un producto
+
+Para aumentar las ventas de un producto, una empresa tiene que hacer cambios para mejorar las métricas clave, como el número
+de vistas y la tasa de conversión del producto. A continuación, se incluyen algunas formas en que una empresa puede mejorar
+estas dos métricas.
+
+Aumentar la cantidad de visualizaciones del producto
+
+La cantidad de veces que un producto se visualiza indica si a los/las visitantes les interesa o no comprar ese producto. Si
+un producto tiene una cantidad baja de vistas, es posible que las/los visitantes no puedan encontrarlo en el sitio, aunque
+también podría indicar que los/las visitantes no están interesados/as en comprar ese tipo de producto.
+
+Si un producto tiene un número bajo de visualizaciones, la empresa puede intentar aumentarlo, haciendo que sea más fácil de
+encontrar en el sitio web. Si esta estrategia no funciona, es probable que no se visualice porque los/las clientes no están
+interesados/as. Si esto sucede, es aconsejable dejar de venderlo en el sitio web o “retirar el SKU”, como suele decirse en
+el comercio electrónico.
+
+Estos son algunos cambios que la empresa puede implementar si quiere aumentar la cantidad de visualizaciones:
+
+Asegurarse de que el producto esté incluido en el menú de navegación, donde la/el visitante espera encontrarlo.
+
+Cerciorarse de que aparezca en los resultados de búsqueda del sitio web.
+
+Presentarlo en un lugar más destacado del sitio web, como la página de inicio o la página de categorías.
+
+Incluirlo en el motor de recomendaciones de productos.
+
+Destacarlo en las acciones de marketing por correo electrónico, en redes sociales y en campañas publicitarias.
+
+Combinarlo con otro producto relacionado que tenga fuertes ventas, por ejemplo, un paquete de bicicleta y casco.
+
+Aumentar la tasa de conversión del producto
+
+La tasa de conversión del producto representa el porcentaje de clientes que compraron el producto después de verlo. Si el
+objetivo de la empresa es aumentar su tasa de conversión, puede implementar cambios en la página del producto para atraer la
+atención de más clientes.
+
+Estos son algunos cambios que la empresa podría hacer en las páginas de productos para intentar aumentar la tasa de
+conversión:
+
+Mejorar las imágenes de producto:
+
+Usar fotos de alta calidad de los productos.
+
+Permitir que las/los clientes amplíen la foto para ver los detalles.
+
+Incluir fotos desde diferentes ángulos y en todos los colores disponibles.
+
+Incluir una foto del embalaje, si da información sobre el producto.
+
+Incluir una foto del producto en uso.
+
+Cargar videos del producto:
+
+Agregar videos que lo muestren en uso.
+
+Incluir un video con una vista 360 del producto.
+
+Incluir videos instructivos, si corresponde.
+
+Actualizar la descripción del producto:
+
+Resaltar sus beneficios y características.
+
+Enumerar  especificaciones técnicas, como el tamaño y el peso del producto.
+
+Incluir una tabla de medidas, si corresponde.
+
+Usar un cuadro comparativo para explicar la diferencia entre productos similares.
+
+Aumentar la cantidad de reseñas del producto:
+
+Permitir las reseñas de productos, si la tienda no las tiene actualmente en el sitio web.
+
+Animar a las/los clientes a dejar una reseña del producto enviándoles una solicitud por correo electrónico después de que lo
+reciban.
+
+Analizar los precios:
+
+Asegurarse de que el precio del producto es competitivo en comparación con otros similares en el mercado.
+
+Si el producto tiene un precio demasiado bajo, las/los clientes quizás pongan en duda su calidad.
+
+Si tiene un precio demasiado alto, puede costar más de lo que los/las clientes están dispuestos/as a gastar en este tipo de
+producto.
+
+Descubrir nuevas ideas de productos
+
+El análisis de productos puede ayudar a una empresa a implementar cambios que mejoren su rendimiento. También puede brindar
+información sobre nuevos productos que podrían funcionar bien en el sitio.
+
+Una forma de descubrir nuevas ideas de productos es analizar las palabras clave que las/los clientes usan para buscar en el
+sitio web. Si muchos/as clientes buscan un producto que la tienda no ofrece, puede ser oportuno agregar ese producto al
+sitio web. De todas maneras, antes de hacerlo, la empresa deberá investigar si vale la pena incorporarlo a su oferta. Un
+método para investigar productos es consultar el informe de mejores vendedores en Google Merchant Center, que proporciona
+información sobre las marcas y productos más populares utilizados en los anuncios de Shopping y los listados gratuitos.
+
+Otra forma de descubrir nuevas ideas de productos es averiguar cuáles son los más vendidos en el sitio web de la empresa y,
+luego, usarlos para generar nuevas ideas de productos relacionados, que podrían ser atractivos para sus clientes.
+
+Por ejemplo, si una tienda vende muchos colchones, es posible que las/los clientes también quieran comprar sábanas,
+almohadas, un cubrecolchón o una base de cama en la misma tienda. La investigación del producto puede ayudar a las empresas
+a determinar su demanda y su viabilidad o el potencial de ventas. Además, permite recopilar datos mediante la realización de
+encuestas o entrevistas a las/los clientes, para saber si les interesa comprar este tipo de productos.
+
+Si una empresa suele obtener los productos y ocuparse de su embalaje y envío, también podría considerar hacer un envío
+directo (o dropshipping) de este nuevo producto, para probar su rendimiento, antes de comprometerse con el abastecimiento de
+inventario. También podría comenzar comprando una cantidad limitada para evitar el riesgo de exceso de inventario (o
+inventario muerto), que es el que no se vende durante mucho tiempo y tiene pocas posibilidades de venderse en el futuro.
+
+Decidir qué SKU retirar
+
+A veces, el rendimiento de un producto no mejora, o no mejora lo suficiente para que valga la pena venderlo, incluso después
+de haber hecho los cambios en la página de información del producto y el sitio web. En ese caso, puede ser conveniente
+retirar el SKU.
+
+En algunos casos, retirar un SKU puede suponer seguir vendiendo el producto pero no ofrecer una variante determinada, como
+un color específico. Por ejemplo, si la empresa ofrece varios colores de una lonchera y muchos/as clientes compran la azul
+pero muy pocos/as compran la verde, puede optar por seguir vendiendo la lonchera pero retirar el SKU verde.
+
+Retirar los SKU con bajo rendimiento puede liberar tiempo y centrarse en ofrecer productos que las/los clientes realmente
+desean. Como no puede predecirse con certeza qué rendimiento tendrá un producto antes de su lanzamiento, si un SKU no
+funciona bien a pesar del esfuerzo realizado, entonces es mejor retirarlo.
+
+Conclusiones clave
+
+El análisis de productos puede ayudar a las empresas a descubrir cómo optimizar las ofertas de productos basadas en datos.
+La información que ofrecen estos datos puede ayudarlas a aumentar el rendimiento de un producto, descubrir nuevas ideas de
+productos y decidir qué SKU retirar.
+
 #### Actividad de ejemplo: Sugiere una nueva categoría de producto basada en los datos de búsqueda
+
+Compara el ejemplo con la hoja de cálculo de búsqueda del sitio terminada. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué cosas hiciste bien? ¿En qué aspectos podrías mejorar? Usa las respuestas a estas preguntas para guiarte a medida que avanzas en el curso.
+
+Revisemos la hoja de cálculo de datos de búsqueda del sitio completada:
+
+Categorías para cada término de búsqueda
+
+La columna Categoría identifica la categoría para cada término de búsqueda. Por ejemplo, “cera de soja para fabricación de velas” pertenece a la categoría fabricación de velas e “hilado de terciopelo” pertenece a la categoría hilado.
+
+Los términos de búsqueda que no pertenecen a la categoría hilado, fabricación de joyas o fabricación de velas se agrupan en la categoría otra. Por ejemplo, “kit de marco de fotos” pertenece a la categoría otra, ya que no se relaciona con hilado, fabricación de joyas o fabricación de velas.
+
+Categoría con más búsquedas
+
+De acuerdo con los totales de búsqueda de la tabla dinámica, la categoría hilado recibió el mayor número de búsquedas únicas. Esta categoría está resaltada en amarillo. La empresa comenzará a investigar esta categoría para determinar si vale la pena vender estos productos.  
 
 ### Repaso: Analiza las tendencias para una tienda en línea
 
+#### Términos y definiciones del Curso 7, semana 2
+
+Alcance potencial: Indicador que mide cuántas personas han visto potencialmente una publicación.
+
+Analítica de productos: Monitoreo y evaluación de datos para obtener información sobre cómo las personas interactúan con un
+producto o servicio.
+
+Big data: Campo de la analítica de datos que extrae sistemáticamente información de grandes conjuntos de datos.
+
+BigQuery: Solución de almacenamiento de datos basada en la nube de Google.
+
+Conversión: Realización de una actividad que contribuye al éxito de un negocio.
+
+Costo de adquisición de clientes (CAC): Costo promedio de adquirir un/a cliente que pague.
+
+Costo por adquisición (cost per acquisition, CPA): Costo promedio de adquirir un/a cliente potencial.
+
+Defensa de la marca: monitorea el número de clientes que promocionan una marca a través del marketing boca a boca u otros
+métodos.
+
+Google Analytics: Servicio de analítica web que rastrea e informa el tráfico del sitio web.
+
+Grabación de sesión: Representación que captura las acciones de un/a visitante mientras navega por un sitio web, incluido el
+movimiento del mouse, los clics, los toques y el desplazamiento.
+
+Impresión: Cuando una pieza de contenido se muestra a un público objetivo.
+
+Indicador clave de rendimiento (Key Performance Indicator, KPI): Métrica que se usa para medir el éxito de una empresa en su
+esfuerzo por alcanzar un objetivo de negocio o marketing.
+
+Informe sobre los más vendidos: Informe en el Google Merchant Center que proporciona información sobre las marcas y
+productos más populares utilizados en los anuncios de Shopping y listados gratuitos.
+
+Inventario muerto: Inventario que permanece sin vender durante un largo periodo de tiempo y que es poco probable que se
+comercialice en el futuro.
+
+Lenguaje de consulta estructurado (SQL): El lenguaje estándar utilizado para comunicarse con bases de datos desarrolladas
+por diferentes proveedores y alojadas en múltiples plataformas.
+
+Macroconversión: Una transacción de compra o suscripción completada.
+
+Mapa de calor: Herramienta de visualización de datos que demuestra cómo quienes visitan un sitio web interactúan con la
+página.
+
+Margen de ganancia neta: El porcentaje de ganancias después de pagar los gastos.
+
+Microconversión: Respuesta completa que indica que un/a usuario/a se está moviendo hacia una transacción de compra o
+suscripción completada.
+
+Optimización de la tasa de conversión: Proceso de aumentar el porcentaje de usuarios/as o visitantes del sitio web que
+completan una acción deseada.
+
+Prueba A/B: Método de prueba donde se comparan dos versiones de contenido con una sola variable diferente para determinar
+cuál produce mejores resultados.
+
+Puntuación neta de promotor (Net Promoter Score, NPS): Métrica que ayuda a predecir la interacción futura de las/los
+clientes al preguntarles: “¿Qué tan probable es que recomiendes nuestro producto a un/a amigo/a?”.
+
+Python: Lenguaje de programación utilizado para el análisis y la visualización de datos.
+
+Reconocimiento de marca: Cuán familiarizadas están las personas con un negocio o producto específicos.
+
+Referencia: Se refiere a cómo alguien fue guiado a un sitio web.
+
+Retorno de la inversión publicitaria (ROAS): Cantidad de ingresos que se obtienen en relación a cuánto se gastó en
+publicidad.
+
+SMART: Método de definición de objetivos que puede ayudar a establecer y medir el éxito de los objetivos de una campaña. Es
+el acrónimo en inglés de “specific” (específico), “measurable” (medible), “attainable” (alcanzable), “relevant” (relevante)
+y “time-bound” (de duración limitada).
+
+Tasa de abandono del carrito: Porcentaje de clientes que agregan un producto a su carrito de compras y abandonan luego la
+página sin completar la transacción.
+
+Tasa de apertura: Porcentaje de usuarios/as o clientes que abren un correo electrónico.
+
+Tasa de aplauso: Número de acciones de aprobación (como me gusta, menciones, retuits o favoritos), que recibe una
+publicación en relación con la cantidad total de seguidores/as.
+
+Tasa de cancelación de suscripciones: Porcentaje de destinatarios de correo electrónico que se dan de baja de una lista de
+envío después de abrir un correo electrónico.
+
+Tasa de clics por apertura: Porcentaje de destinatarios/as de correo electrónico que hicieron clic en uno o más enlaces en
+un correo electrónico.
+
+Tasa de conversión de productos: Porcentaje de clientes que compran un producto después de verlo.
+
+Tasa de conversión: Porcentaje de usuarios/as o visitantes del sitio web que completaron una acción deseada, como hacer clic
+en el enlace en un correo electrónico o comprar un producto.
+
+Tasa de devolución: Porcentaje de productos vendidos que son devueltos por las y los clientes.
+
+Tasa de quejas: Porcentaje de quejas que las y los destinatarios envían a los proveedores de correo electrónico por haber
+recibido un correo electrónico.
+
+Tasa de rebote de correo electrónico: Porcentaje de correos electrónicos enviados que no se pudieron entregar en la bandeja
+de entrada.
+
+Tasa de retención de clientes: Porcentaje de clientes que una empresa retiene durante un cierto periodo de tiempo.
+
+Tráfico calificado: Tráfico compuesto por visitantes que probablemente se convertirán en clientes.
+
+Trimestre: Periodo de tiempo de tres meses basado en el calendario financiero de una empresa.
+
+Upselling (Venta mejorada):  Técnica de ventas utilizada para alentar a las/los clientes a gastar más al cambiar a un
+producto más caro.
+
+Valor del tiempo de vida del cliente (LTV o CLV): Ingresos promedio generados por cliente durante un cierto periodo de
+tiempo.
+
+Valor promedio de pedido (AOV): Suma de los montos de los pedidos individuales divididos por el número total de pedidos.
+
+Venta cruzada: Técnica de ventas utilizada para alentar a las personas a gastar más al comprar un producto que está
+relacionado con lo que ya están comprando.
+
+Viabilidad del producto: Potencial de ventas de un producto específico.
+
+Vista en tiempo real: (Consultar Vista en vivo)
+
+Vista en vivo: Función de Shopify que proporciona una vista en tiempo real de la actividad de una tienda de comercio
+electrónico a medida que sucede.
+
 ## Preparación para empleos en marketing digital y comercio electrónico
+
+### Aplica tus habilidades en un entorno laboral
+
+### Prepara una cartera para entrevistas de trabajoPrepara una cartera para entrevistas de trabajo
+
+### Prepárate para las entrevistas de marketing digital y comercio electrónico
+
+### Responder preguntas de la entrevista
+
+### Desarrolla un elevator pitch
+
+### Revisión: Prepárate para trabajos en marketing digital y comercio electrónico
+
+### Repaso del curso: Satisfacción garantizada: desarrolla estrategias de fidelización de clientes en línea
 
 ## Revisión del certificado
