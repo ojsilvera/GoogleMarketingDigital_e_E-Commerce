@@ -3273,7 +3273,3 @@ Viabilidad del producto: Potencial de ventas de un producto específico.
 Vista en tiempo real: (Consultar Vista en vivo)
 
 Vista en vivo: Función de Shopify que proporciona una vista en tiempo real de la actividad de una tienda de comercio electrónico a medida que sucede.  
-
-### Repaso del curso: Satisfacción garantizada: desarrolla estrategias de fidelización de clientes en línea
-
-## Revisión del certificado
