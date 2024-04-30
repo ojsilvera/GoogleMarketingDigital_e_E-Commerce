@@ -960,6 +960,28 @@ Vuelo: (consultar duración).
 
 ## Usar las métricas de Google Analytics y Google Ads
 
+### Métricas de Google Analytics
+
+#### Te damos la bienvenida a la semana 2 curso 5
+
+#### Empieza a usar Google Analytics
+
+#### Etiquetado global de sitios web y Google Tag Manager
+
+#### Trabaja con Google Analytics: monitorear métricas
+
+#### Trabaja con Google Analytics: crear exploraciones
+
+#### Configuración de variables y pestañas en las exploraciones de Google Analytics
+
+#### Actividad de Ejemplo: Crear una Exploración en Google Analytics
+
+### Métricas de Google Ads
+
+### Entrada y salida de datos: Cómo vincular y exportar datos
+
+### Revisión: Utiliza las métricas de Google Analytics y Google Ads
+
 ## Medir el éxito de las campañas de marketing
 
 ## Compartir métricas y datos con las partes interesadas
