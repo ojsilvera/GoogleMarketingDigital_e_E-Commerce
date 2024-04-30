@@ -2823,17 +2823,456 @@ Me llamo Jordon y formo parte del equipo de asociaciones de talento en Google. N
 
 #### Vídeo: VídeoUsa el método STAR para responder preguntas de la entrevista
 
+Una buena historia tiene una introducción fuerte que prepara la narración, un desarrollo emocionante que presenta obstáculos y una resolución que concluye todo. Pero imagina si La Cenicienta, una antigua historia egipcia popularizada en el mundo por Walt Disney, se contara saltándose partes importantes. Érase una vez, una chica llamada Cenicienta, algo sucedió con un zapato de cristal y vivió feliz para siempre. Te confundiría y te dejaría con muchas preguntas. Lo mismo pasa al responder preguntas en una entrevista. En la entrevista, pueden preguntarte, por ejemplo: “¿Puedes hablarme de cómo resolviste un problema de compra-venta en línea?”. O bien “¿Qué te gusta hacer en comercio electrónico y por qué?”.
+Reproduce el video desde ::50 y sigue la transcripción0:50
+Para dar la mejor respuesta, lo mejor es usar una buena estructura que dé una buena cantidad de detalles. Una estrategia útil para responder es el método STAR. STAR es el acrónimo de situación, tarea, acción y resultado. Responde de forma breve y enfócate en el punto principal. El método STAR suele requerir una o dos frases. Por ejemplo, si a un/a solicitante con experiencia en gestión de oficinas le piden describir un proyecto del que se enorgullece, con el método STAR, estructura su respuesta de forma relevante y fácil de seguir. Empieza con una situación relacionada con la pregunta. Por ejemplo: “En mi último trabajo como Gerente de Oficina, la empresa crecía rápidamente y necesitaba un espacio más grande”. A continuación, debe relacionar la situación con la tarea que se le asignó. Por ejemplo: “Me encargaron organizar el traslado a un nuevo espacio de forma planificada. Mi objetivo era evitar interrupciones durante el proceso”. Después, detalla la acción que tomó para hacer la tarea. Por ejemplo, “Creé una lista de todo lo necesario para empacar y trasladarnos y armé una línea temporal para que todo se hiciera a tiempo y en orden. También mantenía al tanto del progreso al dueño y colaboradores de la empresa”. Finalmente, comparte el resultado logrado al final de la situación. Por ejemplo: “El traslado se hizo sin problemas, la gente pudo concentrarse en trabajar, solo hubo unas pocas horas de interrupción para instalarse en la nueva oficina. El dueño estaba muy contento de no tener que lidiar solo con la logística de la mudanza”. Al responder preguntas con el método STAR, das a quien te entrevista una idea de quién eres y de por qué estás ahí. Prepara puntos específicos sobre cómo tu experiencia única encaja con el puesto. A medida que practiques a todo tipo de preguntas, tus respuestas mejorarán.
+
 #### Lectura: LecturaActividad de ejemplo: Practica el uso del método STAR para responder preguntas de la entrevista
+
+Compara el ejemplo con tus respuestas STAR completadas. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué hiciste bien? ¿En qué aspectos podrías mejorar? Las respuestas a estas preguntas te servirán como guía a medida que avances en el curso.
+
+Tu plantilla de respuestas STAR debe incluir:
+
+Una descripción de tres experiencias que muestren tus habilidades y se alineen con los requisitos enumerados en las descripciones de trabajo para marketing digital o roles de comercio electrónico.
+
+Dos preguntas de entrevista para responder, elegidas de la lista de preguntas comunes de entrevista conductual para especialistas en marketing que te brindarán la oportunidad de resaltar tus experiencias.
+
+Una descripción de lo siguiente en lo que se refiere a cada pregunta:
+
+2 o 3 oraciones que describan una situación que experimentaste, proporcionando suficientes detalles para ayudar al/la entrevistador/a a comprender el contexto en el que tuvo lugar la situación.
+
+1 o 2 oraciones que describen la tarea que se te pidió que hicieras, el nivel de involucramiento que tuviste o de qué fuiste responsable en la situación.
+
+2 o 4 oraciones que describan la acción o acciones que realizaste para hacer la tarea. Incluye detalles específicos que demuestren tus habilidades y destrezas.
+
+2 o 4 oraciones que hablen sobre el resultado de las acciones que tomaste y el impacto que generaste, incluyendolos datos, cuando corresponda.
 
 #### Lectura: LecturaHaz preguntas a quien te entrevista
 
+Además de que quien conduce la entrevista te haga preguntas, es importante que también se las formules tú. Hacer preguntas te ayudará a conocer más sobre el puesto al que estás aplicando y demuestra tu interés en él.
+
+En esta lectura, enumeramos varias preguntas que debes considerar hacer a tu entrevistador/a y explicamos por qué y cuál es la intención detrás de ellas.
+
+¿Por qué hacerle preguntas a quien te entrevista?
+Hacer preguntas a quien te entrevista tiene una ventaja importante: te permite evaluar si el puesto te interesa. En ocasiones, las personas cometen el error de pensar que son las únicas entrevistadas en el proceso. Sin embargo, es importante recordar que tú también estás entrevistando a la organización para determinar si es un lugar en el que te gustaría trabajar. Por esta razón, formular preguntas pertinentes te ayudará a determinar si la organización es adecuada para ti.
+
+Otra razón para hacer preguntas es que demuestra tu interés en el puesto. Cuando sea posible, formula preguntas específicas sobre la empresa para la que estás siendo entrevistado/a. Por ejemplo, imagina que durante tu investigación previa a la entrevista, te encuentras con un artículo que habla sobre la cultura emprendedora de la empresa. Puedes mencionar que leíste acerca de este tema y luego preguntar cómo se refleja esa cultura en la compañía.
+
+¿Cuándo hacer las preguntas?
+En muchas ocasiones, al final de la entrevista, el/la entrevistador/a te dará la oportunidad de hacer preguntas. Este momento es perfecto para aprovechar y plantear tus inquietudes. Sin embargo, si la entrevista llega a su fin sin que hagas ninguna pregunta, no hay problema. Por lo general, es preferible respetar el marco de tiempo estipulado para la entrevista en lugar de prolongarla con más preguntas.
+
+Si el/la entrevistador/a no confirma que habrá tiempo al final de la entrevista para hacer preguntas, una forma de incluirlas antes de que se acabe el tiempo es hacerlas durante la entrevista. Al formular preguntas durante la entrevista, asegúrate de que no interrumpan el flujo de la conversación. Por ejemplo, si el entrevistador/a menciona la disponibilidad de capacitación para el puesto, puedes comentar que estás interesado/a en la formación ofrecida por la empresa. Luego, puedes preguntar qué tipo de capacitación está disponible para el puesto y cómo se realiza.
+
+Además, si no puedes hacer preguntas durante la entrevista, puedes hacer un seguimiento por correo electrónico. Asegúrate de que tus preguntas estén directamente relacionadas con el puesto y sean sobre algo que realmente te interese.
+
+Ejemplos de preguntas para hacerle a tu entrevistador/a
+¿Cómo evalúa el éxito en este puesto?
+
+Esta pregunta te ayuda a comprender mejor qué habilidades o cualidades hacen que alguien tenga éxito en el puesto. Si quien te entrevista menciona las habilidades o cualidades que tienes, puedes comentar sobre cómo las aplicaste en una experiencia previa.
+
+¿Puede describir el día típico de alguien en esta posición?
+
+Es importante conocer las actividades cotidianas que conlleva el puesto. ¿Coincide esto con el tipo de rol que te interesa? De no ser así, quizá esta posición no sea adecuada para ti. Esta pregunta también ayuda a confirmar que las tareas asignadas a el rol coincidan con la descripción del trabajo.
+
+¿Cómo describiría la cultura corporativa?
+
+La cultura corporativa incluye las actitudes y comportamientos de la empresa y sus empleados/as. Hacer esta pregunta te ayuda a comprender mejor si la cultura de esta organización es adecuada para ti. Por ejemplo, si deseas trabajar para una empresa que apoya la creatividad y fomenta nuevas ideas, busca ese tipo de información cuando alguien describa la cultura.
+
+¿Qué es lo que le gusta de trabajar aquí?
+
+Similar a la pregunta anterior, esta pregunta proporciona las cualidades positivas de un entorno de trabajo. Asegúrate de que estas coincidan con lo que a ti te interesa.
+
+¿Hay alguna capacitación para este puesto? De ser así, ¿cómo se imparte?
+
+Si te interesa recibir capacitación para un puesto, considera hacer esta pregunta. Además, es posible que desees saber cómo se impartirá, ya sea de forma virtual, presencial, a través de la observación de un/a colaborador/a actual o mediante otro método.
+
+¿Tiene alguna pregunta o duda sobre mis calificaciones o experiencia?
+
+Hacer esta pregunta al final de una entrevista, te brinda la oportunidad de abordar cualquier inquietud que quien te entrevista pueda tener sobre tus antecedentes laborales. En ocasiones, esta persona puede estar interesada en una experiencia que tienes, pero que no has incluido en tu currículum. Esta es la pregunta ideal para abordar esa discrepancia.
+
+Conclusiones clave
+Durante una entrevista, debes hacer preguntas para obtener más información sobre la empresa y mostrar tu interés en el puesto para el que estás aplicando. Antes de la entrevista, realiza una investigación previa y anota cualquier pregunta que puedas tener acerca de la organización o la posición. Es una buena práctica tener al menos cuatro preguntas preparadas con antelación. Si hay tiempo disponible y la pregunta parece apropiada, ¡hazla!
+
 #### Vídeo: VídeoLaura: Consejos para la entrevista
+
+¡Hola! Soy Laura, responsable de marketing para Google Canadá. Significa que estoy a cargo de todas las formas en que nos comunicamos con nuestros clientes y consumidores en Google en Canadá. Así que si viste un anuncio de Simu Liu para Pixel 6, u escuchaste que YouTube tiene un nuevo formato de videos cortos llamado Shorts, o vas a una tienda y te ofrecen un Nest o un Chromebook, o si estás haciendo el Certificado de Carrera de Google, todas esas son formas en que trabajo con mi equipo para llevar el marketing a Canadá. ¿Cuántas entrevistas hice a lo largo de mi carrera? Tantas que perdí la cuenta. Pero lo que puedo decirte es que quien te entrevista quiere saber no solo si tienes el conocimiento y las habilidades para hacer el trabajo, sino que entiendes su producto, su marca, lo que está tratando de hacer. Así que uno de los consejos que siempre doy es que te asegures de haber visitado su sitio web. Si es una tienda de comercio electrónico, puedes intentar pedir un producto. Aunque al final no lo hayas comprado, has usado su producto. Cuando trabajaba en Twitter, solía pedirles a los postulantes que me nombraran algunas de sus cuentas favoritas de Twitter. “¿Qué marca te gusta seguir en Twitter?”. Te sorprendería la cantidad de veces que esa pregunta los tomó por sorpresa, a pesar de que estaban en una entrevista para un puesto en Twitter. La razón por la que me gusta hacer esas preguntas es porque quiero saber si interactuaste con el producto antes de venir a una entrevista. Así sea que hayas abierto la cuenta ayer. Para mí está bien. Pero quiero saber que te esforzaste un poco para entender de qué se trata la empresa a la que quieres entrar. Así que creo que es muy importante tener ejemplos e ideas prácticas que hayas aprendido investigando un poco sobre la empresa. A veces no se trata de competencias técnicas, sino de cómo te presentas en la entrevista y el trabajo previo que has hecho. En algunas ocasiones, puede que no tengas las habilidades específicas. En la entrevista para mi primer trabajo, no tenía experiencia en tecnología. Pero lo que tienes es la capacidad de aprender. Acabas de pasar por un proceso riguroso en este programa de certificación. Ya sabes cómo obtener información, cómo organizarla y cómo generar resultados. Así que deberías poder hablar al respecto y, tal vez, prepararte para dar ejemplos de cómo podrías asumir un proyecto. Entonces, ¿por dónde empiezas? ¿Cómo te organizas? ¿Cómo lidias con los desafíos? Algo para lo que debes prepararte en una entrevista es hablar acerca de ti mismo. Para algunos, puede ser desafiante. No hace falta que compartas detalles muy personales, pero sí deberías prepararte para hablar sobre qué te apasiona en la vida, qué haces cuando no estás en el trabajo, cuáles son tus aspiraciones, qué pasatiempos tienes y quizás ser capaz de mencionar situaciones o ejemplos de desafíos en los que has trabajado. ¿Cómo lo superaste? ¿Qué rasgos de tu personalidad te permiten tener éxito en lo que quieres hacer? Si hablamos de cómo sobresalir en una entrevista, creo que debes mostrar tu pasión y, si estás haciendo estos certificados de carrera, tal vez sumado a otro trabajo u otro compromiso que puedas tener, eres una persona apasionada y sabes cómo mostrarte. Sácalo a relucir en la entrevista, habla sobre el certificado de Google, sobre el trabajo que has hecho, y demuestra que de verdad quieres este empleo y que asumes el compromiso de continuar tu camino de aprendizaje. Hablar sobre cómo has invertido en ti mismo y cómo estás mejorando le demuestra al entrevistador/a que asumes el compromiso de emprender un viaje con ellos y por ti mismo y a ser inquisitivo, aprender, cuestionar las maneras de hacer las cosas y conocer nuevas formas de hacerlas. No temas demostrar que quizás no sepas cómo hacer algo, pero que puedes asumir el desafío, aprender de él y cumplir. Un consejo que le daría a mi yo más joven para su primera entrevista es que está bien hacer una pausa, tomarse un minuto y pensar la respuesta. No hace falta que responder todo tan pronto como te lo preguntan. Más bien, demuestra que te estás tomando el tiempo para ordenar tus pensamientos para encontrar una mejor respuesta. Es algo muy importante y, a veces, se siente raro, pero quien entreviste lo apreciará. El último consejo. Es inevitable que quien te entreviste pregunte: “¿Tienes alguna pregunta que hacerme?”. Y lo más importante es que tengas preguntas para hacerle. Así que prepara algunas con antelación. Algunas pueden surgir durante la entrevista, pero asegúrate de tener un par para preguntar al final. Así que felicitaciones por el arduo trabajo que has realizado en este certificado de Google. Te deseo todo lo mejor. Recuerda: sé una persona auténtica, haz la tarea y te irá genial.
 
 #### Lectura: LecturaPrepárate para las entrevistas con Interview Warmup
 
+![alt text](image-187.png)
+
+Ahora, que tienes las habilidades y el conocimiento para trabajar en comercio electrónico y marketing digital, es hora de comenzar a prepararte para las entrevistas. Interview Warmup <https://grow.google/certificates/interview-warmup/> es una herramienta que ayuda a practicar cómo responder preguntas para sentir mayor comodidad y ganar seguridad frente a una instancia de entrevistas.
+
+Comienzo
+Sigue estos pasos para comenzar una práctica de entrevista de 5 preguntas relacionadas con el comercio electrónico y el marketing digital:
+
+Ve a <grow.google/certificates/interview-warmup> .
+
+Haz clic en Comenzar a practicar.
+
+Selecciona el conjunto de práctica “Comercio electrónico”.
+
+Haz clic en Comenzar.
+
+La práctica tomará unos 10 minutos y las preguntas serán diferentes cada vez. Cada conjunto de preguntas constará de dos preguntas de fondo, una pregunta conductual y dos preguntas técnicas, simulando lo que encontrarías en una entrevista real. Puedes realizar tantas prácticas de entrevistas como desees.
+
+También tendrás la opción de acceder a la lista completa de preguntas de entrevista si deseas revisar más preguntas disponibles o enfocarte en temas específicos.
+
+Cómo funciona
+Interview Warmup te presenta preguntas de entrevista para que practiques las respuestas en voz alta. Mientras contestas, se transcribe tu respuesta en tiempo real para que puedas revisar lo que dijiste. También recibirás ideas o comentarios basados en patrones detectados por aprendizaje automático, lo cual te ayudará a descubrir aspectos sobre tus respuestas e identificar oportunidades de mejora.
+
+A continuación, encontrarás algunos ejemplos de preguntas que la herramienta podría hacer:
+
+¿Por qué quieres trabajar en marketing digital?
+
+¿Podrías compartir más sobre tus conocimientos y experiencia en SEM?
+
+Describe tu experiencia en la creación de contenido para redes sociales.
+
+¿Cómo se mide el éxito de una campaña de marketing por correo electrónico, y cómo se identifican las áreas de mejora?
+
+Cuéntame sobre un proyecto o campaña reciente en el que hayas trabajado.
+
+¿Cómo investigarías por qué una nueva línea de productos no cumplió con sus primeros dos objetivos de ventas mensuales?
+
+Estas son algunas de las ideas que proporciona Interview Warmup:
+
+Puntos de conversación: la herramienta te permite saber qué temas cubriste en tu respuesta, como experiencia, habilidades y objetivos. También podrás ver otros temas que tal vez desees considerar cubrir.
+
+Palabras más utilizadas: la herramienta resalta las palabras que usaste con más frecuencia y sugiere sinónimos para ampliar tus opciones de palabras.
+
+Términos relacionados con el trabajo: la herramienta resalta las palabras que utilizaste que están relacionadas con el puesto o la industria en la que te estás preparando para trabajar. También podrás ver una lista completa de términos vinculados con el trabajo que podrías considerar incluir en tu respuesta.
+
+Interview Warmup te da el espacio para practicar y prepararte para las entrevistas. Tus respuestas, que serán visibles solo para ti, no serán calificadas ni juzgadas.
+
+Conclusiones clave
+
+Practicar para las entrevistas es una habilidad importante para tu carrera en marketing digital y comercio electrónico. Utilizar Interview Warmup te puede ayudar a practicar preguntas de entrevista y recibir una devolución en tiempo real. A medida que practiques, ganarás confianza y podrás preparar respuestas más pulidas para las preguntas comunes de las entrevistas.
+
 ### Desarrolla un elevator pitch
 
+#### Desarrolla un elevator pitch curso 7
+
+¿Te han preguntado “¿Quién eres?” alguna vez? Al principio puede parecer una pregunta bastante simple, ¿verdad? Por ejemplo, podría responder simplemente diciendo: “Soy Erika”. Podría ir un paso más allá y agregar mi puesto laboral y dónde trabajo. En lugar de simplemente decir “Hola, soy Erika”, diría “Hola, soy Erika, Consultora de Personas en Google”. Pero incluso eso no dice realmente “quién” soy. Aquí, es de ayuda un elevator pitch. Un elevator pitch es una descripción breve y memorable que explica un concepto de una forma fácil de entender. La idea es que solo tienes la atención del público mientras dure viaje de ascensor, así que debes comunicar el concepto de forma rápida y breve. El elevator pitch sirve para presentarte ante contactos profesionales en eventos de networking o en la oficina, por ejemplo. Incluso, tu elevator pitch será útil para otras situaciones, como vincularte con nuevas amistades o colegas. Para tus propósitos, el elevator pitch se centrará en quién eres, tu experiencia y tu aporte único como especialista en marketing digital o comercio electrónico de nivel inicial. Veamos las partes de un elevator pitch poniéndome como ejemplo. Como trabajo en RR.HH., haré de cuenta que me postulo para un puesto de nivel inicial en mi campo. Comencemos. Empezamos con la introducción. Detalla quién eres, tu puesto actual y un poco sobre tu experiencia profesional. Personalmente, diría “Soy Erika, Consultora de Personas en Google con más de 10 años en el ámbito corporativo. Mi puesto actual es similar a la de un/a socio/a RR.HH. en otras empresas. Ayudo a que gerentes, líderes y colaboradores de Google crezcan en sus puestos para alcanzar los objetivos empresariales”. Sigo con lo de mi experiencia que puedo aportar al nuevo puesto. Por ejemplo, “He trabajado con colaboradores y líderes de todo nivel en este sector para ayudarles a lograr objetivos mediante el desarrollo profesional y coaching”. Después, agrego lo que me gusta de desempeñarme en mi sector y muestro mi pasión por el trabajo que he hecho. Por ejemplo, “Me gusta hablar en profundidad con colaboradores y líderes para ver sus objetivos, pasiones y qué los motiva y emociona en el trabajo. En colaboración, trazamos trayectorias profesionales y y áreas de desarrollo para alcanzar sus objetivos y apoyar a sus equipos, organizaciones y al negocio en general”. A continuación, crearás tu propio elevator pitch. Si lo haces bien, será útil para contar sobre ti en una entrevista. Tras perfeccionarlo, practícalo de vez en cuando. También actualízalo al tener más logros. ¡Buena suerte!
+
+#### Más información sobre cómo desarrollar un elevator pitch
+
+Cuando te entrevistes con posibles empleadores/as, es importante comunicar quién eres, el valor que aportas como profesional del comercio electrónico o marketing digital y lo que buscas en un trabajo. Una forma sencilla de hacerlo es a través de un elevator pitch o presentación breve. Un elevator pitch es una descripción concisa y memorable que explica una idea, un negocio o un servicio de una manera fácil de entender, generalmente en 60 segundos o menos (el tiempo promedio de un viaje en ascensor).
+
+Si bien un elevator pitch generalmente se enfoca en una idea o un producto, también puedes usarlo para “venderte” como profesional ante posibles empleadores/as. En una entrevista, un elevator pitch sólido puede ayudar a destacarte. Se puede utilizar para ayudar a explicar por qué eres una buena opción para ocupar el puesto o para responder a la conocida pregunta de “cuénteme sobre usted”. Esta lectura te ayudará a preparar tu elevator pitch para venderte a ti mismo/a y el valor que puedes ofrecer como coordinador/a de marketing digital o analista de comercio electrónico.
+
+Haz una introducción
+Comienza brindando una introducción. Preséntate y ofrece una breve descripción de tu trayectoria profesional. Detalla algunos puestos laborales que ocupaste, tus años de experiencia y los tipos de industrias en las que trabajaste. Si este es tu primer trabajo en marketing digital o comercio electrónico, menciona algunos de tus roles anteriores que no están relacionados.
+
+Describe tus antecedentes laborales
+Incluso si se trata de la entrevista para tu primera pasantía o trabajo en marketing digital o comercio electrónico, es importante aclarar que esto es lo que deseas elegir como carrera.
+
+Por ejemplo, podrías decir: “Quiero aplicar mis excelentes habilidades de venta y servicio al cliente para crear campañas de shopping de comercio electrónico para compradores/as de todo el mundo”.
+
+Muestra entusiasmo
+Aquí es donde expresas tu pasión por este sector y explicas por qué quieres trabajar en él. Si te motiva vender productos en línea, menciónalo. También es un buen momento para hablar sobre tus objetivos.
+
+Por ejemplo, podrías decir: “Me encanta el marketing digital porque me permite investigar las tendencias de palabras clave que interesan a las personas. A largo plazo, me gustaría desarrollar mis conocimientos en la optimización de motores de búsqueda”.
+
+Manifiesta interés por la empresa
+Comunicar por qué te interesa la empresa, y no solo el puesto, es una excelente manera de ayudar a quien te está entrevistando a reconocer que tienes conocimientos sobre la organización.
+
+Por ejemplo, si estuvieras haciendo una entrevista para un puesto para el equipo de Shopping de Google, podrías decir: “Google Shopping ayuda a conectar a millones de personas con los productos que desean o necesitan. Como usuario/a habitual de Google Shopping, estoy ansioso/a por la oportunidad de formar parte de esa misión y brindar un soporte excepcional”.
+
+Ejemplos de elevator pitch
+Para poner en práctica una estructura de elevator pitch, echa un vistazo a dos ejemplos en Google. El primero es de Sean, Gerente de Marketing en el equipo de Google Ads. El segundo es de Joi, Gerente Asociado/a de Marketing de Producto.
+
+Sean
+
+Gerente de Marketing, Google Ads
+
+Soy Sean, Gerente de Marketing de Google Ads, con más de una década de experiencia en el campo del marketing digital, la mayoría de ella en Google. Cuando estaba en la universidad, ni siquiera sabía que esta industria existía.
+
+Me especialicé en inglés porque me gustaba leer y escribir. Mi primer empleador en marketing digital me brindó una oportunidad basándose en mi experiencia en gestión de clientes y manejo de hojas de cálculo, y consideró que podía enseñarme sobre el marketing digital. Me alegro de haberme cruzado con esta industria y formar parte de ella.
+
+Google siempre está innovando, lo que significa que cuando trabajas en este campo nunca dejas de aprender. De hecho, mi primera empresa tenía un blog dedicado a los últimos cambios en Google Ads (entonces llamado AdWords) y, debido a mi título de inglés, mostré un gran interés por él. En pocos meses, estaba a cargo de gestionar el blog, y fue a través de mis publicaciones en ese sitio que Google me encontró.
+
+Ha sido una experiencia maravillosa formar parte del equipo que anuncia las últimas novedades y actualizaciones de Google Ads. Gracias a mi experiencia práctica en anuncios de compra, puedo comprender de inmediato cómo cambiará el flujo de trabajo de alguien después de un anuncio. Me encanta poder contar la historia de Google a nuestros anunciantes, para que empresas de todos los tamaños puedan seguir teniendo éxito y hacer crecer sus negocios.
+
+Joi
+
+Gerente Asociado de Marketing de Producto
+
+Soy Joi, Gerente Asociada de Marketing de Producto en Google, con 10 años de experiencia en la creación de contenido para YouTube y canales sociales orgánicos.
+
+Además, fuera del trabajo en Google, dirijo mi propio negocio de comercio electrónico de belleza, una experiencia que me ha ayudado a desarrollar una gran cantidad de habilidades en torno al marketing digital y la publicidad pagada, la gestión de proyectos y las operaciones.
+
+Mi mentalidad emprendedora y mi pasión por la creatividad me han llevado a formar parte de una empresa como Google. Me desenvuelvo bien en la ambigüedad y me encanta diseñar estrategias y resolver problemas desde cero.
+
+Conclusiones clave
+Crear un elevator pitch de 60 segundos o menos es una gran herramienta para dar a conocer rápidamente quién eres. Usa el elevator pitch para presentarte frente a contactos profesionales y comerciales en el futuro. Incluso, puedes usarlo en otro tipo de situaciones, como al vincularte con nuevas amistades o colegas.
+
+#### Actividad de ejemplo: Elabora un elevator pitch
+
+Compara el ejemplo con tu elevator pitch. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué hiciste bien? ¿En qué aspectos podrías mejorar? Las respuestas a estas preguntas te servirán como guía a medida que avanzas en el curso.
+
+La sección de descripción de trabajo incluye:
+
+Criterios para filtrar en tu búsqueda de empleo.
+
+El título y el nombre de la empresa del rol objetivo que identificaste.
+
+Cualquier experiencia y habilidades relevantes que tengas que sean similares a las enumeradas en la descripción del trabajo.
+
+Una descripción de la empresa y su misión.
+
+El elevator pitch contiene:
+
+Una introducción que incluye tu nombre y proporciona una breve descripción de tu trayectoria profesional (una o dos oraciones).
+
+Una explicación de por qué te interesa el puesto y por qué deseas trabajar en la industria (una o dos oraciones).
+
+Una descripción de tu experiencia y habilidades que comunique el valor que aportarías a la posición (de dos a cuatro oraciones).
+
+Una indicación de que comprendes la misión de la empresa y una explicación del por qué deseas trabajar para ella (una o dos oraciones).
+
+#### Aprende consejos para realizar entrevistas de forma remota
+
+Una entrevista remota es aquella que se realiza de manera virtual. Por lo general, a través de una computadora utilizando una plataforma de video. Este tipo de entrevista presenta desafíos adicionales en comparación con las entrevistas que se hacen de manera presencial, como el uso de la tecnología, la iluminación y el sonido.
+
+En esta lectura, descubrirás qué tener en cuenta para lograr una entrevista remota exitosa.
+
+Pon a prueba tu tecnología
+El primer consejo es realizar pruebas de tu tecnología antes de la entrevista, preferentemente con uno o dos días de anticipación. Esto te dará la oportunidad de resolver cualquier problema técnico que puedas tener.
+
+Debes verificar el funcionamiento de la cámara, el micrófono y el software de la plataforma de video en tu computadora. Si es posible, realiza pruebas con algún/a amigo/a utilizando  el software de la plataforma de video para asegurarte de que la cámara y el micrófono funcionen correctamente.
+
+Perfecciona tu iluminación
+Cuando tengas una entrevista de forma remota, asegúrate de tener una buena iluminación. Es posible que debas reorganizar tu escritorio o muebles para ello.
+
+Si es posible, coloca tu escritorio o cámara frente a una ventana con luz natural. Siempre intenta tener luz detrás de tu cámara para que ilumine tu rostro.
+
+Si no puedes colocar tu escritorio junto a una ventana o no tienes suficiente luz natural, considera utilizar iluminación artificial. Sitúa una lámpara o fuente de luz detrás de la cámara.
+
+Debes evitar tener una fuente de luz o ventana directamente detrás de ti, porque puede hacer que el video se vea borroso y que se dificulte ver tu cara.
+
+Practica la comunicación a través del video
+Comunicarse a través de video puede ser un desafío debido a la falta de lenguaje corporal y un ligero retraso en el sonido. El retraso del sonido puede hacer que sea difícil saber cuánto tiempo esperar para que alguien termine de hablar y para que tú comiences. Esta es una habilidad que se aprende y con la práctica adquirirás mayor comodidad para saber cuánto debe durar la pausa.
+
+Si no tienes experiencia comunicándote a través de video, considera practicar con amistades y familiares antes de tener una entrevista de forma remota. Esto te ayudará a comprender cómo las pausas pueden afectar la comunicación de video.
+
+Mira a la cámara cuando hablas
+Cuando te comunicas a través de video, intenta mirar a la cámara cuando hables en lugar de mirar el video de la persona que está del otro lado. Mirar a la cámara le da a quien te está entrevistando la sensación de que mantienes contacto visual. Si miras hacia abajo y hablas a su imagen, aparecerá en el video como si estuvieras mirando ligeramente hacia abajo.
+
+Vístete adecuadamente
+El hecho de que la entrevista no sea presencial no significa que debas vestirte informalmente para la ocasión. Dependiendo del tipo de puesto y de la empresa que te entreviste, es posible que debas vestirte formalmente. En cambio, para otra posición, puede ser apropiado usar indumentaria más casual. Investiga sobre la empresa para determinar qué tipo de vestimenta es adecuada para la entrevista, en función del puesto y de la compañía.
+
+Elige un lugar de entrevista profesional
+Revisa tu fondo de video antes de la entrevista. Por lo general, debes evitar tener un fondo desorganizado o cualquier objeto que pueda distraer a quien te entreviste.
+
+Dependiendo del software de video, puede haber fondos virtuales disponibles. Un fondo virtual muestra una imagen o video detrás de ti durante una reunión, lo que te proporciona privacidad y un aspecto más profesional. Asegúrate de utilizar un fondo que sea profesional y apropiado para el puesto y probarlo antes de comenzar la entrevista.
+
+Iniciar sesión temprano
+Idealmente, antes de la entrevista, ya deberías haber probado tu equipo y sentirte seguro/a de que todo funcionará. Sin embargo, la tecnología y el software pueden ser impredecibles. Inicia sesión en tu entrevista remota con anticipación para asegurarte de que todo funcione correctamente.
+
+Además, iniciar sesión con anticipación indica a tu entrevistador/a que respetas su tiempo y que eres una persona puntual. Estas son dos cualidades positivas que pueden interesarle al/la entrevistador/a.
+
+Conclusiones clave
+Si nunca has realizado una entrevista de forma remota, puede resultar intimidante. Sigue los consejos en esta lectura para ganar más confianza en el proceso. Siempre prueba tu tecnología antes de la entrevista y, si es posible, el software de video. Esto aumentará la probabilidad de que la entrevista remota salga bien y te presentes de la mejor manera posible.
+
+#### Nami: Orientación para la entrevista de trabajo
+
+Mi nombre es Nami. Soy Socia de Personas en Google, también conocida como Socia de Negocios de Recursos Humanos. Tengo la oportunidad de ayudar a los líderes a pensar en cómo movilizar y a su personal y su talento hacia los objetivos comerciales. El primer trabajo para el que me postulé fue en una gran empresa de consultoría, y hay muchas cosas sobre esa experiencia que hubiera hecho de manera diferente ahora mirando hacia atrás después de algunos años. Me habría preparado y habría aprendido más sobre la organización, la empresa para la que iba a trabajar y exactamente cómo iba a pasar mi día. Simplemente no hice suficientes preguntas sobre cómo sería mi día a día. A veces, como solicitantes, pensamos en lo que aportamos al puesto y en cómo venderlo, pero no solemos entrevistar a la empresa para comprender si es una la opción adecuada para nosotros en función de nuestra trayectoria profesional. Hacer preguntas ayudará a garantizar que haya reciprocidad y que sea un entorno en el que realmente puedas tener éxito. Hay muchas preguntas distintas que puedes hacer. Si estás hablando con quien te recluta, puedes preguntarle sobre la organización, la empresa, la gerencia, el equipo, el puesto, cómo se vería el éxito en esa posición en realidad. Si hablas con el/la gerente de RR.HH., puedes hacer muchas preguntas sobre el equipo, cómo se ve el éxito, cuál es su estilo y enfoque de gestión, quiénes serán tus compañeros, cuáles son los desafíos, y donde podrías tener mayor impacto. He hecho muchas entrevistas, probablemente cientos o más, quizás miles, a esta altura de mi carrera. La mayor habilidad transferible que busco en candidatos/as para cualquier puesto es la aptitud de aprendizaje. No puedo enseñar la voluntad, pero puedo enseñar habilidades. Necesito saber que tienes la proactividad, que tienes el liderazgo y y que tienes la tenacidad para aprender y adquirir nuevas habilidades. Las preguntas típicas que suelo hacer son de tipo conductual o preguntas hipotéticas. Si es la primera entrevista que tengo con una persona, sin dudas le preguntaría por qué está cambiando de trabajo, qué espera obtener en su próximo puesto profesional y qué aspectos le interesan del marketing digital en el campo para el que se está postulando. Suelo hacer preguntas sobre aspectos que creo que serán muy importantes para ese campo. Entonces, en este campo, creo que optimizaría las preguntas sobre transformación, innovación, pensamiento amplio y proactividad. Las preguntas específicas que haría son: “Cuéntame sobre un momento en el que desafiaste el statu quo”. “Cuéntame sobre un momento en el que superaste una situación con múltiples perspectivas o partes interesadas”. Todo el mundo tiene experiencias de vida y muchas veces, cuando no tienes la experiencia relevante real o experiencia laboral en la que apoyarte, puedes recurrir a experiencias con tu familia, con el trabajo o con los estudios que te permitan pensar en un panorama general, ¿verdad? El punto es que quien te entrevista debe comprender a fondo la información o el conocimiento que tienes del sistema, la forma en que has sido capaz de navegar por diferentes espacios y contextos. Así que deberías hacerte preguntas como: “¿Qué es lo que realmente quiero asegurarme de que este entrevistador/a se lleve como aprendizaje sobre mí y mi talento?”. Y asegúrate de transmitir eso a través del proceso de la entrevista. El primer consejo que te daría es que transmitas tu historia con claridad. Si tienes el tiempo, transmite realmente cuál es tu historia. ¿Quién eres? ¿Qué tienes para aportar? Y luego asegúrate de pensar en cómo transmitir esa marca o esa historia al entrevistador. Por lo general, eso te dará más autenticidad y te hará transmitir más seguridad a la hora de la entrevista.
+
+#### Jesse: Superar el síndrome del impostor al prepararte para las entrevistas
+
+Soy Jesse, Directora de Crece con Google. Brindamos a solicitantes de empleo y pequeñas empresas las habilidades digitales necesarias para tener éxito en nuestro mundo, que es cada vez más digital. Creamos programas, generamos asociaciones para ayudar a quienes buscan empleo a encontrar trabajos reales y, por supuesto, a todos les contamos estas cosas. Ahí es donde el marketing importa en lo que hago. Mi camino hacia el marketing digital fue largo. Cuando me gradué de la universidad, quería ser maestra. Y eso es lo que hice. Fui profesora de historia e inglés de educación secundaria. Me gustaba enseñar, pero sabía que no iba a a dedicarme siempre a eso. Y me interesaba el marketing. Tenía amistades que se especializaban en marketing y me parecía interesante. Sentí curiosidad por el marketing. Hablé con una orientadora vocacional. Le mostré mi CV, que incluía mis cargos como profesora. La orientadora no fue alentadora. Me dijo que sería difícil y que tendría que conseguir trabajo en una empresa de tipo educativo. Yo quería trabajar en tecnología y salí de ahí muy deprimida. Solo por un rato. Después de eso, sentí como un verdadero fuego en mi panza. Me dije: “Puedo lograrlo. Sé que puedo. Y supongo que solo debo averiguar cómo por mi cuenta”. Busqué en Google las habilidades para un puesto en marketing. Aparecieron cosas como comunicación, resolución de problemas, creatividad, datos y análisis. Pensé en mi trabajo como profesora y en todas esas habilidades. Y me di cuenta de que yo hacía mucho de todo eso. Cuando tuve mi primera entrevista, sabía que no tenía experiencia en marketing, pero sí sabía un poco sobre las habilidades necesarias en un puesto de marketing, y lo que hice fue tratar de encontrar puntos en común entre mi experiencia y esas habilidades. Hablé mucho sobre comunicación, escritura, habilidades interpersonales y creatividad. Estos aspectos eran importantes en el marketing. La parte de datos y analítica fue difícil, fue mi debilidad. Y en las entrevistas lo reconocía. No fingí ser algo que no era ni tener habilidades que no tenía, pero hablé de cómo llegué a mencionar datos en mis clases de historia y cómo lograba estudiar rápidamente, así como mi pasión por aprender cosas nuevas. En ese entonces no sabía que hablaba sobre lo que se conoce como mentalidad de crecimiento, que es la creencia de que se pueden desarrollar habilidades mediante la práctica y el aprendizaje. Creo que la clave fue sentirme segura o al menos proyectar seguridad en la entrevista. Hice la entrevista pensando que no había mejor experiencia para un puesto de marketing que haber sido profesora de historia e inglés. Solo tenía que creérmelo para la entrevista. Si no lo hacía, el entrevistador no se lo iba a creer. Llegué a la entrevista muy nerviosa. Me preocupaba que no me tomaran en serio. No tenía experiencia en marketing, pero decidí ahogar mi miedo y convencerme para convencer, con una gran sonrisa y una actitud segura. Es curioso. Creo que al sentir el síndrome del impostor creemos que solo nosotros no tenemos la experiencia, los antecedentes, etc. Pero es probable que todas las personas a tu alrededor o al menos muchas personas a tu alrededor sientan exactamente lo mismo. Si vas a cambiar de carrera, tal como yo, que pasé de ser profesora a trabajar en marketing, y que a simple vista parecen cosas muy distintas, te aconsejo cavar hasta la capa más profunda. Trata de entender de verdad investigando en Internet y hablando con la gente qué habilidades requiere el marketing y si alguna de ellas también se requiere para hacer lo que haces ahora. Yo creo que encontrarás que algunas superponen. En la entrevista, debes encontrar puntos en común entre las habilidades que usas ahora y las habilidades que sabes que el empleador requiere que tengas en el puesto para el que está contratando. Si puedes dedicar tiempo, practicar y crear una narrativa que una esos puntos, creo que tu conversación con quien te entreviste será muy interesante.
+
+#### Actividad: Crea una cartera de comercio electrónico y preséntala a tus compañeros/as
+
+![alt text](image-188.png)
+
 ### Revisión: Prepárate para trabajos en marketing digital y comercio electrónico
+
+#### Términos y definiciones del curso 7, semana 3
+
+Blog: Página web informativa que consiste en entradas de texto cortas, con frecuencia informales, al estilo de un diario.
+
+Cartera: Colección editada de los mejores proyectos de una persona que se utiliza para mostrar la experiencia laboral, el estilo o los métodos.
+
+Currículum vitae (CV): Documento que presenta las credenciales académicas completas y la experiencia profesional de una persona.
+
+Elevator pitch: Descripción corta y memorable que explica un concepto de una manera fácil de entender.
+
+Entrevista de seguimiento: Reunión más profunda que a menudo incluye miembros del equipo con el que trabajará el/la solicitante.
+
+Entrevista preliminar: Entrevista corta realizada a través de una llamada telefónica o videollamada.
+
+Especialista: Persona experta en un campo específico.
+
+Generalista: Alguien que conoce sobre muchos temas y tiene varios intereses.
+
+Método STAR: Estrategia para responder preguntas de la entrevista que se centra en una situación, tarea, acción y resultado específicos.
+
+Podcast: Serie episódica de archivos de audio digital que las personas pueden descargar a un dispositivo personal para escuchar o leer una transcripción.
+
+Términos con sus definiciones de módulos anteriores
+A
+
+Alcance potencial: Indicador que mide cuántas personas han visto potencialmente una publicación.
+
+Analítica de productos: Monitoreo y evaluación de datos para obtener información sobre cómo las personas interactúan con un producto o servicio.
+
+B
+
+Big data: Campo de la analítica de datos que extrae sistemáticamente información de grandes conjuntos de datos.
+
+BigQuery: Solución de almacenamiento de datos basada en la nube de Google.
+
+C
+
+Chat en vivo: Una tecnología de servicio al cliente que permite a las personas comunicarse en tiempo real con un/a representante comercial.
+
+Chatbot: Sistema programado que responde a las preguntas comunes de clientes y/o suscriptores/as.
+
+Comunicación posterior a la compra: Cualquier interacción directa que las/los clientes tienen con una marca después de realizar una compra.
+
+Conversión: Realización de una actividad que contribuye al éxito de un negocio.
+
+Correos electrónicos de reabastecimiento: Correos electrónicos utilizados para incitar a las/los clientes a que repitan la compra cuando los artículos adquiridos previamente están a punto de agotarse.
+
+Costo de adquisición de clientes (CAC): Costo promedio de adquirir un/a cliente que pague.
+
+Costo por adquisición (cost per acquisition, CPA): Costo promedio de adquirir un/a cliente potencial.		
+
+D
+
+Defensa de la marca: Monitorea el número de clientes que promocionan una marca a través del marketing boca a boca u otros métodos.
+
+E
+
+Encuesta de NPS: Relevamiento de una sola pregunta que le pide a los/las encuestados/as que califiquen en una escala de cero a diez la probabilidad de recomendación de una empresa, producto o servicio a un/a amigo/a o colega.
+
+Encuesta de satisfacción del cliente (CSAT): Herramienta que mide cómo los productos y servicios suministrados por una empresa cumplen o superan las expectativas de sus clientes.
+
+Encuesta de usabilidad: Encuesta que evalúa la satisfacción de las/los clientes con el sitio web de una empresa e identifica cualquier problema que las personas puedan experimentar a lo largo del recorrido de compras.
+
+F
+
+Fragmento destacado: Cuadro especial que muestra información sobre una búsqueda en la página de resultados.
+
+G
+
+Google Analytics: Servicio de analítica web que rastrea e informa el tráfico del sitio web.
+
+Grabación de sesión: Representación que captura las acciones de un/a visitante mientras navega por un sitio web, incluido el movimiento del mouse, los clics, los toques y el desplazamiento.
+
+I
+
+Impresión: Cuando una pieza de contenido se muestra a un público objetivo.
+
+Indicador clave de rendimiento (Key Performance Indicator, KPI): Métrica que se usa para medir el éxito de una empresa en su esfuerzo por alcanzar un objetivo de negocio o marketing.
+
+Informe sobre los más vendidos: Informe en el Google Merchant Center que proporciona información sobre las marcas y productos más populares utilizados en los anuncios de Shopping y listados gratuitos.
+
+Inventario muerto: Inventario que permanece sin vender durante un largo periodo de tiempo y que es poco probable que se comercialice en el futuro.
+
+L
+
+Lenguaje de consulta estructurado (SQL): El lenguaje estándar utilizado para comunicarse con bases de datos desarrolladas por diferentes proveedores y alojadas en múltiples plataformas
+
+M
+
+Macroconversión: Una transacción de compra o suscripción completada.
+
+Mapa de calor: Herramienta de visualización de datos que demuestra cómo quienes visitan un sitio web interactúan con la página.	
+
+Margen de ganancia neta: Porcentaje de ingresos sobrantes después de pagar los gastos.
+
+Microconversión: Respuesta completa que indica que un/a usuario/a se está moviendo hacia una transacción de compra o suscripción completada.
+
+Modelo basado en el gasto: Programa de recompensas que ofrece a las/los clientes incentivos basados en una cantidad gastada durante una sola compra.
+
+Modelo basado en niveles: Programa de recompensas que ofrece a las/los clientes incentivos basados en la cantidad de dinero destinada a una sola compra.
+
+Modelo de puntos: Programa de recompensas que ofrece a las/los clientes un punto equivalente por un valor monetario determinado gastado en el transcurso de varias compras.
+
+Modelo de suscripción: Programa de recompensas que requiere que las/los clientes realicen un pago recurrente para recibir un incentivo exclusivo.
+
+O
+
+Optimización de la tasa de conversión: Proceso de aumentar el porcentaje de usuarios/as o visitantes del sitio web que completan una acción deseada.
+
+P
+
+Preguntas frecuentes (FAQ): Sección en un sitio web que proporciona respuestas a las preguntas que las/los clientes pueden tener con respecto a un negocio, sus productos o servicios, políticas, procesos y más.
+
+Programa de recompensas: Estrategia de marketing diseñada por una marca para fidelizar a sus clientes al proporcionarles incentivos para que la continúen comprando.
+
+Prueba A/B: Método de prueba donde se comparan dos versiones de contenido con una sola variable diferente para determinar cuál produce mejores resultados.
+
+Puntuación neta de promotor (Net Promoter Score, NPS): Métrica que ayuda a predecir la interacción futura de las/los clientes al preguntarles: “¿Qué tan probable es que recomiendes nuestro producto a un amigo/a?”.
+
+Python: Lenguaje de programación utilizado para el análisis y la visualización de datos.
+
+R
+
+Reconocimiento de marca: Cuán familiarizadas están las personas con un negocio o producto específicos.	
+
+Referencia: Se refiere a cómo alguien fue guiado a un sitio web.
+
+Remarketing dinámico: Proceso que permite a una empresa mostrar anuncios a visitantes anteriores que contienen productos y servicios que vieron en el sitio de la empresa.
+
+Retorno de la inversión publicitaria (ROAS): Cantidad de ingresos que se obtienen en relación a cuánto se gastó en publicidad.
+
+S
+
+Servicio al cliente: Asesoramiento y apoyo que una empresa brinda a sus clientes antes, durante y después de una compra.
+
+Servicio al cliente multicanal: Proporcionar atención al/a la cliente a través de múltiples canales.
+
+SMART: Método de definición de objetivos que puede ayudar a establecer y medir el éxito de los objetivos de una campaña. Es el acrónimo inglés de “specific” (específico), “measurable” (medible), “attainable” (alcanzable), “relevant” (relevante) y “time-bound” (de duración limitada).
+
+T
+
+Tasa de abandono del carrito: Porcentaje de clientes que agregan un producto a su carrito de compras y abandonan la página sin completar la transacción.
+
+Tasa de apertura: Porcentaje de usuarios/as o clientes que abren un correo electrónico.
+
+Tasa de aplauso: Número de acciones de aprobación (como me gusta, menciones, retuits o favoritos), que recibe una publicación en relación con la cantidad total de seguidores/as.
+
+Tasa de cancelación de suscripciones: Porcentaje de destinatarios de correo electrónico que se dan de baja de una lista de envío después de abrir un correo electrónico.
+
+Tasa de clics por apertura: Porcentaje de destinatarios/as de correo electrónico que hicieron clic en uno o más enlaces en un correo electrónico.
+
+Tasa de conversión de productos: Porcentaje de clientes que compran un producto después de verlo.
+
+Tasa de conversión: Porcentaje de usuarios/as o visitantes del sitio web que completaron una acción deseada, como hacer clic en el enlace en un correo electrónico o comprar un producto.
+
+Tasa de devolución: Porcentaje de productos vendidos que son devueltos por las y los clientes.
+
+Tasa de quejas: Porcentaje de quejas que los/las destinatarios/as envían a los proveedores de correo electrónico por haber recibido un correo electrónico.
+
+Tasa de rebote de correo electrónico: Porcentaje de correos electrónicos enviados que no se pudieron entregar en la bandeja de entrada.
+
+Tasa de retención de clientes: Porcentaje de clientes que una empresa retiene durante un cierto periodo de tiempo.
+
+Tráfico calificado: Tráfico compuesto por visitantes que probablemente se convertirán en clientes.
+
+Trimestre: Periodo de tiempo de tres meses basado en el calendario financiero de una empresa.
+
+U
+
+Upselling (Venta mejorada): Técnica de ventas utilizada para alentar a las/los clientes a gastar más al cambiar a un producto más caro.
+
+V
+
+Valor del tiempo de vida del cliente (LTV o CLV): Ingresos promedio generados por cliente durante un cierto periodo de tiempo.
+
+Valor promedio de pedido (AOV): Suma de los montos de los pedidos individuales divididos por el número total de pedidos.
+
+Venta cruzada: Técnica de ventas utilizada para alentar a las personas a gastar más al comprar un producto que está relacionado con lo que ya están comprando.
+
+Viabilidad del producto: Potencial de ventas de un producto específico.
+
+Vista en tiempo real: (Consultar Vista en vivo)
+
+Vista en vivo: Función de Shopify que proporciona una vista en tiempo real de la actividad de una tienda de comercio electrónico a medida que sucede.  
 
 ### Repaso del curso: Satisfacción garantizada: desarrolla estrategias de fidelización de clientes en línea
 
