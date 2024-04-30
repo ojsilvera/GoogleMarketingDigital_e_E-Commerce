@@ -2436,9 +2436,17 @@ La información para compartir con cada parte interesada según sus necesidades 
 
 Una descripción de la mejor manera de comunicar la información para cada parte interesada, basada en el enfoque de comunicación explicado en el análisis de las partes interesadas.
 
-#### Cuestionario práctico: Pon a prueba tus conocimientos: Necesidades de las partes interesadas y estrategias de comunicación
-
 ### Prepara métricas y datos para compartir
+
+#### Prepara datos en hojas de cálculo: ordenar y filtrar
+
+#### Análisis de datos en hojas de cálculo: ordenar, filtrar y comparar
+
+#### Prepara datos en hojas de cálculo: tablas dinámicas
+
+#### Análisis de datos en hojas de cálculo: tablas dinámicas
+
+#### Actividad de ejemplo: Analiza datos mediante tablas dinámicas
 
 ### Prepara visualizaciones de datos
 
