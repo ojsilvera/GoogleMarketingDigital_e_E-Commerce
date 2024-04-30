@@ -1659,9 +1659,43 @@ Registraste tus respuestas a las preguntas sobre los puntos de contacto en la pl
 
 #### Exportar datos de Google Ads y Google Analytics
 
+Los datos de Google Ads y Google Analytics pueden exportarse a archivos CSV para analizarlos en hojas de cálculo. Los datos de Google Analytics también pueden exportarse a otras plataformas como BigQuery, el almacén de datos de Google en la nube. Aquí verás cómo exportar datos a archivos CSV. CSV (valores separados por comas) es un formato de archivo en el que se coloca una coma entre cada valor de datos del archivo. Al abrir un archivo CSV, cada valor ocupa una celda única de la hoja de cálculo. Más adelante, verás el contenido de un CSV exportado a una hoja de cálculo. Empecemos con Google Ads. Un motivo para exportar datos de una campaña en Google Ads es para preservar un archivo de datos de otras campañas para analizarlos y compararlos. Así se exportan los datos de campañas de Google Ads: primero, ve a la lista de campañas actuales y pasadas. Antes de seleccionar una campaña, verifica el periodo de los datos que deseas ver y modifícalo si es necesario. El periodo predeterminado es de los últimos 30 días. Puedes ir a una fecha anterior cambiando la fecha de inicio. Las columnas de datos deben incluir todos los datos que deseas exportar. Si deseas agregar otra columna de datos, haz clic en el ícono Columnas. Luego de confirmar que el informe de la campaña tiene lo que necesitas, marca la casilla de la campaña y elige descargar los datos como un archivo CSV. También se pueden exportar los datos en otros formatos de archivo, como PDF.
+Reproduce el video desde :1:39 y sigue la transcripción1:39
+Así se ven los datos de la campaña en el archivo CSV. En Google Analytics, puedes compartir un informe. Para hacerlo, copia el enlace al informe y compártelo con otras personas. Quienes reciban el enlace deben tener el rol de Lector en Google Analytics para ver los datos. Si quieres compartir el resumen del informe, haz clic en el ícono Compartir, copia el enlace y pégalo en un correo, mensaje o presentación para compartir con otras personas. También puedes exportar los datos a un archivo CSV o PDF. El procedimiento es similar a exportar datos de Google Ads. Para exportarlos, elige Descargar archivo en lugar de Compartir enlace. Así se ven los datos en el resumen del informe en el archivo CSV. Al exportar datos de herramientas de analítica como Google Ads y Google Analytics, preservas los datos para futuros análisis. Puedes compararlos con los datos de otras campañas. Podrías revelar descubrimientos con un análisis de tendencias históricas.
+
 #### Cady: Lo que un análisis de métricas puede decirte
 
+Hola, soy Cady. Soy Líder de Analítica en Google. Un/a Líder de Analítica en Google ayuda a anunciantes con mediciones, pruebas e información de datos para ayudar a que construyan su negocio. La parte favorita de mi trabajo es ayudar tanto a mi equipo como a los/las anunciantes a resolver problemas. Acuden a mí porque no entienden algo que sucede o tienen alguna pregunta que intentan responder. Entonces, debo ver los datos para tratar de ayudarlos a resolver su problema. Y muchas veces trabajo en cosas nuevas por primera vez y aprendo algo nuevo, para después ayudar a mis anunciantes y a mi equipo a que lo aprendan también. Hay muchos datos disponibles cuando se trata de publicidad digital que brindan a los/las clientes, equipos de cuentas y agencias información sobre cómo mejorar. Hay muchos datos disponibles a lo largo de toda la experiencia, desde ir a Google hasta el sitio web de un/a cliente, y siempre podemos buscar formas de mejorar a lo largo del camino. Hay oportunidades de conversión en el sitio del cliente que facilitan que las personas lo exploren o completen un formulario. En cada paso, hay una oportunidad para analizar los datos y buscar formas de mejorar el rendimiento. Trabajé con un cliente que veía que había mucho tráfico que venía de Google, pero que por alguna razón u otra ese tráfico no se convertía. Ayudamos a evaluar el sitio para entender dónde se quedaban las personas en su embudo de conversión y cómo hacerlo más simple, directo y fácil de seguir para las/los clientes para ayudar a aumentar esa tasa de conversión y generar más pedidos. Algunas de las cosas que les recomendamos cambiar fueron simplificar su proceso de pago y no hacer tantas preguntas en los formularios para facilitar y agilizar el proceso de las/los clientes, hacer una llamada a la acción en la página de forma clara y destacada y dejarles muy en claro a sus clientes cuál es el siguiente paso o qué tienen que hacer para completar el proceso. Y con solo unos cambios en su sitio web, vimos un gran aumento en sus ventas. Si trabajas en comercio electrónico, vas a interactuar con los datos a diario. Harás pruebas de textos de anuncios, de páginas de destino, de creativos de video. Las pruebas son un componente central de la publicidad digital y consultarás esos datos para tomar decisiones y hacerles recomendaciones a tus clientes. Para quienes estén comenzando con el marketing digital, mi recomendación es que profundicen mucho en los datos. Algunas personas se pueden sentir intimidadas. Trabajé con muchas personas que odiaban las hojas de cálculo. Pero es muy importante usar los datos que tenemos a nuestra disposición y buscar información útil. Es útil para tu equipo. Es útil para tu cliente. Podría ayudarte a destacar entre tus colegas. Así que no te alejes de los datos. No les tengas miedo. Los números no dan miedo. Las hojas de cálculo no dan miedo.
+
 ### Revisión: Utiliza las métricas de Google Analytics y Google Ads
+
+#### Términos y definiciones del curso 5, semana 2
+
+Atribución basada en datos: Mide la interacción del/a cliente con el contenido de marketing en todos los canales para comprender qué lo motiva a actuar.
+
+Atribución entre canales: Un modelo en Google Analytics que atribuye un porcentaje de una conversión a todos los canales publicitarios con puntos de contacto.
+
+Campaña inteligente: Herramienta automatizada de gestión de campañas dentro de Google Ads que ayuda a impulsar  los negocios.
+
+Dimensiones: Atributos o características de un evento que determinan las métricas recogidas en Google Analytics.
+
+Evento: Actividad que hace que la recopilación de datos se produzca en Google Analytics.
+
+Métrica: Medición cuantificable que se utiliza para rastrear y evaluar un objetivo de negocio.
+
+Publicidad personalizada: Un tipo de publicidad que se basa en los datos de interés o comportamiento de los/las usuarios/as para determinar la audiencia adecuada para los anuncios.
+
+Rutas de conversión: Función de Google Analytics que permite a un/a especialista en marketing ver el primer y el último punto de contacto antes de la conversión y los puntos de contacto intermedios.
+
+Segmento: Subconjunto de datos analíticos que presenta una característica común; los ejemplos son un segmento de usuario, un segmento de evento o un segmento de sesión.
+
+Sistema de gestión de etiquetas (TMS): Permite el despliegue y la gestión de muchas etiquetas para múltiples plataformas y sistemas de publicidad de una manera simple y centralizada.
+
+UTM: Etiqueta de texto agregada a una URL para ayudar a monitorear ese contenido.
+
+Valores separados por comas (CSV): Formato de archivo en el que se coloca una coma entre cada valor de datos en el archivo.
+
+Variables: Segmentos, dimensiones y métricas configurados en una cuenta de Google Analytics.
 
 ## Medir el éxito de las campañas de marketing
 
