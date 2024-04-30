@@ -403,7 +403,85 @@ dinero la/el cliente, y, a partir de ahí, puedes darle buenos consejos de marke
 
 #### Objetivos de rendimiento relacionados con el costo
 
+El video de este curso que cubrió los objetivos de rendimiento se centró en cómo utilizar el retorno de la inversión publicitaria (ROAS), pero hay muchos otros tipos de objetivos de rendimiento relacionados con el costo a considerar. Esta lectura describe los objetivos de rendimiento para las estrategias de puja que se presentaron anteriormente en el programa. La puja inteligente permite a Google Ads monitorear los objetivos para garantizar que las estrategias estén optimizadas a fin de alcanzarlos. Tanto la puja inteligente como la puja manual utilizan objetivos de rendimiento para métricas como:
+
+Costo por adquisición (CPA)
+
+Costo por clic (CPC)
+
+Nota: Con la puja inteligente, puedes usar estrategias de costo por adquisición (CPA) objetivo y de costo por clic (CPC) mejorado. Una estrategia de costo por clic (CPC) mejorado combina la puja manual de costo por clic (CPC) con el costo por adquisición (CPA) o el retorno de la inversión publicitaria (ROAS) objetivos.
+
+Reduce el costo por adquisición (CPA) para mejorar el valor de la campaña
+Nota: Los objetivos de rendimiento variarán según la campaña. La información relacionada con el costo proporcionada a continuación es solo con fines ilustrativos.
+
+El costo por adquisición es el costo promedio pagado por cada conversión. Si dispones de datos comparativos de campañas anteriores, puedes utilizar el valor promedio del costo por adquisición como objetivo de rendimiento. Luego, puedes optimizar tu campaña para tratar de lograr un costo por adquisición más bajo y así mejorar el valor de tu campaña.
+
+Si no cuentas con datos históricos de campañas, puedes intentar usar un valor promedio del sector como punto de partida. Los valores promedio del sector son los valores típicos que se encuentran en toda una industria. Algunos ejemplos de valores promedio de costo por adquisición incluyen los anuncios de búsqueda de la industria automotriz, los anuncios de Facebook del sector textil y el costo por adquisición del comercio electrónico.
+
+Imagina que trabajas para una empresa de bienes raíces, pero no tienes datos de campañas anteriores. Después de investigar, descubres que el costo por adquisición promedio de la industria para los anuncios de búsqueda del sector inmobiliario es de US$41.14, por lo que estableces tu costo de adquisición objetivo en US$40 (línea roja en el cuadro a continuación). Tu presupuesto para anuncios de búsqueda es de US$10,000, por lo que intentarás conseguir al menos 250 conversiones para alcanzar o superar el costo por adquisición objetivo de US$40. Cualquier número de conversiones por debajo de la línea roja superaría tu objetivo.
+
+Número de conversiones para mejorar = Presupuesto/CPA = US$10,000/US$40 = 250
+
+![alt text](image-129.png)
+
+Si una conversión se define como un/a cliente potencial que solicita información sobre servicios inmobiliarios, necesitarás que al menos 250 personas realicen esa acción después de ver tus anuncios de búsqueda. Si más de 250 personas realizan esa acción, habrás mejorado el valor de tu campaña por encima del promedio del sector.
+
+Utiliza el gasto diario para gestionar el costo por clic (CPC)
+Nota: Los objetivos de rendimiento variarán según la campaña. La información relacionada con los costos proporcionada a continuación es solo con fines ilustrativos.
+
+El costo por clic (CPC) es una métrica utilizada en la publicidad de pago por clic (PPC). Una forma de controlar los costos es gestionar el costo por clic en función de cada campaña. Puedes asignar más presupuesto a las campañas de pago por clic que tengan mayor prioridad.
+
+Si estás publicando anuncios de búsquedas nacionales para varias regiones, pero la región de ventas del noroeste tiene mayor prioridad que la del suroeste, puedes asignar más presupuesto a la campaña de pago por clic para la región del noroeste. Suponiendo que el costo por clic máximo sea de US$0.50 para ambas regiones, puedes asignar un gasto diario mayor en la región del noroeste para lograr más clics en esa área. Por ejemplo si estableces un gasto diario de US$200 para la región del noroeste y US$100 para la región del suroeste, se aplicarán los siguientes cálculos:
+
+Número de clics en la región noroeste = Gasto diario/costo por clic (CPC) = US$200/US$0.50 = 400 clics
+
+Número de clics en la región suroeste = Gasto diario/costo por clic (CPC) = US$100/US$0.50 = 200 clics
+
+![alt text](image-130.png)
+
+El gráfico muestra el número de clics frente al gasto diario para un costo por clic de 50 centavos. Los datos de dos puntos de comparación son 400 clics con un gasto diario de US$200 y 200 clics en un gasto diario de US$100 son dos puntos de datos para la comparación.
+
+Basándote en la diferencia en el gasto diario, el número de clics por los que estás dispuesto/a a pagar en la región del noroeste (punto de datos azul más oscuro) es mayor que el número de clics por los que estás dispuesto/a a pagar en la región del suroeste (punto de datos azul más claro). Puedes controlar el gasto diario a lo largo de la campaña para gestionar los resultados de rendimiento en cada región.
+
+Conclusiones clave
+
+Comprender el costo por adquisición (CPA), el retorno de la inversión publicitaria (ROAS) y el costo por clic (CPC) te ayudará a gestionar las campañas. El gasto diario o el costo por clic se ajustan para maximizar el número de conversiones. Con la puja inteligente, una estrategia de costo por clic mejorado combina la puja manual con un costo por adquisición o un retorno de la inversión objetivos.
+
 #### Ejemplo de actividad: Establece objetivos de rendimiento
+
+Compara el ejemplo con tu plantilla de objetivos de rendimiento terminada. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué hiciste bien? ¿En qué aspectos podrías mejorar? Las respuestas a estas preguntas te servirán como guía a medida que avances en el curso.
+
+Revisa cada cálculo:
+
+Las tasas de conversión se calculan con la siguiente fórmula: Conversiones/Clics totales x 100 = Porcentaje de tasa de conversión
+
+Por lo tanto, las tasas de conversión del tercer trimestre de Baba’s se calculan utilizando las siguientes ecuaciones:
+
+Correo electrónico: 90/1,200 x 100 = 7.5%
+
+Redes sociales: 30/900 x 100 = 3.33%
+
+Las tasas de clics se calculan utilizando la siguiente fórmula:
+
+Clics totales/Impresiones totales x 100 = Tasa de clics
+
+Por lo tanto, las tasas de clics del tercer trimestre de Baba’s se calculan utilizando las siguientes ecuaciones:
+
+Correo electrónico: 1,200/80,000 x 100 = 1.5%
+
+Redes sociales: 900/90,000 x 100 = 1%
+
+Repasemos los criterios para los objetivos de rendimiento del cuarto trimestre:
+
+Cada objetivo de rendimiento incluye la tasa de conversión o la tasa de clics, métricas que son relevantes tanto para el objetivo de negocio de aumentar los ingresos como para los objetivos de marketing de incrementar las tasas de conversión y de clics.
+
+Cada objetivo de rendimiento indica el aumento deseado de la tasa de conversión o de clics, por lo que está claro cómo se medirá el objetivo.
+
+Cada objetivo de rendimiento apunta a un aumento alcanzable de las tasas de conversión y clics, basado tanto en los puntos de referencia del sector como en los datos de rendimiento del tercer trimestre (por ejemplo, un aumento de entre 0.5 y 1.2 puntos porcentuales).
+
+Ten en cuenta que tus objetivos de rendimiento pueden diferir ligeramente de los del ejemplo. Los objetivos de rendimiento que estableciste son aceptables si son relevantes, medibles y alcanzables.
+
+Además, considera que tus objetivos de rendimiento para el cuarto trimestre no necesitan sumar el porcentaje deseado de aumento en todos los canales. Debido a que se te pidió establecer metas para dos de otros posibles canales, tus objetivos de rendimiento pueden contribuir hacia un objetivo de marketing combinado sin necesariamente satisfacerlo por completo. Por caso, para la tasa de clics en el ejemplo, los objetivos de rendimiento del cuarto trimestre para el correo electrónico y las redes sociales son aumentos de 0.8 y 0.6 puntos porcentuales, respectivamente. Sumando estos  resultados se obtiene un aumento combinado del 1.4 puntos porcentuales, pero esto es menor que los cinco puntos porcentuales especificados en el objetivo de marketing para todos los canales. Es de suponer que otros canales contribuirían para cubrir la diferencia y cumplir con el objetivo de marketing general.
 
 ### Introducción a las herramientas para las analíticas de marketing
 
