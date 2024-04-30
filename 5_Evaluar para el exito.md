@@ -2477,7 +2477,7 @@ Ejemplo 1: Compras realizadas en cada campaña
 
 ![alt text](image-162.png)
 
-3. Y, por último, cuenta el número de instancias que hay de cada código cada vez que uses un filtro. Divide el número de instancias de cada código por el número total de compras para obtener el porcentaje de compras realizadas en cada campaña. Por ejemplo, sobre un total de 563 compras, las 15 compras realizadas con el código EZ3043 representan el 2.66% de las compras. 
+1. Y, por último, cuenta el número de instancias que hay de cada código cada vez que uses un filtro. Divide el número de instancias de cada código por el número total de compras para obtener el porcentaje de compras realizadas en cada campaña. Por ejemplo, sobre un total de 563 compras, las 15 compras realizadas con el código EZ3043 representan el 2.66% de las compras.
 
 Consejo profesional: Para conjuntos de datos grandes, en lugar de contar las instancias manualmente, puedes usar la función CONTARA en Hojas de Cálculo de Google o Microsoft Excel. CONTARA arrojará como resultado la cantidad de celdas que no están en blanco entre cierto rango. Por ejemplo, si el rango de datos es F2:F500, escribe lo siguiente en una celda en blanco: =CONTARA(F2:F500). En esa celda, se mostrará la cantidad de celdas dentro del rango especificado que contienen datos (como un código de campaña).
 
@@ -2556,11 +2556,11 @@ Con las funciones ordenar y filtrar, puedes determinar la cantidad de compras po
 
 En el editor de tablas dinámicas, al seleccionar Mostrar totales, se ordenarán de forma ascendente el Estado en Filas, y el Código en Columnas. En el Valor, la función CONTARA resumirá el Código.
 
-La tabla dinámica debería ser similar a la que se muestra a continuación, donde la cantidad de compras de cada campaña se muestra en la fila etiquetada como Suma total. 
+La tabla dinámica debería ser similar a la que se muestra a continuación, donde la cantidad de compras de cada campaña se muestra en la fila etiquetada como Suma total.
 
 Nota: Se ocultaron algunas filas (estados) en la tabla dinámica para ahorrar espacio y poder mostrar el recuento en la parte inferior de la tabla.
 
-2. Luego, puedes agregar una fórmula para calcular el porcentaje de compras totales. Para ello, divide cada suma total por 563. La fórmula en la celda C53 es: =C52/563, que toma el valor en la celda C52 (es decir, 28) y lo divide por 563. El resultado del porcentaje es 4.97% para la Campaña 39343E. Copia esta fórmula en las celdas D53 y E53 para calcular los porcentajes de las otras dos campañas. 
+1. Luego, puedes agregar una fórmula para calcular el porcentaje de compras totales. Para ello, divide cada suma total por 563. La fórmula en la celda C53 es: =C52/563, que toma el valor en la celda C52 (es decir, 28) y lo divide por 563. El resultado del porcentaje es 4.97% para la Campaña 39343E. Copia esta fórmula en las celdas D53 y E53 para calcular los porcentajes de las otras dos campañas.
 
 Información para compartir con las partes interesadas
 A partir de la tabla dinámica y los cálculos posteriores, puedes compartir la siguiente información con las partes interesadas:
@@ -2583,12 +2583,12 @@ Finalmente, puedes insertar una fórmula en la Columna I para calcular el porcen
 
 ![alt text](image-168.png)
 
-Por ejemplo, después de copiar el contenido de la celda I4 y pegarlo en la celda I6, la fórmula de la celda I6 para el estado de Arizona se convertirá en =(D6+E6+F6)/H6, que suma los valores de las tres campañas y divide ese número por la cantidad total de compras en Arizona. 
+Por ejemplo, después de copiar el contenido de la celda I4 y pegarlo en la celda I6, la fórmula de la celda I6 para el estado de Arizona se convertirá en =(D6+E6+F6)/H6, que suma los valores de las tres campañas y divide ese número por la cantidad total de compras en Arizona.
 
 Cálculo de la celda I6: =(1+1+5)/18 = 0.38 (es decir, 38%)
 
 Información para compartir con las partes interesadas
-A partir de los cálculos de las compras relacionadas con las campañas, puedes compartir la siguiente información con las partes interesadas: 
+A partir de los cálculos de las compras relacionadas con las campañas, puedes compartir la siguiente información con las partes interesadas:
 
 El 22% de las compras de Alabama estuvieron relacionadas con las campañas.
 
@@ -2596,15 +2596,87 @@ El 0% de las compras de Alaska estuvieron relacionadas con las campañas.
 
 El 38% de las compras de Arizona estuvieron relacionadas con las campañas.
 
-(Y así sucesivamente para cada estado de los Estados Unidos) 
+(Y así sucesivamente para cada estado de los Estados Unidos)
 
 Conclusión
 
 La tabla dinámica arrojó los mismos resultados que obtuvimos al filtrar cada estado indicado en la columna Estado de a uno a la vez para obtener solo los datos que queríamos ver. Sin embargo, al usar la tabla dinámica pudiste ahorrar algo de tiempo.
 
+Recursos para obtener información adicional
+Puedes consultar los siguientes recursos para obtener más información sobre cómo trabajar con tablas dinámicas:
+
+Cómo crear y usar tablas dinámicas <https://support.google.com/a/users/answer/9308944?hl=en>: instrucciones para crear tablas dinámicas en Hojas de Cálculo de Google.
+
+Crear una tabla dinámica para analizar los datos de una hoja de cálculo <https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576>: ayuda para crear tablas dinámicas en Microsoft Excel.
+
 #### Actividad de ejemplo: Analiza datos mediante tablas dinámicas
 
+Compara los ejemplos con la actividad realizada. Revisa tu trabajo utilizando cada uno de los criterios de los ejemplos. ¿Qué hiciste bien? ¿Dónde puedes mejorar? Usa tus respuestas a estas preguntas a modo de guía a medida que avanzas en el curso.
+
+Nota: Si bien tus tablas dinámicas deberían ser muy similares a las de los ejemplos, es probable que tus sugerencias para mejorar las conversiones sean un poco diferentes. Está bien si el número y los horarios de los bloques que seleccionaste no coinciden completamente con los ejemplos. Lo importante es que identifiques bloques de tiempo que se ajusten a los criterios que se explicaron en las instrucciones de la actividad.
+
+Revisemos cada ejemplo:
+
+Tablas dinámicas
+
+El ejemplo contiene tres tablas dinámicas. En cada tabla se usa “Hora del día” para las filas y “Día de la semana” para las columnas. Los valores se establecen en sesiones, conversiones y tasa de conversión.
+
+El formato condicional usa una escala de color que va de blanco a verde para las tablas y una escala de color que va de blanco a amarillo para la columna y la fila de Suma total. Los valores más bajos son más claros y los valores más altos son más oscuros, lo que facilita la identificación de patrones en los datos.
+
+Correo electrónico de información sobre los datos
+
+Las notas usan las preguntas de guía para identificar información general y específica sobre cada tabla dinámica.
+
+Las recomendaciones usan las tablas dinámicas y la información registrada en las notas para identificar en qué bloques de tiempo conviene publicar más anuncios (principalmente por la tarde y noche de los lunes, martes y miércoles). Estos bloques tienen tasas de conversión superiores al promedio y un volumen de sesiones moderado.
+
+También se identifican momentos para publicar menos anuncios, en los que haya un alto volumen de sesiones, una tasa de conversión baja o pocas conversiones (todos los días a primera hora de la mañana y los lunes, miércoles y viernes al mediodía).
+
 ### Prepara visualizaciones de datos
+
+#### Crea visualizaciones de datos en las hojas de cálculo
+
+Aprendiste que las hojas de cálculo te dan la flexibilidad de ordenar, filtrar y analizar datos de la manera que elijas. Las hojas de cálculo también son flexibles para crear visualizaciones de los datos. Este video cubre los tipos básicos de gráficos en hojas de cálculo. Una ventaja de crear gráficos en hojas de cálculo es que puedes copiarlos y pegarlos en diapositivas cuando tengas que presentar los datos. Las visualizaciones básicas de las hojas de cálculo incluyen gráficos de columnas verticales, barras horizontales, gráficos de líneas, de área, circulares e histogramas. Si estás comparando cómo cambian las métricas o variables, usa un gráfico de columnas verticales para las diferentes mediciones. En un gráfico de columnas verticales, cada medición individual es una columna vertical. Puedes comparar cómo una métrica cambia con el tiempo con uno de columnas simples. Por ejemplo, puedes comparar el número de usuarios/as nuevos/as en enero y febrero en un gráfico de columnas simples. O también es posible que debas comparar dos métricas o variables al mismo tiempo, como el número de usuarios/as nuevos/as y la cantidad de visitantes recurrentes de enero y febrero. En este caso, puedes usar un gráfico de columnas agrupadas. Por último, si quieres comparar métricas o variables relacionadas para evitar que las columnas agrupadas ocupen mucho espacio, usa un gráfico de columnas apiladas. Este gráfico de columnas apiladas es apropiado para comparar la cantidad total de usuarios/as en azul marino, la cantidad de usuarios/as que abandonan sus carritos en azul oscuro, y el número de usuarios/as que completan una compra en azul claro. Un gráfico de barras horizontales es solo una rotación de 90 grados de las columnas. Puedes optar por un gráfico de barras si hay una gran diferencia entre las mediciones que comparas. Por ejemplo, si estás mostrando un gran aumento en usuarios/as nuevos/as, un gráfico de barras te ayudará a ahorrar espacio porque un gráfico de columnas puede ser muy alto. Al igual que los gráficos de columnas, los de barras pueden ser simples, agrupados o apilados. Si tus datos muestran cómo una métrica cambia durante un periodo de tiempo, usa un gráfico de líneas. En gráficos de líneas, los puntos de datos individuales según una variable cambiante están conectados en una línea continua. Un gráfico de líneas puede tener una sola línea que cambie con una métrica, o líneas apiladas para mostrar dos o más métricas cambiantes. Un gráfico de área representa los datos de igual forma que uno de líneas, pero con el espacio bajo la línea coloreado para formar un área visual. Los gráficos de área pueden ser simples, no apilados o apilados. El formato de un gráfico de área no apilado es único porque los puntos de datos no están alineados en el eje x y las áreas toman formas diferentes. Los gráficos no apilados son útiles si las métricas no son del mismo día, pero igual quieres mostrar una tendencia general. Un gráfico circular es útil para mostrar resultados parciales y totales. Por ejemplo, podrías usar un gráfico circular para representar los porcentajes de ventas de cada una de las cuatro campañas que vemos aquí en verde, azul, rojo y amarillo, y que sumadas llegan al cien por ciento que completa todo el círculo. Un histograma muestra puntos de datos individuales categorizados en rangos, donde la frecuencia de cada rango está representada por la altura de cada columna. Por ejemplo, podrías usar el histograma para mostrar la demografía de las ventas en línea clasificada en grupos de edad. Volvamos a la hoja de cálculo Ordenar y Filtrar, creemos un gráfico que compare el número de usuarios/as nuevos/as y totales para cada navegador. Estas instrucciones son para Hojas de Cálculo de Google, pero los pasos en Microsoft Excel son similares. En primer lugar, selecciona las celdas A1 a C11. Luego haz clic en “Insertar” desde el menú principal y selecciona “Gráfico”. Es probable que aparezca un gráfico de columnas verticales por defecto. Si quieres cambiar el tipo de gráfico, usa el editor de gráficos a la derecha. Haz clic en la pestaña “Configuración” en el editor de gráficos, y luego selecciona lo que quieres ver. En este caso, haz clic en la flecha en “Apilamiento” y selecciona “Estándar”. Esto cambiará el gráfico de columnas por un gráfico de columnas apiladas. Puedes seleccionar otros gráficos en el editor de gráficos y elegir el que más te guste. Si estás trabajando en Microsoft Excel, después de seleccionar las celdas A1 a C11, haz clic en “Insertar” desde el menú y luego elige el ícono del gráfico que desees. Crearás otros tipos de gráficos en las actividades de este curso. Los ejemplos de gráficos de este video se pueden descargar desde la guía de una lectura. Como se mencionó al inicio del video, los gráficos de las hojas de cálculo se pueden copiar fácilmente a presentaciones. También podrás crear una presentación con los gráficos de una hoja de cálculo. Estas habilidades te permitirán compartir datos y métricas clave con las partes interesadas.
+
+#### Visualización de datos en las hojas de cálculo: gráficos
+
+En un video de este curso sobre visualizaciones de datos, presentamos una variedad de gráficos que pueden crearse a partir de los datos de una hoja de cálculo. Cuando compartes visualizaciones de datos para complementar los informes de métricas y datos para las partes interesadas, es importante que puedan entenderse fácilmente para comprender los puntos principales en unos pocos segundos. En esta lectura, te ofrecemos ejemplos de casos en los que quizás tengas que ajustar o reagrupar los datos para crear gráficos más fáciles de leer y comprender para las partes interesadas.
+
+Evita los gráficos demasiado llenos
+Si un gráfico muestra muchas categorías, puede verse muy lleno. Por ejemplo, supongamos que tienes que mostrar el porcentaje de conversiones de cada estado de los Estados Unidos para una campaña de marketing a escala nacional.
+
+Un gráfico de columnas no tiene suficiente espacio para etiquetar los datos de los 50 estados.
+
+![alt text](image-169.png)
+
+Un gráfico circular tiene demasiadas secciones que no se pueden etiquetar y mostrar con claridad.
+
+![alt text](image-170.png)
+
+Crea gráficos apilados por región
+
+Si decides usar un gráfico de columnas, puedes agrupar los estados por región (como Noreste, Medio Oeste, Sur y Oeste) para luego crear un gráfico de columnas apiladas. Cada columna muestra los datos acumulados para cada estado de la región y el gráfico termina teniendo cuatro columnas en lugar de 50.
+
+![alt text](image-171.png)
+
+Muestra solo los estados con los mayores porcentajes de conversiones y agrupa los demás 
+
+Si decides usar un gráfico circular, tendrás que reducir el número de categorías. Puedes mostrar los estados con los mayores porcentajes de conversiones y colocar todos los demás estados en una categoría agrupada, como los estados con menos de 3% de conversiones. El gráfico circular tendrá ocho secciones en lugar de 50, por lo que será mucho más fácil de leer.
+
+![alt text](image-172.png)
+
+Conclusión principal
+Al crear un gráfico para compartir con las partes interesadas, debes seleccionar el tipo de visualización más apropiado para tus datos. A veces, tienes que probar distintos gráficos para descubrir cuál se ve mejor. Otras veces tendrás que ajustar los datos para crear una visualización más atractiva.
+
+Guía extra para crear gráficos
+Cómo elegir una visualización de datos <https://drive.google.com/file/d/13T-Qu4lv-BdUJ0xYpqTraguqMg76LZSq/view?usp=sharing>: consulta esta guía ilustrada que te ayudará a seleccionar el tipo de gráfico más adecuado para tus datos. Puedes descargarla y usarla de referencia.
+
+#### Otras herramientas para la visualización y el análisis de dato
+
+
+
+#### Actividad de ejemplo: Crea visualizaciones de datos para una presentación
+
+#### Haz que tus presentaciones sean accesibles
 
 ### Presenta los datos clave a las partes interesadas
 
