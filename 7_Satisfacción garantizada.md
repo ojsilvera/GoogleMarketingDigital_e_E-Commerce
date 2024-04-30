@@ -1533,7 +1533,231 @@ menos relevantes.
 
 #### Evaluar el rendimiento del producto
 
+Vimos la importancia de la analítica para medir el éxito de una tienda. Veamos su uso para evaluar el rendimiento de los
+productos. Antes, nos enfocamos en el rendimiento del comercio electrónico en su conjunto. Aquí, nos centraremos en el
+rendimiento de productos específicos. Primero, veamos por qué la analítica de los productos es importante. Implica
+monitorear y evaluar datos para obtener insights sobre cómo las personas interactúan con un producto o servicio. Estos datos
+ayudan a las empresas a evaluar el éxito de un producto. Si un producto no cumple con las expectativas, analizar los datos
+puede ayudar a entender por qué el rendimiento es bajo y a detectar oportunidades de mejora. La analítica también ayuda a
+evitar vender productos que no beneficien al negocio o que puedan dañar la reputación de la marca. No vale la pena el
+esfuerzo ni arriesgar la reputación de la marca por un producto de baja calidad que genera críticas negativas o muchas
+devoluciones. La analítica también ayuda a planificar las necesidades de inventario. Saber qué productos son más populares y
+comprender los cambios en la demanda estacional ayuda a una empresa a saber cuándo comprar más inventario y qué cantidad.
+También permite evaluar el impacto de las campañas de marketing. Por ejemplo, ¿los pedidos e ingresos aumentan con una
+campaña para ciertos productos? ¿Cómo afectan las promociones a las ventas? ¿El impacto es lo suficientemente grande como
+para compensar el precio con descuento? Un empresa puede usar esta información para planificar campañas futuras. Ahora,
+veamos algunas métricas para analizar el rendimiento del producto. Un punto de partida es el número de veces que se mira un
+producto. Esto muestra si las visitas pueden encontrarlo. Si el número de vistas es bajo con respecto a otros productos,
+habrá que aumentar el tráfico hacia el producto. Por ejemplo, la empresa podría destacarlo en sus campañas de marketing.
+También lo podría destacar en la página de inicio o en la página de categoría, o incluirlo como recomendación en su sitio
+web. Se debe considerar la tasa de conversión del producto, es decir, el porcentaje de clientes que lo compran. Mejorar
+dicha tasa, aunque sea en una pequeña cantidad, puede marcar una diferencia notable en los ingresos generados por el
+producto. ¿Cómo se puede mejorar la tasa de conversión del producto? En primer lugar, se puede actualizar la página de
+detalles del producto, con fotos de mayor calidad, que permitan a la gente ampliarlas para ver detalles. También, con fotos
+del producto en todos los colores disponibles y desde diferentes ángulos. Por ejemplo, si es una camiseta, puede haber fotos
+del frente y de la parte trasera o un video de una persona usándola. Incluir una foto del embalaje también puede ayudar.
+Además, se pueden actualizar la descripción y las ventajas del producto, las especificaciones técnicas, una tabla de tallas
+y cualquier información disponible en el embalaje. Las fotos y las descripciones deben compensar el hecho de que que las y
+los clientes quizá no vean el producto en persona. También se pueden activar los comentarios sobre el producto, en caso de
+no tenerlos aún habilitados. Puede ayudar a convencer a las y los indecisos. Si el producto no tiene opiniones o solo unas
+pocas, se puede invitar por correo electrónico a las y los clientes a dejar una reseña. Otra métrica a considerar son las
+compras únicas en comparación con las compras recurrentes. Esto sirve para productos con una vida útil corta o productos y
+servicios de suscripción. Un alto número de compras recurrentes conducirá a un crecimiento más sólido. El margen de ganancia
+neta y el retorno de la inversión publicitaria son dos métricas importantes que hemos visto antes. Es una buena idea
+evaluarlas regularmente para observar cambios y detectar oportunidades de mejora. En algunos casos, un producto podría tener
+un margen de ganancia negativo, pero aun así vale la pena venderlo. Por ejemplo, un negocio que vende impresoras a pérdida,
+pero luego compensa la diferencia con ventas recurrentes de tinta y tóner. Pierde dinero al principio, pero eventualmente lo
+recupera. También, se debe considerar cómo un producto impacta en el valor promedio de pedido. Por ejemplo, ¿el precio de un
+producto es signicativamente más alto que el valor promedio de pedido? Si es así, puede estar fijado a un precio que supera
+lo que la gente está dispuesta a pagar. Otro aspecto a considerar es cómo un producto afecta la compra de otros. Por
+ejemplo, ¿los clientes que compran una bicicleta también adquieren un casco? Si se compran ambos productos, aumenta el valor
+promedio de pedido. Para incrementar este valor, se puede incluir el producto en estrategias de venta cruzada y upselling. O
+bien en ofertas de paquetes combinados para aumentar las ventas. Por ejemplo, una oferta de paquete para bicicleta y casco
+podría ser: “Ahorra 10% en un casco al comprar una bicicleta”. Finalmente, se debe considerar la tasa de devolución, que es
+el porcentaje de productos vendidos que se devuelven. ¿Es la tasa de devolución para un producto más alta que el promedio de
+su categoría? Si es así, hay que averiguar por qué y cómo reducirla. Por ejemplo, ¿el diseño es defectuoso? ¿La descripción
+es precisa? Es clave preguntar a la persona por qué devuelve un producto para saber cómo mejorar. Tras realizar
+actualizaciones basadas en datos para mejorar el rendimiento, se debe hacer un seguimiento de cualquier cambio que pueda
+darse con el tiempo. Esto permitirá evaluar si las actualizaciones están ayudando. Si no es así, se debe probar algo
+diferente o dejar de vender el producto. Aprendiste mucho sobre cómo evaluar el rendimiento de un producto. También viste
+cómo mejorar el de un producto que no se vende tan bien como se espera. Esto te ayudará en un puesto de nivel inicial. En tu
+función, quizá te pidan que informes cómo está funcionando un producto o que ofrezcas sugerencias sobre cómo mejorar su
+rendimiento. Sigue con el gran trabajo.
+
 #### Métricas clave para el rendimiento del producto
+
+Anteriormente, aprendiste sobre el análisis de productos, que implica monitorear y evaluar datos para obtener información
+sobre cómo los/las usuarios/as interactúan con un producto o servicio. En esta lectura, aprenderás más sobre las métricas
+clave que se usan para evaluar el rendimiento del producto.
+
+Introducción al análisis de productos Monitorear el rendimiento de un producto es importante porque ayuda a una empresa a
+evaluar su éxito e identificar oportunidades de mejora. También ayuda a la compañía a planificar su inventario y evitar
+vender productos que suelen rendir poco.
+
+Si un producto acaba de lanzarse al mercado -por ejemplo, en los últimos seis meses-, es una buena idea monitorear su
+rendimiento durante toda su vida útil. Si la empresa ha estado vendiendo el producto durante seis meses o más, comparar los
+resultados intertrimestrales o interanuales puede servir para descubrir cómo cambió su rendimiento a lo largo del tiempo.
+
+También puede resultar práctico comparar el rendimiento de un producto con otros similares, por ejemplo, mochilas que tengan
+estilos diferentes. Otra estrategia interesante es comparar el rendimiento del producto en cada una de sus diferentes
+variantes, por ejemplo, una mochila gris y una mochila azul que tienen el mismo estilo. Ciertos colores o tamaños pueden
+funcionar mejor que otros.
+
+Cantidad de visualizaciones del producto
+
+Una de las métricas básicas a controlar es la cantidad de veces que se vio un producto. Esta métrica permite saber
+cuántos/as visitantes encontraron el producto en el sitio web. También indica si las/los clientes de la empresa están
+interesados en este tipo de producto.
+
+Este es un ejemplo de cómo se ve el número de vistas del artículo (la cantidad de veces que se vio la información de un
+artículo) en Google Analytics:
+
+![alt text](image-125.png)
+
+Cantidad de productos agregados al carrito
+
+Otra métrica básica a monitorear es la cantidad de veces que se agregó un producto al carrito. Esta es una métrica muy útil
+para determinar cuán interesados/as están los/las clientes en comprar un producto.
+
+Este es un ejemplo de cómo se ve el número de productos agregados al carrito en Google Analytics:
+
+![alt text](image-126.png)
+
+Cantidad de unidades compradas
+
+También es útil controlar cuántas unidades del producto se compraron. Este dato indica que los/las clientes estaban tan
+interesados/as en el producto que decidieron comprarlo.
+
+Este es un ejemplo de cómo se ve la cantidad de unidades compradas en Google Analytics:
+
+![alt text](image-127.png)
+
+Ingresos por producto
+
+El ingreso por producto es la cantidad de ingresos generados por un producto. Si bien es necesario considerar otras métricas
+para comprender mejor su rendimiento, da una idea de cuánto beneficia al negocio un producto determinado.
+
+Este es un ejemplo de cómo se ven los ingresos del producto en Google Analytics:
+
+![alt text](image-128.png)
+
+Tasa de conversión del producto
+
+La tasa de conversión del producto representa el porcentaje de clientes que lo compraron después de verlo. Se puede calcular
+con esta fórmula:
+
+(Conversiones del producto/Visitantes únicos a la página del producto) × 100 = Tasa de conversión del producto
+
+Por ejemplo, una tienda vendió 50 unidades del abrigo más vendido en los últimos 90 días, y 2,000 personas vieron la página
+del producto durante este periodo. Esto significa que hubo 50 conversiones del producto y 2,000 visitantes únicos en su
+página.
+
+Así es como la tienda calcularía la tasa de conversión del producto para este abrigo:
+
+(50/2,000) × 100 = 2.5%
+
+La tasa de conversión del producto para el abrigo es del 2.5%.
+
+Comparación entre compras únicas y recurrentes
+
+Otra métrica clave es la cantidad de compras únicas en comparación con la cantidad de compras recurrentes. Compra única
+significa que la/el cliente solo compró el producto una vez. Compra recurrente implica que la/el cliente compró el producto
+dos o más veces.
+
+Esta métrica es muy importante para productos que tienen una vida útil corta o para productos y servicios de suscripción.
+Por ejemplo, la cantidad de compras recurrentes para cabezales de cepillos de dientes eléctricos o kits de entrega de
+comidas debería ser alta.
+
+Margen de ganancia neta
+
+El margen de ganancia neta es el porcentaje de ganancias después de pagar los gastos. Permite comparar la rentabilidad de
+diferentes productos, sin importar cuánto cuestan. Puedes calcular el margen de ganancia neta con esta fórmula:
+
+(Ganancia neta/Ingresos totales) × 100 = Margen de ganancia neta
+
+Por ejemplo, imagina que la tienda quiere conocer el margen de ganancia neta del abrigo más vendido. Sabe que el abrigo
+generó una ganancia neta de US$ 1,500 y un ingreso total de US$ 5,000 en los últimos 90 días.
+
+La tienda calcularía el margen de ganancia neta para el abrigo de la siguiente manera:
+
+(1,500/5,000) × 100 = 30%
+
+El margen de ganancia neta para el abrigo es del 30%.
+
+Retorno de la inversión publicitaria (ROAS)
+
+El retorno de la inversión publicitaria (ROAS) ayuda a medir el éxito de la publicidad para un producto específico. Puedes
+calcular el ROAS con esta fórmula:
+
+(Cantidad de unidades vendidas × Costo por unidad)/Inversión publicitaria = ROAS
+
+Si la tienda quisiera medir el ROAS para su abrigo más vendido, podría analizar los números de los últimos 90 días e
+ingresarlos en esta fórmula.
+
+Así es como la tienda calcularía el ROAS del producto:
+
+(50 × 100)/1,250 = US$ 4
+
+El ROAS para el abrigo es US$4, que también se puede expresar como una proporción (4:1) o un porcentaje (400%).
+
+Valor promedio de pedido (AOV)
+
+El valor promedio de pedido es el monto de dinero promedio que un/a cliente gasta cada vez que completa un pedido.
+
+Si un producto con bajo rendimiento tiene un precio más alto que el valor promedio de pedido, es posible que no se venda
+bien, porque cuesta más de lo que los/las clientes están dispuestos/as a gastar.
+
+En otros casos, un producto puede aumentar el valor promedio de pedido. Por ejemplo, si las/los clientes que compran un
+abrigo suelen comprar accesorios, como un sombrero o guantes, estos accesorios aumentan el valor promedio de pedido para el
+sitio.
+
+Tasa de devolución
+
+La tasa de devolución es el porcentaje de productos vendidos que las/los clientes devuelven. Si la tasa de devolución de un
+producto es alta en comparación con productos similares de la misma categoría, es posible que el problema tenga que ver con
+la calidad del producto o, también, con la forma en que se muestra en línea.
+
+Sin embargo, debes tener en cuenta que algunas categorías de productos pueden tener una tasa de devolución más alta que
+otras, como la ropa o los zapatos, porque el solo hecho de que las/los clientes no pueden probárselos antes de comprar.
+
+Puedes calcular la tasa de devolución de un producto con esta fórmula:
+
+(Cantidad de unidades devueltas/Cantidad de unidades vendidas) × 100 = Tasa de devolución
+
+Si la tienda quisiera medir la tasa de devolución para su abrigo más vendido, podría analizar los números de los últimos 90
+días e ingresarlos en esta fórmula.
+
+Así es como la tienda calcularía la tasa de devolución del producto:
+
+(5/50) × 100 = 10%
+
+La tasa de devolución del abrigo es del 10%.
+
+Rendimiento trimestral
+
+El rendimiento trimestral es el cambio porcentual de los resultados trimestrales. Un trimestre es un periodo de tres meses.
+Un/a especialista en marketing digital puede usar este cambio porcentual para comparar el rendimiento trimestral de la
+mayoría de las métricas.
+
+Puedes calcular el cambio de rendimiento trimestral con esta fórmula:
+
+(métrica del trimestre más reciente) - (métrica del trimestre anterior) = (cambio de la métrica)
+
+Luego, tomas el cambio de la métrica y lo divides por la métrica del trimestre anterior:
+
+ (cambio de la métrica)/(métrica del trimestre anterior) = (cambio porcentual trimestral)
+
+Así se calcula el rendimiento trimestral para la métrica de cantidad de unidades compradas indicada arriba:
+
+188 unidades compradas - 101 unidades compradas = 87 unidades compradas
+
+87 unidades compradas/101 unidades compradas = 86.13% de cambio trimestral
+
+Conclusiones clave
+
+El análisis de productos facilita el control y la evaluación del rendimiento de un producto a lo largo del tiempo. Hacer un
+seguimiento de las métricas clave puede ayudar a las empresas a evaluar el éxito de un producto y a descubrir cómo mejorar
+su rendimiento.
 
 #### Optimiza las ofertas de productos en función de los datos
 
