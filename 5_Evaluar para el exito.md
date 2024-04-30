@@ -1947,9 +1947,151 @@ Pon a prueba tus estrategias de puja automática <https://support.google.com/goo
 
 #### Cómo planificar las pruebas A/B
 
+Como ya has aprendido, una prueba A/B compara dos variantes del mismo contenido para determinar cuál produce mejores resultados. Un plan de pruebas A/B te ayudará a estructurar esta evaluación al describir la información clave sobre la prueba y sus métricas de éxito. En esta lectura, aprenderás a preparar un plan efectivo para realizar una prueba A/B.
+
+Define el problema
+Puedes realizar pruebas A/B en casi cualquier contenido digital o elemento de diseño. Pero, sin importar lo que elijas probar, desde el título de un anuncio hasta el color de un botón, primero debes identificar un problema u objetivo específico. Puede ser que desees mejorar las bajas tasas de conversión o encontrar una manera de satisfacer una nueva necesidad de tus clientes. Incluso, si el problema o el objetivo parece grande, lo mejor es comenzar con pequeños cambios. Comprender cómo los ajustes menores impactan en el rendimiento te dará una base para probar cambios más ambiciosos.
+
+Elementos de un plan de pruebas A/B
+Aunque los detalles específicos de un plan de pruebas A/B pueden diferir según la empresa o la herramienta utilizada, los fundamentos necesarios para crear un plan efectivo suelen ser similares. A continuación, se presentan algunos ejemplos de elementos comunes que puedes encontrar en la mayoría de las planificaciones de pruebas A/B.
+
+Hipótesis
+Una vez que tengas una idea clara de lo que deseas lograr, es el momento de crear una hipótesis. En una prueba A/B, la hipótesis describe el “por qué”, “qué” y “cómo” de la evaluación. También hace una predicción sobre el resultado. Para ser efectiva, una hipótesis debe estar respaldada por investigaciones o datos y centrarse en un solo problema.
+
+En términos generales, la hipótesis debe describir lo siguiente:
+
+El problema o insight que abordará la prueba
+
+Lo que planeas cambiar para abordar el problema
+
+El impacto esperado o el resultado del cambio
+
+Por ejemplo, imagina que una empresa quiere aumentar el porcentaje de destinatarios/as de correo electrónico de marketing que hacen clic para ir a su sitio web. Después de examinar los datos, determinan que los/las suscriptores/as son más propensos a hacer clic en los elementos que aparecen cerca de la parte superior de un correo electrónico. La hipótesis de prueba A/B podría ser:
+
+“Debido a que descubrimos que los/las clientes son más propensos/as a hacer clic en elementos que se ubican cerca de la parte superior de un correo electrónico, esperamos que al cambiar la posición de un enlace nuestra tasa de clics por apertura mejore en un 15%”.
+
+Una hipótesis sólida facilita la presentación de los resultados de la prueba y el intercambio de ideas con las partes interesadas. Pero el proceso de crear una hipótesis es igual de importante. Esto se debe a que te obliga a indicar el motivo de la prueba en términos concretos. Si te resulta difícil crear una hipótesis convincente, puede que necesites recopilar más datos antes de ejecutar la prueba.
+
+Variantes
+Con una hipótesis en su lugar, tu equipo puede comenzar a planificar las variantes. Las variantes son las diferentes versiones del contenido presentado a los/las usuarios/as durante una prueba A/B. La variante A representa el contenido original, mientras que la B generalmente difiere de alguna manera significativa. Sin embargo, suele ser una buena idea limitar el número de modificaciones a una sola variante. Hacer demasiados cambios a la vez puede dificultar la interpretación de los resultados de la prueba.
+
+Por ejemplo, en marketing por correo electrónico, podrías considerar la posibilidad de mover el enlace en la variante B a la parte superior del mensaje. No obstante, si esta versión también incluye un nuevo texto de llamada a la acción (CTA) y convierte el enlace en un botón, ¿cómo podrías medir el impacto de cada cambio individualmente? Una forma de obtener resultados claros y accionables es limitar los cambios en cada variante.
+
+Nota: Es importante destacar que incluso una prueba “fallida” puede proporcionar datos valiosos. Si la variante B no produce la mejora esperada, no necesariamente significa que tu hipótesis sea incorrecta. En este caso, sería conveniente probar diferentes variantes para alcanzar el resultado deseado.
+
+Métricas
+Antes de comenzar las pruebas, deberás decidir cómo medir los resultados. Aunque probablemente harás un seguimiento de varias métricas para cada prueba, algunas serán más importantes que otras. En el ejemplo de marketing por correo electrónico, la métrica principal es la tasa de clics por apertura (porcentaje de destinatarios/as que hicieron clic en uno o más enlaces después de abrir un correo electrónico). Pero también podrías hacer un seguimiento de la tasa de conversión para averiguar qué porcentaje de personas que hicieron clic en ese enlace finalmente concretaron una compra.
+
+Rendimiento actual y mejora esperada
+También debes ponerte de acuerdo sobre qué definirá el éxito de tu campaña. ¿Qué tan grande es la mejora que deseas o esperas de la prueba? ¿Un aumento del 5% es suficiente? ¿Y del 10%? El objetivo que establezcas puede ser ambicioso, pero también debe ser realista de acuerdo según los datos disponibles.
+
+Otros detalles de la prueba
+Además, un plan de pruebas A/B puede contener otros detalles esenciales. Es importante tener en cuenta que distintas empresas pueden contener diferentes tipos de información en sus planes de pruebas A/B, pero un plan básico podría incluir:
+
+Una breve descripción de la prueba y su propósito
+
+El canal que se está probando (por ejemplo, Google Ads, Google Optimize, etc.)
+
+El tipo de recurso que se está probando (por ejemplo, anuncio gráfico, texto publicitario de botón, etc.)
+
+La duración de la prueba (fecha de inicio y finalización)
+
+El número de usuarios/as por variante
+
+El nivel de confianza (la probabilidad estimada de que los resultados de la prueba se mantengan consistentes si esta se extendiera por un periodo de tiempo más prolongado)
+
+Conclusiones clave
+Las pruebas A/B son una herramienta valiosa para mejorar el marketing digital y el rendimiento del comercio electrónico. Un plan de pruebas A/B te ayuda a organizar tus esfuerzos y resultados, lo que puede llevar a mejoras más eficientes. Con una hipótesis basada en datos, versiones cuidadosamente seleccionadas y un plan para medir el éxito, es más probable que alcances tus objetivos.
+
 #### Actividad de ejemplo: Plan para crear una prueba A/B
 
+Compara el ejemplo con tu plan de pruebas A/B terminado. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué hiciste bien? ¿En qué aspectos podrías mejorar? Las respuestas a estas preguntas te servirán como guía a medida que avances en el curso.
+
+Tasa de conversión actual
+
+Según la información proporcionada en el escenario, la tasa de conversión actual para la campaña de Google Ads del hotel es del 2%.
+
+Tasa de conversión esperada
+
+Según la información proporcionada en el escenario, la tasa de conversión esperada para la campaña de Google Ads del hotel es del 7%.
+
+Hipótesis
+
+Insight de la investigación: Recientemente, el hotel realizó una investigación sobre su público objetivo. El insight de este relevamiento los llevó a la conclusión de que su público objetivo estaba compuesto por clientes que buscaban ofertas.
+
+Cambio: Con base en este insight, el hotel cree que sería una buena idea cambiar el título del anuncio para centrarse en las ofertas.
+
+Impacto: Después de hacer este cambio, el hotel espera que la tasa de conversión aumente en 5 puntos porcentuales.
+
+Título de la variante B
+
+Dado que el hotel desea presentar su promoción actual, el ejemplo utiliza el título “Descuentos de hasta 20%” para atraer a las/los clientes que buscan ofertas. La extensión del texto es de 23 caracteres (incluidos los espacios), lo que se encuentra dentro del límite de 30 caracteres.
+
 #### Otras herramientas disponibles para hacer pruebas A/B
+
+Aprendiste sobre cómo realizar pruebas A/B en Google Ads, pero hay otras herramientas que ofrecen capacidades para hacer este tipo de evaluaciones. En esta lectura, se enumeran herramientas similares y enlaces para encontrar más información sobre ellas. También se presenta una lista de verificación de procesos generales para ayudarte a estructurar tus estrategias de pruebas A/B y definir las pruebas adicionales que se pueden realizar.
+
+Nota: Este programa de certificación no promueve ni respalda ninguna de las herramientas enumeradas. El propósito de esta lectura es proporcionar una muestra de las herramientas de pruebas A/B disponibles.
+
+Otras herramientas de pruebas A/B
+Esta es una lista de otras herramientas de pruebas A/B:
+
+AB Tasty <https://www.abtasty.com/>: los precios están disponibles por presupuesto personalizado.
+
+Convert <https://www.convert.com/>: se encuentra disponible una prueba gratuita.
+
+Crazy Egg <https://www.crazyegg.com/ab-testing>: se encuentra disponible una prueba gratuita (se requiere información de facturación).
+
+Google Optimize <https://optimize.withgoogle.com/>: el uso de Google Optimize es gratuito mientras que Google Optimize 360 requiere una suscripción de pago.
+
+Instapage <https://instapage.com/products/conversion-optimization>: se encuentra disponible una prueba gratuita (se requiere información de facturación).
+
+Optimizely <https://www.optimizely.com/products/intelligence/web-experimentation/>: los precios están disponibles bajo pedido.
+
+Unbounce <https://unbounce.com/product/features/unlimited-ab-testing/>: se encuentra disponible una prueba gratuita (se requiere información de facturación).
+
+VWO <https://vwo.com/>: se encuentra disponible una prueba gratuita.
+
+Lista de verificación de procesos generales para las pruebas A/B
+Independientemente de la herramienta que elijas utilizar, aquí te presentamos una lista de verificación de procesos generales que puedes usar para estructurar tus estrategias de pruebas A/B.
+
+Elige una variable para probar.
+
+Identifica el objetivo de la prueba.
+
+Detecta con claridad el control y la variante.
+
+Verifica que tu prueba sea la única A/B que se ejecuta para una campaña o página web.
+
+Divide los grupos de muestra al azar (puede ser gestionado por la plataforma de pruebas A/B).
+
+Determina el tamaño requerido de la muestra (puede ser gestionado por la plataforma de pruebas A/B).
+
+Establece el nivel de confianza para la significación estadística (puede ser gestionado por la plataforma de pruebas A/B).
+
+Selecciona una plataforma de pruebas A/B.
+
+Prueba ambas versiones al mismo tiempo.
+
+Permite que la prueba se ejecute el tiempo suficiente para recopilar la cantidad necesaria de datos.
+
+Revisa los resultados de la prueba en función de tu objetivo para la prueba.
+
+Define sobre las acciones apropiadas a tomar con base en los resultados de la prueba.
+
+Planifica pruebas A/B adicionales, en caso de ser necesario.
+
+Pruebas adicionales
+Anteriormente se te presentaron las pruebas A/B para una única variación o variante. Por ejemplo, aprendiste que podrías realizar una prueba para comparar dos versiones del mismo anuncio o página de destino. Muchas herramientas que ofrecen pruebas A/B básicas también ofrecen pruebas adicionales. Es importante conocer las capacidades de las herramientas que elijas para que puedas ejecutar las pruebas que necesites. Además, existen otros dos tipos de pruebas: las de redireccionamiento y las multivariadas.
+
+Pruebas de redireccionamiento
+Una prueba de redireccionamiento te permite comparar páginas web distintas entre sí. Esto es diferente de una prueba A/B básica en la que se prueban los cambios realizados en un mismo sitio. En una prueba de redireccionamiento, las variantes se identifican por una URL o ruta y no por determinado elemento de la página, como un banner. Las pruebas de redireccionamiento son útiles si deseas probar dos páginas de destino completamente diferentes o si participas en el rediseño completo de un sitio web.
+
+Pruebas multivariadas
+Una prueba multivariada, a veces denominada prueba multivariable, se utiliza para probar de forma simultánea variantes de dos o más elementos en una página para determinar qué combinación genera mejores resultados. Esto es diferente de una prueba A/B básica en la que haces la prueba con un solo ajuste. Una prueba multivariada identifica la variante más efectiva para cada elemento, pero también proporciona información sobre cómo las versiones trabajan juntas cuando se combinan. Esto te permite identificar la mejor combinación de variantes.
+
+Conclusiones clave
+Las pruebas A/B son fundamentales en el marketing y pueden ayudarte a crear mejores experiencias de compra en línea para tus clientes. Ya sea que desees probar anuncios, páginas web, publicaciones en redes sociales o cualquier otro contenido, existen diversas herramientas de pruebas A/B con diferentes capacidades y precios. Para seleccionar la herramienta adecuada para tu marca, puedes comparar tus necesidades de pruebas con las características y planes ofrecidos.
 
 #### Monitorea los resultados de las pruebas A/B en Google Ads
 
