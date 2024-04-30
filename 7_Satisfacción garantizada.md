@@ -1136,6 +1136,263 @@ qué métricas controlar puede ayudar a descubrir cómo mejorar su rendimiento.
 
 ### Actualiza una tienda de comercio electrónico en función de los datos
 
+#### Usa los datos para mejorar el rendimiento de una tienda de comercio electrónico
+
+Has aprendido sobre algunas de las métricas más importantes para una tienda de comercio electrónico. Ahora, veamos cómo
+utilizar esos datos para mejorar su rendimiento. Hay muchas actualizaciones que se pueden hacer basándose en los datos.
+Aquellas que elija hacer una empresa dependerán de sus objetivos y de cuánta personalización permite su plataforma. Estas
+actualizaciones pueden atraer más tráfico calificado, aumentar las ventas y mejorar la experiencia del cliente. Aquí,
+veremos cómo los datos pueden utilizarse para mejorar el rendimiento de una tienda. Imaginemos una tienda de comercio
+electrónico con un constante aumento del tráfico, pero que no conduce a un incremento de los ingresos. Puede haber muchas
+razones para esto. Veamos algunas. Una razón podría ser que el tráfico adicional proviene de clientes que no tienen tanta
+probabilidad de comprar. El objetivo de la empresa debería ser atraer más tráfico calificado. Para atraer más tráfico
+calificado, la empresa puede analizar todas sus fuentes de tráfico a fin de determinar cuáles generan más ingresos y crear
+un plan para atraer más tráfico desde estas fuentes. Por ejemplo, si las campañas de correo electrónico generan este
+tráfico, la empresa puede trabajar para aumentar su lista de suscriptores. Si la búsqueda orgánica genera tráfico
+calificado, la empresa puede optimizar su sitio web para SEO. Esto podría incluir optimizar las páginas de productos con
+palabras clave SEO en el título, URL y descripción. También, podría incluir publicaciones de blog o artículos que presenten
+información útil para las y los clientes. Otra posible razón puede ser una baja tasa de conversión. Al encontrar formas de
+mejorarla, una empresa puede aumentar sus ingresos. La optimización es el proceso de aumentar el porcentaje de visitas del
+sitio que realizan una acción deseada. Su objetivo es eliminar cualquier barrera que impida a una persona realizar una
+compra. Una empresa puede averiguar cuáles son esas barreras utilizando análisis para determinar en qué momento las y los
+clientes abandonan el sitio o el carrito. También pueden usar mapas de calor, registrar cómo las personas interactúan con el
+sitio y entender mejor cómo lo navegan. Luego, pueden realizar mejoras basadas en esta información. Por ejemplo, ¿las
+personas pueden encontrar fácilmente su carrito de compras y comenzar el proceso de pago? Si no es así, la empresa necesita
+actualizar su ubicación o colocarlo en varios lugares. ¿O llegan a una página de detalles de un producto que está agotado?
+Si es así, la empresa puede agregar una función de recomendaciones de productos en la página para sugerir artículos
+similares que podrían ser de interés para sus clientes, evitando así que se vayan al sitio de la competencia. El proceso de
+pago es una de las áreas más importantes para optimizar. Permitir el pago como invitado/a, eliminar campos innecesarios e
+incluir opciones de pago flexibles son algunas formas de hacerlo. Existen muchas formas para actualizar un sitio web. Para
+determinar aquellas con mayor impacto, se usan las pruebas A/B. Estas permiten comparar dos versiones de una página. Al
+final de la prueba A/B, gana aquella con una tasa de conversión más alta. En un puesto de nivel inicial, quizá debas sugerir
+una prueba A/B para una campaña de marketing u otro proyecto en el que estés trabajando. Ahora, veamos otra estrategia
+importante que una empresa podría utilizar para mejorar el rendimiento de su tienda. El valor promedio de pedido es una
+métrica útil porque puede aumentar los ingresos, incluso sin atraer más clientes ni mejorar la tasa de conversión. Dos
+formas comunes de aumentar el valor promedio de pedido son las ventas cruzadas y el upselling. La primera es una técnica que
+incentiva a las personas a gastar más ofreciéndoles un producto relacionado con su compra. Por ejemplo, una empresa que
+vende trajes incentiva a sus clientes a agregar un vestido, camisa, corbata o gemelos al pedido. Esto aumenta dicho valor al
+incrementar la cantidad de productos comprados. El upselling es una técnica que incentiva a las personas a gastar más,
+promocionando un producto más costoso. Por ejemplo, la empresa que vende trajes recomienda un traje premium que se vende a
+un precio más alto. Esto aumenta el valor promedio de pedido al incrementar lo que se gasta en un solo producto. Otra
+estrategia común incluye establecer un monto mínimo para obtener envío gratuito, ofrecer promociones de paquetes combinados
+y dar incentivos para programas de recompensas al gastar cierto monto. Todas estas estrategias ayudan a mejorar el
+rendimiento basado en los datos. En un puesto de nivel inicial, quizá debas reunir datos, recomendar o actualizar una tienda
+en línea, en función de los datos. Buen trabajo. Estás avanzando. Nos vemos pronto.
+
+#### Optimización de la tasa de conversión
+
+Ya aprendiste acerca de la importancia de utilizar los datos para mejorar el rendimiento de una tienda de comercio
+electrónico. Una de las formas en que puedes usar los datos para mejorar el rendimiento es centrarte en aumentar la tasa de
+conversión. En esta lectura, aprenderás sobre la optimización de la tasa de conversión, que es el proceso de aumentar el
+porcentaje de visitantes del sitio web que completan una acción deseada.
+
+La acción deseada para una tienda de comercio electrónico podría ser: registrarse para recibir ofertas por correo
+electrónico, ver un video de un producto o agregar un producto al carrito. Se llaman micro conversiones, y son acciones que
+indican que un/a cliente potencial completará una transacción de compra. Si la/el cliente avanza por el proceso de compra,
+estas micro conversiones generarán una macroconversión, que es una transacción de compra completada y la conversión más
+importante que debe controlar una tienda de comercio electrónico.
+
+Usar datos para aumentar las tasas de conversión
+
+Analizar los datos puede ayudar a descubrir cómo aumentar las tasas de conversión para una tienda de comercio electrónico.
+Además, puede indicar cómo mejorar la experiencia del/de la cliente y el proceso de pago.
+
+El uso de datos permite descubrir la siguiente información:
+
+Qué fuentes de tráfico tienen la tasa de conversión más alta
+
+Qué elementos de la página influyen más en la conversión
+
+En qué punto del proceso de compra las/los clientes tienden a abandonar la tienda o el carrito
+
+En qué lugar del proceso de pago se atascan las/los clientes
+
+Puedes recopilar datos y descubrir información mediante el uso de herramientas de analítica y otras herramientas diseñadas
+para optimizar la tasa de conversión.
+
+Herramientas para optimizar la tasa de conversión
+
+Las herramientas de analítica, como Google Analytics, pueden brindar información de cómo se comportan los/las usuarios/as en
+un sitio web y en qué momento abandonan el proceso de compra. Otras herramientas de optimización de la tasa de conversión
+pueden ayudar a recopilar más datos y probar cómo responderán los/as usuarios/as a los cambios en el sitio web.
+
+Estos son algunos ejemplos de los tipos de herramientas utilizadas para la optimización de la tasa de conversión:
+
+Mapas de calor
+
+Un mapa de calor es una herramienta que demuestra cómo las/los visitantes interactúan en un sitio web. Utiliza variaciones
+de color para representar el comportamiento de los/las usuarios/as. Por ejemplo, si un gran número de visitantes hace clic
+en un enlace específico, el mapa de calor mostrará un color más oscuro e intenso en esa área.
+
+![alt text](image-116.png)
+
+Grabaciones de sesión
+
+Una grabación de sesión capta las acciones de un/a visitante a medida que navega por el sitio web, como el movimiento del
+mouse, los clics, los toques y el desplazamiento. También se lo conoce como reproducción de sesión o grabación de la acción
+del/de la usuario/a.
+
+La grabación de sesión permite ver con facilidad cómo las/los visitantes interactúan con un sitio web, lo cual brinda
+información valiosa para optimizar un sitio web y aumentar las tasas de conversión.
+
+![alt text](image-117.png)
+
+Prueba A/B
+
+La prueba A/B, también denominada prueba de división o prueba de cubos, es una prueba en línea de dos versiones del sitio
+web, para determinar cuál funciona mejor: el 50% de las personas evalúa una versión y el 50% restante evalúa la otra.
+
+Luego de decidir qué cambios realizar en una tienda de comercio electrónico, a fin de aumentar las tasas de conversión,
+puedes usar la prueba A/B para determinar si esos cambios serán efectivos. Si la nueva versión del sitio genera una tasa de
+conversión más alta que la versión original, puedes actualizarlo e incorporar estos cambios, para mejorar tus resultados.
+
+![alt text](image-118.png)
+
+Formas de aumentar las tasas de conversión
+
+Dependiendo de los datos recopilados con las herramientas anteriores, puedes decidir qué cambios realizar en un sitio web
+para aumentar las tasas de conversión. Puedes hacer muchos tipos de modificaciones. Los cambios específicos más importantes
+dependerán de los productos o servicios que ofrece la empresa, así como de lo que prefieran sus clientes.
+
+Algunas propuestas son:
+
+Consejos generales
+
+Elimina distracciones, como los elementos de una página web que las/los clientes no ven o con los que no interactúan.
+
+Asegúrate de que los elementos con los que sí interactúan las/los clientes estén destacados en la página web.
+
+Haz que los botones de llamada a la acción sean claros y fáciles de encontrar.
+
+Prueba diferentes textos para los botones de llamada a la acción.
+
+Elimina los campos innecesarios de los formularios para crear una cuenta, suscribirse al correo electrónico y completar el
+proceso de pago.
+
+Prueba diferentes promociones de venta.
+
+Agrega un chat en vivo.
+
+Haz que el sitio web sea compatible con dispositivos móviles.
+
+Mejora la velocidad del sitio web o la app, especialmente en dispositivos móviles.
+
+Páginas de productos
+
+Ofrece una garantía de producto.
+
+Personaliza la experiencia del/de la cliente mediante una prueba virtual del producto.
+
+Mejora las páginas de información de detalles del producto; para ello, incluye una descripción detallada del producto con
+videos e imágenes de alta calidad que muestren el producto desde múltiples ángulos.
+
+Agrega un motor de recomendación de productos al sitio web.
+
+Correos electrónicos
+
+Para aumentar la cantidad de reseñas de los productos, pide a las/los clientes que dejen una reseña después de realizar una
+compra.
+
+Envía correos electrónicos de carrito abandonado.
+
+Flujo del proceso de pago
+
+Ofrece envío gratis.
+
+Permite pagar como invitado/a.
+
+Agrega opciones de pago flexibles.
+
+Asegúrate de que la política de devolución sea clara, fácil de entender y que las/los clientes puedan encontrarla de manera
+sencilla.
+
+Estos son solo algunos de los cambios que pueden contribuir a aumentar las tasas de conversión. También puedes usar la
+prueba A/B para probar los cambios antes de implementarlos en el sitio web.
+
+Ten en cuenta que la optimización de la tasa de conversión es un proceso continuo y no algo que solo se hace una vez.
+Siempre se puede mejorar. Hasta un pequeño aumento en las tasas de conversión puede significar una diferencia notable en los
+ingresos de una tienda de comercio electrónico.
+
+Conclusiones clave
+
+La optimización de la tasa de conversión ayuda a aumentar las ventas al hacer más fácil o atractivo el proceso de compra. El
+uso de datos y herramientas (como mapas de calor, registro de sesiones y prueba A/B) permite determinar qué cambios deben
+implementarse para mejorar las tasas de conversión.
+
+#### Caso práctico: La importancia del ROI y del CPC para un negocio pequeño
+
+En este caso práctico, descubrirás cómo una pequeña empresa actúa estratégicamente para usar cada dólar del presupuesto de
+marketing de manera efectiva.
+
+Antecedentes de la empresa
+
+Dr. Lyn y Terry Lam son la CEO y la CFO de Kapa Nui Nails, el único esmalte de uñas completamente libre de humo, toxinas y
+olores, vegano, libre de crueldad animal y que no daña a las personas ni el planeta. Las fundadoras de Kapa Nui Nails abogan
+por la justicia ambiental y tienen como misión que las uñas de las personas estén seguras, protegidas y que, además, luzcan
+hermosas.
+
+![alt text](image-119.png)
+
+Antes de comenzar con su nuevo proyecto, Kapa Nui, ni Terry ni Lyn tenían experiencia en la industria de la belleza. Ambas
+provienen del sector médico, por lo cual conocen bien los efectos negativos que tienen los esmaltes de uñas tóxicos, tanto
+en el cuerpo como en el planeta. Por eso, crearon un producto que no daña la capa de ozono ni contribuye al cambio
+climático.
+
+El desafío
+
+El equipo de Kapa Nui es pequeño, pero sumamente poderoso. Las dos propietarias se ocupan de todo: las ventas, la parte
+operativa y el marketing. Terry asumió el rol de especialista en marketing digital y nos cuenta que ha sido toda una
+experiencia. Trabaja con un presupuesto relativamente pequeño, por lo que tiene que ser muy ingeniosa a la hora de invertir
+el dinero disponible para acciones de marketing, dado que el 90% del presupuesto se destina a esto.
+
+El desafío de Kapa Nui es crear campañas publicitarias exitosas con el presupuesto de una pequeña empresa, para garantizar
+que las métricas de retorno de la inversión (ROI) y costo por clic (CPC) indiquen que están gastando el dinero de manera
+eficaz.
+
+![alt text](image-120.png)
+
+El enfoque
+
+La estrategia de marketing de Kapa Nui incluye el uso de anuncios segmentados de Google y Facebook, estrategias sólidas de
+marketing por correo electrónico que envían tráfico al sitio web y la compra de palabras clave segmentadas que encuentran a
+través de Google Analytics.
+
+Las propietarias saben que su público objetivo está compuesto por personas de los Estados Unidos de un amplio rango de edad,
+de 21 a más de 65. También saben que tienen que priorizar el marketing en redes sociales tanto como las otras acciones de
+marketing.
+
+El equipo implementa estrategias de prueba y error para conocer a qué tipo de marketing responde el público objetivo (y cómo
+lo hace). Además, monitorean las analíticas para obtener información valiosa, mediante Google Analytics. De esta manera,
+pueden comprobar si están invirtiendo el dinero en marketing de manera inteligente.
+
+Siempre es importante determinar qué estrategias de marketing tienen mejor rendimiento y averiguar qué tipos de acciones
+marketing proporcionan el mayor retorno de la inversión (ROI) y costo por clic (CPC).
+
+Los resultados
+
+Gracias a Google Analytics, Google Search Console, Google Ads y Google Tag Manager, Kapa Nui Nails se ha vuelto experta en
+monitorear las métricas y en convertirlas en información relevante.
+
+La empresa ha lanzado campañas de shopping -integradas con Shopify-, de búsqueda de palabras clave y de redes sociales.
+
+Al hacer un seguimiento del ROI y del CPC en cada uno de estos tipos de campaña de marketing digital, pueden ver cuáles han
+sido las más exitosas.
+
+Actualmente, están analizando cuáles de sus anuncios de shopping integrados están funcionando mejor, según sus métricas de
+ROI y CPC. En este tipo de campañas, el ROI es de 3 a 1 y el CPC es inferior a US$ 1. Esos números son más llamativos que
+los de sus campañas de palabras clave, que tienen ROI y CPC menores.
+
+Conclusión
+
+Dado que Kapa Nui es una empresa pequeña y tiene un presupuesto reducido, debe usar de manera inteligente el dinero
+destinado a acciones de marketing. Gracias a las herramientas de analítica y seguimiento, comprendieron que deberían
+invertir la mayor parte de sus recursos en campañas de shopping, porque son las que generan el mayor ROI para su negocio.
+Centrarse en el ROI es un concepto esencial para el éxito de una empresa.
+
+#### Comprende el comportamiento de las/los visitantes con mapas de calor
+
+#### Actividad de ejemplo: Usa datos de mapas de calor para optimizar una página de destino
+
 ### Identifica y actualiza las fichas de productos en función de los datos
 
 ### Repaso: Analiza las tendencias para una tienda en línea
