@@ -1391,9 +1391,153 @@ Centrarse en el ROI es un concepto esencial para el éxito de una empresa.
 
 #### Comprende el comportamiento de las/los visitantes con mapas de calor
 
+Anteriormente, aprendiste acerca de las herramientas que se usan para medir el rendimiento de una página web y mejorar las tasas de conversión. Entre ellas se encuentran los mapas de calor, las grabaciones de sesiones y la prueba A/B. En esta lectura, conocerás los mapas de calor con más profundidad y descubrirás cómo pueden ayudar a optimizar el contenido y la organización de un sitio web de comercio electrónico.
+
+¿Qué es un mapa de calor?
+
+Como ya sabes, un mapa de calor es una herramienta de visualización de datos que utiliza una escala de colores para representar cómo las/los visitantes interactúan con una página web. La mayoría de las herramientas de mapas de calor usan una escala de arcoíris (o térmica) para mostrar patrones de comportamiento del/de la usuario/a en diferentes partes de una página.
+
+![alt text](image-121.png)
+
+Las áreas con mayor enfoque o interacción se consideran “calientes”, y se indican con colores en el extremo cálido de la escala (por ejemplo, rojo o naranja). Es por eso que los elementos con tasas altas de clics o toques se conocen como hotspots. Por el contrario, las áreas con menos interacción son “frías” y se representan con colores fríos (por ejemplo, azul o cian).
+
+Los mapas de calor son herramientas útiles porque no solo rastrean métricas: también proporcionan información detallada sobre la respuesta de las/los visitantes a partes específicas de una página. Pueden indicar qué leen, dónde hacen clic y si hay algo que podrían no estar viendo. La información que se obtiene de estos datos puede ayudar a determinar cómo probar o ajustar cada página para mejorar la experiencia de las personas que visitan el sitio y así alcanzar los objetivos de rendimiento.
+
+Tipos de mapas de calor
+
+Hay varios tipos de mapas de calor que las empresas utilizan para optimizar los sitios de comercio electrónico. Cada uno proporciona información ligeramente diferente, por lo que suelen usarse juntos para comprender mejor el comportamiento de las/los visitantes. En esta lectura, aprenderás a interpretar tres tipos comunes de mapas de calor: el de desplazamiento, el de clics y el de movimiento.
+
+Mapa de calor de desplazamiento
+
+Los mapas de desplazamiento rastrean qué porcentaje de visitantes se desplaza hacia abajo, a puntos específicos en una página web. Indican qué áreas de una página es probable que vean las/los visitantes, en lugar de cómo responden a cada elemento. A menudo, el área “más caliente” está por encima del pliegue (el área que se muestra antes de desplazarse) y el mapa se va enfriando a medida que las/los visitantes dejan de hacer clic (como en el gráfico a continuación).
+
+![alt text](image-122.png)
+
+La información obtenida de los mapas de desplazamiento permite:
+
+Poner el contenido clave donde se concentra la atención.
+
+Identificar dobles fondos (lugares donde las/los visitantes dejan de desplazarse porque creen que la página termina allí).
+
+Proponer cambios para incentivar el desplazamiento (si el objetivo es aumentarlo).
+
+Optimizar las páginas para experiencias web y móvil.
+
+Mapas de calor de clics
+
+Los mapas de calor de clics (o mapas de toques en dispositivos móviles) hacen un seguimiento de los lugares en que las/los visitantes hacen clic o tocan la página web. Los grupos de actividad aparecen como manchas o puntos de color en toda la página, como se muestra en el gráfico siguiente. Estos datos permiten identificar patrones y tendencias en el comportamiento de las/los visitantes, que pueden ayudar a aumentar las tasas de clics.  
+
+La información obtenida de los mapas de desplazamiento permite:
+
+Poner el contenido clave donde se concentra la atención.
+
+Identificar dobles fondos (lugares donde las/los visitantes dejan de desplazarse porque creen que la página termina allí).
+
+Proponer cambios para incentivar el desplazamiento (si el objetivo es aumentarlo).
+
+Optimizar las páginas para experiencias web y móvil.
+
+Mapas de calor de clics
+
+Los mapas de calor de clics (o mapas de toques en dispositivos móviles) hacen un seguimiento de los lugares en que las/los visitantes hacen clic o tocan la página web. Los grupos de actividad aparecen como manchas o puntos de color en toda la página, como se muestra en el gráfico siguiente. Estos datos permiten identificar patrones y tendencias en el comportamiento de las/los visitantes, que pueden ayudar a aumentar las tasas de clics.
+
+![alt text](image-123.png)
+
+Los mapas de clics pueden indicar si las/los visitantes están haciendo clic (o tocando) donde tú quieres que lo hagan, por ejemplo, en ciertos enlaces o llamadas a la acción. Si el enlace no recibe la suficiente interacción o las/los visitantes hacen clic en elementos en los que no está habilitada la posibilidad de hacer clic, podría indicar que la página tiene demasiados elementos o que es confusa.
+
+Los datos de los mapas de clics también pueden ayudarte a:
+
+Determinar a qué elementos de la página responden las/los visitantes.
+
+Calcular la efectividad de los CTA.
+
+Decidir si ejecutar una prueba A/B para ciertos elementos.
+
+Aclarar el contenido o la estructura de la página.
+
+Mapas de calor de movimiento.
+
+La interacción no siempre se puede medir en función de los clics, especialmente cuando se trata de contenido escrito o visual. Los mapas de movimiento (también conocidos como mapas que trazan el seguimiento del mouse) pueden captar estos patrones de atención del/de la visitante mediante el seguimiento del movimiento del mouse por una página. El movimiento del mouse no es un indicador perfecto de la atención, pero sí proporciona una idea de dónde hace foco la/el visitante.
+
+![alt text](image-124.png)
+
+La cantidad óptima de atención que se presta a determinados elementos depende de los objetivos de cada página. Si las/los visitantes se centran en un párrafo específico, esto puede querer decir que le resulta interesante o útil. Pero, también podría significar que el texto es confuso o difícil de leer.
+
+Los mapas de desplazamiento pueden ayudar a determinar qué les ocurre a las/los visitantes:
+
+Si están prestando atención a los elementos correctos (o incorrectos).
+
+Si se distraen con información de la página que no es importante.
+
+Si el contenido de la página no les resulta sencillo.
+
+Conclusiones clave
+
+Usar métricas para comprender el comportamiento de las/los visitantes puede ser un desafío. Afortunadamente, los datos del mapa de calor permiten comprender cómo influyen determinadas opciones en métricas, como los clics y las conversiones. Si se usan juntos, los mapas de desplazamiento, de clics y de movimiento brindan información útil para mejorar el rendimiento y ayudarte a lograr tus objetivos.
+
+<https://www.hotjar.com/heatmaps/>
+
 #### Actividad de ejemplo: Usa datos de mapas de calor para optimizar una página de destino
 
+Compara el ejemplo con tu correo electrónico terminado. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo.
+¿Qué cosas hiciste bien? ¿En qué aspectos podrías mejorar? Usa las respuestas a estas preguntas para guiarte a medida que
+avanzas en el curso.
+
+Nota: El ejemplo representa una versión posible del correo electrónico con ideas para la página de destino. Es probable que
+la tuya difiera en algunos aspectos. Lo importante es que tu correo electrónico incluya sugerencias específicas basadas en
+datos para mejorar la página de destino.
+
+Revisemos cada idea del correo electrónico:
+
+Idea 1: Mueve el formulario de registro más arriba en la página
+
+Problema: La mayoría de las/los clientes abandonan la página sin desplazarse hacia abajo lo suficiente como para encontrar
+el formulario.
+
+Datos del mapa de calor utilizado: Esta idea se basa en los datos de ambos mapas de calor. La conclusión es que los
+elementos que están cerca de la parte superior de la página tienen una mayor interacción.
+
+Solución: Sube el formulario de registro para aumentar la probabilidad de que las/los visitantes lo vean.
+
+Idea 2: Reduce la cantidad de campos
+
+Problema: Las/los visitantes del sitio abandonan el formulario de registro a mitad de camino.
+
+Datos del mapa de calor utilizado: Esta idea usa el mapa de calor de clics, que indica que la interacción disminuye con cada
+campo del formulario de registro.
+
+Solución: Reduce la cantidad de campos del formulario de registro y busca otra manera de recopilar el resto de la
+información.
+
+Idea 3: Haz que el formulario y la llamada a la acción se destaquen más
+
+Problema: El formulario de registro es demasiado claro y se mezcla con el fondo.
+
+Datos del mapa de calor utilizado: El mapa de clics indica que las/los visitantes interactúan más con los elementos de la
+página que están cerca. Algunos de los que están utilizando el formulario de registro hacen clic en los lugares incorrectos.
+
+Solución: Agranda el formulario o destácalo más (o ambos) y convierte el enlace de la llamada a la acción en un botón más
+visible.
+
+Idea 4: Reordena las páginas
+
+Problema: Hay tantos elementos en la página que la atención de las/los visitantes se dispersan.
+
+Datos del mapa de calor utilizado: El mapa de clics indica que la mayor interacción de las/los visitantes en la página está
+en el extremo inferior de la escala del mapa de calor.
+
+Solución: Centra la atención de la/del visitante en las áreas más importantes. Para ello, elimina algunos de los elementos
+menos relevantes.
+
 ### Identifica y actualiza las fichas de productos en función de los datos
+
+#### Evaluar el rendimiento del producto
+
+#### Métricas clave para el rendimiento del producto
+
+#### Optimiza las ofertas de productos en función de los datos
+
+#### Actividad de ejemplo: Sugiere una nueva categoría de producto basada en los datos de búsqueda
 
 ### Repaso: Analiza las tendencias para una tienda en línea
 
