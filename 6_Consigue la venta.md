@@ -833,21 +833,394 @@ Viabilidad del producto: Potencial de ventas de un producto específico.
 
 #### Te damos la bienvenida a la semana 2 curso 6
 
+Hola de nuevo. Me emociona guiarte en la siguiente parte del curso, donde verás todo sobre las tiendas en línea. También empezarás a trabajar en tu primer proyecto de comercio electrónico. Imagina que trabajas para una tienda de regalos que quiere empezar a vender sus productos por comercio electrónico y tú debes averiguar cómo crear una tienda en línea. ¿Por dónde empiezas? ¿Cómo se crea una tienda en línea y cómo agregarle productos? A continuación, aprenderás cómo hacer todo eso y más.
+Reproduce el video desde ::34 y sigue la transcripción0:34
+Al final de esta sección, sabrás cómo funciona una tienda en línea. Mi primera experiencia en comercio electrónico fue en mi trabajo anterior, donde lideré el equipo de ventas que ayudó a fabricantes a vender directamente a consumidores/as. Los ayudamos a mejorar su experiencia de cliente en línea, que aumentó el tráfico del sitio, la tasa de conversión, el valor promedio de pedido y las compras repetidas. Repasemos lo que hemos visto en este curso hasta ahora. Primero, viste los conceptos básicos del comercio electrónico. Luego viste la importancia de la investigación de mercado: cómo identificar tu público objetivo y hacer investigación de productos. Aprendiste detalles sobre el abastecimiento de productos y el marketing de marca. Ahora, aprenderás a trabajar en tu propia tienda de comercio electrónico. Primero, obtendrás una descripción general de las tiendas en línea y cómo funcionan. Verás los elementos básicos que conforman una tienda de comercio electrónico y explorarás cómo las/los clientes navegan por el proceso de compra. Luego, conocerás algunas de las principales plataformas de comercio electrónico. Explorarás las diferencias entre estas plataformas y por qué una empresa puede elegir una por sobre la otra. Existen muchas otras plataformas además de las que verás aquí. Es importante entender los conceptos básicos de una plataforma de comercio electrónico. Podrás usarlos para aprender a utilizar otras plataformas en tu trabajo. Después aprenderás cómo funciona Shopify. También, aprenderás a agregar productos a una tienda en línea y configurar una cuenta en Google Merchant Center. ¿Te parece bien? ¡Empecemos!
+
 #### Descripción general de las tiendas de comercio electrónico
+
+Es hora de empezar a aprender sobre tiendas de comercio electrónico. Una tienda de comercio electrónico es una que vende sus productos en línea. En una tienda de comercio electrónico, las personas pueden buscar o ver productos, agregarlos a un carrito de compras virtual y pagar la compra en línea. Para que las personas puedan comprar en línea con facilidad, una tienda de comercio electrónico debe incluir varios elementos básicos que pueden considerarse como buenas prácticas. Deben ser elementos reconocibles que las personas esperan encontrar en casi cualquier sitio de venta en línea. Veamos algunos de estos elementos. Primero, está la página de inicio, que es la página principal de un sitio web de comercio electrónico. Esta ayuda a las/los clientes a entender qué productos vende una empresa. También les ayuda a encontrar la información que necesitan y sirve como un centro que se conecta a otras páginas del sitio web. En la parte superior de una tienda en línea, hay una barra de navegación, que es una serie de enlaces a otras páginas dentro del sitio web. La barra de navegación ayuda a las personas a encontrar la sección de un sitio web que será más útil para ellas. Por lo general, se mantiene en la parte superior en todas las páginas del sitio web. La barra de navegación incluye un menú con enlaces a productos, que generalmente se organizan por área o categoría. Por ejemplo, el menú puede incluir un enlace a la página general de electrodomésticos, así como enlaces secundarios a las páginas de refrigeradores y lavadoras. La barra de navegación también puede incluir enlaces a otras páginas, como de ofertas, anuncios semanales, listas de regalos o ayuda al cliente. Una tienda de en línea también incluye la funcionalidad de búsqueda, como una barra de búsqueda. Si la/el cliente sabe lo que quiere, puede ingresarlo en la barra de búsqueda para obtener los resultados de la tienda. Además de los elementos de menú y búsqueda, la barra de navegación tiene un enlace para crear una cuenta o iniciar sesión. Esto permite a las personas crear o editar la información de su cuenta, actualizar su información de pago y acceder a pedidos anteriores. Cuando la/el cliente navega más profundamente en el sitio web, encuentra páginas de detalles de productos (PDP), que proporcionan información sobre un producto específico. Las PDP pueden tener descripciones, imágenes y reseñas, así como otros datos sobre el producto. Si la/el cliente ve un producto que desea comprar, puede agregarlo a su carrito. La barra de navegación tiene un enlace al carrito de compras para que la persona pueda acceder a él en cualquier momento. Al hacer clic en este enlace, la persona va directamente al carrito y puede ver su pedido actual en cualquier momento durante el proceso de compra. Al terminar de comprar, puede ir fácilmente al carrito de compras e iniciar el proceso de pago. Cada tienda en línea incluye un sistema de pago digital que permite a las/los clientes ingresar su información de envío y pago, y completar su compra en línea. El proceso de pago es una parte clave del recorrido del cliente. Después aprenderás más sobre él y verás cómo eliminar obstáculos que impiden que las/los clientes completen la compra. Otras páginas importantes de una tienda de comercio electrónico tienen enlaces al servicio de atención al cliente, información de contacto, políticas de devolución y cambios, e información de envío.
+Reproduce el video desde :3:29 y sigue la transcripción3:29
+También es importante que los comercios electrónicos tengan un sitio que sea responsivo, si es posible. Un sitio responsivo es un sitio diseñado para funcionar en todo tipo de dispositivos, como computadoras, teléfonos móviles y tabletas. Tener un sitio responsivo facilita la experiencia de navegación y la hace más eficiente, lo que suele generar una mejor tasa de conversión. La tienda en línea debe ser accesible para todas las personas. La accesibilidad web significa diseñar y desarrollar un sitio o aplicación que pueda ser usado por personas con discapacidad. El 71% de las personas con discapacidad abandonan un sitio web de inmediato si no es accesible. Además, varias mejoras de accesibilidad optimizan la experiencia de todas las personas.
+Reproduce el video desde :4:21 y sigue la transcripción4:21
+Por ejemplo, los subtítulos de video son una herramienta muy útil. En definitiva, cada persona es única. Diseñar para la accesibilidad es una forma importante de abordar las diveras formas de navegar por los sitios web. Si una empresa también tiene tiendas físicas, es importante incluir su ubicación. Las/los clientes suelen visitar un sitio primero para averiguar sobre productos y encontrar tiendas en su área. También pueden querer comprar productos en línea y retirarlos en una tienda física, si es posible. Si trabajas en comercio electrónico, esto puedes escucharlo como BOPIS, que significa compra en línea, retira en la tienda. Cada uno de estos elementos ayuda a las/los clientes a encontrar lo que necesitan en una tienda de comercio electrónico.
+Reproduce el video desde :5:9 y sigue la transcripción5:09
+Muchos de estos elementos, como el carrito y el sistema de pago digital, son parte de la plataforma de la tienda en línea. La mayoría de las tiendas en línea se construyen sobre una plataforma de comercio electrónico, que permite hacer cosas como agregar y actualizar productos, administrar pedidos de clientes, recibir pagos, gestionar envíos, ejecutar pedidos y más, todo desde un solo lugar.
+Reproduce el video desde :5:34 y sigue la transcripción5:34
+Una plataforma de comercio electrónico incluye herramientas y plantillas para facilitar la creación y gestión de una tienda en línea. A continuación, aprenderás más sobre tiendas y plataformas de comercio electrónico. ¡Sigue con el buen trabajo!
 
 #### Cómo funciona una tienda de comercio electrónico
 
+![alt text](image-196.png)
+
 #### Plataformas de comercio electrónico
+
+Has visto mucho de lo que se necesita para crear una tienda en línea. Ahora, vas a aprender más sobre la plataforma en la que se construye una tienda en línea. Hay muchas plataformas de comercio electrónico que puedes usar. Entre las más comunes se encuentran Wix, Shopify, BigCommerce, Squarespace, WooCommerce y Magento. Una de las principales diferencias entre las plataformas es si usan código abierto o software como servicio (SaaS). Profundicemos en cada una de ellas. El software de código abierto permite acceder y editar el código fuente original. Es decir, una empresa puede personalizar su sitio de comercio electrónico como quiera. WooCommerce y Magento son dos ejemplos de plataforma de código abierto. Usemos una analogía para que esto sea más fácil de entender. Imagina una tienda física en un edificio que es propiedad entera de un minorista. El minorista puede remodelar todo el edificio si lo desea, similar a una plataforma de código abierto que permite una personalización completa. Esta plataforma le da a la empresa un control total sobre la apariencia y las funciones de su tienda de comercio electrónico. Pero, para eso, la empresa deberá saber cómo hacer esos cambios en el código, o bien contratar a un/a desarrollador/a web profesional. Ahora veamos el SaaS: un software basado en la web disponible mediante suscripción.
+Reproduce el video desde :1:35 y sigue la transcripción1:35
+Quien quiera usarlo deberá comprar una suscripción. Una plataforma SaaS de comercio electrónico posibilita cierta personalización, pero no permite acceder al código fuente. La mayoría de las plataformas SaaS ofrecen diferentes planes que una empresa puede elegir según su tamaño, presupuesto y nivel de soporte que necesite. Shopify y BigCommerce son dos ejemplos de plataformas SaaS. En la analogía anterior, una plataforma SaaS sería como una tienda física que alquila su espacio comercial. El propietario/a es el/la responsable de mantener el edificio. Quien alquila puede hacer ciertos cambios en el edificio, pero deben estar dentro de los límites que el/la propietario/a permitirá. Ahora, que conoces la diferencia entre las plataformas de código abierto y SaaS, veamos las ventajas y desventajas de cada una. Primero, veamos las plataformas de código abierto. La mayor ventaja de una plataforma de código abierto es que la empresa tiene control total del diseño y funcionalidad de su correo electrónico. Poder cambiar la funcionalidad o funciones y capacidades técnicas del sitio web le da a la empresa acceso ilimitado para mejorar la experiencia de sus clientes. Las opciones de personalización son infinitas. Sin embargo, una de las desventajas es que la empresa necesita tener las habilidades de programación y técnicas para crear y mantener su comercio electrónico. También se deberá pagar por separado un servicio de alojamiento web, que sirve para publicar un sitio web en Internet.
+Reproduce el video desde :3:17 y sigue la transcripción3:17
+Aunque la plataforma de código abierto puede ser gratuita o de bajo costo, la empresa debe pensar en los costos adicionales, como el alojamiento, el diseño y desarrollo web, la seguridad y el mantenimiento de TI. Ahora veamos las ventajas y desventajas de las plataformas SaaS. La mayor ventaja es que es una solución todo en uno que ofrece alojamiento, seguridad y servicio al cliente. Estas plataformas ofrecen plantillas integradas y software fácil de usar que permiten a una empresa lanzar su tienda rápidamente, incluso sin saber de programación. Algunas plataformas SaaS permiten más personalización que otras. Pero todas tienen límites respecto a cuánta personalización es posible, y la personalización avanzada puede requerir saber de programación. Esa es una desventaja. Otra es que puede que la plataforma solo se integre con ciertas aplicaciones o canales de terceros. También puede permitir solo ciertos métodos de pago. Además, puede haber tarifas adicionales para algunas funciones dentro de la plataforma. Ahora, que hemos visto las ventajas y desventajas de las plataformas de código abierto y SaaS, veamos otros puntos importantes que se aplican a todo tipo de plataformas. Algo a considerar es la velocidad de carga de las páginas de un comercio electrónico. Un sitio lento puede frustrar a las personas y hacer que lo abandonen. Según investigaciones, hasta el 90% de las personas abandonarán un sitio si es muy lento.
+Reproduce el video desde :4:52 y sigue la transcripción4:52
+Además, un retraso de un segundo en los tiempos de carga móvil puede afectar las tasas de conversión en un 20%. Otro punto a considerar es la posición de la tienda en los resultados de los motores de búsqueda. Aparecer más alto en los resultados de búsqueda suele atraer más visitantes, tal como aprendiste antes. La optimización de motores de búsqueda (SEO) de una plataforma puede afectar el rendimiento de la tienda en las búsquedas en línea. Las palabras clave y frases de SEO del sitio también pueden marcar la diferencia. Finalmente, las plataformas se diferencian según el crecimiento que posibilitan. A medida que una empresa se expande, la plataforma necesita poder manejar un mayor tráfico, permitir una gran cantidad de productos, y dar más flexibilidad y opciones para satisfacer las necesidades de marketing de una empresa en crecimiento. Aunque es útil conocer las diferencias de las plataformas de comercio electrónico, es probable que no seas quien decida qué plataforma utilizará tu empleador/a. Por lo general, la plataforma ya es elegida por la dirección y aprenderás a usarla durante el trabajo. Además, programar software de código abierto no suele ser un requisito para puestos de nivel inicial en comercio electrónico.
+Reproduce el video desde :6:9 y sigue la transcripción6:09
+Sin embargo, tener conocimiento básico de código puede ser útil según tu puesto. Como has visto, hay mucho a tener en cuenta al elegir una plataforma de comercio electrónico. Ahora que entiendes mejor cómo funcionan las plataformas de comercio electrónico, puedes profundizar en una plataforma SaaS muy popular: Shopify. Nos vemos de nuevo pronto.
 
 #### Plataformas y dominios de comercio electrónico
 
+![alt text](image-197.png)
+
 ### Entiende cómo funciona Shopify
+
+#### Introducción a Shopify
+
+Hemos visto mucha información sobre las plataformas de venta en línea. Ahora hablaremos de una plataforma que usan muchas tiendas en línea: Shopify. Me emociona explicarte qué es Shopify y cómo funciona. Primero te presento Shopify: es una plataforma SaaS de comercio electrónico que permite a las empresas vender productos en línea a clientes de todo el mundo. Usando Shopify, las empresas pueden crear una tienda en línea personalizada, integrarse con canales de compras de terceros como Google o Amazon, o agregar funciones de comercio electrónico a un sitio. Una de las ventajas de Shopify es que es una solución todo en uno. Las empresas que usan Shopify obtienen su propia tienda en línea, un blog, una plataforma de pago segura para las ventas en línea y físicas, una plataforma de envío, herramientas de marketing integradas, análisis e informes, además de acceso a soporte las 24 horas. Hay varios planes para elegir, según el presupuesto y otras necesidades. Shopify está diseñado para ser fácil de usar. Sin necesidad de conocimientos de programación o de desarrollo, emprendedores/as y negocios pueden agregar fácilmente productos y actualizar su tienda. Shopify es flexible para empresas de cualquier tamaño, sean grandes o pequeñas. ¿Por qué es importante aprender sobre estas plataformas de comercio electrónico? Hoy en día, más empresas están trasladando sus ventas en línea porque sus clientes lo esperan. La forma más fácil y rápida de empezar es con una plataforma de de comercio electrónico todo en uno. A continuación, verás cómo usar muchas funciones importantes de Shopify. Nos vemos.
+
+#### Aprende más sobre Shopify
+
+![alt text](image-198.png)
 
 ### Usa Shopify para tu negocio de comercio electrónico
 
+#### Introducción a la construcción de una tienda de comercio electrónico
+
+Me alegra presentarte el proyecto en el que trabajarás en esta sección. Trabajarás con una plataforma de de comercio electrónico y usarás sus funciones para ver cómo crear una tienda en línea. Te describiré brevemente el proyecto y recibirás instrucciones sobre cómo completar cada paso en el siguiente material del curso. Aunque no lances tu propia tienda en línea, este proyecto te ayudará a familiarizarte con el uso de una plataforma de comercio electrónico. Aprenderás algunas de las tareas básicas de un rol de nivel inicial en comercio electrónico, como agregar o actualizar productos en una plataforma. Estas son habilidades valiosas que los/las empleadores/as pueden buscar en tu CV. Trabajar en este proyecto también te ayudará a entender mejor los componentes necesarios para crear una tienda en línea exitosa. ¿Ya quieres aprender a usar una plataforma de comercio electrónico? ¡Empecemos!
+
+#### Revisión: Cómo configurar una tienda de comercio electrónico simulada con Shopify
+
+Introducción
+Anteriormente, aprendiste conceptos básicos de comercio electrónico, como a realizar una investigación de mercado, identificar a tu público objetivo y realizar una búsqueda de productos. Ahora, veamos cómo crear una tienda de comercio electrónico con la plataforma de Shopify. Esta lectura de revisión es la primera de tres sobre la creación de tiendas de Shopify. La segunda revisión es "Cómo comenzar a agregar productos a tu tienda de Shopify <https://www.coursera.org/learn/make-the-sale/supplement/DmX46/review-begin-adding-product-listings-to-a-shopify-store> " y la tercera es " <https://www.coursera.org/learn/make-the-sale/supplement/wAtcD/review-finish-adding-product-listings-to-a-shopify-store> Cómo terminar de agregar fichas de productos a tu tienda de Shopify ". Cada una de ellas se diseñó para ayudarte a aprender a configurar una tienda en línea.
+
+Nota: Actualmente, Shopify ofrece una prueba gratuita de 3 días. Si quieres seguir el proceso y crear tu propia tienda de comercio electrónico, te recomendamos que primero completes el material de aprendizaje de este módulo. Luego, cuando esté todo listo, asegúrate de tener el tiempo disponible para realizar cada una de las tres actividades principales descritas en las lecturas de revisión durante la prueba de 3 días.
+
+Situación
+Para esta lectura de revisión y las próximas dos, seguiremos una situación particular:
+
+Durante el último año, trabajaste para una empresa de comercio electrónico con varias tiendas en línea. La empresa se especializa en artículos para el hogar. En el último tiempo, la empresa identificó una oportunidad en el mercado de productos de baño ecológicos. Su objetivo es lanzar una nueva tienda de comercio electrónico, llamada Bath EcoShop, en la que se vendan productos de baño sustentables a clientes de todo el mundo. 
+
+La empresa necesita tu ayuda para configurar esta nueva tienda de comercio electrónico. Como especialista en comercio electrónico, te solicitaron que configures la tienda en la plataforma de comercio electrónico de Shopify.
+
+Instrucciones paso a paso
+Nota: Los siguientes pasos pueden diferir del proceso actual en la plataforma de Shopify. Incluso si el software cambió, aún se aplican los conceptos de alto nivel para configurar una tienda.
+
+Paso 1: Empieza a configurar tu tienda de comercio electrónico
+Visita la página principal de Shopify <https://www.shopify.com/>
+ y haz clic en "Start free tria" (comenzar prueba gratuita).
+
+Paso 2: Completa el cuestionario
+Si lo deseas, puedes completar el cuestionario o hacer clic en "Skip All" (omitir todo).
+
+Paso 3: Selecciona el lugar donde se ubicará tu empresa
+Selecciona el país o la región donde te encuentras.
+
+Paso 4: Ingresa tu dirección de correo electrónico
+Ingresa tu dirección de correo electrónico en el campo del formulario. Deberás utilizar tu dirección de correo electrónico para acceder a tu cuenta de Shopify y completar otras actividades de este curso. Haz clic en la opción "Create Shopify Account" (crear una cuenta de Shopify).
+
+Paso 5: Edita el nombre de la tienda
+Sigue estos pasos para editar el nombre de tu tienda de comercio electrónico:
+
+Haz clic en Settings (configuración) en la parte inferior del menú de navegación
+
+En la pestaña Store details (información de la tienda), haz clic en Edit (editar) en el cuadro Profile (perfil).
+
+Ingresar "Bath EcoShop" en el campo para el nombre de la tienda.
+
+En la barra de herramientas, haz clic en la opción guardar.
+
+Haz clic en la X para volver al panel principal de Shopify.
+
+Paso 6: Verifica tu dirección de correo electrónico
+Se te enviará un mensaje de verificación a la dirección de correo electrónico que usaste para registrar tu cuenta de Shopify. Para proteger tu cuenta, haz clic en el vínculo del mensaje de verificación. 
+
+Conclusiones clave
+Acabas de aprender los pasos iniciales para configurar tu primera tienda de comercio electrónico. En la siguiente lectura de revisión, continuaremos con el proceso de configuración de Bed EcoShop y agregaremos tu primer producto.
+
+Recuerda que te recomendamos que completes el material de aprendizaje de este módulo antes de comenzar la prueba gratuita de 3 días de Shopify.
+
+#### Añade productos a una tienda de Shopify
+
+Has aprendido mucho sobre cómo funciona una plataforma de comercio electrónico. Ahora, aprenderás a agregar productos a una tienda. Usaré Shopify para mostrar cómo funciona el proceso, aunque la plataforma que uses puede ser otra, según las necesidades y recursos de tu empresa. En Shopify es fácil agregar productos físicos o digitales a la tienda. Además, puedes agruparlos en colecciones. Las colecciones son categorías que contienen productos similares, como macetas o artículos con descuento. Puedes agregar productos manualmente uno por uno, o bien importar varios productos usando un archivo CSV. En este video y la siguiente lectura, te enseñaré a agregar un producto de forma manual usando una tienda ficticia que vende herramientas de jardinería. A continuación, verás instrucciones para agregar una lista de productos. La tienda creada a la que agregaré productos se llama Garden Tools Express. Primero iniciaré sesión en Shopify. Usaré el panel de administración para hacer cambios en mi tienda. Ahora, elegiré la opción de agregar un nuevo producto. Primero, ingresaré un título para el producto. Este se llamará “Pala de jardinería”. El siguiente paso es ingresar una descripción del producto. Una buena descripción dice a las personas cómo el producto puede satisfacer sus necesidades y describe sus características. Escribiré una breve descripción de la pala en esta sección y usaré viñetas para que las características sean más fáciles de leer. Luego agregaré una imagen del producto. Shopify te da la opción de agregar una URL para una imagen ya publicada en línea, o bien subir una imagen desde tu dispositivo. Cargaré una imagen guardada en mi computadora de una pala. Esta debe ser de alta resolución y no tener derechos de autor. Agregaré texto alternativo, que es una descripción breve de la imagen. Ayuda a los lectores de pantalla y motores de búsqueda a entender qué hay en la imagen. Para el texto alternativo, escribiré “pala de jardinería roja”. Es bueno agregar fotos tomadas desde varios ángulos para mostrar el producto desde diferentes lados. También puede ser úti mostrar el producto en uso, tanto en fotos como en video. Cuanto más ayudes a las personas a conocer el producto, más cómodas se sentirán comprándolo en línea. Ahora agregaré el precio. Pondré “US$57.99” en este campo. También puedo poner un precio comparativo, agregar el costo por artículo y especificar si se cobrarán impuestos. En la página del producto puedes hacer un seguimiento del inventario. Agregaré la unidad de mantenimiento de existencias o SKU, un código único usado para identificar un producto. Ayuda al minorista a ver los niveles de inventario y las ventas. Pondré el código de barras del producto y la cantidad disponible. Después, agregaré los detalles de envío. Calculemos un peso de 4 libras. Luego agregaré la información de aduana para el envío internacional. Después agregaré variantes. Supongamos que mi pala de jardinería está disponible en dos colores, rojo y verde. Agregaré, entonces, una variante para los dos colores. Si tu producto tiene otras opciones, como diferentes tamaños o materiales, también puedes agregarlos. Puedo sumar precios específicos y detalles de inventario para cada variante. Aquí agregaré “20” en el campo de cantidad de cada variante de color. Ahora revisaré cómo se verá mi página de productos en los motores de búsqueda. Es bueno poner el nombre de tu tienda al final del título de la página. Lo haré ahora. Elegiré un proveedor y tipo de producto. Puedo agregar el producto a una colección, para que sea parte de un grupo de artículos similares o categoría de productos. También puedo agregar etiquetas para categorizar el producto y organizar los resultados de la búsqueda. Eso es todo por ahora. Luego guardaré mis cambios. Bien, mi primer producto ha sido añadido a la tienda. Antes de poner el producto a estado activo, veamos cómo se mostrará en la tienda de comercio electrónico. Todo empieza a tomar forma. Ahora, el producto está en estado de borrador. Para que esté disponible en la tienda, lo cambiaré a activo.
+Reproduce el video desde :4:22 y sigue la transcripción4:22
+El producto ahora se muestra en el sitio. Hay algo más que quiero hacer. Quiero que las/los clientes puedan dejar reseñas y calificaciones. Para hacerlo en Shopify, tendré que agregar una aplicación. Elegiré la aplicación de reseñas de productos creada por Shopify. Primero, instalaré la aplicación. Luego, la agregaré a mi plantilla para que aparezca en las páginas de productos. ¡Eso es todo! Mi primera página de productos está activa en el sitio y lista para que la gente la vea.
+
+#### Crea una página de detalles del producto (PDP)
+
+![alt text](image-199.png)
+
+#### Revisión: Empieza a agregar fichas de productos a una tienda de Shopify
+
+![alt text](image-200.png)
+
+#### Revisión: Termina de agregar fichas de productos a una tienda de Shopify
+
+![alt text](image-201.png)
+
+#### Termina de crear una tienda de Shopify
+
+Buen trabajo al agregar un producto a tu tienda. Ahora entiendes mejor cómo funciona una plataforma de comercio electrónico. A medida que tengas más confianza trabajando en una plataforma, descubrirás que agregar un producto o hacer otras tareas se vuelve más rápido y fácil con más práctica. En este video, te explicaré cómo terminar de configurar una tienda de Shopify. Luego te mostraré sus herramientas de marketing, ventas y analítica. Por último, te explicaré cómo editar un tema en Shopify y agregar un dominio personalizado. Comencemos por habilitar los métodos de pago. Shopify te permite aceptar pagos utilizando varios proveedores de pago, incluido su propio proveedor, Shopify Payments. Es bueno habilitar varios métodos de pago para que las/los clientes puedan elegir la opción que deseen. Ofrecer opciones de pago flexibles ayuda a evitar obstáculos en el proceso de pago. Shopify Payments es la opción predeterminada para mi tienda. Así que es por donde empezaré. Para recibir pagos de Shopify Payments, debo completar el proceso de configuración de cuenta rellenando los campos requeridos. En Shopify Payments, puedo elegir los tipos de tarjetas de crédito y pagos de billetera digital que aceptaré. Puedo activar Shop Pay; así las/los clientes guardan su información de envío y pago para comprar más rápido. Shop Pay también permite a las/los clientes pagar en cuotas. A continuación, configuraré los métodos de envío y entrega. En Shopify puedo configurar el envío, la entrega y los métodos de retiro en tienda. En la configuración de envío, elijo las tarifas y métodos de envío que quiero usar para mi tienda. Ahora agregaré las páginas legales para mi tienda. En Shopify, estas incluyen la política de reembolso, política de privacidad, términos de servicio y política de envío. Para facilitarlo todo, Shopify te permite crear tus propias políticas con una plantilla que ofrece. Elegiré esa opción, pero aun así tendré que actualizar las políticas para asegurarme de que son correctas para mi tienda. Tras guardar mis páginas legales, aparecerán en el pie de página de mi proceso de pago. Si quiero que aparezcan en el menú principal de mi tienda, tendré que agregarlas manualmente. Shopify crea automáticamente un formulario de contacto para mi tienda en función de la información de contacto que incluí al configurarla. También puedo agregar una página de contacto aparte con detalles de soporte al cliente. Además, puedo incluir enlaces a artículos de resolución de problemas y autoayuda. Una página de preguntas frecuentes también podría ser útil. Además, puedo agregar un blog a la tienda, publicando artículos de blog. A continuación, te mostraré herramientas integradas de analítica, marketing y descuentos. El panel de analítica proporciona una vista general de métricas importantes, como ventas totales, tasa de conversión y valor promedio del pedido. Lo explicaré más en detalle más adelante en este curso. Puedo crear informes personalizados de análisis y ver la actividad en el momento en mi tienda con Vista en tiempo real. En el panel de marketing, puedo crear campañas de anuncios, correos electrónicos, redes sociales y otros canales de marketing. También puedo automatizar campañas para mostrar anuncios y enviar mensajes, basados en el comportamiento de las/los clientes. Solo debo configurarlas una vez, y se ejecutarán el tiempo que quiera. En la sección de descuentos, gestiono promociones creando códigos de descuento. Cuando las/los clientes ingresan el código al comprar, reciben el descuento. Además, puedo crear descuentos aplicados automáticamente al carrito de un/a cliente. A continuación, voy a editar mi tema, que es una plantilla de sitio prediseñada que crea el diseño y la disposición para mi tienda de comercio electrónico. Mi tema actual es uno que agrega Shopify de forma predeterminada. Puedo personalizarlo cambiando mi logotipo colores, fuente, diseño y más. Puedo cambiar el texto en el sitio y agregar enlaces a mis cuentas de redes sociales. Puedo abrir una vista previa de mi tienda en un teléfono eligiendo Vista móvil. Como muchas personas compran desde sus teléfonos, es importante facilitar la vista del sitio en dispositivos móviles y fijos. Si quiero usar un tema diferente, puedo agregar un tema ya creado o subir el mío. Finalmente, veamos cómo agregar un dominio personalizado. Un dominio es la URL o dirección web de un sitio. Por ejemplo, www.ejemplo.com. Ahí las/los clientes encuentran tu tienda en Internet. La URL predeterminada de Shopify usa un formato específico. Pero supongamos que quiero que mi URL no sea la predeterminada. Puedo comprar un nuevo dominio o conectar un dominio existente, si ya lo tengo. Tras configurar mi tienda, estoy lista para mi primer/a cliente.
+
+#### Aprende más sobre trabajar en Shopify
+
+![alt text](image-202.png)
+
+#### Crea tu cuenta de Google Merchant Center y vincúlala a Shopify
+
+En este video, exploraremos los requisitos para vincular una cuenta de Shopify a Google. Esto es solo una oportunidad para aprender más sobre cómo funciona el proceso. No esperamos que crees tus propias campañas. Comencemos. Antes de empezar a publicitar productos en Google, primero debes crear una cuenta en Google Merchant Center. Es una herramienta que sirve para cargar los datos de la tienda y los productos en Google y que estén disponibles para anuncios de Shopping u otros servicios de Google. Google Merchant Center es una puerta que debes abrir para llevar los productos tu tienda en línea a la plataforma de Google Shopping. Tras configurar tu cuenta, puedes vincularla a una tienda de Shopify. Google Merchant Center está diseñado para facilitar la carga y edición de tus listas de productos para hacer publicidad a través de Google Shopping. Y ayuda a garantizar que tu información de producto esté actualizada. Algunas ventajas de registrar tu tienda de comercio electrónico con Google Merchant Center son los listados de Google Shopping, el soporte exclusivo de Google Analytics, las capacidades de revisión para tus productos en línea y una fácil integración de Google AdWords. Para crear una cuenta de Google Merchant Center, necesitarás tener al menos una cuenta de Google, un negocio, un sitio web y datos de productos actualizados en la tienda de comercio electrónico, como precios, disponibilidad e información de envío. Consulta instrucciones y detalles en el sitio de la cuenta de Google Merchant. Ahora, que conoces Google Merchant Center y su relación con las tiendas en línea, aprendamos sobre la venta de productos en Google y otros canales de compras.
+
+#### Agrega Google y otros canales de shopping en Shopify
+
+Hasta ahora hemos visto cómo agregar productos a tu sitio web. Si deseas llegar a un mayor número de clientes, lo ideal es también vender tus productos a través de otros canales, como redes sociales, aplicaciones móviles o un mercado en línea (marketplace), que te permite vender en un sitio grande y conocido. Shopify facilita la venta de productos en más lugares, permitiendo agregar múltiples canales de venta. En este video, te mostraré cómo agregar canales de venta a una tienda de Shopify. Una vez que sepas cómo hacerlo, podrás gestionar tus productos desde un solo lugar y controlar cómo se muestran en múltiples canales de venta. ¿Todo listo? ¡Empecemos! Primero iniciaré sesión en el panel de administración de mi tienda de Shopify. Luego iré a la configuración de mis canales de venta. Aquí agregaré un nuevo canal de ventas. Shopify me da una lista de recomendaciones. Empecemos por Google. Ahora, haré el proceso de conectar la aplicación de Google con mi tienda de Shopify. Elegiré la cuenta de Google a la que quiero conectarme, y aceptaré los términos. Finalmente, ingresaré los detalles adicionales necesarios para configurar el canal. Genial. Ahora al agregar productos en Shopify, se mostrarán en Google también. Luego, podré agregar otros canales de venta con el mismo proceso. Incluso podré crear una aplicación móvil para mi sitio web o agregar un canal para vender productos en persona. Si no veo los canales de venta que quiero en la lista, puedo visitar la tienda de aplicaciones de Shopify para agregar otros canales. Agregar múltiples canales de venta es bueno tanto para las/los clientes como para el negocio. Al agregar varios canales de venta con Shopify llegas a más clientes y gestionas tu tienda de comercio electrónico con más facilidad. Puedes promocionar y vender productos, gestionar pedidos y ver el inventario desde un solo lugar. A continuación, repasaremos lo aprendido hasta ahora. Luego, veremos cómo llevar tráfico a una tienda de comercio electrónico e involucrar a tus clientes. Nos vemos pronto.
+
+#### Incluye productos en diferentes canales de shopping
+
+![alt text](image-203.png)
+
 ### Repaso: Aprende sobre las tiendas en línea
+
+#### Términos y definiciones del curso 6, semana 2
+
+Accesibilidad web: Práctica de diseñar y desarrollar un sitio web o aplicación móvil para que las personas con discapacidad puedan usarlo.
+
+Barra de navegación: Grupo de enlaces a otras páginas dentro de un sitio web.
+
+BOPIS: Acrónimo para “buy online, pick up in store” (compra en línea, retira en la tienda).
+
+Carrito de compras digital: El equivalente virtual de un carrito de compras físico.
+
+Código abierto: Software que permite a los/las usuarios/as acceder y editar el código fuente original.
+
+Comercio electrónico multicanal: Práctica de incluir los productos de una tienda en diferentes canales.
+
+Descripción del producto: El texto que proporciona detalles e información sobre un producto en una tienda de comercio electrónico.
+
+Dominio: La parte central de la URL o dirección de Internet de un sitio web.	
+
+Google Merchant Center: Una herramienta que las/los anunciantes utilizan para cargar los datos de sus tiendas y productos en Google y ponerlos a disposición para anuncios de shopping y otros servicios de Google.
+
+Metadescripción: Texto que proporciona a los motores de búsqueda un resumen de lo que trata la página.
+
+Página de contacto: Página web común en los sitios web que proporciona información para que quienes la visitan  se comuniquen con la organización o el alojamiento individual del sitio web.
+
+Página de detalles del producto (PDP): Una página en un sitio de comercio electrónico que proporciona información sobre un producto específico.
+
+Página de inicio: La página principal de un sitio web.	
+
+Pie de página: Sección de navegación en la parte inferior de un sitio web.	
+
+Política de devoluciones: Documento que describe, en detalle, el proceso de una empresa y los requisitos para aceptar devoluciones.
+
+Política de privacidad: Documento legal que informa algunas o todas las formas en que una empresa recopila, utiliza, divulga y administra los datos de sus clientes.
+
+Proveedor de servicios de pago: Forma segura de procesar transacciones en línea.
+
+Sitio web responsivo: Un sitio web que está diseñado para funcionar en todo tipo de dispositivos, incluyendo computadoras, teléfonos móviles y tabletas.
+
+Software como Servicio (SaaS): Software basado en la web disponible por suscripción.
+
+Tema: Plantilla de sitio web prefabricada que crea el diseño y la disposición de información de una tienda de comercio electrónico.
+
+Términos de servicio: Acuerdos legales entre una empresa y sus clientes.
+
+Texto alternativo: Breve descripción escrita de una imagen con el propósito principal de ayudar a las personas con discapacidad visual.	
+
+Tienda de comercio electrónico: Tienda que vende sus productos en línea.
+
+Título de la página web: Elemento que proporciona tanto a las personas como a los motores de búsqueda el tema de una página.	
+
+Tono: Cómo se aplica la voz de una marca.
+
+Unidad de mantenimiento de existencias (SKU): Código único que los minoristas usan para identificar un producto.
+
+Voz de la marca: Personalidad distintiva que una marca adquiere en sus comunicaciones.
 
 ## Anuncios y campañas en comercio electrónico
 
-## Capta clientes a través de tu tienda en línea
+### Anuncios en el comercio electrónico
 
+#### Te damos la bienvenida a la semana 3 curso 6
+
+Crear una tienda de comercio electrónico es uno de los primeros pasos para vender en línea. ¿Y luego? Tus clientes no aparecerán automáticamente por crear una tienda. Debes usar estrategias específicas para dirigir el tráfico a tu tienda. Una manera de hacerlo es a través de la publicidad en línea, que es lo que aprenderás en esta parte del curso. Revisemos lo que vimos en este curso hasta ahora. Primero, una visión general de las tiendas de comercio electrónico y cómo funcionan. Luego, aprendiste a usar Shopify. También a conectar una tienda de comercio electrónico con Google y otros canales de compras. Entonces, ¿qué sigue? Primero, aprenderás sobre los beneficios de la publicidad en línea. Luego, aprenderás a usar Google Ads para conectarte con tus clientes de comercio electrónico. Después, descubrirás las bases de las campañas inteligentes de Google. También aprenderás a crear una campaña inteligente de shopping. Luego, explorarás la estacionalidad en el comercio electrónico y cómo usar Google Ads para planificar la estacionalidad. Por último, verás cómo optimizar estrategias de marketing de comercio electrónico. Aprender a dirigir el tráfico a una tienda en línea es una habilidad importante para trabajar en comercio electrónico. Quizás tengas que crear campañas de publicidad y marketing para tu futuro/a empleador/a. Muy bien, es hora de empezar.
+
+#### Publicidad en línea
+
+Tengo una pregunta para ti: ¿A cuántos anuncios crees que se expone la persona promedio por día? ¿50? ¿75? ¿300 tal vez? Si dijiste menos de unos miles, podrías estar equivocado. Si eres estadounidense, expertos/as en marketing digital estiman que puedes estar expuesto/a a entre 4,000 y 10,000 anuncios por día. A escala mundial, estas cifras pueden cambiar, pero esta estadística es muy reveladora sobre como la publicidad prevalece. Piensa en el tiempo que pasas en Internet individualmente. Estoy segura de que muchos de los anuncios que ves por día llegan a través de la pantalla del teléfono o la computadora. Este tipo de publicidad se llama publicidad en línea. En pocas palabras, es una forma de marketing que usa Internet para enviar mensajes de marketing promocionales a consumidores/as. Ya sea una tienda física o un negocio en línea, la publicidad en línea es el método elegido para fines publicitarios de la mayoría de las empresas. Puede parecer increíble, pero antes de mediados de los 90, la publicidad en línea estaba prohibida en gran parte de Internet. Las empresas debían confiar en los anuncios tradicionales de radio, televisión, carteleras y revistas. Todo cambió cuando se levantó la prohibición. Los anuncios en línea se dispararon, convirtiéndose en la principal forma para la conciencia de marcas y productos. ¿Por qué muchos negocios se pasan a la publicidad en línea? Repasemos los cuatro beneficios clave de la publicidad en línea. El primer beneficio, es que es rentable. Cuando las comparamos, la publicidad tradicional requiere un mayor presupuesto que los anuncios en línea modernos. Como ya comentamos, estos costos de publicidad se calculan mediante CPM, que significa costo por cada mil impresiones. En general, el CPM promedio de la publicidad en línea varía apróximadamente entre 3 a 10 dólares. En comparación, cuesta entre 15 y 30 dólares llegar a la misma cantidad de personas a través de periódicos o anuncios de televisión. Para mejorar la eficiencia, las/ los anunciantes cambiaron sus presupuestos para pasar a tener un enfoque en línea. El segundo beneficio es que tienen una capacidad de alcance global. Antes de la publicidad en línea, llegar a un público global era casi imposible para las pequeñas y medianas empresas, ya que las campañas globales que usan publicidad tradicional podrían costar millones de dólares y requieren una extensa investigación. Afortunadamente, la publicidad en línea puede dirigirse a secciones específicas del mundo con las tecnologías de marketing digital. Ahora, las empresas pueden comercializar con usuarios/as de Internet de otros países sin el costo y la molestia que tiene la publicidad tradicional. Sigamos. El tercer beneficio es que ayudan a las/los anunciantes a recopilar datos para elaborar estrategias de marca eficaces. Con los medios de publicidad tradicional, como las carteleras publicitarias, las/los anunciantes tienen poca idea sobre qué tan eficientes son sus anuncios realmente, y no saben si su cartelera está en el lugar correcto. Por ejemplo, una empresa puede hacer publicidad en una autopista muy transitada para llamar la atención, pero si el tráfico se mueve rápido, los/las conductores/as quizás no puedan leer las carteleras. La empresa nunca sabrá con certeza cuánta gente le prestó atención a su publicidad o qué porcentaje buscó a la empresa basándose en ese anuncio. Los anuncios en línea son diferentes. Muchas veces las/los anunciantes pueden rastrear la analítica para saber dónde se vieron sus anuncios, cuántas personas hicieron clic en ellos, y cuántos de esos clics llevaron a una compra. Estos datos son importantes para determinar dónde gastar el presupuesto de publicidad. Y el cuarto beneficio es que es rápida y fácil de producir. Los anuncios de medios tradicionales pueden requerir mucho trabajo. Por ejemplo, si una empresa quiere hacer un anuncio de televisión, quizás deban contratar actores, escribir un guion y pagarle a un equipo de producción. Esto lleva tiempo, gastos adicionales, y una planificación muy detallada. Los anuncios en línea omiten la mayoría de estas complicaciones al tener estructuras automatizadas que simplifican el proceso. Según el servicio de hosting de los anuncios, solo se requerirá que las empresas ingresen información y generen el anuncio que desean. Más adelante, exploraremos uno de estos sistemas automatizados. Estos cuatro beneficios son solo un comienzo. Cuando ingreses al campo del comercio electrónico, reconocerás más beneficios que tienen estos anuncios. Hoy en día, los tipos de anuncios más comunes funcionan con Google Ads. Como Google es el motor de búsqueda más popular del mundo, Google Ads le permite a usuarios/as y consumidores/as de Internet buscar, navegar y comparar productos en una variedad de marcas y negocios muy amplia. A continuación, aprenderás cómo Google Ads utiliza las campañas para conectarse con sus clientes. Nos vemos allí.
+
+#### Plataformas para anuncios de comercio electrónico
+
+Tanto si estás ayudando a lanzar una nueva tienda de comercio electrónico, como si trabajas para un negocio de comercio electrónico exitoso, una de las mejores maneras de captar nuevos/as clientes es a través de la publicidad. Esta publicidad de comercio electrónico consiste en cualquier forma de publicidad en línea o física que hace que una empresa de comercio electrónico se dé a conocer y dirija el tráfico hacia ella. La publicidad, junto con otras tácticas de marketing digital, puede ayudar a respaldar cualquier estrategia de marketing de comercio electrónico. En esta lección, analizaremos algunas de las principales plataformas en línea a través de las cuales puedes promocionar tus productos o servicios de comercio electrónico.
+
+Google Ads
+Si realizaste los cursos anteriores de este programa, aprendiste cómo Google Ads <https://support.google.com/google-ads/answer/6146252?hl=en> puede respaldar la estrategia de marketing digital de una empresa. Google Ads es una herramienta ideal para las empresas de comercio electrónico que desean impulsar la conciencia de marca o atraer nuevos/as clientes. Google Ads te permite mostrar anuncios de búsqueda en las páginas de resultados de los motores de búsqueda de Google (SERPs) y colocar anuncios de display en sitios web a través de la Red de Display de Google. Al ser el motor de búsqueda más grande del mundo, los anuncios de búsqueda y display de Google tienen un alcance potencial enorme.
+
+Anuncios de Google Shopping
+Los anuncios de Google Shopping <https://support.google.com/google-ads/answer/2454022?hl=en&ref_topic=6088086> son anuncios de productos basados en imágenes que muestran una foto, su título y precio, el nombre de la tienda y alguna reseña. Estos anuncios permiten que las empresas de comercio electrónico muestren sus productos cada vez que alguien realiza una búsqueda relacionada con ellos, lo que les permite ampliar su visibilidad a un público más amplio. Cada vez que un/a usuario/a hace clic en un anuncio, se redirige a la página del producto en la tienda de comercio electrónico. Debido a que muchas personas usan Google para buscar productos, los anuncios de Google Shopping pueden ayudar a impulsar el tráfico y las conversiones. Aprenderás más sobre las campañas de Google Shopping en otra lección más adelante.
+
+Campañas de Google Discovery Las campañas de Google Discovery <https://support.google.com/google-ads/answer/9176876?hl=en> ofrecen anuncios muy visuales y personalizados, que se pueden mostrar en los feeds de la página de inicio y de Ver a continuación, de YouTube, en la aplicación Discover y en las pestañas Promociones y Social de Gmail. Las campañas Discovery están diseñadas para llegar a usuarios/as que tienen más probabilidades de interesarse por un producto o servicio, según lo que determinan los algoritmos de Google. Pueden ayudarte a impulsar la interacción y las conversiones, porque muestran anuncios relevantes y significativos para las personas en momentos en que desean obtener más información sobre los productos y servicios de una empresa.
+
+YouTube Ads
+Con más de mil millones de horas de videos vistos por día, YouTube Ads <https://www.youtube.com/intl/en_us/ads/> puede ayudarte a llegar a un público más amplio y diverso. En YouTube, las empresas de comercio electrónico pueden configurar campañas y anuncios de video que estén alineados con sus objetivos de marketing y publicarlos en su canal. Esto puede darles la oportunidad de aumentar la conciencia de marca y atraer un mayor tráfico a su tienda en línea. YouTube Ads es particularmente efectivo para compartir contenido educativo o informativo, como demostraciones o reseñas de productos y videos explicativos.
+
+Amazon Ads
+Amazon Ads <https://advertising.amazon.com/> puede ayudar a las empresas de comercio electrónico a conectarse con potenciales compradores/as en una plataforma diseñada específicamente para las compras. En Amazon Ads, las/los anunciantes podrán pujar por palabras clave y clasificaciones para mostrar sus productos lo más arriba posible en los resultados de búsqueda. Esto puede ayudar a las empresas a que sus productos lleguen a un público más amplio. Amazon ofrece una variedad de opciones de publicidad, como productos, marcas y anuncios de display patrocinados, y anuncios de video y audio. 
+
+Anuncios de Facebook e Instagram
+Facebook e Instagram, ambas propiedad de la empresa Meta, son plataformas de redes sociales increíblemente populares, que son visitadas por cientos de millones de clientes potenciales todos los días. Con Ads Manager, puedes crear, administrar y monitorear anuncios, y analizar su rendimiento en estas plataformas, todo con la misma herramienta.
+
+Anuncios de Facebook
+Facebook es la red social con más usuarios/as, con miles de millones de cuentas activas. Al ser la más popular entre una gran variedad de grupos demográficos, los anuncios de Facebook <https://www.facebook.com/business/ads> pueden ayudarte a llegar a tu público objetivo. Facebook ofrece una variedad de formatos de anuncios con los que las empresas de comercio electrónico se pueden beneficiar. Los anuncios de colección, por ejemplo, ofrecen videos o imágenes de productos del catálogo de una empresa y permiten que las personas puedan pasar con facilidad de descubrir un producto a completar la compra. Los anuncios de Facebook también permiten que las empresas se dirijan a sus clientes por ubicación, ocupación, intereses, actividad previa y más.
+
+Anuncios en Instagram
+En Instagram, las empresas de comercio electrónico pueden crear anuncios con una gran variedad de formatos visuales, desde publicidad basada en imágenes hasta reels de video e historias, que servirán para promocionar sus productos y conectarse con su público objetivo.
+
+Los anuncios de Instagram <https://business.instagram.com/advertising> se pueden vincular directamente a la página de un producto o a otra página de destino, lo que le ofrece a los/las usuarios/as una forma rápida y sencilla de interactuar con los productos.
+
+Anuncios de Pinterest
+Al igual que Instagram, Pinterest es una plataforma muy visual. Con los anuncios de Pinterest <https://ads.pinterest.com/>, las marcas pueden publicitar sus productos a través de anuncios promocionados que aparecen como pines en los resultados de búsqueda orgánica.
+
+TikTok For Business
+TikTok For Business <https://www.tiktok.com/business/en-US?tt4b_lang_redirect=1> les ofrece a las empresas de comercio electrónico la oportunidad de promocionar sus productos a un público joven e interactivo. El marketing de influencers es un componente clave de la publicidad en la aplicación, y el TikTok Creator Marketplace (mercado de creadores) ayuda a las marcas a encontrar influencers para asociarse con ellas y ellos.
+
+Publicidad en Twitter
+Twitter es una plataforma de redes sociales que se utiliza principalmente para dar noticias en tiempo real e interactuar con influencers y celebridades.
+
+La publicidad en Twitter <https://ads.twitter.com/login> ofrece dos opciones: Quick Promote, que promociona automáticamente los tweets que un/a anunciante elige para su público objetivo, y Twitter Ads. Las campañas de Twitter Ads se basan en objetivos, lo que significa que están optimizadas para lograr el objetivo que la/el anunciante seleccionó, y solo se facturan por las acciones que están alineadas con él.
+
+Conclusiones clave
+
+La publicidad permite que las empresas de comercio electrónico lleguen a personas que pueden o no conocer sus productos o servicios. Los objetivos de las campañas publicitarias de comercio electrónico pueden incluir cualquier cosa: desde impulsar la conciencia de marca hasta incrementar las conversiones. Una plataforma publicitaria que funciona bien para una empresa de comercio electrónico puede no funcionar tan bien para otra, por lo que las/los anunciantes deben probar cada una de ellas antes de lanzar sus campañas. Por lo general, combinar plataformas al publicar anuncios en línea suele dar los mejores resultados.
+
+#### Uso de videos en los anuncios
+
+Anteriormente, aprendiste a utilizar distintos métodos de publicidad en línea a través de diferentes plataformas publicitarias de comercio electrónico. En esta lección, aprenderás sobre la publicidad digital, pero esta vez solo cubriremos los anuncios de video. 
+
+Publicidad digital vs marketing digital
+El marketing digital es la práctica de llegar a consumidores/as en línea a través de canales digitales con el objetivo de que se conviertan en clientes. La publicidad digital es la práctica de promocionar una marca y generar ventas a través del uso de anuncios. La utilización de videos en los anuncios es una táctica efectiva de la publicidad digital. 
+
+Ventajas de la publicidad digital
+Existen muchas razones por las que los videos son una forma eficaz de hacer publicidad. Para empezar, cada día se ven 4 mil millones de videos en YouTube. Estas son miles de millones de posibles oportunidades para que se pueda ver un anuncio de video. También se estima que casi un tercio de las personas que realizan una compra adquieren un producto después de ver un anuncio de video, lo que representa una tasa de conversión del 33%, muy superior a la mayoría de las tasas de conversión de anuncios promedio. 
+
+También tienen otras ventajas. Un video puede ofrecer más información que un gráfico o una foto. El uso de videos puede agregarle un toque personal a los anuncios de una marca, y también suelen mostrar los productos mejor que las imágenes estáticas. Utilizar anuncios que incluyan videos narrados, con testimonios o reseñas de influencers es una forma estupenda de llevar la conciencia de marca al siguiente nivel.
+
+Tipos de anuncios 
+Hay muchos tipos de anuncios que puedes utilizar en la publicidad digital. A esta altura, puede que ya conozcas algunos de ellos. Utilizar anuncios en redes de display, redes sociales, motores de búsqueda o plataformas de streaming de video (como YouTube) puede aumentar la capacidad de una empresa de llegar a clientes potenciales. 
+
+Plataformas para alojar anuncios
+Existen todo tipo de plataformas para alojar anuncios que están a tu disposición y debes conocer tantas como sea posible para llegar mejor a tu público objetivo. A continuación, te ofrecemos algunos ejemplos de espacios en los que puedes colocar anuncios.
+
+Facebook e Instagram son plataformas de redes sociales en las que puedes alojar anuncios que aparecerán en sus páginas de inicio o en las historias de los/las usuarios/as.
+
+Colocar anuncios en Google Ads permitirá que se puedan ver mientras las personas buscan productos similares.
+
+Los anuncios de YouTube, que aparecen antes, durante y después de los videos, le darán visibilidad a tu marca a través de su plataforma de videos. Estos anuncios aparecerán en el mismo reproductor multimedia que se utiliza para ver los videos de YouTube.
+
+Esta lista no está completa: si deseas encontrar otras plataformas para alojar anuncios, deberás investigar un poco más. Existen muchas otras plataformas para anuncios de comercio electrónico, pero recuerda que algunas de ellas no siempre son las más adecuadas para los videos. Es importante elegir bien dónde colocar tus anuncios de video.
+
+Define tu estrategia
+Antes de crear un anuncio de video, asegúrate de tener tu estrategia definida. Cuando elabores tu estrategia publicitaria, pregúntate: ¿Dónde se colocarán estos anuncios? ¿Cuál es mi público objetivo para estos anuncios? ¿Qué voy a hacer si los anuncios no funcionan bien? ¿Tendrá solo un anuncio o crearemos toda una campaña de anuncios de video?
+
+Entender esta información te ayudará a mantenerte en buen rumbo. Como especialista en marketing digital o profesional de la publicidad digital, recuerda que siempre habrá cierto nivel de prueba y error. Prepárate para cambiar de rumbo o probar cosas nuevas si tus anuncios de video no generan ventas o no crean conciencia de marca de la forma que tú querías.
+
+Consejos para optimizar la publicidad digital
+
+Una vez que definas tu estrategia de publicidad digital y hayas respondido las preguntas anteriores, puedes comenzar a ejecutar tus anuncios de video. 
+
+Al crear anuncios de video, debes tener en cuenta los siguientes aspectos:
+
+Duración. Los anuncios de video deben durar entre 20 y 30 segundos como máximo. Es probable que el público no los vea durante mucho más tiempo. En algunos casos, los anuncios pueden durar incluso solo unos pocos segundos. La duración del video dependerá de tus objetivos y del público al que te dirijas.
+
+Gancho. Los primeros 3 o 5 segundos del video son los que realmente captarán la atención de tu cliente potencial. Asegúrate de crear contenido que ayude a que se enganche de inmediato.
+
+Tamaño y dimensiones. Dependiendo de dónde piensas publicar tus anuncios, el tamaño y las dimensiones de tus videos serán diferentes. Por ejemplo, los anuncios en Instagram deben ser de 9x16 (verticales) o cuadrados, mientras que los anuncios en YouTube deben ser de 16x9 (horizontales). 
+
+Público objetivo. Crea videos que les gusten a tus clientes potenciales y coloca los anuncios donde consideres que es más probable que puedan estar, ya sea en redes sociales, en carteleras publicitarias en la calle, en videos de YouTube, o en cualquier otro lugar.
+
+Herramientas útiles para crear anuncios de video
+
+Muchos datos sugieren que, hoy en día, no hay razón para que los videos tengan un costo de producción alto. Esta es una gran noticia si recién estás comenzando: ¡puedes hacer anuncios de video tú mismo!
+
+Algunas herramientas que te ayudarán son:
+
+Wave.video <https://wave.video/>
+
+Adobe Express <https://www.adobe.com/express/create/video>
+
+Premiere Rush <https://www.adobe.com/products/premiere-rush.html>
+
+Soapbox <https://chrome.google.com/webstore/detail/soapbox-%E2%80%94-video-recorder/lmepjnndgdhcgphilomlfekmgnnmngbi?hl=en> (si usas Google Chrome)
+
+Animoto <https://animoto.com/>
+
+Conclusiones clave
+
+La publicidad digital, o la práctica de promocionar una marca y generar ventas a través del uso de anuncios, es una parte integral del marketing digital actual. Comprender cómo elaborar estrategias, ejecutar y publicar anuncios de video aumentará las posibilidades para que tu marca crezca y generes más ventas. Existen infinitas formas de crear anuncios de video y muchísimas herramientas que te ayudarán en el proceso. 
+
+### Campañas de Google Shopping
+
+#### Publicidad con campañas de Google Ads
+
+Si escuchas música en línea, quizás hayas notado que cuando alguien lanza una nueva canción, su video puede aparecer en la sección “recomendados” en YouTube. O puedes notar un enlace a su sitio web en los anuncios de la Búsqueda de Google. Esto no es ninguna coincidencia. Es una campaña de Google Ads en pleno trabajo. Una campaña es una herramienta que crea e inicia un plan, para promocionar productos o servicios en la amplia red de resultados de búsqueda de Google, sitios web, videos, aplicaciones, mapas, listados de compras y más. Para crearlo, las campañas usan un conjunto de grupos de anuncios, con anuncios, palabras clave y pujas. Estos grupos comparten un presupuesto, objetivos de ubicación, y audiencias específicas. Google Ads ofrece una variedad de tipos de campaña para ayudarte a crear mensajes específicos para tu anuncio en línea, con los que podrás atraer e involucrar a clientes potenciales. Por ejemplo, los/las desarrolladores/as de aplicaciones usan campañas de anuncios para encontrar nuevos/as usuarios/as y aumentar las ventas en la aplicación. La campaña les ayuda a promocionar su aplicación en muchos canales. Al trabajar en comercio electrónico, te encontrarás con cuatro tipos de campañas publicitarias que se adaptan a tus necesidades y llegan al público. Estas son las campañas de shopping, búsqueda, display y video. En este video, veremos cada una de estas campañas de anuncios y cuándo se usan normalmente. Comencemos con las campañas de shopping. Son listados de productos que aparecen en las búsquedas y en la pestaña de Google Shopping. Son ideales si tienes un negocio y quieres vender tus productos. Estos anuncios muestran una foto de tu producto, junto con un título, el precio, el nombre de la tienda y más. También aparecerán en la pestaña Shopping al lado de los productos de tu competencia. Esto resulta útil para comparar la apariencia y el precio de artículos similares. Esto podría beneficiar o perjudicar las ventas de los negocios. Si tu producto es de buena calidad y es accesible, podría venderse más que los que no tienen buen aspecto o son muy caros. El uso de campañas de shopping es fundamental en el proceso de compra y venta en línea. Si tienes un negocio, puedes usarlas para promocionar tu inventario y aumentar el tráfico a tu tienda web. Ayudan con el marketing de tiendas minoristas a través de listados de productos visualmente atractivos para promocionar los productos. También te ayudarán a aumentar tus ventas al hacer que la gente compre en tu tienda en línea, o se registre para saber más. Hablemos de las campañas de búsqueda. Quizás las recuerdes de un curso anterior. Un recordatorio, una campaña de búsqueda son anuncios de texto en los resultados de búsqueda que aparecen al buscar productos y servicios relacionados en Google. Estas campañas te ayudarán a llegar a clientes que saben lo que están buscando y están listos para comprar. Por ejemplo, imagina esto. La gerente de un restaurante llamada Jamie, se olvidó de comprarle flores a su pareja para su aniversario de boda, una tradición que celebraron los últimos 20 años. Durante su complicado día, entra en la Búsqueda de Google y escribe flores. Pero se encontró con casi 7 mil millones de resultados de búsqueda. Jamie está abrumada, y tiene que pasar una gran cantidad de su valioso tiempo filtrando interminables resultados. Las campañas de búsqueda ayudan a identificar soluciones rápidamente. Si una florería de su zona hubiera usado una campaña de búsqueda, ella habría podido identificar la florería que ofrezca un servicio de entrega en el mismo día en la parte superior de la página. Esto le habría facilitado hacer un pedido y poder volver a trabajar. Tanto las campañas de búsqueda como de shopping se hacen con PPC, o modelo de pago por clic. Quizás recuerdes que se trata de una estrategia de marketing en la que una empresa solo paga por su anuncio cuando alguien hace clic en él y visita el sitio web. Luego están las campañas de display. Si seguiste los cursos de este programa en orden, quizás ya hayas visto este tipo de anuncios en una sección previa. Como recordatorio, una campaña de display es una herramienta de Google Ads que permite colocar un anuncio de imagen en varios sitios web. No se limitan a la plataforma de búsqueda de Google. Pueden aparecer en cualquier plataforma de la red de Display de Google. Esta red abarca más de dos millones de sitios web, videos y aplicaciones. Los sitios de esta red alcanzan a más del 90% de los/las usuarios/as mundiales de Internet. Piensa en estas campañas como carteleras digitales. A diferencia de las campañas de shopping, las de display son artísticas, y usan una combinación de arte, diseño gráfico, fotografía y tipografía para promocionar productos. Otro tipo de campaña muy usada en comercio electrónico son las de video. Desde el 2021, YouTube tiene más de 2.3 mil millones de usuarios/as mundiales, según un informe reciente. Con tantas personas transmitiendo videos constantemente, las/los especialistas en comercio electrónico tienen una oportunidad valiosa de llegar a clientes nuevos/as y recurrentes con la publicidad de video. Una campaña de video es una herramienta de Google Ads que permite colocar anuncios de video antes, durante o después de los videos de YouTube y en los resultados de búsqueda. ¿Cuáles son los beneficios de las campañas de video? Así como las campañas de búsqueda ayudan a que te destaques en Google, estas ayudan a las empresas y sus productos a destacarse en YouTube. Como las campañas de display, las de video ayudan a clientes potenciales a encontrar tus productos de comercio electrónico al comienzo de su proceso de compra y ayudan a aumentar la conciencia de tu marca. También puedes recordarles que vuelvan a ver tus productos o servicios. Estos anuncios son breves y deben impresionar a las personas que los miran, por lo que generalmente hay que trabajar mucho en ellos para que sean interesantes. Muchas empresas de comercio electrónico contratan agencias de publicidad o productoras profesionales de video para crear estos anuncios. Quizás debas considerar esto en el futuro, dependiendo del tamaño y las necesidades de las empresas para las que trabajes. Las campañas de búsqueda, de shopping, de display y de video son campañas regulares de Google Ads. Cuando usas cualquiera de estos tipos de campañas, tienes un control total sobre ellas, como sobre los objetivos específicos, las palabras clave, las métricas de conversión, y las decisiones presupuestarias. Si bien para usar las campañas de Google se requiere cierto conocimiento, pueden ser muy beneficiosas al crear una campaña de anuncio. A continuación, aprenderás más sobre cómo ejecutar campañas publicitarias exitosas.
+
+#### Conoce las campañas inteligentes
+
+Si bien las campañas regulares de Google Ads pueden ser útiles, requieren cierto conocimiento y habilidades avanzadas para gestionarlas. Por suerte, existen las campañas inteligentes, que son una herramienta de gestión de campaña automatizada dentro de Google Ads que te ayudará a promocionar tu empresa. Originalmente llamadas Google AdWords Express, las campañas inteligentes se diseñaron para pequeñas empresas y nuevos/as anunciantes. Ofrecen una experiencia de marketing empresarial más simple al combinar las campañas de búsqueda y de display y permiten que Google maneje gran parte de la campaña. Como especialista en comercio electrónico de nivel inicial, existen importantes ventajas de usar campañas inteligentes. Primero, están automatizadas. Cuando creas una campaña inteligente, le das el control a Google de la dirección de tu campaña y cómo invertir tu presupuesto. Esto significa que pasarás menos tiempo monitoreando tu campaña mientras opera. Además, son más fáciles de configurar. Pueden configurarse en menos de 15 minutos, ya que solo requieren unos pocos pasos. En comparación, las campañas regulares requieren más pasos para configurarse. Los aprenderás más adelante cuando creemos una campaña inteligente. Por último, estas campañas ahorran dinero. ¿Recuerdas que todas las campañas de Google se ejecutan mediante un modelo PPC, o modelo de pago por clic? Mientras en las campañas regulares tú determinas las estrategias de presupuesto, las campañas inteligentes usan un análisis detallado y los datos para determinar la mayor tasa de conversión. Es decir, la gente que hace clic en tu anuncio, será más probable que compre tu producto, reduciendo el riesgo de tener que pagar cuando alguien hace clic, pero no compra. Si bien estas campañas son menos complejas que las de Google Ads, existen ciertas limitaciones en su control, que incluyen objetivos de campaña limitados, opciones de palabras clave limitadas, y control del presupuesto limitado. Como en las campañas de Google Ads regulares, existen diferentes tipos de campañas inteligentes. Para el comercio electrónico, las campañas inteligentes de shopping son las mejores para maximizar el potencial de compra. Una campaña inteligente de shopping es una campaña avanzada que usa la tecnología para optimizar y así tener más ventas y llegar a compradores/as de Google en todos sus sitios y redes. Después de unos pocos pasos, Google optimizará tu campaña para mostrar tu inventario a las/los clientes correctos en el momento adecuado y en diferentes redes, incluso en la red de Búsqueda de Google, la red de Display de Google, YouTube y Gmail. Para lograrlo, esta campaña inteligente optimiza las señales en tiempo real como consultas de usuarios/as, horarios y dispositivos para mostrarle tus productos a clientes que tengan más probabilidades de comprar. Un estudio descubrió que este tipo de campaña tiene un valor de conversión un 20% mayor que las campañas regulares. Hay 3 beneficios clave de las campañas inteligentes de shopping: 1) Estas campañas optimizan los anuncios de productos existentes. Combinan el listado de tus productos existentes y tus activos con anuncios en una variedad de redes. Los sistemas de Google los prueban y muestran los de mejor desempeño. 2) Aprovechan la puja automática. Google analiza y predice de forma inteligente el valor de una conversión potencial cada vez que una persona busca productos o servicios que estás anunciando. Luego, ajusta de manera automática tus pujas para estas búsquedas para maximizar tu retorno sobre ellas. 3) Puedes comenzar tu campaña inteligente de shopping desde tu plataforma de comercio electrónico, ya que permite la integración simple mediante una plataforma de terceros, como Shopify o WooCommerce. Ahora, sigue desarrollando tu conocimiento sobre los conceptos y prácticas de comercio electrónico. Prepárate.
+
+#### Prepara una campaña de Google Shopping
+
+Antes de lanzar una campaña de Google Shopping, deberás cumplir con una serie de requisitos. Esta lección repasará algunos de ellos, incluidas la configuración de las cuentas de Google, la revisión de las políticas y la completación de la información del producto.
+
+Configura las cuentas de Google
+Antes de comenzar una campaña de shopping, deberás configurar tus cuentas en Google Merchant Center y Google Ads y vincularlas entre sí. La vinculación de tu propiedad de Google Analytics con tu cuenta de Merchant Center te permitirá acceder a informes o información específica de Merchant Center que ayudará a mejorar el rendimiento de tu campaña.
+
+Si ya lo hiciste, asegúrate de que las dos cuentas están vinculadas correctamente. Si quieres repasar tus conocimientos sobre Google Merchant Center y Google Ads, vuelve a consultar el video sobre este tema.
+
+Revisa las políticas
+Tu contenido para las campañas y anuncios debe cumplir con las políticas de shopping. Estas políticas se dividen en cuatro categorías generales:
+
+Contenido prohibido: Contenido que no puedes promocionar en la red de Google
+
+Prácticas prohibidas: Cosas que no puedes hacer si quieres publicitar con Google
+
+Contenido restringido: Contenido que puedes promocionar, pero con ciertas limitaciones
+
+Requisitos editoriales y técnicos: Estándares de calidad para tus anuncios y tu sitio web
+
+Antes de lanzar tu campaña, es importante que te asegures de no infringir ninguna de las políticas de anuncios de Google Shopping. Si lo haces, es posible que tu campaña finalice de manera involuntaria.
+
+Para obtener una lista completa de todas las políticas de Google, visita el sitio web de políticas de Google Ads.
+
+Completa la información del producto
+Revisa la información de tu producto en los programas de Merchant Center y realiza cambios si es necesario. Enviar los datos de tus productos a Google de forma correcta es esencial para crear anuncios de productos con éxito. Google utiliza estos datos para asegurarse de que coincidan con las consultas correspondientes.
+
+La información del producto incluye:
+
+Datos básicos del producto: Estos datos informan a los/las compradores/as qué es lo que están comprando. La información del producto que envíes, como identificadores, títulos, descripciones, y enlaces, será la base del éxito de una campaña publicitaria de shopping.
+
+Precio y disponibilidad: Estos atributos definen el precio y la disponibilidad de tus productos.
+
+Categoría del producto: Esto ayuda a organizar tus campañas publicitarias en Google Ads y anular la categorización automática de productos de Google en casos específicos.
+
+Identificadores del producto: Estos atributos, como el número global de artículo comercial y el número de pieza del fabricante, se utilizan para definir los productos que vendes en el mercado global.
+
+Descripción detallada del producto: Estos atributos se utilizan para enviar las características del producto que suelen buscar los/las usuarios/as, como el color, la condición y el material.
+
+Información sobre impuestos: Utiliza esto para anular la configuración de impuestos de la cuenta para un producto individual. Puedes enviar información fiscal de todos tus productos en la configuración de la cuenta de Merchant Center.
+
+Para obtener una lista completa de la información de los productos, visita la página de datos específicos del producto en el sitio web de Google Merchant Center.
+
+Conclusiones clave
+Debes completar ciertos requisitos para preparar tu campaña de Google Shopping. Si sigues estas pautas con cuidado estarás en el camino correcto para tener una campaña de shopping exitosa que piensa en sus clientes.
+
+#### Crear una campaña de shopping inteligente
+
+Ya estás listo para aprender a crear una campaña inteligente de shopping. Recuerda, armar una campaña inteligente de shopping toma menos de 15 minutos. Esto es mucho menos tiempo que las campañas regulares. Como ya mencioné, no espero que crees tu propia campaña de shopping durante este programa. Este video te dará la oportunidad de explorar cómo es crear tu primera campaña para el futuro. Comenzaré por registrarme en Ads.google.com Luego, seleccionaré el menú de campañas y agregaré una nueva campaña. Aquí, puedo decidir mis objetivos de campaña. Si quieres crear una campaña regular, que controlarás 100% por tu cuenta, haz clic y elige esa opción aquí. Pero para crear una campaña inteligente de shopping, selecciona las Ventas como el objetivo para la campaña. Luego, shopping. Y, luego, selecciona tu cuenta de Merchant Center. Si no vinculaste tu cuenta de Merchant Center con los datos de producto, hazlo ahora. Por suerte, ya completé ese paso. Para el subtipo de campaña, selecciona Campaña inteligente de shopping luego “Continuar” y otórgale un nombre a la campaña y fija un presupuesto diario promedio. De forma predeterminada, este tipo de campañas establece pujas que maximicen el valor de tus conversiones dentro de tu presupuesto diario promedio. Ahora, elige los productos específicos o grupos de productos que vas a publicitar. Si no los especificas, todo tu inventario será elegible para aparecer en tus anuncios. Esto podría reducir su especificidad y empeorar su rendimiento. Por último, puedes previsualizar el anuncio y seleccionar “Guardar”.
+Reproduce el video desde :1:45 y sigue la transcripción1:45
+Y listo. Acabas de ver cómo crear una campaña inteligente de shopping de Google. Usa el sitio de Google Ads para explorar campañas más avanzadas que también puedan satisfacer las necesidades de tu empresa.
+
+#### Desaprobaciones en Google Ads
+
+![alt text](image-204.png)
+
+### Tendencias y estacionalidad del comercio electrónico
+
+### Revisión: Anuncios y campañas en comercio electrónico
+
+## Capta clientes a través de tu tienda en línea
