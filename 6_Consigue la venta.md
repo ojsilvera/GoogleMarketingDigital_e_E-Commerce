@@ -755,9 +755,97 @@ Esta acción demuestra los valores de marca de protección del medio ambiente y 
 
 #### Caso práctico: Cómo la marca Prados Beauty eleva a la comunidad indígena
 
+![alt text](image-195.png)
+
 ### Repaso: Introducción a “Consigue la venta: construye, lanza y administra tiendas de comercio electrónico”
 
+#### Términos y definiciones del curso 6, semana 1
+
+Beneficio neto: La suma de dinero que queda después de que se pagan los gastos.
+
+Carrito de compras digital: El equivalente virtual de un carrito de compras físico.
+
+Código abierto: Software que permite a los/las usuarios/as acceder y editar el código fuente original.
+
+Comercio electrónico (e-commerce): Compra y venta de bienes o servicios a través de Internet.
+
+Competencia: Otros/as vendedores/as que ya existen en el mercado.
+
+Conversión: Realización de una actividad que contribuye al éxito de un negocio.
+
+Demanda: La cantidad de personas que están dispuestas y son capaces de comprar determinado producto durante cierto periodo de tiempo.
+
+Dominio: La parte central de la URL o dirección de Internet de un sitio web.
+
+Envío directo (dropshipping): Método de entrega en el que los productos se envían desde el proveedor directamente al/a cliente.
+
+Estrategia de comercio electrónico: Plan de trabajo para promocionar una tienda en línea y aumentar sus ventas.
+
+Google Trends: Herramienta gratuita de Google que permite explorar lo que las personas de todo el mundo están buscando en Google.
+
+Investigación de mercados: Proceso de recopilación de información sobre las necesidades y preferencias de los/las consumidores/as.
+
+Investigación primaria: Investigación obtenida de primera mano.
+
+Investigación secundaria: Investigación realizada por terceros.
+
+Llamada a la acción (call to action o CTA): Estímulo que busca inducir a las/los clientes a hacer algo a continuación.
+
+Margen de beneficio neto: Porcentaje de ingresos sobrantes después de pagar los gastos.
+
+Marketing de marca (branding): Promover un producto o servicio identificándolo con una marca en particular.
+
+Página de destino: La primera página que una persona encuentra cuando accede a un sitio web.
+
+Plataforma de comercio electrónico: Aplicación de software que permite a los negocios vender productos o servicios en línea.
+
+Pronóstico: Proceso de predecir la demanda futura de productos.
+
+Proveedor de servicios de pago: Forma segura de procesar transacciones en línea.
+
+Público objetivo: Grupo de personas con más probabilidades de comprar los productos o servicios de una empresa.
+
+Punto de dolor (pain point): Los problemas que las/los clientes quieren resolver.
+
+Sistema de administración de relaciones con clientes (Customer relationship management, CRM): Software que ayuda a una empresa a administrar y monitorear las interacciones con sus clientes y potenciales clientes.
+
+Sitio web responsivo: Sitio web que está diseñado para funcionar en todo tipo de dispositivos, incluyendo computadoras, teléfonos móviles y tabletas.
+
+Software como Servicio (SaaS): Software basado en la web disponible por suscripción.
+
+Suministro de productos: Cómo una empresa adquiere los productos que le vende a sus clientes.			
+
+Tamaño del mercado: Cantidad de clientes potenciales dentro de una industria específica.
+
+Tienda de comercio electrónico: Tienda que vende sus productos en línea.
+
+Tienda en línea (click-and-mortar): Un tipo de tienda minorista que vende en línea y en una tienda física.
+
+Tienda física (brick-and-mortar): Tienda minorista tradicional con una ubicación específica a la que las personas pueden ir a comprar.	
+
+Tráfico: Número de visitas que recibe un sitio web.
+
+Viabilidad del producto: Potencial de ventas de un producto específico.
+
 ## Aprende sobre las tiendas en línea
+
+### Tiendas de comercio electrónico y cómo funcionan
+
+#### Te damos la bienvenida a la semana 2 curso 6
+
+#### Descripción general de las tiendas de comercio electrónico
+
+#### Cómo funciona una tienda de comercio electrónico
+
+#### Plataformas de comercio electrónico
+
+#### Plataformas y dominios de comercio electrónico
+
+### Entiende cómo funciona Shopify
+
+### Usa Shopify para tu negocio de comercio electrónico
+
+### Repaso: Aprende sobre las tiendas en línea
 
 ## Anuncios y campañas en comercio electrónico
 
