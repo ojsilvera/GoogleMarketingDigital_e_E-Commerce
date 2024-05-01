@@ -1333,4 +1333,412 @@ Junto a cada puja se ha introducido “disminuir”, “aumentar” o “sin cam
 
 ### Revisión: Anuncios y campañas en comercio electrónico
 
+#### Términos y definiciones del curso 6, semana 3
+
+Campaña de búsqueda: Anuncios de texto que aparecen en los resultados cuando las personas buscan en Google productos y servicios relacionados.
+
+Campaña de display: Herramienta de Google Ads que permite a las empresas colocar anuncios de imágenes en varios sitios web.
+
+Campaña de shopping: Listados de productos que aparecen en los resultados de búsqueda y en la pestaña Google Shopping.
+
+Campaña de video: Herramienta de Google Ads que permite a las empresas colocar anuncios de video antes, durante o después de los videos de YouTube y en los resultados de búsqueda.
+
+Campaña inteligente de shopping: Campaña de shopping avanzada que utiliza tecnología para optimizar más ventas y llegar a las/los compradores/as de Google en los sitios y redes de Google.
+
+Campaña inteligente: Una herramienta automatizada de gestión de campañas dentro de Google Ads que ayuda a promover un negocio.
+
+Campaña: Plan de acción sobre cómo se distribuirá en línea un conjunto de uno o más grupos de anuncios que comparten un presupuesto, segmentación por ubicación geográfica y otros ajustes.
+
+Contenido prohibido: Contenido que las marcas no pueden promocionar en la red de Google. 
+
+Contenido restringido: Contenido que puede anunciarse, pero con ciertas limitaciones.
+
+Costo por adquisición (Cost per acquisition, CPA): Costo promedio de adquirir un/a cliente potencial.
+
+Costo por mil impresiones (Cost per thousand impressions, CPM): Lo que paga un anunciante por cada mil impresiones que recibe un anuncio.
+
+Estacionalidad: Fluctuación regular y predecible del tráfico de comercio electrónico en torno a festividades, eventos y condiciones meteorológicas especiales sobre una base trimestral o anual.
+
+Google Ads: Plataforma de publicidad en línea donde las/los anunciantes pujan por mostrar anuncios breves, ofertas de servicios, listados de productos o videos a las/los usuarios/as de la web. 
+
+Google Trends: Una herramienta gratuita de Google que permite explorar lo que las personas de todo el mundo están buscando en Google.
+
+Ingresos por clic: Los ingresos promedio por cada clic individual en todas las palabras clave y anuncios de pago por clic de una empresa.
+
+Ley de rendimientos decrecientes: Principio económico que establece que si aumenta la inversión en un área en particular, la tasa de ganancia de esa inversión disminuirá eventualmente si otras variables permanecen constantes.
+
+Planificador de rendimiento: Herramienta de Google que permite a un/a anunciante pronosticar el impacto de diferentes escenarios de gasto y eventos durante las próximas temporadas.
+
+Prácticas prohibidas: Lo que las marcas no pueden hacer si quieren anunciarse en Google. 
+
+Publicidad en línea: Una forma de marketing que utilizan los anunciantes para enviar mensajes promocionales en línea a sus consumidores/as.
+
+Puja inteligente: Estrategia de puja automatizada que utiliza el aprendizaje automático para optimizar las conversiones o el valor de conversión en todas y cada una de las subastas.
+
+Punto de rendimientos decrecientes: Punto en el que los ingresos por publicidad son más elevados.
+
+Red de Display de Google: Un grupo de sitios web, videos y apps donde pueden aparecer anuncios.
+
+Requisitos editoriales y técnicos: Los estándares de calidad para anuncios, sitios web y apps.
+
+Retorno de la inversión publicitaria (ROAS): Cantidad de ingresos que se obtienen en relación a cuánto se gastó en publicidad.
+
+Segmentación geográfica: Agrupación de clientes con respecto a su ubicación física.
+
+Temporada alta: Período en el que es mucho más probable que las/los clientes compren productos debido a variables climáticas o eventos especiales.
+
+Temporada baja: Período en el que las/los clientes tienden a tomarse más tiempo para realizar compras, especialmente si se trata de artículos más costosos.
+
 ## Capta clientes a través de tu tienda en línea
+
+### Cómo diseñar una tienda de comercio electrónico exitosa
+
+#### Te damos la bienvenida a la semana 4 curso 6
+
+Imagina que creaste una tienda de comercio electrónico y atrajiste clientes. Ahora, ¿cómo creas una relación en línea con ellos/as y les brindas una experiencia que haga que quieran volver? Esto es sobre lo que hablaremos. Hasta ahora, aprendiste mucho sobre las tiendas de comercio electrónico y cómo funcionan. También aprendise sobre las plataformas de comercio electrónico. A través del trabajo que has hecho, deberías empezar a entender algunas tareas diarias que podrían ser tu responsabilidad en un rol de comercio electrónico. A continuación, aprenderás a involucrar a las/los clientes que visitan tu tienda, aprenderás a crear una experiencia personalizada que cumpla con las necesidades de cada cliente. También aprenderás a aumentar la interacción del cliente a través de reseñas y permitiéndole que haga preguntas y envíe comentarios sobre su experiencia de compra. Después, aprenderás cómo optimizar el proceso de pago para facilitar que tus clientes puedan completar su compra. Por último, aprenderás sobre el proceso de hacerles llegar los productos a tus clientes, que es el proceso de envío y cumplimiento de pedidos. ¿Listo para aprender más sobre el comercio electrónico? Empecemos.
+
+#### Crea una experiencia en línea atractiva para tus clientes
+
+Hasta ahora aprendiste a definir tu público objetivo, y crear una marca fuerte. También aprendiste por qué es importante entender quiénes son tus clientes y qué es lo que quieren. Ahora hablaremos sobre la interacción del cliente, que describe las acciones y la conexión emocional entre un/a cliente y una marca. La interacción del cliente sucede de muchas formas en varios canales durante el recorrido del cliente. Aquí aprenderás por qué la interacción del cliente es importante. También aprenderás algunas formas en las que una tienda comercio electrónico puede interactuar con sus clientes en línea. Según HubSpot, el 93% de los/las consumidores/as tienen mayor probabilidad de volverse clientes regulares en empresas que brindan un excelente servicio al cliente. Además de eso, el 77% de los/las consumidores/as comparten sus experiencias positivas con sus amigos y amigas en redes sociales o en sitios de reseñas. Las/los clientes felices son los mejores amigos de una empresa. Las/los clientes satisfechos tienen una fuerte conexión emocional con una marca, y ayudan a dar a conocer la marca con otras personas. Se llaman "evangelistas de marcas", son clientes tan apasionados por un producto o servicio que lo promueven a otras personas con entusiasmo. Por ejemplo, podrían presumir sobre su experiencia con amigos y familiares, o publicarlo en redes sociales. ¿Cómo interactúas con tus clientes y fortaleces su conexión con una marca? Una de las maneras más importantes es personalizando su experiencia. En comercio electrónico, la personalización consiste en crear una experiencia personalizada para cada cliente. Puedes pensarlo como entregar el mismo tipo de atención personalizada que un/a cliente podría recibir en una tienda física. Pero las interacciones suceden en línea. Por ejemplo, si un cliente visita una tienda local que vende trajes personalizados, podría esperar que un empleado lo ayude a elegir el traje que mejor cumpla con sus necesidades y le tome sus medidas. En una tienda de comercio electrónico, esta experiencia podría replicarse al proporcionarles a tus clientes un cuestionario que los/las ayude a encontrar un traje que cumpla con sus necesidades. Luego, la tienda podría ofrecer un video que guíe al/a cliente a través del proceso de tomar con sus propias medidas con precisión. Las tiendas de comercio electrónico también pueden ofrecer recomendaciones personalizadas para clientes a través de datos. Por ejemplo, cuando un/a nuevo/a cliente visita la página de una tienda de comercio electrónico, podría recibir recomendaciones basadas en los productos más vendidos o mejor valorados. Un/a cliente que se registra en su cuenta podría recibir recomendaciones personalizadas basadas en su historial de navegación o compras recientes. Tanto clientes nuevos/as como regulares podrían recibir recomendaciones personalizadas relacionadas con los productos que buscan o agregan a su carrito de compras. Podrían incluir productos similares a considerar, productos comprados por otros/as clientes, o accesorios relacionados con un producto. Estas recomendaciones deben mostrarse en ubicaciones relevantes del sitio, incluso en las páginas de productos, y el carrito de compras. Las/los clientes podrían buscar estos productos por su cuenta, pero ofrecer sugerencias personalizadas hará que les sea más fácil encontrar lo que quieren. También les brinda una experiencia que parece estar adaptada a sus necesidades. Además de recomendaciones personalizadas, otra forma de interactuar con tus clientes es a través de un programa de recompensas, una estrategia de marketing diseñada para crear fidelidad mediante incentivos para que las/los clientes sigan comprando con la marca. Un programa de recompensas ofrece oportunidades para la personalización, como un código de descuento por registrarse, un regalo de cumpleaños gratis, o permitir que el/la cliente elija su recompensa entre una lista de opciones. Un programa de recompensas puede ayudar a una empresa a atraer más clientes al ofrecerles una recompensa por cada referencia. Como aprendiste, aumentar la interacción del cliente ayudará a una empresa a construir relaciones duraderas con ellos/ellas. La personalización es una de las formas en las que las empresas pueden aumentar la interacción, que conduce a una empresa de comercio electrónico más exitosa. Buen trabajo. Estás en buen camino para comprender cómo llegar a tus clientes y hacer que sigan interactuando con tu marca. Nos vemos en el siguiente video.
+
+#### Diseño responsivo y diseño enfocado en dispositivos móviles (mobile-first) para tiendas de comercio electrónico
+
+Estuviste aprendiendo sobre la interacción del cliente y la conexión emocional entre un/a cliente y una marca, y acerca de cómo una tienda de comercio electrónico puede interactuar con sus clientes en línea. Una forma de crear una experiencia atractiva para las/los clientes es a través de un sitio web que logre que buscar, navegar y comprar sea un proceso sencillo y agradable.
+
+En esta lectura, analizaremos dos enfoques diferentes de diseño de sitios web: el diseño responsivo y el diseño enfocado en dispositivos móviles (mobile-first). Conocerás estos dos enfoques de diseño, como también sus ventajas y desventajas. También descubrirás cuál es el que se podría adaptar mejor a tu tienda de comercio electrónico. 
+
+¿Qué es el diseño responsivo? 
+El diseño responsivo es un enfoque de diseño web que permite a los sitios web adaptarse automáticamente a los cambios en el tamaño de las pantallas de los distintos dispositivos. Todas las imágenes, las fuentes y demás elementos HTML deben modificar su escala correctamente, sin importar el tamaño de la pantalla que la persona esté usando. 
+
+¿Qué es el diseño enfocado en dispositivos móviles (mobile-first)?
+El diseño enfocado en dispositivos móviles es un enfoque de diseño web que tiene como objetivo crear mejores experiencias para los/las usuarios/as mediante un diseño específico para dispositivos móviles. Un sitio web con diseño enfocado en dispositivos móviles es una versión reducida del sitio web principal que está diseñada para que se vea bien en el tamaño de pantalla más pequeño que suelen tener la mayoría de los teléfonos inteligentes. 
+
+Comparación entre diseño responsivo y diseño enfocado en dispositivos móviles
+Para saber qué tipo de diseño es mejor para tu tienda de comercio electrónico, es importante que conozcas en qué se diferencian y cuáles son las ventajas y desventajas de cada uno.
+
+Ventajas del diseño responsivo
+
+Es ideal para sitios web con mucho contenido. El diseño responsivo es útil para sitios web con una gran cantidad de datos, como plataformas de compras que ofrecen una amplia variedad de productos. Este enfoque de diseño asume que la mayoría de sus usuarios/as visitarán el sitio desde una pantalla de tamaño completo (como una computadora de escritorio o portátil), lo que les facilitará realizar las tareas, como completar formularios largos o hacer clic en llamadas a la acción complejas.
+
+Su desarrollo y mantenimiento es rentable. Un diseño responsivo requiere un diseño único y flexible e implica invertir menos tiempo y dinero en las etapas de desarrollo y diseño, a diferencia de los enfocados en dispositivos móviles.
+
+Permite tener un único sitio para todos los dispositivos. Los sitios web con un diseño responsivo se adaptan y se pueden ver correctamente desde cualquier dispositivo. 
+
+Tiene una URL para todos los dispositivos. Todos los datos de los sitios web responsivos están alojados en un solo servidor y solo cuentan con una URL. Así, sus usuarios/as podrán encontrar el sitio con mayor facilidad y no tendrán que descargarse otras aplicaciones.
+
+No es necesario usar el redireccionamiento. Diseñar para varios dispositivos requiere el uso de redireccionamiento para poder dirigir al/a usuario/a a la versión apropiada de la página web. Al no tener que usar el redireccionamiento, el/la usuario/a accederá al contenido que está buscando lo más rápido posible.
+
+Desventajas del diseño responsivo
+
+La pérdida de características. Al ver un sitio web con un diseño responsivo desde un dispositivo de pantalla más pequeña (como un teléfono o una tableta electrónica), algunas características, elementos gráficos y funciones se pueden perder a medida que se reduce el tamaño.
+
+Puede ser de carga lenta. Como el desarrollo del diseño responsivo pasa de pantallas grandes a pequeñas, se utilizan gráficos de alta resolución. Esto hace que el sitio sea muy pesado y pueda tardar más tiempo en cargarse en los dispositivos móviles. 
+
+Ventajas del diseño enfocado en dispositivos móviles
+
+Está alineado con las tendencias actuales de compras y navegación por Internet. Statistica indica que, para 2025, se espera que más del 10% de las ventas de tiendas minoristas en los Estados Unidos se generen a través del comercio móvil. Además, más de la mitad del tráfico web en todo el mundo se realiza actualmente desde teléfonos móviles. 
+
+Tiene una mejor experiencia de usuario. Ofrece una mejor experiencia general para los/las usuarios/as porque tiene en cuenta varios factores, como una interfaz de usuario similar a la de una aplicación, menos cantidad de texto, un tamaño de fuente más grande y una velocidad de descarga más rápida.
+
+Tiene mejor accesibilidad. Mejora la legibilidad de los sitios web en pantallas más pequeñas y las hace más accesibles para personas con discapacidades visuales.
+
+Cuenta con un contenido optimizado y bien organizado. Te incita a que solo incluyas el contenido relevante de tu sitio. Al evitar detalles innecesarios, simplificarás el recorrido del cliente y lo/la ayudarás a lograr su propósito. 
+
+Suele tener menos errores. Requiere un código más simple que el diseño responsivo, lo que puede ayudar a reducir la cantidad de errores.
+
+Desventajas del diseño enfocado en dispositivos móviles
+
+El costo. Deberás desarrollar distintas versiones del sitio web para diferentes sistemas operativos, lo que puede llevar más tiempo e implicar costos más elevados para su desarrollo. El costo de diseño también es más alto que el de un sitio web responsivo.
+
+El contenido es diferente. Si bien los sitios web enfocados en dispositivos móviles cuentan con un contenido limitado, las versiones responsivas pueden ser más amplias y diversas. A veces, esto puede confundir a sus usuarios/as y crear una experiencia negativa.
+
+Cuál es el mejor diseño para tu tienda de comercio electrónico 
+Para saber cuál de estos enfoques de diseño web es el mejor para tu negocio de comercio electrónico, empieza por recopilar información sobre tus usuarios/as, definir a tu cliente ideal y establecer el propósito del sitio web. Determina cuál es tu audiencia, de qué manera las/los clientes acceden a tu sitio y qué acciones quieres que realicen. Luego, sigue la regla 80–20. Si el 80% de tus usuarios/as usan mayormente computadoras de escritorio o portátiles, entonces el diseño responsivo probablemente será la mejor opción. En cambio, si el 80% de tu audiencia usa principalmente dispositivos móviles para comprar, entonces un enfoque de diseño enfocado en dispositivos móviles podría ser el adecuado. 
+
+Google Analytics te brindará información acerca de cómo las personas acceden a tu sitio. También puedes recopilar información si investigas las estadísticas de tu mercado, estudias los hábitos de tu audiencia mediante pruebas de usuario y haces encuestas a tus clientes. 
+
+Conclusiones claves
+Los diseños responsivos y enfocados en dispositivos móviles tienen algunas diferencias clave, y ambos cuentan con ventajas y desventajas. Cuando conozcas un poco más tu audiencia y definas el objetivo de tu sitio web, podrás determinar qué enfoque de diseño será el más adecuado para tu negocio de comercio electrónico
+
+#### Consejos para aumentar la interacción del cliente
+
+![alt text](image-207.png)
+
+#### Caso de éxito: Cómo T|W Tote diseñó su sitio web para atraer a clientes
+
+![alt text](image-208.png)
+
+### Cómo crear un recorrido de compra exitoso para tu tienda de comercio electrónico
+
+#### Introducción a la etapa de pago
+
+¿Sabías que casi el 70% de las/los clientes abandonan sus carritos en línea sin completar la compra? Esas son un montón de ventas perdidas. Si experimentan problemas durante el proceso de pago o no confían en que su información personal estará segura, es más probable que abandonen el carrito y dejen del sitio. Incluso podrían optar por comprarle a tu competencia. Es por eso que es importante optimizar el proceso de pago. Un proceso de pago seguro y sin problemas mejorará la experiencia de tus clientes y ayudará a aumentar la cantidad de conversiones. Ya conociste el camino que un/a cliente toma mientras recorre una tienda de comercio electrónico y hace una compra. En este video aprenderás más sobre el paso final de este camino, que es el proceso de pago. Es una parte importante del recorrido de compra porque es el punto en el que tu cliente completa su compra o abandona el sitio. El proceso de pago debe ser rápido, fácil de entender y seguro. También debe funcionar en dispositivos móviles para clientes que compran desde sus teléfonos o tabletas electrónicas. El proceso de pago incluye varios pasos que un/a cliente debe seguir para completar su compra. El funcionamiento del proceso de pago varía según cada tienda de comercio electrónico, pero todas contienen algunos de los mismos pasos básicos. Vamos a repasarlos. El primer paso es iniciar el proceso de pago. Un/a cliente puede iniciar el pago en cualquier momento después de agregar un artículo a su carrito. Dentro del carrito de compras, puede hacer clic en la llamada a la acción para ingresar al proceso de pago. Si ya tiene una cuenta creada, puede iniciar sesión y pasar por el proceso de pago más rápidamente, ya que su nombre, dirección, correo electrónico y otra información guardada en su cuenta se completará automáticamente. Otra opción es iniciar sesión con una cuenta de alguna red social, como Google, Apple o Facebook. Si el/la cliente no tiene una cuenta, puede entrar como invitado/a o crear una cuenta nueva. Después de que inicie sesión o elija pagar como invitado/a, el siguiente paso es ingresar la información de contacto para el envío y la facturación. Esto incluye nombre del/a cliente, dirección, teléfono y correo electrónico. Si las direcciones de envío y facturación son diferentes, el/la cliente también deberá ingresar la dirección donde quiere recibir su pedido. Luego tendrá que elegir la opción que quiere para el envío y la entrega si es que cuenta con varias opciones disponibles. Retirar en la tienda podría ser otra opción. Luego, elegirá un método de pago y completará la información de pago. Las tiendas de comercio electrónico usan un sistema de punto de venta o sistema POS para capturar la información de pago digital. Este sistema consiste en un software que le permite a una empresa procesar las operaciones de pago de sus clientes en línea. Por lo general viene integrado en la plataforma de comercio electrónico, como el sistema POS disponible en Shopify. Algunos sistemas POS pueden procesar operaciones digitales y en persona, lo que les permite a las tiendas en línea y físicas usar el mismo sistema POS para todas sus ventas. También puede haber un campo para códigos promocionales, una opción para registrarse y recibir actualizaciones por correo, entre otras. Una vez que un/a cliente ingresó toda la información requerida, podrá revisar su pedido, y asegurarse de que todo esté en orden. Deberían poder ver el costo total y un desglose de cada costo, que incluya el subtotal, impuestos, envío y gestión, y cualquier otra tarifa adicional. El último paso es cuando se hace clic en el botón de llamado a la acción para confirmar el pedido. La página debe mostrar un mensaje de confirmación del pedido. Ahora el proceso de pago está completo. Como acabas de aprender, el proceso de pago cuenta con varios pasos. Y un/a cliente podría abandonar este proceso en cualquier momento. Es por eso que es importante que el proceso de pago sea lo más fácil, simple y seguro posible. A continuación, aprenderás más sobre cómo hacer que tus clientes avancen en el proceso de pago y lo que podría evitar que completen su compra. Nos vemos allí.
+
+#### Motivos comunes del abandono de carritos
+
+Ahora que sabes cómo funciona el proceso de pago, veamos algunas razones por las que tantos clientes abandonan los carritos de compras en línea. ¿Qué es lo que impide que completen su compra? Existen muchas razones por las que las/los clientes abandonan su carrito en el proceso de pago. Muchas veces es porque solo están navegando por el sitio o no están listos para hacer la compra. Sin considerar a estos/as clientes, el motivo principal de abandono del carrito es porque los costos adicionales de envío, impuestos y tarifas de servicio son demasiado altos. Casi la mitad de las/los clientes abandonan sus carritos por esta razón. Es más probable que compren si el envío es gratuito y no se encuentran con cargos inesperados. También pueden abandonarlo porque no se les muestra el costo total del pedido antes de empezar el proceso de pago. Cuando conocen el costo total, quizás piensan que la oferta no es tan buena y cambian de opinión. El siguiente motivo más importante es porque deben crearse una cuenta. Es un paso más que las/los clientes quizás no quieran tomar. Quizás no tienen ganas de recibir correos de marketing, o puede ser que no quieran que su información quede guardada en el sitio. Registrarse en un sitio toma tiempo y esfuerzo extra que algunas personas prefieren evitar. Otro motivo importante es porque el proceso de pago es demasiado complicado o largo. Una vez que un/a cliente decide comprar, el proceso de compra debe ser rápido y fácil. También el proceso de pago debe ser fácil de navegar en un dispositivo móvil, ya que cada vez más clientes compran desde sus teléfonos, una tendencia en crecimiento. Si las/los clientes no confían en darles los datos de su tarjeta de crédito a la tienda, pueden no querer comprar. Además de por motivos de seguridad, también pueden irse porque el método de pago que quieren usar no está disponible. Los plazos de entrega lentos son otro motivo que hace que las/los clientes abandonen el proceso de pago, incluso si el envío es gratuito. Quizás necesiten o quieran tener el producto antes de la fecha de entrega indicada. También pueden experimentar problemas durante el proceso de pago, como un código promocional que no funciona, un mensaje de error que aparece, o el bloqueo del sitio. Los errores del sitio generan dudas y falta de confianza en las mentes de las/los clientes. Por último, tus clientes pueden elegir no completar su compra porque no están satisfechos/as con tu política de devolución. Durante el proceso de pago, las/los clientes toman la decisión final de si comprar o no. Si la marca no les brinda una sensación de confianza en sus productos mediante una política de devolución generosa, sus clientes podrían decidir que es mejor no comprar, o que es mejor comprar en otro lugar. Todas las razones que cubrimos sobre el abandono del carrito dejan en claro que optimizar el proceso de pago es una parte importante en la creación de una mejor experiencia del cliente y el aumento del éxito de una tienda de comercio electrónico. Entonces, ¿de qué maneras puedes optimizar el proceso de pago? Lo aprenderás a continuación. Eso es todo por ahora. Sigue trabajando así.
+
+#### Consejos para reducir el abandono de carritos
+
+![alt text](image-209.png)
+
+#### Actividad de ejemplo: Evalúa el proceso de pago de una tienda de comercio electrónico
+
+Compara el ejemplo con tu evaluación del proceso de pago finalizada. Revisa tu trabajo utilizando cada uno de los criterios del ejemplo. ¿Qué cosas hiciste bien? ¿En qué aspectos podrías mejorar? Usa las respuestas a estas preguntas a modo de guía a medida que avanzas en el curso. 
+
+Nota: El ejemplo identifica algunos de los posibles problemas y sugerencias del proceso de pago. Sin embargo, es probable que tus respuestas sean algo diferentes. Lo importante es que hayas podido identificar problemas comunes y sugerir cómo resolverlos.
+
+Revisemos cada problema del proceso de pago:
+
+Problema del proceso de pago 1: Iniciar sesión
+
+Identifica el problema: El proceso de pago actual no permite que las/los clientes paguen como invitados/as, que es una de las principales razones por las que las personas abandonan los carritos.
+
+¿Cómo lo solucionarías?: La mejor manera de resolver este problema es permitiendo el pago como invitado. Permitir que las/los clientes inicien sesión con la cuenta de alguna red social es otra opción que podría facilitar el proceso de inicio de sesión.
+
+Problema del proceso de pago 2: Información personal
+
+Identifica el problema: El proceso de pago actual es demasiado largo, que es una de las principales razones por las que las/los clientes abandonan los carritos.
+
+¿Cómo lo solucionarías?: Incluyendo solo los campos necesarios para agilizar y simplificar el proceso de pago. En este caso, eliminar los campos adicionales, como el número de teléfono y la fecha de nacimiento, aceleraría el proceso de pago.
+
+Problema de proceso de pago 3: Envío
+
+Identifica el problema: En el proceso de pago actual, las/los clientes deben abonar el envío, que es una de las principales razones por las que abandonan los carritos.
+
+¿Cómo lo solucionarías?: Ofrecer opciones de envío gratuito reducirá la posibilidad de que las/los clientes abandonen el sitio y le compren a la competencia.
+
+Problema de proceso de pago 4: Pago
+
+Identifica el problema: El proceso de pago actual solo le permite a las/los clientes pagar con tarjeta de crédito, que es una de las principales razones por las que abandonan los carritos.
+
+¿Cómo lo solucionarías?: Agregar más opciones de pago y garantizar que el sitio web de la tienda sea seguro podría aumentar las posibilidades de que las/los clientes completen sus compras.
+
+#### Taylor: Optimiza el sitio web para mejorar las ventas
+
+Me llamo Taylor y soy Gerente de Cambios en Google. Tuve algunos cargos diferentes durante mi tiempo en Google y un gran impulsor para mí al tener que cambiar y pasar por varios roles es el hecho de que mi esposo sirve activamente en la Fuerza Aérea. Como esposa de un militar, tuve la oportunidad y el desafío de mudarme un par de veces y también tener que encontrar nuevos roles cuando lo hice, y realmente estoy agradecida de haber empezado en marketing digital porque mi tiempo en ese rol y en ese espacio me enseñó habilidades invaluables y transferibles, como la comunicación, la resolución de problemas, poder pensar como una usuaria y ponerme en los zapatos de alguien más, que he podido utilizar durante todo el resto de mi carrera. Optimizar un sitio web realmente ayuda a las tiendas de comercio electrónico a mejorar sus ventas porque todo está en línea hoy en día. Tener el mundo al alcance de tus manos significa que eso es a lo que tus clientes están acostumbrados. Si tus clientes no pueden acceder a tu sitio web con facilidad, entonces perderás ventas porque todos/todas están buscando comprar cosas lo más rápido posible. Algo específico que le recomiendo a las personas cuando tratan de optimizar su sitio web es asegurarse de que el lenguaje en este sitio sea realmente claro sobre lo que quieres que tus clientes hagan. Haz una llamada a la acción que diga "compra ahora", "pulsa aquí", "comienza", algo que conducirá a una conversión. Otro ejemplo que doy es mantenerse en contacto con sus usuarios/as y asegurarse de que, si están agregando un artículo al carrito para decidir si comprarlo, no lo abandonen, sino que puedan completar el proceso de pago y hacer una compra realmente efectiva. Debo decir que muchos sitios me ganaron de esa manera, con un pequeño, “Ey, ¿te olvidaste de algo?” Otro ejemplo es minimizar los pasos entre tu cliente y su compra. Cuando hay un artículo que alguien puede querer o un servicio que tal vez quiera echarle un vistazo, en vez de tener que agregarlo al carrito como la única opción, “compra ahora” es algo atractivo que le permite a alguien dejarlo en su carrito y comenzar el proceso de pago. Ni siquiera están haciendo una tarjeta en realidad, es “compra ahora” y luego ya lo tienen básicamente. Cuantos menos pasos haya entre tus clientes y lo que quieren, es más probable que se conviertan, pero una de las cosas más importante que siempre le digo a la gente si están considerando optimizar un sitio web es que salgan de su propia mente. No se trata de ti, ni de lo que piensas o lo que quieres, se trata de tu cliente y lo que quiere, lo que necesita. ¿Cómo te enfocas en tu cliente y realmente consideras lo que hace que su experiencia en tu sitio sea viable, agradable, y algo a lo que querrán regresar? Porque así es como realmente no solo conviertes una venta, sino cómo haces que envíe tu sitio a otra persona que también pueda tener una venta para ti.
+
+#### Haz que los productos le lleguen a tus clientes
+
+Ahora que sabes cómo funciona el proceso de pago, veamos lo que sucede después que un/a cliente completa su compra. Después de que una tienda de comercio electrónico recibe un pedido en su sitio, deben enviarle el producto a su cliente. Básicamente, la tienda de comercio electrónico debe cumplir con el pedido. El cumplimiento del pedido describe todos los pasos desde recibir una orden hasta entregarle el pedido a un/a cliente. Incluye procesar el pedido, recolectar los productos del almacén o los estantes de la tienda, embalar todo, y enviarle el paquete al/a cliente. Las empresas tienen tres opciones para gestionar el cumplimiento del pedido. La primera es gestionar todo por sí misma. Es decir, que la empresa tendría que almacenar su propio inventario, empaquetar y etiquetar los pedidos, y enviárselos a sus clientes. También debe ocuparse de las devoluciones o los cambios. Gestionar el cumplimiento internamente le da un mayor control a la empresa sobre la calidad del trabajo. También pueden usar un embalaje personalizado que transmita la imagen de la marca. Sin embargo, requiere una gran cantidad de tiempo y esfuerzo. También requiere suficiente espacio para almacenar productos y personal para cumplir con todos los pedidos. La segunda opción es usar el envío directo (dropshipping), lo que aprendiste en la lección sobre el abastecimiento de productos. En el envío directo, los productos son enviados directamente a las/los clientes. La empresa de distribución posee, gestiona y almacena todo el inventario. También se encarga de todo el proceso de cumplimiento desde retirar y embalar los pedidos hasta enviarlos. También podrían procesar las devoluciones. El envío directo es una forma fácil y conveniente para que las empresas puedan externalizar una gran cantidad de trabajo. Además, les permite lanzar más rápidamente una tienda de comercio electrónico y evitar el riesgo que conlleva comprar y almacenar inventario que podría no venderse. La tercera opción es usar un servicio de cumplimiento de pedidos, una empresa externa que prepara y envía pedidos desde centros de cumplimiento. Es similar al envío directo, en el que el centro de cumplimiento se encarga de todo el proceso de cumplimiento. La diferencia con el envío directo es que, en este caso, la tienda de comercio electrónico es la que posee el inventario. Deben enviarle todo el inventario al centro de cumplimiento, donde se almacenará y enviará a sus clientes. Una de las ventajas del servicio de cumplimiento es que libera al negocio para que pueda enfocarse en vender productos e interactuar con clientes, en vez de embalar y enviar productos. Estos centros también pueden gestionar las devoluciones para la empresa. Otra ventaja es que estos centros suelen tener varias ubicaciones, por lo que los pedidos saldrán del centro más cercano a la dirección de cada cliente, y podrán recibir su pedido más rápido. Esto suma muchos puntos en la experiencia de tus clientes. Sin importar lo que una empresa elija para su proceso de cumplimiento. Es importante recordar que el rápido crecimiento del comercio electrónico está cambiando la forma en que los productos les llegan a las/los clientes. Estos negocios deben ser flexibles para reaccionar ante los cambios en la cadena de suministro. Es el flujo de mercadería desde la etapa inicial de abastecimiento de la materia prima hasta que el producto es entregado a las/los clientes. Si se interrumpe cualquier parte de la cadena de suministro, como la falta de chips de computadoras que afecta la producción de nuevas laptops, un negocio de comercio electrónico debe encontrar formas de adaptarse y cumplir con las necesidades de sus clientes lo mejor posible.
+Reproduce el video desde :3:28 y sigue la transcripción3:28
+Para repasar, aprendiste tres formas en que una tienda de comercio electrónico les envía los productos a sus clientes: cumplimiento interno, envío directo o usando un servicio de cumplimiento. Es útil entender el proceso de envío y cumplimiento de pedidos para comprender mejor el funcionamiento de una tienda de comercio electrónico. A continuación, aprenderás más sobre cómo interactuar con tus clientes. Nos vemos pronto.
+
+### Repaso: Capta clientes a través de tu tienda en línea
+
+### Términos y definiciones del Curso 6, Semana 4
+
+Abandono del carrito: Cuando un usuario/a agrega un artículo a su carro de compras en línea, pero no completa la transacción.
+
+Cadena de suministro: Flujo de bienes desde la etapa inicial de abastecimiento de materias primas hasta el producto terminado que se entrega al cliente.
+
+Certificado de seguridad en la capa de transporte (TLS): Consultar certificado Secure Sockets Layer (SSL).
+
+Certificado Secure Sockets Layer (SSL): Certificado digital que autentica la identidad de un sitio web y permite una conexión cifrada.
+
+Correo electrónico del carrito abandonado: Correo electrónico de seguimiento enviado a aquellas personas que agregaron un artículo al carrito pero no finalizaron la compra.
+
+Cumplimiento del pedido: Todos los pasos que se realizan desde que un pedido es solicitado hasta que es entregado al/a cliente.
+
+Diseño enfocado en dispositivos móviles: Enfoque de diseño web que tiene como objetivo crear mejores experiencias para sus usuarios/as mediante un diseño específico para dispositivos móviles.
+
+Diseño web responsivo: Sitio web que está diseñado para funcionar en todo tipo de dispositivos, por ejemplo, computadoras, teléfonos móviles y tabletas electrónicas.
+
+Envío directo (dropshipping): Método de entrega en el que los productos se envían desde el proveedor directamente al/a cliente.
+
+Evangelistas de marca: Clientes que son tan apasionados/as por un producto o servicio que lo promocionan con entusiasmo.
+
+Experiencia del usuario: Cómo una persona se siente al interactuar o experimentar un producto.
+
+Interacción del cliente: Las interacciones y la conexión emocional entre un/a cliente y una marca.
+
+Motor de recomendación de productos: Software que utiliza inteligencia artificial para analizar los datos de las/los clientes, aprender qué productos podrían interesarles y mostrárselos.
+
+Personalización: La práctica de ofrecer una experiencia personalizada para cada cliente.
+
+Programa de recompensas: Estrategia de marketing diseñada para fidelizar a sus clientes  al proporcionarles incentivos para que continúen comprando a la marca.
+
+Protocolo seguro de transferencia de hipertexto (Hypertext Transfer Protocol Secure, HTTPS): Método de transferencia de información a través de Internet que protege la integridad y confidencialidad de los datos entre la computadora de una persona y el sitio web.
+
+Remarketing dinámico: Proceso que permite a una empresa mostrar anuncios a visitantes anteriores que contienen productos y servicios que vieron en el sitio de la empresa.
+
+Servicio de abastecimiento: Empresa externa que prepara y envía pedidos desde sus centros de abastecimiento.
+
+Sistema de punto de venta (point-of-sale, POS) de comercio electrónico: Software que permite a una empresa procesar transacciones de pago de clientes en línea.
+
+Términos con sus definiciones de módulos anteriores
+
+A
+Accesibilidad web: Práctica de diseñar y desarrollar un sitio web o aplicación móvil para que las personas con discapacidad puedan usarlo.						
+
+Adquisición de productos: Cómo una empresa adquiere los productos que le vende a sus clientes.			
+
+B					
+Barra de navegación: Grupo de enlaces a otras páginas dentro de un sitio web.	
+
+Beneficio neto: Suma de dinero que queda después de pagar los gastos.
+
+BOPIS: Acrónimo para “buy online, pick up in store” (compra en línea, retira en la tienda).						
+
+C						
+Campaña: Plan de acción sobre cómo se distribuirá en línea un conjunto de uno o más grupos de anuncios que comparten un presupuesto, segmentación por ubicación geográfica y otros ajustes.
+
+Campaña de búsqueda: Anuncios de texto que aparecen en los resultados cuando las personas buscan en Google productos y servicios relacionados.
+
+Campaña de display: Herramienta de Google Ads que permite a las empresas colocar anuncios de imágenes en varios sitios web.
+
+Campaña de shopping: Listados de productos que aparecen en los resultados de búsqueda y en la pestaña Google Shopping.
+
+Campaña de video: Herramienta de Google Ads que permite a las empresas colocar anuncios de video antes, durante o después de los videos de YouTube y en los resultados de búsqueda.
+
+Campaña inteligente: Herramienta automatizada de gestión de campañas dentro de Google Ads que ayuda a promover un negocio.
+
+Campaña inteligente de shopping: Campaña de shopping avanzada que utiliza tecnología para optimizar más ventas y llegar a las/los compradores de Google en los sitios y redes de Google.
+
+Carrito de compras digital: El equivalente virtual de un carrito de compras físico.		
+
+Comercio electrónico multicanal: Productos de una tienda que aparecen listados en varios canales de comercio electrónico.						
+
+Comercio electrónico (e-commerce): Compra y venta de bienes o servicios a través de Internet.	
+
+Competencia: Otros/as vendedores/as que ya existen en el mercado.				
+
+Contenido prohibido: Marcas de contenido que no pueden hacer publicidad en la Red de Google.
+
+Contenido restringido: Contenido que se puede publicitar con ciertas limitaciones.		
+
+Conversión: Realización de una actividad que contribuye al éxito de un negocio.
+
+Costo por adquisición (Cost per acquisition, CPA): Costo promedio de adquirir un/a cliente potencial.
+
+Costo por mil impresiones (Cost per thousand impressions, CPM): Lo que paga un anunciante por cada mil impresiones que recibe un anuncio.
+
+D						
+De código abierto: Software que permite acceder y editar el código fuente original.	
+
+Demanda: La cantidad de personas que están dispuestas y son capaces de comprar determinado producto durante cierto periodo de tiempo.						
+
+Descripción del producto: Texto que proporciona detalles e información sobre un producto en una tienda de comercio electrónico.				
+
+Dominio: La parte central de la URL o dirección de Internet de un sitio web.					
+
+E						
+En temporada alta: Periodo en el que es mucho más probable que las/los clientes compren productos debido a variables climáticas relacionadas o eventos especiales.
+
+Envío directo (dropshipping): Método de entrega en el que los productos se envían desde el proveedor directamente al cliente.						
+
+Estacionalidad: Fluctuación regular y predecible del tráfico de comercio electrónico en torno a días festivos especiales, eventos y clima sobre una base trimestral o anual.
+
+Estrategia de comercio electrónico: Plan de trabajo para promocionar una tienda en línea y aumentar sus ventas.	
+
+G						
+Google Ads: Plataforma de publicidad en línea donde las/los anunciantes pujan por mostrar anuncios breves, ofertas de servicios, listados de productos o videos a los/las usuarios de la web. 
+
+Google Merchant Center: Herramienta que las/los anunciantes utilizan para cargar los datos de sus tiendas y productos en Google y ponerlos a disposición para anuncios de shopping y otros servicios de Google.			
+
+Google Trends: Herramienta gratuita de Google que permite explorar lo que las personas de todo el mundo están buscando en Google.						
+
+I
+Ingresos por clic: Ingresos promedio por cada clic individual en todas las palabras clave y anuncios de pago por clic de una empresa.						
+
+Investigación de mercado: Proceso de recopilar información sobre las necesidades y preferencias de los/las consumidores/as.						
+
+Investigación primaria: Investigación obtenida de primera mano.					
+
+Investigación secundaria: Investigación realizada por terceros
+
+L						
+Ley de Rendimientos Decrecientes: Principio económico que establece que, si aumenta la inversión en un área específica, la tasa de ganancia de esa inversión disminuirá eventualmente si otras variables permanecen constantes.		
+
+Llamada a la acción (Call to action, CTA): Estímulo que busca inducir a las/los clientes qué hacer a continuación.				
+
+M						
+Margen de beneficio neto: Porcentaje de ingresos sobrantes después de pagar los gastos.	
+
+Marketing de marca (Branding): Promover un producto o servicio identificándolo con una marca en particular.		
+
+Metadescripción: Texto que proporciona a los motores de búsqueda un resumen de lo que trata la página.
+
+P						
+Página de contacto: Página web común en los sitios web que proporciona información para que quienes la visitan se comuniquen con la organización o el alojamiento individual del sitio web.	
+
+Página de destino: La primera página que una persona encuentra cuando accede a un sitio web.	
+
+Página de detalles del producto (PDP): Página en un sitio de comercio electrónico que proporciona información sobre un producto específico.						
+
+Página de inicio: Página principal de un sitio web.						
+
+Pie de página: Sección de navegación en la parte inferior de un sitio web.			
+
+Planificador de rendimiento: Herramienta de Google que permite a un anunciante pronosticar el impacto de diferentes escenarios de gasto y eventos durante las próximas temporadas.
+
+Plataforma de comercio electrónico: Aplicación de software que permite a los negocios vender productos o servicios en línea.						
+
+Política de devoluciones: Documento que describe en detalle el proceso y los requisitos para aceptar devoluciones de una empresa.
+
+Política de privacidad: Documento legal que informa algunas o todas las formas en que una empresa recopila, utiliza, divulga y administra los datos de sus clientes.						
+
+Prácticas prohibidas: Cosas que las marcas no pueden hacer si quieren publicitar en Google.
+
+Pronóstico: Proceso de predecir la demanda futura de productos.				
+
+Proveedor de servicios de pago: Forma segura de procesar transacciones en línea.	
+
+Publicidad en línea: Una forma de marketing que utilizan los anunciantes para enviar mensajes promocionales en línea a sus consumidores.
+
+Público objetivo: Grupo de personas con más probabilidades de comprar los productos o servicios de una empresa.		
+
+Puja inteligente: Estrategia de puja automatizada que utiliza el aprendizaje automático para optimizar las conversiones o el valor de conversión en todas las subastas.
+
+Punto de dolor (pain point): Los problemas que las/los clientes quieren resolver.						
+
+Punto de rendimientos decrecientes: Punto en el que los ingresos por publicidad son más elevados.
+
+R										
+Red de Display de Google: Un grupo de sitios web, videos y apps donde pueden aparecer anuncios.
+
+Requisitos editoriales y técnicos: Estándares de calidad establecidos para anuncios, sitios web y aplicaciones.
+
+Retorno de la inversión publicitaria (ROAS): Cantidad de ingresos que se obtienen en relación a cuánto se gastó en publicidad.
+
+S						
+Segmentación geográfica: Agrupación de clientes por su ubicación física.
+
+Sistema de administración de relaciones con clientes (Customer relationship management, CRM): Software que ayuda a una empresa a administrar y monitorear las interacciones con sus clientes y potenciales clientes.	
+
+Sitio web responsivo: Sitio web que está diseñado para funcionar en todo tipo de dispositivos, incluyendo computadoras, teléfonos móviles y tabletas.
+
+Software-as-a-Service (SaaS): Software basado en la web disponible por suscripción.		
+
+T						
+Tamaño del mercado: Cantidad de clientes potenciales dentro de una industria específica.			
+
+Tema: Plantilla de sitio web prefabricada que crea el diseño y la disposición de información de una tienda de comercio electrónico.
+
+Temporada baja: Período en el que las personas tienden a tomarse más tiempo para realizar compras, especialmente si se trata de artículos más costosos.
+
+Términos de servicio: Acuerdos legales entre una empresa y sus clientes.			
+
+Texto alternativo: Breve descripción escrita de una imagen con el propósito principal de ayudar a las personas con discapacidad visual.						
+
+Tienda de comercio electrónico: Tienda que vende sus productos en línea.		
+
+Tiendas en línea (click-and-mortar): Un tipo de tienda minorista que vende en línea y en una tienda física.
+
+Tiendas físicas (brick-and-mortar): Tienda minorista tradicional con una ubicación específica a la que las personas pueden ir a comprar.						
+
+Título de la página web: Elemento que proporciona tanto a las personas como a los motores de búsqueda el tema de una página.
+
+Tono: Cómo se aplica la voz de una marca.						
+
+Tráfico: Número de visitas que recibe un sitio web.						
+
+U
+Unidad de mantenimiento de existencias(SKU): Código único que los minoristas utilizan para identificar un producto.		
+
+V
+Viabilidad del producto: Potencial de venta de un producto específico.
+
+Voz de la marca: Personalidad distintiva que una marca adquiere en sus comunicaciones.	
+
+### Repaso del curso: Consigue la venta: construye, lanza y administra tiendas de comercio electrónico
